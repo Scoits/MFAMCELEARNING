@@ -97,3 +97,13 @@ Toegevoegd op 20 november 2026 na lezing van S044 (dag 2 middag).
 | R40 | MFA-L06-S02, S03 | S045 dia6 noemt de Mariners Medico Guide en dia53 eindigt met een onvolledige uitzondering: de arts schrijft medicatie voor met uitzondering van een niet genoemd geval. Welke gids noemen we, en welke uitzondering is bedoeld? |
 | R41 | MFA-L06-S04, K06-01 | De doseringen en maximale dagdoseringen uit S045 dia55-58 en de tramadolregel zijn niet in de les opgenomen. Moeten MFA-cursisten doseringen kennen, of alleen leren opzoeken en uitvoeren op instructie van de arts? |
 | R42 | MFA-L06-S06, S07, K06-02 | De definities van reinigen, desinfecteren en steriliseren en de stappen voor het reinigen van materiaal zijn een eigen formulering, omdat de verwijzing in S009 naar een andere dia wijst (BC-32). Kloppen de definities, en welk desinfectiemiddel noemen we? |
+
+## Aanvulling bij MFA-L08
+
+Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-01.
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R43 | MFA-L08-S05, BC-04 | MFA-L08 rekent met 45 minuten toetstijd, de ondergrens van de toetsmatrijs. Komen de elf extra minuten van MFA-L07 uit deze reservering, met een kortere toets, of wordt elders ingekort? |
+| R44 | MFA-L08-S05, E01 | Hoe wordt de identiteit van de cursist bij de online toets vastgesteld: alleen via de persoonlijke Moodle-login, of met een aanvullende controle? |
+| R45 | MFA-L08-S02, S04 | Wat neemt de cursist mee naar de praktijkdag naast een identiteitsbewijs, en wordt de zelfinventarisatie in S02 als signaal aan de instructeur doorgegeven of blijft die anoniem? |
