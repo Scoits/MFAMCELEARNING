@@ -17,7 +17,7 @@ DRTC is volgens Martijn erkend en heeft deze ontwikkeling met ILT besproken. Bes
 
 ## Begin met de bestaande projectdocumenten
 
-Lees `README.md`, `docs/ontwerpkader.md`, `docs/status.md`, `sources/README.md` en `sources/register.csv`. Gebruik de starters in `curriculum/` als werkschema, niet als bewijs dat de volledige mapping al is afgerond. Voor Claude staat de overdracht in `CLAUDE.md` en de eerste opdracht in `prompts/claude-start.md`.
+Lees `README.md`, `docs/ontwerpkader.md`, `docs/status.md`, `sources/README.md` en `sources/register.csv`. Gebruik de uitgewerkte matrices in `curriculum/` als ontwerp met traceerbare bronstatus; zij zijn nog geen bewijs van medisch vastgestelde en daadwerkelijk uitgevoerde dekking. Voor Claude staat de overdracht in `CLAUDE.md` en de eerste opdracht in `prompts/claude-start.md`.
 
 ## Bronnen en inhoud
 
@@ -36,3 +36,11 @@ Werk met korte, herkenbare bestandsnamen, stabiele leerdoelcodes en gerichte wij
 De repository is bij aanvang openbaar. Sla originele boeken, presentaties, video's en andere beschermde bronbestanden op de daarvoor bestemde bronlocatie op; verwijs ernaar vanuit het bronregister. Houd echte summatieve vragen, antwoordmodellen en cursistgegevens buiten deze openbare repository. Openbare voorbeelden zijn herkenbaar oefenmateriaal.
 
 Schrijf professioneel, concreet en in helder Nederlands. Gebruik geen decoratieve streepjes of icoontjes. Gebruik tabellen voor vergelijkbare gegevens en gewone alinea's voor uitleg. Meld wat daadwerkelijk is opgeleverd en gecontroleerd, met beperkingen die voor de volgende stap van belang zijn.
+
+## Aanvullingen na projectcontrole
+
+Dit project blijft STCW MFA/MC. Tender-, NOGEPA-, Security Awareness- en GWO-materiaal is geen automatisch toepasselijk curriculum. Hergebruik hoogstens de onderbouwde werkwijze. Stel reeds beantwoorde scope-, taal-, platform- en reviewvragen niet opnieuw.
+
+Lees `docs/projectcontrole-v003.md`, `articulate/stijlgids.md`, `articulate/import-en-bouwroute.md` en `moodle/chainwise-keten.md`. Gebruik vaste scherm-ID's en het schema `templates/schermreview.csv`. Houd reviewmaster en schone Articulate-importinhoud gescheiden. Interne onzekerheden horen niet als cursistentekst in de import.
+
+De eerder bevestigde architectuur is website en ChainWise gekoppeld aan Moodle, met Moodle gehost bij Hetzner. De concrete werking is nog niet gecontroleerd. S035 en S036 voegen eerder aangeleverde uitvoerings- en kwalificatiebronnen toe. De Covid-termijn uit S035 is geen vastgesteld huidig interval. Bouw geen zelfbedachte API's, toetsnormen of medische technieken om open velden te vullen.

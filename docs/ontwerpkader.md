@@ -30,7 +30,7 @@ De volgende bronnen zijn gevonden en vormen de basis voor het project:
 | Lesplan+STCW MFA en Lesplan+STCW MC | Bestaande DRTC-inhoud, dagindeling, werkvormen en materialen | Gelezen; omzetten naar de hybride verdeling |
 | Assessment 2026v1 MFA en MC | Bestaande beoordeling | Gelezen; aanvullen met observeerbare criteria en individueel bewijs |
 | Verwijsoverzicht MFA IL&T en MC IL&T | Vindplaatsen van onderwerpen in presentaties en praktijkmateriaal | Gelezen; vindplaatsen toetsen aan de werkelijke broninhoud |
-| IMO Model Courses 1.14 en 1.15, editie 2000 | Uitwerking van onderwerpen, leerdoelen en onderwijsaanpak | Part A en B gericht beoordeeld; volledige detailmapping volgt |
+| IMO Model Courses 1.14 en 1.15, editie 2000 | Uitwerking van onderwerpen, leerdoelen en onderwijsaanpak | Part A en B en gerichte Part C-passages beoordeeld; actuele matrices en resterende broncontrole in curriculum/ |
 | IaT 4 augustus 2026 | Nederlandse erkennings- en CBT-voorwaarden | Gelezen, inclusief paragraaf 6.3 |
 | Presentaties Nederlands en Engels | Bestaande uitleg en afbeeldingen | Geïnventariseerd; inhoudelijke beoordeling per onderdeel volgt |
 | Boeken, praktijkhandelingen, films en LOTUS-kaarten | Inhoudelijke onderbouwing, demonstratie en scenario's | Geïnventariseerd; selectie, actualiteit en geschiktheid per onderdeel volgen |
@@ -117,3 +117,7 @@ Daarna wordt één representatieve Nederlandse les met kennischeck en praktijkov
 5. [Informatie aan Trainingsinstituten nr. 4](https://puc.overheid.nl/nsi/doc/PUC_826525_14/1/), augustus 2026, met name paragrafen 3.10, 4.2.2 en 6.3. Ook aanwezig in de DRTC-bronmap.
 6. [Moodle SCORM FAQ](https://docs.moodle.org/en/SCORM_FAQ), [Building Quiz](https://docs.moodle.org/en/Building_Quiz) en [Question banks](https://docs.moodle.org/en/Question_bank). Productdocumentatie geraadpleegd 20 november 2026; exacte DRTC-installatie nog te testen.
 7. [Articulate Rise exportmogelijkheden](https://www.articulatesupport.com/article/Rise-360-Export-to-LMS-PDF-and-the-Web). Productdocumentatie geraadpleegd 20 november 2026.
+
+## Actuele aanvullingen
+
+Dit basisdocument wordt verder uitgewerkt in [de projectcontrole v003](projectcontrole-v003.md), de aanvullende voorwaardenmatrix, de stijlgids en de ketenbeschrijving. De Nederlandse master, zelfstandige MFA/MC-routes en medische eindgoedkeuring door Mathanje blijven staan. De technische context omvat tevens website en ChainWise gekoppeld aan Moodle, met Moodle bij Hetzner. De oorspronkelijke bronstatus hierboven moet samen met het actuele bronregister worden gelezen.

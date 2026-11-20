@@ -1,6 +1,6 @@
 # Vervolgopdracht voor Claude
 
-Je werkt aan de hybride STCW Medical First Aid en Medical Care opleidingen van DRTC. Lees `AGENTS.md`, `CLAUDE.md`, `README.md`, `docs/status.md`, `docs/ontwerpbevindingen-v002.md`, `docs/toetsontwerp.md`, `docs/leerroute-en-uren.md`, de matrices en analyses in `curriculum/` en het register in `sources/`.
+Je werkt aan de hybride STCW Medical First Aid en Medical Care opleidingen van DRTC. Lees `AGENTS.md`, `CLAUDE.md`, `README.md`, `docs/status.md`, `docs/ontwerpbevindingen-v002.md`, `docs/projectcontrole-v003.md`, `docs/toetsontwerp.md`, `docs/leerroute-en-uren.md`, de matrices en analyses in `curriculum/` en het register in `sources/`.
 
 De eerste inhoudelijke uitwerking is beschikbaar: 50 MFA-doelen, 68 MC-doelen, 23 CBT- en uitvoeringsvoorwaarden en één Nederlands RMD-lesprototype. Maak deze resultaten niet opnieuw vanaf een algemene prompt. Controleer en verbeter het bestaande ontwerp.
 
@@ -29,3 +29,11 @@ Koppel de leerdoelen aan geïntegreerde praktijkstations en individuele waarnemi
 Gebruik `content/nl/MFA-L07-radiomedisch-advies.md` als eerste lesformat. Controleer de bronkoppelingen en laat de inhoud door Mathanje beoordelen. Maak vervolgens een Articulate-bouwspecificatie en een klein Moodle-testplan. Claim geen gebouwde of geteste cursus zolang dat niet werkelijk is uitgevoerd.
 
 De echte summatieve vragen en antwoordmodellen blijven in de afgeschermde toetsomgeving. Publiceer hier alleen het ontwerp en herkenbaar formatief oefenmateriaal. Update de bronstatus, matrices en `docs/status.md` met daadwerkelijk uitgevoerd werk en concrete vervolgstappen.
+
+## Aanvullende overdracht
+
+Gebruik de stijlgids, het vaste schermschema en de import- en bouwroute in `articulate/` en `templates/`. Het prototype heeft acht reviewrecords in `reviews/MFA-L07-schermreview.csv`; de dekking is uitdrukkelijk gedeeltelijk. Vul GMDSS en daadwerkelijke verwerking van medisch advies onderbouwd aan, met Mathanjes review van de medische toepassing.
+
+Behoud afzonderlijke vaardigheids- en assessment-ID's voor de bestaande MC-technieken. Werk de open scopebesluiten uit zonder modeldetails uit 2000 als actuele protocollen te behandelen. Verifieer de twaalf aanvullende voorwaarden uit S035-S036 naast de 23 IaT-voorwaarden. Beschrijf de theoriecontrole bij praktijkstart, het actuele theorie-praktijkinterval en de concrete rolkwalificaties.
+
+Neem de keten website, ChainWise en Moodle mee in het proefplan; Moodle wordt bij Hetzner gehost. Stel bekende taal-, platform-, module- en reviewerkeuzes niet opnieuw ter discussie. NOGEPA/tender, Security Awareness en GWO zijn geen toepasselijke leerdoelen voor dit STCW-dossier. Werk de medische master eerst reviewbaar uit en maak na vaststelling de schone Articulate-importbestanden en aansluitende promptset.

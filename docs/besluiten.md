@@ -1,6 +1,6 @@
 # Projectbesluiten
 
-Deze besluiten zijn op 20 november 2026 door Martijn bevestigd. Ontwerpvoorstellen staan afzonderlijk, zodat een volgende assistent deze niet als vastgesteld beleid behandelt.
+Deze eerder door Martijn bevestigde besluiten zijn op 20 november 2026 samengebracht. Ontwerpvoorstellen staan afzonderlijk, zodat een volgende assistent deze niet als vastgesteld beleid behandelt.
 
 | ID | Besluit | Status |
 | --- | --- | --- |
@@ -13,6 +13,8 @@ Deze besluiten zijn op 20 november 2026 door Martijn bevestigd. Ontwerpvoorstell
 | B07 | DRTC is erkend en ILT staat open voor de hybride stap; dit is besproken | Door Martijn meegedeelde context |
 | B08 | ChatGPT voor opzet, Claude voor verdere uitwerking en review, Articulate voor bouw | Bevestigde ontwikkelroute |
 | B09 | Repository Scoits/MFAMCELEARNING is de gezamenlijke projectwerkplek | Door Martijn aangewezen |
+| B10 | Moodle wordt bij Hetzner gehost; Hetzner is hier niet de host van ChainWise | Eerder door Martijn bevestigd op 31 oktober 2026; inrichting niet live gecontroleerd |
+| B11 | ChainWise is gekoppeld aan Moodle; de DRTC-website koppelt aan Moodle voor inschrijvingen | Eerder door Martijn bevestigd op 31 oktober 2026; precieze gegevensroute nog te controleren |
 
 ## Ontwerpvoorstellen
 
@@ -21,8 +23,12 @@ Deze besluiten zijn op 20 november 2026 door Martijn bevestigd. Ontwerpvoorstell
 | V01 | Rise voor theorie; Storyline alleen waar een scenario er didactisch baat bij heeft | Definitieve lesvormen na mapping |
 | V02 | Afsluitende kennistoetsen en vragenbanken in Moodle; oefenvragen in Articulate | Definitieve toetsarchitectuur |
 | V03 | SCORM 1.2 als uitgangspunt voor reguliere Moodle-integratie | Bevestigen met versie en proefpakket |
-| V04 | Eerst één Nederlandse voorbeeldles en technisch proefpakket | Selectie onderwerp na bronnenanalyse |
+| V04 | Eerst één Nederlandse voorbeeldles en technisch proefpakket | RMD-prototype is uitgewerkt; medische review en technische proef volgen |
 
 ## Nog uit te werken
 
 Exacte klokuren per activiteit, groepsgrootte en bezetting, cesuur, aantallen vragen, vraagbankomvang, herkansingen, identiteitsprocedure en de instroomovergang van MFA naar MC. Deze punten verhinderen de ontwikkeling van de eerste dekkingsmatrix niet. Een algemene login of positief online resultaat geldt niet zonder verdere uitwerking als volledig identificatie- of competentiebewijs.
+
+## Reikwijdte van aanvullende input
+
+De op 20 november gedeelde Claude-tekst begint vanuit een EHBO-tender en NOGEPA. Die aanname geldt niet voor dit dossier. De bruikbare punten over schermreview, bronnen, stijlgids en import worden overgenomen als werkwijze. De bestaande projectkeuzes blijven leidend. Zie de [projectcontrole](projectcontrole-v003.md).

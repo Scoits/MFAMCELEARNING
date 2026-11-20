@@ -1,0 +1,3 @@
+media_id,screen_ids,omschrijving,vindplaats,maker,gebruiksrecht,alt_tekst,ondertiteling,inhoudelijke_review,productiestatus
+MFA-L07-M01,MFA-L07-S01,Eigen illustratie contactpersoon aan scheepsbureau,Nog te maken,Nog toe te wijzen,Nog vast te leggen,Een bemanningslid ordent informatie voor medisch overleg,Niet van toepassing; stil beeld,Concept; beeld nog niet beoordeeld,gepland; geen asset beschikbaar
+MFA-L07-M02,MFA-L07-S03,Bronlink officiële KNRM-vragenlijst; geen nagebouwd formulier,S031 in sources/register.csv,KNRM,Alleen bronlink gepland; kopiegebruik apart beoordelen,Linklabel: officiële KNRM RMD-vragenlijst v3,Niet van toepassing; documentlink,Bron gelezen; productieversie bij publicatie controleren,bronlink gepland; nog niet gebouwd

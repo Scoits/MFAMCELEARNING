@@ -1,14 +1,14 @@
 # Radiomedisch advies voorbereiden en overdragen
 
-Lesprototype MFA-L07, versie 0.1, 20 november 2026. Nederlandse master in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal en bevat geen summatieve examenvragen. De bouw en technische test in Articulate en Moodle zijn nog niet uitgevoerd.
+Lesprototype MFA-L07, versie 0.2, 20 november 2026. Nederlandse master in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal en bevat geen summatieve examenvragen. De bouw en technische test in Articulate en Moodle zijn nog niet uitgevoerd.
 
 ## Lesdoel en afbakening
 
-Na deze les kan de cursist informatie voor een radiomedische hulpvraag ordenen, feiten van aannames onderscheiden, ontbrekende gegevens herkenbaar laten en ontvangen instructies duidelijk terugkoppelen. De les bereidt de individuele communicatieoefening op locatie voor. Het is geen les in diagnose, behandeling of radiocertificering.
+Na deze les kan de cursist informatie voor een radiomedische hulpvraag ordenen, feiten van aannames onderscheiden, ontbrekende gegevens herkenbaar laten en een ontvangen administratieve oefenafspraak duidelijk terugkoppelen. De les bereidt de individuele communicatieoefening op locatie voor. Het is geen les in diagnose, behandeling of radiocertificering.
 
 | Veld | Uitwerking |
 | --- | --- |
-| Matrixkoppeling | MFA-09, met concrete subdoelen in de MFA-matrix |
+| Matrixkoppeling | MFA-09.01, MFA-09.02 en MFA-09.03; gedeeltelijke dekking zoals hieronder beschreven |
 | STCW | A-VI/4-1, kennisgebied radiomedisch advies; de praktische bewijsvoering en algemene criteria blijven van toepassing |
 | Model course | 1.14, Part C onderwerp 10; exacte subdoelen volgen uit de matrix |
 | Leervorm | Rise met een keuzeoefening; Storyline is voor dit prototype niet noodzakelijk |
@@ -19,7 +19,21 @@ Na deze les kan de cursist informatie voor een radiomedische hulpvraag ordenen, 
 
 De KNRM biedt radiomedisch advies aan schepen en verwijst voor het voorbereiden van een consult naar de officiële vragenlijst en procedure. De huidige vragenlijst bevat onder meer scheepsinformatie, patiëntgegevens en de hulpvraag. Gebruik in productie een gecontroleerde bronlink of actuele kopie met versieregistratie. De opgeslagen DRTC-kopie uit 2010 moet vóór gebruik op actualiteit worden vervangen of gecontroleerd.
 
-## Scherm 1 De situatie aan boord
+## Dekkingsgrens van dit prototype
+
+| Leerdoel | Wat deze les voorbereidt | Wat nog afzonderlijk moet worden uitgewerkt |
+| --- | --- | --- |
+| MFA-09.01 | Functie en officiële vindplaats van RMD; schermen S01-S03 | GMDSS-functie en passende communicatiekeuze zijn nog niet inhoudelijk uitgewerkt |
+| MFA-09.02 | Gegevens ordenen en feiten van aannames onderscheiden; schermen S03-S05 en S07 | Volledige individuele consultvoorbereiding met aanvullende gegevens op locatie |
+| MFA-09.03 | Terugkoppelen en vastleggen van een administratieve oefenafspraak; schermen S06-S08 | Door Mathanje beoordeelde opdracht voor verifiëren en verwerken van daadwerkelijk medisch advies in scenariozorg |
+
+De les levert dus nog geen volledige dekking of competentiebewijs voor MFA-09. De drie formatieve vragen toetsen alleen de genoemde voorbereidende onderdelen. De ontbrekende medische toepassing wordt niet ingevuld met een zelfbedacht protocol.
+
+De schermrecords met reviewvelden staan in [MFA-L07-schermreview.csv](../../reviews/MFA-L07-schermreview.csv). Deze Markdown-master en de CSV zijn versie 0.2; wijzig ze samen. Alle medische reviewvelden staan nog open.
+
+## MFA-L07-S01 De situatie aan boord
+
+Leerdoelen: MFA-09.01; MFA-09.02. Bronplaats: S003 Part C10.1-10.2, gedrukte p16 / PDF22; fictieve DRTC-scène. Media: MFA-L07-M01. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 2 minuten. Leerfunctie: de cursist krijgt een concrete communicatietaak.
 
@@ -35,9 +49,11 @@ Gebruik een eigen illustratie van een contactpersoon aan een scheepsbureau, zond
 
 **Voice-over**
 
-Optioneel: dezelfde cursistentekst, zonder extra medische informatie.
+Niet van toepassing in deze prototypeversie; er is nog geen voice-over geselecteerd of opgenomen.
 
-## Scherm 2 Eerst de passende contactprocedure
+## MFA-L07-S02 Eerst de passende contactprocedure
+
+Leerdoelen: MFA-09.01. Bronplaats: S032 gedruktep7, Communicatie met de artsen; medische urgentieformulering te beoordelen. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: voorbereiding mag urgente hulp niet vertragen.
 
@@ -49,13 +65,24 @@ In deze les oefen je het voorbereiden en overdragen van informatie. De actuele c
 
 **Interactie**
 
-Toon twee kaarten: Hulp inschakelen en Gegevens voorbereiden. De cursist plaatst de beschrijving urgente hulpvraag onder de eerste kaart en informatie ordenen onder de tweede. Feedback legt uit dat voorbereiding een hulpmiddel is en geen verplichte wachtrij vóór hulp.
+Oefening I07-01. Cursistentekst: Plaats ieder label bij de passende kaart: Hulp inschakelen of Gegevens voorbereiden.
+
+| Item-ID | Zichtbaar label | Juiste kaart-ID en zichtbare titel |
+| --- | --- | --- |
+| I07-01-A | Urgente hulpvraag | I07-01-T1: Hulp inschakelen |
+| I07-01-B | Informatie ordenen | I07-01-T2: Gegevens voorbereiden |
+
+Feedback bij juiste plaatsing: Hulp inschakelen hoort bij de urgente hulpvraag. Informatie ordenen hoort bij gegevens voorbereiden. Voorbereiding is een hulpmiddel en geen verplichte wachtrij vóór hulp.
+
+Feedback bij onjuiste plaatsing: Bekijk welke kaart over hulp inschakelen gaat en welke over informatie ordenen. Het volledig invullen van een formulier is geen reden om urgente hulp uit te stellen.
 
 **Bron**
 
 S032, onderdeel Communicatie met de artsen en levensbedreigende situatie, gedrukte pagina 7. Controleer contactgegevens vóór productie. Deze les schrijft geen zelfstandig radioprotocol of keuze van behandelurgentie voor.
 
-## Scherm 3 Werk met de officiële vragenlijst
+## MFA-L07-S03 Werk met de officiële vragenlijst
+
+Leerdoelen: MFA-09.01; MFA-09.02. Bronplaats: S031 p1-4; S030 standaardvragenlijst. Media: MFA-L07-M02. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 4 minuten. Leerfunctie: de juiste informatiebron herkennen en gebruiken.
 
@@ -65,7 +92,15 @@ Open de officiële KNRM-vragenlijst. Zoek waar je informatie over het schip, de 
 
 **Opdracht en bouw**
 
-Laat de cursist in drie eigen abstracte labels aangeven waar scheepsinformatie, patiëntinformatie en de inhoud van de hulpvraag thuishoren. Gebruik geen nagebouwde volledige KNRM-vragenlijst als interactie. Bied het originele formulier als bron aan, met versiecontrole bij publicatie.
+Open zelfcontrole I07-02. Cursistentekst: Open de officiële vragenlijst. Noteer voor ieder van de drie labels de bijbehorende rubriek of pagina: scheepsinformatie, patiëntinformatie en inhoud van de hulpvraag. Vergelijk jouw indeling daarna met de officiële bron.
+
+| Item-ID | Zichtbaar label |
+| --- | --- |
+| I07-02-A | Scheepsinformatie |
+| I07-02-B | Patiëntinformatie |
+| I07-02-C | Inhoud van de hulpvraag |
+
+Knop I07-02-CHECK met zichtbare tekst Bekijk zelfcontrole opent de onderstaande feedback. Deze open oefening geeft geen automatische goed/foutscore of consultbekwaamheidsbesluit. Laat de cursist zelf de vindplaats met S031 vergelijken. Gebruik geen nagebouwde volledige KNRM-vragenlijst. Een eventueel oefentekstveld wordt pas als bewijs gebruikt wanneer de opslagroute daadwerkelijk is getest.
 
 **Feedback**
 
@@ -75,7 +110,9 @@ Het formulier helpt gegevens terugvindbaar te ordenen. In een echte hulpvraag zi
 
 S031, pagina 1 tot en met 4; S030, onderdeel over het gebruik van de standaardvragenlijst. De indeling van de oude S021-kopie wijkt af van de actuele bron.
 
-## Scherm 4 Feiten en ontbrekende informatie
+## MFA-L07-S04 Feiten en ontbrekende informatie
+
+Leerdoelen: MFA-09.02. Bronplaats: S003 Part C10.2, gedrukte p16 / PDF22; S031 p1-4 voor gegevensvelden; fictieve oefendata en DRTC-communicatiekeuzes. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 4 minuten. Leerfunctie: betrouwbare informatie overdragen.
 
@@ -96,17 +133,19 @@ Begroting 4 minuten. Leerfunctie: betrouwbare informatie overdragen.
 
 Je weet de ademfrequentie niet. Wat noteer je?
 
-| Keuze | Formatieve feedback |
-| --- | --- |
-| Ik vul een gebruikelijke waarde in zodat het formulier compleet lijkt | Onjuist. Daarmee presenteer je een aanname als gemeten feit. |
-| Ik noteer dat de waarde nog niet bekend is en laat ontbrekende informatie gericht aanvullen | Juist voor deze communicatieoefening. Maak zichtbaar wat bekend en nog onbekend is; laat noodzakelijke hulp niet wachten op een volledig formulier. |
-| Ik laat het vak zonder toelichting leeg | Onvoldoende duidelijk. De ontvanger kan niet zien of het gegeven ontbreekt of is vergeten. |
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K07-01-A | Ik vul een gebruikelijke waarde in zodat het formulier compleet lijkt | Onjuist. Daarmee presenteer je een aanname als gemeten feit. |
+| K07-01-B | Ik noteer dat de waarde nog niet bekend is en laat ontbrekende informatie gericht aanvullen | Juist voor deze communicatieoefening. Maak zichtbaar wat bekend en nog onbekend is; laat noodzakelijke hulp niet wachten op een volledig formulier. |
+| K07-01-C | Ik laat het vak zonder toelichting leeg | Onvoldoende duidelijk. De ontvanger kan niet zien of het gegeven ontbreekt of is vergeten. |
 
 **Onderbouwing**
 
 Dit is een DRTC-oefenkeuze gericht op volledige en betrouwbare overdracht. De medische context en feedback worden door Mathanje beoordeeld. Er worden geen normale meetwaarden of behandelingen onderwezen.
 
-## Scherm 5 Orden de melding
+## MFA-L07-S05 Orden de melding
+
+Leerdoelen: MFA-09.02. Bronplaats: S003 Part C10.2, gedrukte p16 / PDF22; S031 p1-4; nieuwe DRTC-oefenrespons. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: een gesprekspartner kan begrijpen wat er is gebeurd.
 
@@ -122,9 +161,18 @@ Dit voorbeeld is bewust onvolledig als echte hulpaanvraag en wordt alleen beoord
 
 **Kennischeck K07-02**
 
-Welke formulering past bij de gegeven informatie: de opvarende heeft zeker een botbreuk, of de opvarende meldt pijn na het stoten van de hand? De tweede formulering geeft de beschikbare feiten weer; de eerste voegt een niet-bevestigde diagnose toe. Dit is feedback op communicatie, geen diagnose-instructie.
+Welke formulering past bij de gegeven informatie?
 
-## Scherm 6 Begrip controleren
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K07-02-A | De opvarende heeft zeker een botbreuk | Onjuist. Je voegt een niet-bevestigde diagnose toe aan de beschikbare feiten. |
+| K07-02-B | De opvarende meldt pijn na het stoten van de hand | Juist voor deze communicatieoefening. Dit geeft de beschikbare feiten weer. |
+
+Leerdoel MFA-09.02. De antwoordlogica betreft communicatie, geen diagnose-instructie. Bronplaats: S003 Part C10.2; de respons en feedback zijn DRTC-ontwerp, medische review nodig.
+
+## MFA-L07-S06 Begrip controleren
+
+Leerdoelen: MFA-09.03. Bronplaats: S003 Part C10.3, gedrukte p16 / PDF22; alleen voorbereidende DRTC-communicatieoefening. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: onduidelijke informatie niet als bevestigd behandelen.
 
@@ -134,13 +182,22 @@ Een gesprek is pas bruikbaar als de betrokkenen hetzelfde begrijpen. Vat belangr
 
 **Oefeninteractie**
 
-De instructeur zegt in een fictief, niet-medisch bericht: geef de volgende statusupdate om 16.10 UTC. De cursist kiest tussen stilzwijgend aannemen dat dit lokale tijd is, of de genoemde UTC-tijd expliciet terugmelden. De tweede optie toont in deze oefening dat de afspraak is begrepen.
+Keuzeoefening I07-03. Cursistentekst: Je ontvangt dit fictieve bericht: Geef de volgende statusupdate om 16.10 UTC. Welke reactie maakt duidelijk dat je de tijdafspraak controleert?
+
+| Antwoord-ID | Zichtbare keuze | Feedback |
+| --- | --- | --- |
+| I07-03-A | Ik neem zonder terugkoppeling aan dat lokale tijd wordt bedoeld | Stilzwijgend aannemen dat UTC lokale tijd is toont geen gecontroleerd begrip van de afspraak. |
+| I07-03-B | Ik antwoord: De volgende statusupdate is om 16.10 UTC, klopt dat? | De genoemde UTC-tijd expliciet terugmelden toont in deze oefening dat de afspraak is begrepen. |
+
+Alleen I07-03-B is correct voor deze administratieve communicatieoefening. Dit is geen vraag over een medische behandeling.
 
 **Onderbouwing en review**
 
 Dit is een DRTC-communicatieoefening, passend bij de overdrachtsdoelen uit S005 en S009. De exacte instructeursrubric is een ontwerpvoorstel. Neem geen onbevestigde medische aanwijzing als oefentekst op.
 
-## Scherm 7 Leg het verloop vast
+## MFA-L07-S07 Leg het verloop vast
+
+Leerdoelen: MFA-09.02; MFA-09.03. Bronplaats: S003 Part C10.2-10.3, gedrukte p16 / PDF22; registratievoorstel DRTC. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: informatie is later herleidbaar.
 
@@ -150,11 +207,20 @@ Maak een korte oefennotitie met het moment van contact, beschikbare gegevens, on
 
 **Kennischeck K07-03**
 
-Je ontvangt na het gesprek een aanvullende waarneming. De cursist kiest tussen de oorspronkelijke notitie overschrijven of een tijdgebonden aanvulling maken. De oefenfeedback ondersteunt de tweede keuze omdat het verloop dan zichtbaar blijft. DRTC stelt de definitieve registratiewerkwijze vast.
+Je ontvangt na het gesprek een aanvullende waarneming. Hoe houd je het verloop zichtbaar?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K07-03-A | Ik overschrijf de oorspronkelijke notitie zonder het nieuwe tijdstip | Onjuist voor deze oefening. Het verschil tussen de eerdere informatie en de aanvulling wordt onduidelijk. |
+| K07-03-B | Ik voeg de waarneming met het bijbehorende tijdstip toe | Juist voor deze oefening. Zo blijft het verloop zichtbaar. |
+
+Leerdoel MFA-09.03, uitsluitend het voorbereidende registratiedeel. Bronplaats: S003 Part C10.3; deze concrete registratiewerkwijze is een DRTC-voorstel en wordt nog vastgesteld.
 
 Gebruik uitsluitend de fictieve oefenkaart. Er worden in dit prototype geen echte persoonsgegevens gevraagd of bewaard.
 
-## Scherm 8 Naar de praktijkdag
+## MFA-L07-S08 Naar de praktijkdag
+
+Leerdoelen: MFA-09.02; MFA-09.03. Bronplaats: S003 Part C10.2-10.3, gedrukte p16 / PDF22; individuele DRTC-observatiecriteria als voorstel. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: de online les voorbereiden op individueel bewijs.
 
@@ -176,7 +242,7 @@ Dit zijn DRTC-ontwerpcriteria, nog geen vastgestelde cesuur of definitief prakti
 
 ## Bouw en test
 
-Gebruik acht herkenbare Rise-secties. De drie kennischecks zijn oefenvragen met directe uitleg en tellen niet als volledig cursus-examen. Leg in de technische proef vast welke voortgang of antwoorden Moodle daadwerkelijk ontvangt. Een lokaal tekstvak in een Articulate-les geldt niet automatisch als opgeslagen bewijs in Moodle.
+Gebruik acht herkenbare Rise-secties. De drie kennischecks zijn oefenvragen met directe uitleg en tellen niet als volledig cursus-examen. Leg in de technische proef vast welke voortgang of antwoorden Moodle daadwerkelijk ontvangt. Een lokaal tekstvak in een Articulate-les geldt niet automatisch als opgeslagen bewijs in Moodle. K07-01 is gekoppeld aan MFA-09.02; K07-02 aan MFA-09.02; K07-03 alleen aan het voorbereidende registratiedeel van MFA-09.03. Gebruik de vaste antwoord-ID's en feedback uit deze master.
 
 Plaats officiële externe bronnen achter een duidelijk bronlabel met controledatum. Gebruik voor de uiteindelijke productie een vastgelegde bronversie. Toets of de inhoud en het formulier op het afgesproken apparaat bruikbaar zijn. Alt-teksten en eventuele ondertiteling worden bij de concrete media uitgewerkt.
 

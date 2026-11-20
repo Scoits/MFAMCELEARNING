@@ -37,3 +37,7 @@ Gebruik testaccounts en fictieve gegevens voor de proef. Bewaar echte cursistgeg
 ## Technische bronnen
 
 [Moodle SCORM FAQ](https://docs.moodle.org/en/SCORM_FAQ), [Moodle Building Quiz](https://docs.moodle.org/en/Building_Quiz) en [Moodle Question banks](https://docs.moodle.org/en/Question_bank). Deze productdocumentatie vervangt geen test op de concrete DRTC-installatie.
+
+## Bestaande keten en acceptatie
+
+Volgens Martijn is ChainWise gekoppeld aan Moodle en koppelt de DRTC-website aan Moodle voor inschrijvingen. Hetzner host Moodle. Deze gebruikersbevestigde architectuur is opgenomen in [website, ChainWise en Moodle](chainwise-keten.md), met voorgestelde gegevensverantwoordelijkheid en acht acceptatieproeven. API's, authenticatie, velden en actuele synchronisatie zijn nog niet geïnspecteerd. Er wordt geen nieuwe koppeling uitgerold op basis van deze ontwerptekst.

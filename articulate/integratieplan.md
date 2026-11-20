@@ -97,3 +97,7 @@ Geraadpleegd 20 november 2026. Deze documentatie beschrijft productmogelijkheden
 3. [Articulate een Storyline-blok verplicht afronden](https://www.articulatesupport.com/article/Rise-How-to-Require-Learners-to-Complete-a-Storyline-Block).
 4. [Articulate quizgegevens naar het LMS](https://www.articulatesupport.com/article/Rise-Quiz-Data-Sent-to-an-LMS).
 5. [Moodle SCORM FAQ](https://docs.moodle.org/en/SCORM_FAQ).
+
+## Aansluiting op de bredere projectcontrole
+
+Gebruik [de import- en bouwroute](import-en-bouwroute.md) en [de stijlgids](stijlgids.md) voor het vaste schermformat en de scheiding tussen review en cursistentekst. De keten eindigt niet bij een Moodle-score: [website, ChainWise en Moodle](../moodle/chainwise-keten.md) beschrijft de afzonderlijke theorie-, praktijk- en certificeringsbesluiten. Deze aanvulling verandert de hierboven beschreven trackingbeperkingen niet.

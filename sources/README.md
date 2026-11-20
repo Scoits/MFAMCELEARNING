@@ -29,3 +29,11 @@ IaT 4 paragraaf 6.3 bevat CBT-voorwaarden. Bij de eerste beoordeling is bevestig
 ## Lokale werkkopieën
 
 `sources/local/` is uitgesloten van git en kan in een geautoriseerde lokale werkomgeving bronbestanden bevatten. Een lokale kopie maakt een bestand niet automatisch beschikbaar in Claude of Moodle. Houd originele gelicentieerde bronnen, grote media en echte examenvragen buiten deze openbare repository.
+
+## Teruggevonden eerdere projectbronnen
+
+S035 en S036 zijn de al eerder aangeleverde e-learningrichtlijn en kwalificatierichtlijn. Ze zijn bij de brede projectcontrole volledig gelezen en toegevoegd aan het register. Hun beheerde vindplaats moet nog worden vastgelegd; de inhoud hoeft niet opnieuw te worden aangeleverd om deze ontwerpcontrole te doen.
+
+S035 heeft versieaanduiding1.1 met footer 25-01-18 en bevat tegelijk een Covid-uitzondering voor de tussenperiode. Leg toepasselijkheid en actueel interval vast; neem drie maanden niet automatisch over. S036 is versie 1.0, augustus 2026, en vraagt rolgebonden vakinhoud, didactiek, assessorbekwaamheid en KMS-borging. Hun twaalf aanvullende controlepunten staan afzonderlijk in `curriculum/aanvullende-voorwaarden.csv`.
+
+S037 en S038 zijn het eerdere ontwikkelplan en SA-promptdocument. Ze ondersteunen het werkproces, waaronder reviewmaster tegenover schone importinhoud. De SA-leerdoelen, oude toetsgetallen en tender- of NOGEPA-inhoud zijn geen medische normbron voor MFA/MC. De bronregisterregels bevatten geen openbare kopieën van deze oorspronkelijke bestanden.

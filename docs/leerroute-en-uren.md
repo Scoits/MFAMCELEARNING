@@ -6,8 +6,8 @@ Versie 0.2, 20 november 2026. Dit is een ontwerpvoorstel op basis van de vastges
 
 | Route | Voorbereiding | Online | Op locatie | Afronding |
 | --- | --- | --- | --- | --- |
-| MFA zelfstandig | Controle toepasselijke instroomvoorwaarden | MFA-lessen met kennischecks en afsluitende kennistoets | Oefenen en individueel beoordelen | Afzonderlijke MFA-beslissing en certificaat na alle vereiste onderdelen |
-| MC zelfstandig | Aantoonbare medische kennis op MFA-niveau vaststellen | MC-lessen met kennischecks en afsluitende kennistoets | Twee dagen oefenen, zorgscenario's en individueel beoordelen | Afzonderlijke MC-beslissing en certificaat na alle vereiste onderdelen |
+| MFA zelfstandig | Controle toepasselijke instroomvoorwaarden | MFA-lessen met kennischecks en afsluitende kennistoets | Verificatie bij praktijkstart, oefenen en individueel beoordelen | Afzonderlijke MFA-beslissing en certificaat na alle vereiste onderdelen |
+| MC zelfstandig | Aantoonbare medische kennis op MFA-niveau vaststellen | MC-lessen met kennischecks en afsluitende kennistoets | Verificatie bij praktijkstart, twee dagen oefenen, zorgscenario's en individueel beoordelen | Afzonderlijke MC-beslissing en certificaat na alle vereiste onderdelen |
 | MFA en MC gecombineerd | Instroom en voorlopige deelnameplanning voor beide opleidingen | Twee afzonderlijke online onderdelen | Eerst MFA, daarna MC; expliciete overgang | Afzonderlijke resultaten en certificaten per erkende opleiding |
 
 IaT 4 paragraaf 4.1.1 vraagt bij MC aantoonbare medische kennis behorend bij MFA; een MFA-certificaat is daar niet verplicht gesteld. Een los MC-traject hoeft dus niet automatisch te eisen dat iedereen eerst opnieuw een MFA-cursus volgt. DRTC legt vast hoe de vereiste kennis wordt aangetoond. Een instroomcontrole is niet hetzelfde als automatisch vrijstellen van MC-leerdoelen.
@@ -74,3 +74,7 @@ In de pilot meten we de daadwerkelijke leertijd per module, waar cursisten vastl
 ## Bronnen en status
 
 Bronnen: S002 IaT 4, S003 en S004 model courses, S005 en S006 bestaande DRTC-lesplannen. Voor ieder inhoudelijk leerdoel zijn de matrices in `curriculum/` leidend. Deze urenbegroting wordt na de detailanalyse en pilot aangepast. Mathanjes medische inhoudelijke goedkeuring staat los van de technische en organisatorische onderbouwing.
+
+## Praktijkstart en tijdsinterval
+
+De startcontrole uit S035 krijgt een herkenbaar moment en een vastlegging in de praktijkplanning. Zij is gerichte verificatie van de theorievoorbereiding en wordt begroot naast oefenen en beoordelen. Het Covid-interval in die oudere richtlijn wordt niet als actuele algemene termijn gebruikt. De toepasselijke termijn tussen online afronding en locatiedeel blijft een onderbouwd uitvoeringspunt. Zie [aanvullende voorwaarden](../curriculum/aanvullende-voorwaarden.csv).

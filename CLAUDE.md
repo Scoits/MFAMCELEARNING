@@ -68,3 +68,11 @@ Mathanje beoordeelt de medische inhoud, scenario's, correcte antwoorden, feedbac
 Maak compacte, samenhangende dossiers. Werk per afgerond onderwerp met gerichte wijzigingen en een duidelijk beschreven resultaat. Bewaar bestaande leerdoelcodes en verwijzingen; leg noodzakelijke wijzigingen uit. Werk `docs/status.md` bij zodat een volgende medewerker of AI direct verder kan.
 
 Schrijf helder Nederlands zonder icoontjes of decoratieve streepjes. Leg echte onzekerheden vast, maar voorkom algemene waarschuwingen en nieuwe blokkades voor zelfstandig uit te voeren ontwerpwerk.
+
+## Aanvullingen uit de projectcontrole
+
+Lees ook `docs/projectcontrole-v003.md`, `curriculum/aanvullende-voorwaarden.csv`, `curriculum/mc-vaardigheidsregister.csv`, `articulate/stijlgids.md`, `articulate/import-en-bouwroute.md` en `moodle/chainwise-keten.md`. De eerdere NSI/ILT-documenten zijn teruggevonden en als S035-S036 geregistreerd; hun uitvoering is nog niet aangetoond. De Covid-termijn is geen actuele vastgestelde toegangseis.
+
+De vaste scherm-ID's van MFA-L07 staan in de master en in `reviews/MFA-L07-schermreview.csv`. Behoud de drie bestaande vraag-ID's en de antwoord-ID's. Vul GMDSS en de verwerking van bevestigd medisch advies in scenariozorg gericht aan; claim geen volledige RMD-dekking op basis van alleen dit prototype.
+
+De toegevoegde Claude-tekst over een tender en NOGEPA betreft een ander kader. Neem de bruikbare reviewstructuur over en stel de al beantwoorde vragen niet opnieuw. Website, ChainWise en Moodle horen wel bij deze technische keten; Hetzner host Moodle. De exacte koppeling is nog niet live gecontroleerd. Controleer de bestaande inrichting voordat je endpoints of statusvelden voorstelt.

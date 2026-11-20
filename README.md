@@ -14,7 +14,7 @@ De Nederlandse masterversie is leidend. De Engelse vertaling volgt na inhoudelij
 
 ## Begin hier
 
-Lees [de actuele projectstatus](docs/status.md), [het ontwerpkader](docs/ontwerpkader.md) en [het bronregister](sources/README.md). Voor Claude staan de werkinstructies in [CLAUDE.md](CLAUDE.md) en de startopdracht in [prompts/claude-start.md](prompts/claude-start.md). [AGENTS.md](AGENTS.md) bevat de algemene projectinstructies voor AI-assistenten.
+Lees [de brede projectcontrole](docs/projectcontrole-v003.md), [de actuele projectstatus](docs/status.md), [het ontwerpkader](docs/ontwerpkader.md) en [het bronregister](sources/README.md). Voor Claude staan de werkinstructies in [CLAUDE.md](CLAUDE.md) en de startopdracht in [prompts/claude-start.md](prompts/claude-start.md). [AGENTS.md](AGENTS.md) bevat de algemene projectinstructies voor AI-assistenten.
 
 ## Projectinhoud
 
@@ -25,7 +25,7 @@ Lees [de actuele projectstatus](docs/status.md), [het ontwerpkader](docs/ontwerp
 | `curriculum/` | Module-indeling en voorlopige dekkingsmatrices |
 | `content/nl/` | Nederlandse lesuitwerking |
 | `content/en/` | Vertalingen met koppeling naar Nederlandse versie |
-| `templates/` | Lesstoryboard, vraagrecord en praktijkassessment |
+| `templates/` | Lesstoryboard, vast schermschema, vraagrecord en praktijkassessment |
 | `prompts/` | Overdraagbare opdrachten voor Claude |
 | `reviews/` | Inhoudelijke controle en goedkeuringsregistratie |
 | `articulate/` | Bouwafspraken voor Rise en Storyline |
@@ -33,13 +33,15 @@ Lees [de actuele projectstatus](docs/status.md), [het ontwerpkader](docs/ontwerp
 
 ## Huidige fase
 
-De eerste inhoudelijke uitwerking is beschikbaar: 50 MFA-leerdoelen, 68 MC-leerdoelen, 23 CBT- en uitvoeringsvoorwaarden, een toetsontwerp, een voorlopige urenbegroting en één Nederlands lesprototype over radiomedisch advies. Zie [de bevindingen van versie 0.2](docs/ontwerpbevindingen-v002.md). De matrices zijn brongekoppelde ontwerpen; de onderliggende lesbronnen en medische actualiteit vragen nog gerichte controle. Er zijn nog geen medisch vrijgegeven lessen, definitieve examens of gebouwde SCORM-pakketten.
+De inhoudelijke ontwerpversie 0.3 bevat 50 MFA-leerdoelen, 68 MC-leerdoelen, 23 IaT/CBT-voorwaarden, twaalf aanvullende controlepunten uit eerdere ILT-documenten, een toetsontwerp en urenramingen. Het eerste Nederlandse RMD-prototype heeft acht schermen en drie formatieve vragen. De [ingevulde schermreview](reviews/MFA-L07-schermreview.csv), [stijlgids](articulate/stijlgids.md) en [import- en bouwroute](articulate/import-en-bouwroute.md) maken de overdracht naar Mathanje en Articulate concreet.
 
-De volgende stap is gerichte controle van de bestaande dia's en praktijkinstructies, beoordeling van de inhoudelijke hiaten en het lesprototype door Mathanje, en een stationsplan voor individueel praktijkbewijs. Het prototype kan vervolgens als klein proefpakket in Moodle worden gebouwd en getest. Open taken staan bij [Issues](https://github.com/Scoits/MFAMCELEARNING/issues) en in [de ontwikkelvolgorde](docs/roadmap.md).
+De [brede projectcontrole](docs/projectcontrole-v003.md) beschrijft de aangebrachte correcties en open punten. De eerdere [keten website, ChainWise en Moodle](moodle/chainwise-keten.md) is teruggezet, inclusief Moodle-hosting bij Hetzner en acht beschreven acceptatieproeven. De volledige lesproductie, medische vrijgave en technische proef zijn nog niet uitgevoerd. Het RMD-prototype dekt zijn gekoppelde doelen gedeeltelijk.
+
+De volgende stap is gerichte controle van de bestaande dia's en praktijkinstructies, medische beoordeling van hiaten en vaardigheidsscope, en een stationsplan voor individueel praktijkbewijs. Daarna volgt het gecontroleerde proefpakket. Zie [Issues](https://github.com/Scoits/MFAMCELEARNING/issues) en [de ontwikkelvolgorde](docs/roadmap.md).
 
 ## Gebruik met Claude
 
-Open of koppel deze repository in je Claude-omgeving en gebruik de opdracht uit `prompts/claude-start.md`. Claude Code kan `CLAUDE.md` als projectinstructie lezen. In andere Claude-omgevingen moet je de bestanden expliciet beschikbaar maken. Een GitHub-link geeft een AI-assistent niet vanzelf toegang tot de repository of SharePoint.
+Open of koppel deze repository in je Claude-omgeving en gebruik de opdracht uit `prompts/claude-start.md`. Claude Code kan `CLAUDE.md` als projectinstructie lezen. In andere Claude-omgevingen moet je de bestanden expliciet beschikbaar maken. Een GitHub-link geeft een AI-assistent niet vanzelf toegang tot de repository of SharePoint. Gebruik voor deze uitwerking de branch `ontwerp/dekking-v002` zolang [pull request 6](https://github.com/Scoits/MFAMCELEARNING/pull/6) niet is samengevoegd; de actuele inhoud kan afwijken van `main`.
 
 Bronbestanden staan in de [centrale SharePoint-map](https://drtconline.sharepoint.com/sites/DRTC-F-Cursus/Shared%20Documents/General/MFA%20MC%20E-Learner). Het register bevat vindplaatsen, geen openbare kopieën van boeken of films. Als een assistent een bron niet kan openen, blijft die bron zichtbaar als nog te beoordelen en wordt de inhoud niet ingevuld op basis van een titel of samenvatting.
 

@@ -1,17 +1,18 @@
 # Voorstel voor toetsing en beoordeling
 
-Versie 0.1 | 20 november 2026 | Ontwerp voor inhoudelijke beoordeling door DRTC en Mathanje
+Versie 0.2 | 20 november 2026 | Ontwerp voor inhoudelijke beoordeling door DRTC en Mathanje
 
 MFA en MC krijgen ieder een eigen theorieafronding en individuele praktijkbeoordeling. De combinatie gebruikt dezelfde eisen en legt de overgang tussen beide opleidingen zichtbaar vast. Mathanje beoordeelt de medische inhoud, antwoorden, feedback en praktijkcriteria. Er zijn nog geen nieuwe toetsen of criteria medisch vrijgegeven.
 
 Dit ontwerp werkt de bevestigde cursusvorm uit: één online studiedag en één dag op locatie voor MFA, één online studiedag en twee dagen op locatie voor MC. Moodle als beheerplek voor de afsluitende kennistoetsen blijft een ontwerpvoorstel. Er zijn nog geen cesuur, toetstijd, aantallen vragen of herkansingslimieten vastgesteld.
 
-## Drie soorten bewijs
+## Bewijs tijdens leren, theorieafronding en praktijk
 
 | Onderdeel | Functie | Voorgestelde uitvoering | Vast te leggen bewijs |
 | --- | --- | --- | --- |
 | Kennischecks tijdens het leren | Begrip controleren en misvattingen herstellen | Interactieve vragen of individuele beslisopdrachten na ieder onderwerp in Articulate; uitleg en gerichte terugverwijzing | Les- en vraagversie, afronding van het onderdeel en relevante leerpunten voor begeleiding |
 | Afsluitende kennistoets per cursus | Nagaan of de vereiste theoretische kennis en beslissingen zijn verworven | Bij voorkeur Moodle Quiz met trekking volgens een vastgestelde toetsmatrijs | Identiteit volgens procedure, poging, vraagversies, getrokken vragen, antwoorden, resultaat en toegepaste normversie |
+| Verificatie bij praktijkstart | Controleren of de deelnemer de theoretische voorbereiding beheerst en begeleiding bepalen | Herleidbare individuele startcontrole volgens vastgelegde procedure; bijvoorbeeld korte gerichte vragen en een casus | Cursist, controleur, datum, bevinding, eventuele afwijking en vervolgactie |
 | Individueel praktijkassessment | Aantonen dat de cursist in de praktijk passend kan handelen | Vaardigheidsstations en scenario's met individuele observatie op locatie | Assessmentversie, cursist, assessor, datum, waargenomen gedrag, interventies en beslissing per criterium |
 
 Een online kennistoets vervangt geen bewijs van beheerste fysieke uitvoering. Groepsscenario's leveren alleen individueel bewijs op wanneer de relevante handelingen en beslissingen per cursist daadwerkelijk zijn geobserveerd. De assessor legt ontbrekend bewijs vast en organiseert waar nodig een aanvullende individuele opdracht.
@@ -83,3 +84,11 @@ De technische proef gebruikt fictieve cursisten en controleert minimaal trekking
 S001: STCW Code, tabellen A-VI/4-1 en A-VI/4-2 en relevante bepalingen over training en beoordeling. Gebruik de toepasselijke versie bij de uiteindelijke normcontrole.
 
 S002: [Informatie aan Trainingsinstituten nr. 4, augustus 2026](https://puc.overheid.nl/nsi/doc/PUC_826525_14/1/). Relevante PDF-pagina's: 7 voor 3.9.1.5 en 3.10; 8 en 9 voor 4.1.1; 12 voor 4.1.7 en 4.2.2; 12 en 13 voor combineren; 20 voor 6.3. De [CBT-matrix](../curriculum/iat-cbt-matrix.csv) vertaalt deze eisen naar ontwerpmaatregelen en bewijsstukken. De status daarvan is ontwerp, niet gerealiseerde inrichting of erkenning.
+
+## Eerder aangeleverde e-learning- en kwalificatievoorwaarden
+
+S035 benoemt toetsing na het theoriedeel en controle bij het begin van de praktijk. Het ontwerp maakt beide momenten zichtbaar. De startcontrole is niet automatisch een tweede volledig formeel examen; DRTC stelt de vorm en gevolgen vast. De richtlijn bevat een Covid-verwijzing naar maximaal drie maanden en zegt dat die termijn kan veranderen. Door de context en versieaanduiding mag dit niet als huidige algemene termijn worden vastgezet. Leg het actuele toepasselijke interval onderbouwd vast.
+
+S036 beschrijft vakinhoudelijke en didactische kwalificaties, assessorbekwaamheid en borging via het KMS. Leg per feitelijke rol vast welk bewijs nodig is, hoe wordt ingewerkt en hoe evaluatie plaatsvindt. Neem aanvullende simulatorvereisten alleen over waar de concrete trainingsvorm daaronder valt. De medische inhoudelijke goedkeuring van een les is geen vervanging van die rolborging.
+
+De [aanvullende voorwaardenmatrix](../curriculum/aanvullende-voorwaarden.csv) bevat twaalf controlepunten naast de bestaande IaT-matrix. De [ketenbeschrijving](../moodle/chainwise-keten.md) onderscheidt Moodle-theorie, individueel praktijkbewijs, formele afronding en terugkoppeling naar ChainWise. Deze maatregelen zijn ontworpen; er is nog geen uitvoeringstest of dossiercontrole gedaan.
