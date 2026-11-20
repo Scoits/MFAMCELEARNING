@@ -37,7 +37,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | Toetsmatrijs | MFA 40 items in 14 categorieën, MC 50 items in 9 categorieën; slagingsgrens via Angoff-panel; alles voorstel | [Toetsmatrijs](toetsmatrijs-v001.md) |
 | Reviewvragen Mathanje | 91 gebundelde vragen R01 tot en met R91, met aanvullingen op R62 tot en met R64, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
 | Mediaregister | 101 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
-| Articulate-importinhoud | Nog niet gemaakt; volgt na Mathanjes review van de uitgewerkte lessen | [Bouwroute](../articulate/import-en-bouwroute.md) |
+| Articulate-importinhoud | Hulpmiddel gereed: `tools/maak_importversie.py` maakt per les een Word-importversie en interactieconfiguratie; proefversies voor alle 19 lessen werken. Productieversie wordt geweigerd tot de medische vrijgave per scherm is geregistreerd. Promptset en bouwlog toegevoegd | [Bouwroute](../articulate/import-en-bouwroute.md), [promptset](../articulate/promptset-bouw.md) |
 | Website, ChainWise en Moodle | Ongewijzigd; acht ketenproeven ontworpen, niet uitgevoerd | [Keten](../moodle/chainwise-keten.md) |
 | Medische detailgoedkeuring | Niet uitgevoerd voor enig scherm, doel of criterium | [Reviewregistratie](../reviews/README.md) |
 | Engelse versie | Nog niet gestart | [Vertaling](../content/en/README.md) |

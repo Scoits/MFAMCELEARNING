@@ -33,6 +33,10 @@ De officiële Articulate MCP-documentatie beschrijft onder meer accountcontrole,
 
 Een promptset moet dus de exacte masterversie, scherm- en vraag-ID's, bloktype, media-ID en feedbacklogica overdragen. Ontbrekende informatie blijft een bouwtaak in het dossier; een AI mag haar niet invullen met nieuwe medische claims. Een betaald account bewijst op zichzelf geen specifieke afspraken over vertrouwelijkheid of gegevensverwerking. Gebruik de beheerde DRTC-omgeving volgens de vastgestelde instellingen en laat echte patiëntgegevens en actieve summatieve vragen buiten openbare prompts en deze repository.
 
+## Hulpmiddelen
+
+`tools/maak_importversie.py <LES>` maakt uit de schermreview een schone Word-les en een interactieconfiguratie met scherm-, vraag- en antwoord-ID's en feedback. Zonder `--productie` is het een proefversie met op iedere pagina de melding dat de inhoud niet medisch is vrijgegeven. Met `--productie` weigert het script zolang een scherm niet `medisch_goedgekeurd` met reviewdatum is. De [promptset](promptset-bouw.md) beschrijft de stappen in Rise en het [bouwlog](../templates/bouwlog.md) legt iedere bouw vast. De uitvoer staat in `build/` en wordt niet in de repository opgenomen.
+
 ## Acceptatie van het proefpakket
 
 | Controle | Benodigd resultaat |
