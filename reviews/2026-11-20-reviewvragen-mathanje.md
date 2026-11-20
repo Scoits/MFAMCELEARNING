@@ -107,3 +107,12 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R43 | MFA-L08-S05, BC-04 | MFA-L08 rekent met 45 minuten toetstijd, de ondergrens van de toetsmatrijs. Komen de elf extra minuten van MFA-L07 uit deze reservering, met een kortere toets, of wordt elders ingekort? |
 | R44 | MFA-L08-S05, E01 | Hoe wordt de identiteit van de cursist bij de online toets vastgesteld: alleen via de persoonlijke Moodle-login, of met een aanvullende controle? |
 | R45 | MFA-L08-S02, S04 | Wat neemt de cursist mee naar de praktijkdag naast een identiteitsbewijs, en wordt de zelfinventarisatie in S02 als signaal aan de instructeur doorgegeven of blijft die anoniem? |
+
+## Aanvulling bij MC-L00 en MC-L01
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R46 | MC-L00-S07 | Welk herhaalmateriaal krijgt een MC-cursist zonder recente MFA bij DRTC: de MFA-lessen als naslag in Moodle, een korte samenvatting, of beide? En wat gaat de instructeur bij de startcontrole op dag 1 na? (vraag aan DRTC) |
+| R47 | MC-L01-S09, MC-K01-02 | Welke eenvoudige tests zitten in de MC-uitrusting (urineteststrook, malariasneltest, andere), en welke instructie hoort daarbij? Voor geen van beide is een DRTC-bron gevonden. |
+| R48 | MC-L01-S06 | Wat moet een MC-cursist bij luisteren naar hart en longen kunnen onderscheiden: alleen regelmaat en verschil tussen links en rechts, of ook bijgeluiden zoals piepen en reutelen? Kloppen de luisterplaatsen? |
+| R49 | MC-L01-S07 | Het formulier S046 noemt bekloppen, drukpijn en loslaatpijn. Passen die bij MC, en hoe onderzoekt de cursist loslaatpijn veilig? |

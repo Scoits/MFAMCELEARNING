@@ -1,0 +1,75 @@
+lesson_id,screen_id,learning_goal_ids,title,learner_text,voice_over,interaction,feedback_correct,feedback_incorrect,source_ids,source_location,media_ids,platform_block,minutes_estimate,review_status,medical_reviewer,mathanje_comment,version,review_date
+MC-L01,MC-L01-S01,MC-32.02,Meer weten dan bij eerste hulp,"Bij eerste hulp wil je snel weten wat levensbedreigend is. Als MC-zorgverlener heb je vaak meer tijd, maar geen arts naast je. De arts op afstand ziet de patiënt niet. Hij is afhankelijk van wat jij vraagt, ziet, hoort, voelt en meet.
+
+In deze les leer je hoe je een patiënt met klachten van borst of buik gericht onderzoekt, hoe je het verloop volgt, en wat eenvoudige tests wel en niet zeggen. Daarna kun je de arts een duidelijk beeld geven.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S004;S046,"S004 Part C 1.2, gedr p15 / PDF p22; S046 p2 (gericht onderzoek van de patiënt).",,Rise tekst,2,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S02,MC-32.02,Werkwijze in vijf stappen,"Stap 1. Veiligheid en de vaste volgorde. Ook bij een zieke patiënt begin je met Danger, Response en Send, en daarna A tot en met E. Wat levensbedreigend is, behandel je eerst.
+
+Stap 2. Vraag door. Gebruik AMPLE en de vragen van het formulier voor de klacht van de patiënt.
+
+Stap 3. Onderzoek gericht. Kijk, luister en voel bij het deel van het lichaam waar de klacht zit, en vergelijk links en rechts.
+
+Stap 4. Meet en herhaal. Meet de vitale functies en herhaal de metingen, zodat je ziet of de toestand verandert.
+
+Stap 5. Noteer en rapporteer. Schrijf alles met tijdstip op het patiëntevaluatieformulier en geef het beeld door aan de arts.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S045;S046,"S045 dia42 (DRS-ABCDE); S046 p1 (metingen, top-teenonderzoek, AMPLE, contact RMD) en p2 (loop alle vragen na en kruis af, noteer afwijkende bevindingen). TE VERIFIËREN: De indeling in vijf stappen is een eigen ordening van het formulier.",,Rise procesblok,4,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S03,MC-32.02,Doorvragen bij pijn op de borst of benauwdheid,"De pijn. Waar zit de pijn? Komt hij in aanvallen of is hij er steeds? Straalt hij uit, en waarheen? Is hij drukkend, stekend of brandend? Hangt hij samen met de ademhaling? Is er een ongeval geweest?
+
+De ademhaling. Is de patiënt benauwd? Hoest hij, en geeft hij slijm op? Hoor je piepen? Is er verschil tussen links en rechts?
+
+Andere verschijnselen. Transpireert de patiënt? Is hij misselijk, duizelig of angstig? Heeft hij tintelende vingers? Wat is de kleur van zijn gezicht?
+
+Kruis iedere vraag af en noteer alleen de afwijkende bevindingen. Zo vergeet je niets en kan de arts snel zien wat er afwijkt.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S046;S062,"S046 p2 (gericht onderzoek pijn op de borst en benauwdheid, 18 vragen); S062 dia49 (oorzaken pijn op de borst) en dia51 (klachten bij angina pectoris en hartinfarct).",,Rise tabbladen,5,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S04,MC-32.02,Doorvragen bij buikpijn,"De pijn. Waar zit de pijn en hoe lang al? Komt hij in aanvallen, zoals bij een koliek, of is hij er steeds? Straalt hij uit? Is hij drukkend, stekend of brandend? Is er een ongeval geweest?
+
+Maag en darmen. Is de patiënt misselijk, braakt hij, boert hij op of heeft hij zuurbranden? Zit er bloed bij? Heeft hij diarree, met of zonder bloed? Is de ontlasting zwart? Let bij ontlasting op kleur, hoe vaak en hoe het eruitziet.
+
+Plassen. Doet plassen pijn? Moet hij vaker plassen dan normaal? Stinkt de urine of is hij troebel?
+
+Reizen. Is de patiënt de afgelopen maanden in de tropen geweest? Dat is belangrijk voor de arts, omdat sommige tropische ziekten met buikklachten beginnen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S046;S062,"S046 p2 (gericht onderzoek pijn in de buik); S062 dia57 (aard van buikpijn: koliek, stekend, continu; braken; ontlasting kleur, frequentie, samenstelling), dia27 (buiktyfus met koorts en diarree).",,Rise tabbladen,4,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S05,MC-32.02,Welke vraag stel je nog?,"Een motorman heeft sinds vanochtend buikpijn. Je hebt gevraagd waar de pijn zit, hoe lang al en of hij misselijk is. Het schip komt uit West-Afrika.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K01-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Welke vraag is nu het belangrijkst om nog te stellen?
+MC-K01-01-A: Of hij de afgelopen maanden in de tropen is geweest, en of hij koorts, diarree of bloed bij braaksel of ontlasting heeft (juist)
+MC-K01-01-B: Wat hij gisteravond heeft gegeten
+MC-K01-01-C: Of hij eerder buikpijn heeft gehad","MC-K01-01-A: Juist. Verblijf in de tropen, koorts en bloed zijn belangrijk voor de arts. Ze staan daarom op het formulier.","MC-K01-01-B: Dat kan nuttig zijn en valt onder AMPLE, maar verblijf in de tropen, koorts en bloed bij braaksel of ontlasting wegen zwaarder.
+MC-K01-01-C: Dat is een zinvolle vraag, maar de vragen over de tropen, koorts en bloed zijn hier belangrijker.",S046;S062,"S046 p2 (tropen, bloed bij braken en ontlasting); S062 dia22-30 (tropenziekten); antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de rangorde in de feedback.",,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S06,MC-32.02,Luisteren naar hart en longen,"Met de stethoscoop luister je naar het hart en de longen. Je hoeft geen diagnose te stellen. Je beschrijft wat je hoort, zodat de arts het kan meenemen.
+
+Het hart. Luister of je de harttonen goed hoort en of het ritme regelmatig is. Tel de slagen en vergelijk met de pols.
+
+De longen. Luister links en rechts op dezelfde hoogte, voor en achter, terwijl de patiënt rustig door de mond ademt. Vergelijk beide kanten. Hoor je aan één kant minder of niets? Hoor je piepen of reutelen? Noteer wat je hoort en waar.
+
+Een kant waar je minder hoort, kan bijvoorbeeld wijzen op een klaplong. Meld dat direct aan de arts.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S062;S046,"S062 dia42-48 (longen: astma, bronchitis, longontsteking, ingeklapte long, longembolie; luisteren naar hart en longen; harttonen, regelmatig?); S046 p2 (piepen, verschil links en rechts). TE VERIFIËREN: S062 dia45 tot en met 48 zijn grotendeels beeld. De luisterplaatsen en de opdracht om door de mond te ademen zijn een eigen formulering. Mathanje beoordeelt wat MC-cursisten moeten kunnen onderscheiden (R48). Het vergelijken van hartslag met pols is een eigen aanvulling.",MC-L01-M01,Rise afbeelding met tekst,4,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S07,MC-32.02,De buik onderzoeken,"Verdeel de buik in vier kwadranten: rechtsboven, linksboven, rechtsonder en linksonder, gezien vanuit de patiënt. Zo kun je precies doorgeven waar de pijn zit. In de buik liggen onder meer de maag, lever, galblaas, milt, nieren, dunne en dikke darm.
+
+Kijken. Leg de patiënt op de rug met de knieën licht opgetrokken. Kijk naar de hele buik, ook de liezen en het geslachtsorgaan. Is de buik gespannen of opgezet? Zie je littekens, zwellingen of een afwijkende kleur?
+
+Luisteren. Luister met de stethoscoop. Is de buik stil, rommelt hij wat of rommelt hij enorm?
+
+Bekloppen en voelen. Beklop de buik en noteer waar het pijn doet. Druk daarna voorzichtig in alle kwadranten, en begin ver van de plek waar de pijn zit. Let op drukpijn en op pijn bij loslaten.
+
+Noteer per kwadrant wat je vindt. Een harde, gespannen buik, een stille buik of hevige pijn met tekenen van shock meld je direct aan de arts.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S046;S062,"S046 p2 (kijk naar de buik inclusief liezen en geslachtsorgaan; luister; beklop; drukpijn; loslaatpijn); S062 dia55 (organen in de buik), dia56 (indeling van de buik), dia60 (ileus met tekenen van shock). TE VERIFIËREN: De houding met opgetrokken knieën en het beginnen ver van de pijn zijn een eigen formulering. Mathanje beoordeelt of bekloppen en loslaatpijn bij MC passen en hoe de cursist loslaatpijn veilig onderzoekt (R49). De volgorde kijken, luisteren, bekloppen, voelen volgt de volgorde op S046 p2.",MC-L01-M02,Rise hotspotafbeelding en procesblok,6,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S08,MC-32.02,Het verloop volgen,"Eén meting zegt weinig. Het verloop zegt veel. Meet daarom pols, ademhaling, bloeddruk en temperatuur opnieuw, volgens de afspraak met de arts of eerder als de patiënt verandert.
+
+Noteer iedere meting met het tijdstip. Zet de metingen naast elkaar, zodat je ziet of de pols stijgt, de bloeddruk daalt of de koorts oploopt.
+
+Let ook op wat je ziet en hoort: wordt de patiënt suffer, bleker of onrustiger, of neemt de pijn toe? Meld een verslechtering direct aan de arts; wacht niet op het volgende afgesproken contact.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S046;S059;S062,"S046 p1 (hartslag, bloeddruk, temperatuur, ademhaling); S059 (PH11 pols en bloeddruk meten); S062 dia53 (pols en bloeddruk controleren met het standaard evaluatieformulier, patiënt in de gaten houden). TE VERIFIËREN: Normaalwaarden en grenswaarden zijn niet opgenomen, in lijn met MFA-L02. Mathanje beslist of MC die wel krijgt en uit welke bron. De verdere uitwerking van bewaking staat in MC-L04 (MC-12).",MC-L01-M03,Rise tekst met voorbeeldtabel,3,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S09,MC-32.02,Eenvoudige tests: doel en grenzen,"Aan boord kun je soms een eenvoudige test doen, zoals de temperatuur meten, een urinetest met een teststrook of, op schepen die in malariagebieden varen, een malariasneltest. Welke tests aan boord zijn, hangt af van de medische uitrusting van je schip.
+
+Doel. Een test geeft de arts een extra gegeven naast jouw vragen, onderzoek en metingen.
+
+Voorbereiding. Voer de test uit volgens de gebruiksaanwijzing bij de test of in de medische gids. Controleer de vervaldatum. Werk hygiënisch en draag handschoenen bij urine en bloed.
+
+Grenzen. Een test alleen stelt geen diagnose. Een normale uitslag betekent niet dat er niets aan de hand is. Geef de uitslag door aan de arts, samen met je andere bevindingen, en laat de arts beslissen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S004;S062,"S004 Part C 1.2, gedr p15 / PDF p22 (aanvullend onderzoek); S062 dia25 (diagnose malaria door bloedonderzoek, rapid malaria test). TE VERIFIËREN: Voor urineonderzoek met een teststrook en voor de malariasneltest is geen DRTC-instructie in het register. Doel en grenzen zijn een eigen formulering. DRTC bevestigt welke tests in de MC-uitrusting zitten en welke instructie geldt (R47). Of de malariasneltest tot de MC-scope hoort, beslist Mathanje (R47).",MC-L01-M04,Rise tabbladen,4,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S10,MC-32.02,Wat zegt een test?,Een opvarende heeft koorts en pijn bij het plassen. Een urinetest met een teststrook geeft geen afwijking.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K01-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Wat doe je?
+MC-K01-02-A: Je concludeert dat er geen infectie is en stopt met het onderzoek
+MC-K01-02-B: Je geeft de klachten, je bevindingen, de metingen en de testuitslag samen door aan de arts (juist)
+MC-K01-02-C: Je herhaalt de test tot er een afwijking uitkomt",MC-K01-02-B: Juist. De test is één gegeven. De arts beslist op basis van het hele beeld.,"MC-K01-02-A: Onjuist. Een normale uitslag sluit niets uit. De koorts en de pijn bij plassen blijven belangrijke bevindingen.
+MC-K01-02-C: Onjuist. Herhalen totdat een test afwijkt, geeft geen betrouwbaar beeld. Rapporteer wat je hebt gevonden.",S004,"S004 Part C 1.2, gedr p15 / PDF p22; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback.",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
+MC-L01,MC-L01-S11,MC-32.02,Je bevindingen doorgeven,"Geef de arts een kort en volledig beeld: wie de patiënt is, wat de klacht is en sinds wanneer, wat je hebt gevonden bij vragen, onderzoek en metingen, hoe het verloop is, en wat je al hebt gedaan. Houd het formulier erbij.
+
+Een kok heeft sinds vier uur hevige pijn rechtsonder in de buik. Hij is misselijk en heeft 38,6 graden. De buik is rechtsonder pijnlijk bij drukken. De pols is in twee uur gestegen van 88 naar 104 per minuut.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K01-03: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Welke rapportage is het meest bruikbaar voor de arts?
+MC-K01-03-A: De kok heeft waarschijnlijk een blindedarmontsteking
+MC-K01-03-B: Leeftijd en beroep, buikpijn rechtsonder sinds vier uur, misselijk, temperatuur 38,6, drukpijn rechtsonder, pols gestegen van 88 naar 104 per minuut in twee uur, geen behandeling gegeven (juist)
+MC-K01-03-C: Hij heeft veel pijn in zijn buik en voelt zich niet goed","MC-K01-03-B: Juist. De arts hoort klacht, bevindingen, metingen en verloop, en weet wat je al hebt gedaan.","MC-K01-03-A: Onvoldoende. Je geeft een conclusie zonder de waarnemingen. De arts heeft je bevindingen nodig om zelf te beoordelen.
+MC-K01-03-C: Onvoldoende. Zonder plaats, duur, metingen en verloop kan de arts weinig met deze melding.",S046;S062,"S046 p1 en p2; S062 dia62 (appendicitis, alleen kop); antwoordlogica is DRTC-ontwerp. De verdere uitwerking van het RMD-gesprek staat in MFA-L07 en MC-L08. TE VERIFIËREN: Mathanje beoordeelt de casus, de fictieve waarden en de feedback.",,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.1,
