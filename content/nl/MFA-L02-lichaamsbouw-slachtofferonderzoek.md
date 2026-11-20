@@ -1,6 +1,6 @@
 # Lichaamsbouw en systematisch slachtofferonderzoek
 
-Les MFA-L02, versie 0.2, 20 november 2026. Versie 0.2 verwerkt PPT1 (S045, dag 1 ochtend): DRS-ABCDE volgens dia42 en pols en bloeddruk volgens dia47 en 50. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
+Les MFA-L02, versie 0.3, 20 november 2026. Versie 0.2 verwerkt PPT1 (S045, dag 1 ochtend): DRS-ABCDE volgens dia42 en pols en bloeddruk volgens dia47 en 50. Versie 0.3 verwerkt het DRTC-patiëntevaluatieformulier (S046) en PH11 (S059). Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 ## Lesgegevens
 
@@ -12,7 +12,7 @@ Les MFA-L02, versie 0.2, 20 november 2026. Versie 0.2 verwerkt PPT1 (S045, dag 1
 | Leervorm | Rise; tabbladen, gelabelde afbeeldingen, een tijdlijncasus en keuzevragen; geen sleepopdracht |
 | Studieduur | Begroting 100 minuten, gelijk aan de moduleraming; nog te meten |
 | Praktijkkoppeling | Station MFA-P03 slachtofferonderzoek en metingen; herbeoordeling in SC-MFA-02 en in ieder scenario |
-| Bronnen | S001, S003, S005, S009, S034 en S045 (direct gelezen via tekstexport; anatomiedia's van S045 alleen titel en beeld); S015, S016 en S021 als nog te lezen inhoudsbronnen |
+| Bronnen | S001, S003, S005, S009, S034, S045, S046 en S059 (direct gelezen via tekstexport; anatomiedia's van S045 alleen titel en beeld); S015, S016 en S021 als nog te lezen inhoudsbronnen |
 | Engelse opvolger | Nog niet gestart |
 
 ## Leerdoelen en dekking
@@ -30,7 +30,7 @@ Les MFA-L02, versie 0.2, 20 november 2026. Versie 0.2 verwerkt PPT1 (S045, dag 1
 
 STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden lichaamsbouw en functie en onderzoek van slachtoffer of patiënt (kolom 2); beoordeling van bewijs uit praktijkinstructie (kolom 3); projectcriteria K1 tot en met K3 (kolom 4). De les behandelt anatomie op het niveau dat nodig is om waar te nemen en te rapporteren, niet om een diagnose te stellen.
 
-Bronstatus: S034 (3. MFA dag 2 ochtend, voettekst Rev.002) is op 20 november 2026 als tekstexport gelezen. De dia's 19 tot en met 28 en 65 en 66 zijn de directe bron voor het onderzoeksdeel. S045 (PPT1, dag 1 ochtend) is daarna gelezen: dia42 geeft de DRTC-uitwerking van DRS-ABCDE, dia47 en 50 pols en bloeddruk. De anatomiedia's van S045 bevatten alleen titel en beeld; de anatomieschermen blijven daarom TE VERIFIËREN. Het patiëntevaluatieformulier is geen afzonderlijk bestand (zie S009 in het bronregister). Het DRTC-onderzoeksschema in deze les moet gelijk zijn aan wat de instructeur in MFA-P03 gebruikt.
+Bronstatus: S034 (3. MFA dag 2 ochtend, voettekst Rev.002) is op 20 november 2026 als tekstexport gelezen. De dia's 19 tot en met 28 en 65 en 66 zijn de directe bron voor het onderzoeksdeel. S045 (PPT1, dag 1 ochtend) is daarna gelezen: dia42 geeft de DRTC-uitwerking van DRS-ABCDE, dia47 en 50 pols en bloeddruk. De anatomiedia's van S045 bevatten alleen titel en beeld; de anatomieschermen blijven daarom TE VERIFIËREN. Het DRTC-patiëntevaluatieformulier (S046) is op 20 november 2026 door Martijn aangeleverd en gelezen. Het bevat de Glasgow Coma Schaal, een traumascore, het top-teenonderzoek, AMPLE, de RMD-contactgegevens en de vragenlijst borst en buik uit S034. Deze les volgt dat formulier. Het DRTC-onderzoeksschema in deze les moet gelijk zijn aan wat de instructeur in MFA-P03 gebruikt.
 
 De schermrecords staan in [MFA-L02-schermreview.csv](../../reviews/MFA-L02-schermreview.csv). Wijzig master en CSV samen.
 
@@ -214,7 +214,7 @@ TE VERIFIËREN: Mathanje beoordeelt de feedback bij K02-02-B, in het bijzonder d
 
 ## MFA-L02-S07 De buik en de buikorganen
 
-Leerdoelen: MFA-02.04. Bronplaats: S003 Part C 3.1, gedrukte p12-13 / PDF p18-19; S045 dia34-40 (buik, buikvlies, darmen, maagdarmstelsel, milt, urinewegen en geslachtsorganen; alleen titel en beeld); S009 p1 item 3.1; S034 dia25-27 voor vragen en onderzoek van de buik. Media: MFA-L02-M05. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-02.04. Bronplaats: S003 Part C 3.1, gedrukte p12-13 / PDF p18-19; S045 dia34-40 (buik, buikvlies, darmen, maagdarmstelsel, milt, urinewegen en geslachtsorganen; alleen titel en beeld); S009 p1 item 3.1; S034 dia25-27 en S046 p2 (gericht onderzoek pijn in de buik) voor vragen en onderzoek van de buik. Media: MFA-L02-M05. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 7 minuten. Leerfunctie: de cursist kent de ligging en functie van de belangrijkste buikorganen op hoofdlijnen.
 
@@ -226,7 +226,7 @@ Rechtsboven liggen de lever en de galblaas. De lever verwerkt voedingsstoffen en
 
 Lever en milt zijn kwetsbaar bij een val of klap en kunnen inwendig bloeden zonder dat je het van buiten ziet. Een harde, gespannen buik na een ongeval en verschijnselen van shock zijn daarom alarmsignalen.
 
-Bij onderzoek van de buik kijk je naar de buik, vraag je waar het pijn doet en voel je voorzichtig waar het gevoelig is. Hoe je dat doet, oefen je op de praktijkdag.
+Bij onderzoek van de buik volg je het patiëntevaluatieformulier: kijk naar de buik, inclusief liezen en geslachtsorgaan, luister of de buik stil is of rommelt, beklop de buik en onderzoek de hele buik op drukpijn en loslaatpijn. Noteer waar het pijn doet. Hoe je dat doet, oefen je op de praktijkdag.
 
 **Beeld en bouw**
 
@@ -240,7 +240,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 TE VERIFIËREN: S045 (PPT1, dag 1 ochtend) is gelezen, maar de anatomiedia's bevatten alleen een titel en beeld. De onderwerpen komen overeen; de inhoud is een eigen formulering op basisniveau en moet worden vergeleken met het beeld van S045 of met S016.
 
-TE VERIFIËREN: Mathanje beoordeelt of de indeling in vier delen de gewenste werkwijze is en hoe ver het onderzoek van de buik in MFA gaat. S034 dia27 noemt ook luisteren, beklopen en loslaatpijn; die stappen zijn hier bewust niet opgenomen.
+TE VERIFIËREN: Mathanje beoordeelt of de indeling in vier delen de gewenste werkwijze is. Het buikonderzoek volgt S034 dia27 en S046; Mathanje bevestigt dat luisteren, beklopen en druk- en loslaatpijn in MFA worden aangeleerd (R20).
 
 **Verbinding met de praktijkdag**
 
@@ -312,7 +312,7 @@ In MFA-P03 en in ieder scenario begint de cursist hardop met deze vier stappen; 
 
 ## MFA-L02-S10 Systematisch onderzoek met DRS-ABCDE
 
-Leerdoelen: MFA-04.01; MFA-04.03. Bronplaats: S045 dia41 (treat first what kills first, bedreigde A tot en met E), dia42 (DRS-ABCDE: danger, respons, send, catastrophic hemorrhage, airway, breathing, circulation, disability, environment/exposure), dia43-45 en 61 (trauma score kaart, alleen beeld); S034 dia28 (ABC vitale functies), dia34, dia36-37, dia39 en dia47 (werken volgens DRS-ABCDE), dia46 (pupilcontrole bij beroerte); S009 p1 item 5.1-5.2; S003 Part C 5.1-5.2, gedrukte p13 / PDF p19. Media: MFA-L02-M07. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-04.01; MFA-04.03. Bronplaats: S045 dia41 (treat first what kills first, bedreigde A tot en met E), dia42 (DRS-ABCDE: danger, respons, send, catastrophic hemorrhage, airway, breathing, circulation, disability, environment/exposure), dia43-45 en 61 (trauma score kaart, alleen beeld); S046 p1 (Glasgow Coma Schaal, traumascore, top-teenonderzoek links en rechts); S034 dia28 (ABC vitale functies), dia34, dia36-37, dia39 en dia47 (werken volgens DRS-ABCDE), dia46 (pupilcontrole bij beroerte); S009 p1 item 5.1-5.2; S003 Part C 5.1-5.2, gedrukte p13 / PDF p19. Media: MFA-L02-M07. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 10 minuten. Leerfunctie: de cursist kent de vaste volgorde van onderzoek en wat hij per stap beoordeelt.
 
@@ -328,11 +328,11 @@ B, ademhaling. Tel de ademhaling, kijk of het moeite kost, luister naar geluiden
 
 C, circulatie. Voel de pols, kijk naar de kleur en temperatuur van de huid en zoek naar andere bloedingen. Denk ook aan grote breuken zoals van het bekken of het bovenbeen, die veel bloedverlies kunnen geven.
 
-D, bewustzijn (disability). Reageert het slachtoffer normaal, alleen op aanspreken, alleen op pijn of helemaal niet? Kijk ook naar de pupillen en vraag of het slachtoffer armen en benen kan bewegen.
+D, bewustzijn (disability). Beoordeel het bewustzijn met de Glasgow Coma Schaal op het patiëntevaluatieformulier. Je scoort drie onderdelen: openen van de ogen (spontaan, bij aanspreken, bij pijn of niet), de beste reactie van de spieren (van een opdracht uitvoeren tot geen reactie) en de spraak (van georiënteerd tot geen). Het formulier geeft per antwoord de punten; samen is dat een score van 3 tot 15. Kijk ook naar de pupillen en vraag of het slachtoffer armen en benen kan bewegen.
 
-E, omgeving en blootstelling (environment, exposure). Onderzoek het lichaam van top tot teen op letsel. Houd het slachtoffer warm, want ook de lichaamstemperatuur kan bedreigd zijn, en respecteer de privacy.
+E, omgeving en blootstelling (environment, exposure). Onderzoek het lichaam van top tot teen volgens het formulier: schedel, gelaat, hals, armen, polsen, handen, borst, buik, rug, bekken, benen en voeten, telkens links en rechts. Houd het slachtoffer warm, want ook de lichaamstemperatuur kan bedreigd zijn, en respecteer de privacy.
 
-Leg alles vast met het tijdstip. Daarna stel je de vragen van de anamnese.
+Leg alles vast met het tijdstip op het patiëntevaluatieformulier. Daarna stel je de vragen van de anamnese.
 
 **Beeld en bouw**
 
@@ -344,9 +344,9 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: De letters volgen S045 dia42. De vragen en waarnemingen per letter en de vier niveaus van reactie in D zijn een eigen uitwerking en moeten gelijk zijn aan de trauma score kaart (S045 dia44-45 en 61, alleen als beeld gezien) die vermoedelijk in MFA-P03 wordt gebruikt.
+TE VERIFIËREN: De letters volgen S045 dia42; de Glasgow Coma Schaal en het top-teenonderzoek volgen S046. De vragen en waarnemingen bij A, B en C zijn een eigen uitwerking.
 
-TE VERIFIËREN: Mathanje beslist of de vier niveaus van reactie in MFA worden aangeboden of dat de Glasgow Coma Scale (S018) pas in MC aan bod komt.
+TE VERIFIËREN: S046 bevat ook een traumascore die bovendruk, ademfrequentie en GCS omzet in punten. Mathanje beslist of MFA-cursisten de GCS en de traumascore zelf berekenen of alleen invullen en doorgeven (R18).
 
 **Verbinding met de praktijkdag**
 
@@ -382,7 +382,7 @@ TE VERIFIËREN: Mathanje beoordeelt of het snurkende geluid een eenduidig voorbe
 
 ## MFA-L02-S12 Vragen stellen: de anamnese
 
-Leerdoelen: MFA-04.02. Bronplaats: S034 dia19 (arts heeft duidelijke informatie nodig, vragenlijst als leidraad), dia21 (welke vragenlijst), dia23-26 (vragen bij pijn op de borst, benauwdheid en buikpijn); S031 KNRM RMD-vragenlijst v3; S009 p1 item 5.2 en 10.3. Media: MFA-L02-M08. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-04.02. Bronplaats: S034 dia19 (arts heeft duidelijke informatie nodig, vragenlijst als leidraad), dia21 (welke vragenlijst), dia23-26 (vragen bij pijn op de borst, benauwdheid en buikpijn); S031 KNRM RMD-vragenlijst v3; S046 p1 (AMPLE) en p2 (gericht onderzoek pijn op de borst en pijn in de buik, gelijk aan S034 dia23-27); S009 p1 item 5.2 en 10.3. Media: MFA-L02-M08. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 8 minuten. Leerfunctie: de cursist kan gericht vragen naar klachten, toedracht en voorgeschiedenis.
 
@@ -396,21 +396,19 @@ Wat is de klacht? Waar zit de pijn of het ongemak, sinds wanneer, komt het in aa
 
 Wat komt erbij? Vraag naar benauwdheid, hoesten, misselijkheid, braken, duizeligheid, zweten, tintelingen en ontlasting of plassen als dat bij de klacht past.
 
-Wat is er bekend? Vraag naar ziekten, medicijnen, allergieën en eerdere klachten van dezelfde soort. Vraag of iemand in de afgelopen maanden in de tropen is geweest.
+Wat is er bekend? Gebruik AMPLE van het patiëntevaluatieformulier: allergieën, medicatie, doorgemaakte ziekten (past medical history), de laatste maaltijd en de gebeurtenissen of factoren die een rol spelen (events). Vraag ook of iemand in de afgelopen maanden in de tropen is geweest.
 
 Stel korte, open vragen en daarna gerichte vragen. Schrijf de antwoorden direct op. Een slachtoffer dat niet kan antwoorden, kun je niet bevragen; vraag dan collega's wat zij hebben gezien.
 
 **Beeld en bouw**
 
-Vier tabbladen met de vraaggroepen. Bij het eerste tabblad een bronlink naar de officiële KNRM-vragenlijst (S031), geen nagebouwd formulier. Alt-tekst per tabblad.
+Vier tabbladen met de vraaggroepen. Bij het eerste tabblad een bronlink naar de officiële KNRM-vragenlijst (S031), geen nagebouwd formulier. Bij het vierde tabblad een afbeelding van het AMPLE-blok van het DRTC-patiëntevaluatieformulier. Alt-tekst per tabblad.
 
 **Voice-over**
 
 Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
-
-TE VERIFIËREN: De vraaggroep naar ziekten, medicijnen en allergieën staat niet in de gelezen dia's van S034; controleren in S031, S021 en het patiëntevaluatieformulier.
 
 TE VERIFIËREN: Mathanje bevestigt dat de vragen uit S034 dia23-26 in MFA zo breed worden aangeboden of dat een kortere set volstaat.
 
@@ -448,7 +446,7 @@ TE VERIFIËREN: Mathanje beoordeelt de feedback bij K02-05-B en K02-05-C.
 
 ## MFA-L02-S14 Metingen: pols, ademhaling, bloeddruk en temperatuur
 
-Leerdoelen: MFA-04.03. Bronplaats: S045 dia46-50 (pols voelen en bloeddruk meten, onder meer oppompen tot 180 mmHg, stethoscoop in de elleboogplooi); S034 dia51 (vitale functies meten: bloeddruk, pols, ademhaling, temperatuur) en dia47 (bloeddrukcontrole); S005 onderdeel pols en bloeddruk meten; S009 p1 item 5.2; S003 Part C 5.2, gedrukte p13 / PDF p19. Media: MFA-L02-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-04.03. Bronplaats: S059 (PH11 pols en bloeddruk meten: 15 seconden maal 4, met en zonder stethoscoop, tot 180 mmHg); S046 p1 (hartslag, bloeddruk, temperatuur, ademhaling); S045 dia46-50 (pols voelen en bloeddruk meten, onder meer oppompen tot 180 mmHg, stethoscoop in de elleboogplooi); S034 dia51 (vitale functies meten: bloeddruk, pols, ademhaling, temperatuur) en dia47 (bloeddrukcontrole); S005 onderdeel pols en bloeddruk meten; S009 p1 item 5.2; S003 Part C 5.2, gedrukte p13 / PDF p19. Media: MFA-L02-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 8 minuten. Leerfunctie: de cursist weet welke metingen hij doet, hoe hij ze vastlegt en waarom.
 
@@ -456,15 +454,15 @@ Begroting 8 minuten. Leerfunctie: de cursist weet welke metingen hij doet, hoe h
 
 Met metingen maak je je waarnemingen concreet en vergelijkbaar. De arts vraagt erom en jij gebruikt ze om te zien of de toestand verandert. Je meet de vitale functies: pols, ademhaling, bloeddruk en temperatuur.
 
-Pols. Voel met twee vingers aan de duimzijde van de pols. Tel de slagen gedurende een vaste tijd en reken om naar slagen per minuut. Noteer ook de kracht en de regelmaat.
+Pols. Voel met twee vingers en lichte druk aan de duimzijde van de pols. Tel de slagen 15 seconden en vermenigvuldig met 4; dan heb je de polsslag per minuut. Noteer ook de kracht en de regelmaat.
 
 Ademhaling. Tel het aantal ademhalingen per minuut zonder dat het slachtoffer het merkt, want bewust ademen verandert het tempo. Noteer ook hoe de ademhaling is.
 
-Bloeddruk. DRTC leert de meting met manchet en stethoscoop. Pomp de manchet op tot 180 mmHg, zet de stethoscoop in de elleboogplooi en laat de manchet langzaam leeglopen. Waar je de hartslag gaat horen, lees je de bovendruk af; waar je hem niet meer hoort, de onderdruk. Noteer beide en aan welke arm je hebt gemeten. Gebruik je een elektronische meter, volg dan de gebruiksaanwijzing.
+Bloeddruk. DRTC leert de meting met manchet en stethoscoop. Pomp de manchet om de bovenarm op tot 180 mmHg, zet de stethoscoop in de elleboogplooi en laat de manchet langzaam leeglopen. Waar je de hartslag gaat horen, lees je de bovendruk af; waar je hem niet meer hoort, de onderdruk. Heb je geen stethoscoop, voel dan de pols tijdens het leeglopen: waar je de pols weer voelt, is de bovendruk. Noteer de bloeddruk, de arm en de tijd.
 
 Temperatuur. Meet met de thermometer uit de uitrusting en noteer hoe je hebt gemeten.
 
-Schrijf iedere meting op met het tijdstip. Eén meting zegt weinig; de verandering tussen metingen zegt veel. Beoordeel een meting altijd samen met wat je ziet en hoort, en overleg met de arts als je twijfelt.
+Schrijf iedere meting met het tijdstip op het patiëntevaluatieformulier: hartslag, bloeddruk, temperatuur en ademhaling. Eén meting zegt weinig; de verandering tussen metingen zegt veel. Beoordeel een meting altijd samen met wat je ziet en hoort, en overleg met de arts als je twijfelt.
 
 **Beeld en bouw**
 
@@ -482,7 +480,7 @@ TE VERIFIËREN: DRTC bevestigt welk type bloeddrukmeter en thermometer in de tra
 
 **Verbinding met de praktijkdag**
 
-Station MFA-P03: de cursist meet pols, ademhaling, bloeddruk en temperatuur bij een medecursist en legt ze met tijdstip vast.
+Station MFA-P03 volgens PH11: de cursist meet pols, ademhaling, bloeddruk en temperatuur bij een medecursist en legt ze met tijdstip vast.
 
 ## MFA-L02-S15 Wat doe je met de meting?
 
@@ -514,7 +512,7 @@ TE VERIFIËREN: Mathanje beoordeelt of deze fictieve meetwaarden en de feedback 
 
 ## MFA-L02-S16 Herbeoordelen en overdragen
 
-Leerdoelen: MFA-04.04. Bronplaats: S034 dia19 (instructies van de arts opvolgen) en dia51 (vitale functies meten); S009 p1 item 5.1-5.2 en 10.3; S003 Part C 5.1-5.2, gedrukte p13 / PDF p19. Media: MFA-L02-M10. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-04.04. Bronplaats: S046 p1 en p2 (contact Radio Medische Dienst, afspraken); S034 dia19 (instructies van de arts opvolgen) en dia51 (vitale functies meten); S009 p1 item 5.1-5.2 en 10.3; S003 Part C 5.1-5.2, gedrukte p13 / PDF p19. Media: MFA-L02-M10. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 6 minuten. Leerfunctie: de cursist weet dat de toestand kan veranderen en hoe hij dat volgt en doorgeeft.
 
@@ -528,7 +526,7 @@ Let op tekenen van verslechtering: minder goed reageren op aanspreken, een snell
 
 Schrijf iedere herbeoordeling op met het tijdstip. Meld een verslechtering direct aan de officier van de wacht en aan de arts van de Radio Medische Dienst.
 
-Bij de overdracht geef je in vaste volgorde door: wie het slachtoffer is, wat er is gebeurd, wat je hebt gevonden bij ABCDE, de metingen met tijden, wat je hebt gedaan en wat er sindsdien is veranderd. Hoe je dit aan de Radio Medische Dienst doorgeeft, leer je in les 7.
+Bij de overdracht geef je in vaste volgorde door: wie het slachtoffer is, wat er is gebeurd, wat je hebt gevonden bij ABCDE, de metingen met tijden, wat je hebt gedaan en wat er sindsdien is veranderd. Het patiëntevaluatieformulier heeft daarvoor ook een blok voor het contact met de Radio Medische Dienst: naam en roepletters van het schip, positie, verwachte aankomst op de bestemming en in een noodhaven, datum en tijd in GMT, en de gemaakte afspraken. Hoe je dit aan de Radio Medische Dienst doorgeeft, leer je in les 7.
 
 **Beeld en bouw**
 
@@ -606,4 +604,4 @@ Gebruik achttien Rise-secties in de volgorde S01 tot en met S18. De lichaamsafbe
 
 ## Open punten voor Mathanje en DRTC
 
-Mathanje beoordeelt of DRS-ABCDE en de uitwerking per letter in S10 overeenkomen met het onderzoeksschema van DRTC, of normaalwaarden van metingen in MFA thuishoren (in deze versie niet opgenomen), en de feedback van K02-04 tot en met K02-07. DRTC levert het beeld van de anatomiedia's en de trauma score kaart uit S045 (dia44-45 en 61) en bevestigt dat die kaart het patiëntevaluatieformulier is dat in MFA-P03 wordt gebruikt. Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R18 tot en met R21.
+Mathanje beoordeelt of DRS-ABCDE en de uitwerking per letter in S10 overeenkomen met het onderzoeksschema van DRTC, of de Glasgow Coma Schaal en de traumascore van het formulier in MFA volledig worden aangeleerd, of normaalwaarden van metingen in MFA thuishoren (in deze versie niet opgenomen), en de feedback van K02-04 tot en met K02-07. DRTC levert het beeld van de anatomiedia's. Martijn heeft op 20 november 2026 bevestigd dat de trauma score kaart uit S045 het patiëntevaluatieformulier S046 is. Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R18 tot en met R21.

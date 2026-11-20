@@ -147,3 +147,18 @@ Voorstel: variant A, omdat zij een vaste plek voor herbeoordeling van handelinge
 ## Registratie van het individuele bewijs
 
 Iedere observatie wordt vastgelegd met cursist, station- of scenario-ID, leerdoel-ID, vaardigheid- en assessment-ID waar die bestaan (MC-PA-V01 tot en met V04), assessor, datum, feitelijke waarneming en uitkomst voldoende, onvoldoende of niet waargenomen. Gebruik daarvoor het [praktijkassessmentsjabloon](../templates/praktijkassessment.md) in de afgeschermde omgeving. Een niet waargenomen criterium telt niet als beheerst en gaat naar het blok voor aanvullend bewijs. De praktijkbeslissing per opleiding staat los van het online resultaat.
+
+## Aanvulling 20 november 2026: DRTC-praktijkhandelingen per station
+
+De praktijkhandelingen PH 1 tot en met 14 zijn als S049 tot en met S061 (PH 13 als S033) geregistreerd en, op PH 14 na, gelezen. Ze beschrijven de uitvoering die de instructeur in de stations beoordeelt. De koppeling is een voorstel.
+
+| Station | Praktijkhandelingen | Opmerking |
+| --- | --- | --- |
+| MFA-P02 Reanimatie, AED en luchtweg | PH4 (S052), PH5 (S053), PH6 (S054), PH7 (S055) | PH4 dateert vermoedelijk van 2015; getallen toetsen aan S041 |
+| MFA-P03 Slachtofferonderzoek en metingen | PH11 (S059) en het patiëntevaluatieformulier (S046) | Pols 15 seconden maal 4; bloeddruk met en zonder stethoscoop |
+| MFA-P04 Wond, bloeding en materiaal | PH10 (S058); PH12 drukpunten (S060) alleen na Mathanjes besluit | R35 |
+| MFA-P05 Letsel, immobiliseren en verplaatsen | PH8 nekkraag (S056), PH9 vacuümspalk (S057) | Nekkraag hangt af van R05 |
+| RMD in ieder scenario | PH13 helikopterevacuatie (S033) | Ongewijzigd |
+| MC-H-stations | PH1 injecteren (S049), PH2 verdoven en hechten (S050), PH3 infuus (S051), PH14 urinekatheter (S061, nog niet leesbaar) | Koppeling per MC-H-station volgt bij de uitwerking van de MC-lessen |
+
+De observatiecriteria per station kunnen nu per praktijkhandeling worden afgeleid. Dat gebeurt in de volgende versie van deze planning, samen met de vergelijking met de bestaande LOTUS-rondes uit S044 en de casusnummers uit S047.

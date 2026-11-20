@@ -12,18 +12,19 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | MC | 68 doelen; MC-32.01 verplaatst naar MC-L00 | [MC-matrix](../curriculum/mc-dekkingsmatrix.csv) |
 | MC-technieken | Vier afzonderlijke vaardigheid- en assessment-ID's; scopebesluiten open | [Vaardigheidsregister](../curriculum/mc-vaardigheidsregister.csv) |
 | IaT en CBT | 23 voorwaarden; duurvergelijking CBT-02 open omdat klassieke klokuren ontbreken | [IaT-matrix](../curriculum/iat-cbt-matrix.csv) |
-| Bronnen | 45 registerregels; S034, S043, S044 en S045 tekst gelezen; S039 tot en met S042 voorgesteld en niet gelezen | [Bronregister](../sources/register.csv) |
+| Bronnen | 61 registerregels; S034, S043 tot en met S047 en de praktijkhandelingen S049 tot en met S060 gelezen; S048 en S061 zijn scans; S039 tot en met S042 voorgesteld en niet gelezen | [Bronregister](../sources/register.csv) |
 | MFA-L00 | Uitgewerkt: 8 schermen, 2 kennischecks, 1 zelfinschatting, 15 minuten | [Master](../content/nl/MFA-L00-start-veiligheid-voorkennis.md), [schermreview](../reviews/MFA-L00-schermreview.csv) |
 | MFA-L01 | Uitgewerkt: 9 schermen, 3 kennischecks, 1 tikopdracht, 30 minuten | [Master](../content/nl/MFA-L01-medische-uitrusting.md), [schermreview](../reviews/MFA-L01-schermreview.csv) |
 | MFA-L07 | Versie 0.3: 11 schermen, 6 kennischecks, 36 minuten; GMDSS en advies verwerken toegevoegd | [Master](../content/nl/MFA-L07-radiomedisch-advies.md), [schermreview](../reviews/MFA-L07-schermreview.csv) |
-| MFA-L02 | Versie 0.2, DRS-ABCDE en metingen volgens S045: 18 schermen, 7 kennischecks, 1 zelfcontrole, 100 minuten; anatomieschermen TE VERIFIËREN tegen het beeld van S045 | [Master](../content/nl/MFA-L02-lichaamsbouw-slachtofferonderzoek.md), [schermreview](../reviews/MFA-L02-schermreview.csv) |
-| MFA-L03 | Versie 0.3, bloeding uit S044 en plaats in DRS-ABCDE uit S045: 16 schermen, 6 kennischecks, 1 zelfcontrole, 75 minuten; volgt de DRTC-dia's, alle medische handelingen TE VERIFIËREN tot keuze S041 | [Master](../content/nl/MFA-L03-levensbedreigende-situaties.md), [schermreview](../reviews/MFA-L03-schermreview.csv) |
-| MFA-L04 | Versie 0.2, volledig: 22 schermen, 7 kennischecks, 85 minuten; deel A brandwonden, hitte en koude, deel B letsel, wervel- en hoofdletsel | [Master](../content/nl/MFA-L04-trauma-brandwonden-hitte-koude.md), [schermreview](../reviews/MFA-L04-schermreview.csv) |
+| MFA-L02 | Versie 0.3, volgt het patiëntevaluatieformulier S046 en PH11: 18 schermen, 7 kennischecks, 1 zelfcontrole, 100 minuten; anatomieschermen TE VERIFIËREN tegen het beeld van S045 | [Master](../content/nl/MFA-L02-lichaamsbouw-slachtofferonderzoek.md), [schermreview](../reviews/MFA-L02-schermreview.csv) |
+| MFA-L03 | Versie 0.4, reanimatiegetallen uit PH4 en wonddrukverband uit PH10: 16 schermen, 6 kennischecks, 1 zelfcontrole, 75 minuten; volgt de DRTC-dia's, alle medische handelingen TE VERIFIËREN tot keuze S041 | [Master](../content/nl/MFA-L03-levensbedreigende-situaties.md), [schermreview](../reviews/MFA-L03-schermreview.csv) |
+| MFA-L04 | Versie 0.3, met PH6 tot en met PH9, volledig: 22 schermen, 7 kennischecks, 85 minuten; deel A brandwonden, hitte en koude, deel B letsel, wervel- en hoofdletsel | [Master](../content/nl/MFA-L04-trauma-brandwonden-hitte-koude.md), [schermreview](../reviews/MFA-L04-schermreview.csv) |
 | MFA-L05, L06, L08 | Nog niet uitgewerkt | |
 | MC-lessen | Nog niet uitgewerkt | |
-| Praktijkplanning | MFA-dag met vier stations en zes LOTUS-scenario's; MC A en B doorgerekend; voorstel A met drie instructeurs bij invasieve handelingen | [Praktijkplanning](praktijkplanning-v001.md) |
+| Praktijkplanning | PH 1 tot en met 14 per station gekoppeld; MFA-dag met vier stations en zes LOTUS-scenario's; MC A en B doorgerekend; voorstel A met drie instructeurs bij invasieve handelingen | [Praktijkplanning](praktijkplanning-v001.md) |
+| Urenvergelijking | Klassiek MFA 945 en MC 1425 bruto minuten (S047) tegenover hybride 990 en 1500; niet korter, CBT-02 gehaald onder twee aannames | [Urenvergelijking](urenvergelijking-v001.md) |
 | Toetsmatrijs | MFA 40 items in 14 categorieën, MC 50 items in 9 categorieën; slagingsgrens via Angoff-panel; alles voorstel | [Toetsmatrijs](toetsmatrijs-v001.md) |
-| Reviewvragen Mathanje | 34 gebundelde vragen R01 tot en met R34, met aanvullingen op R05, R10 en R18 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
+| Reviewvragen Mathanje | 35 gebundelde vragen R01 tot en met R35, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
 | Mediaregister | 43 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
 | Articulate-importinhoud | Nog niet gemaakt; volgt na Mathanjes review van de uitgewerkte lessen | [Bouwroute](../articulate/import-en-bouwroute.md) |
 | Website, ChainWise en Moodle | Ongewijzigd; acht ketenproeven ontworpen, niet uitgevoerd | [Keten](../moodle/chainwise-keten.md) |
@@ -36,10 +37,10 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | --- | --- | --- | --- |
 | OB-01 | MC-praktijkvariant A of B | DRTC en Mathanje | Planning blijft in twee varianten |
 | OB-02 | Slagingsgrens per opleiding via Angoff-panel | DRTC met Mathanje | Toets kan worden gebouwd, niet in gebruik genomen |
-| OB-03 | Leidende reanimatie- en eerstehulprichtlijn (S041) | Mathanje | MFA-L03 is uitgewerkt volgens de DRTC-dia's; getallen voor compressies en beademing ontbreken en alle medische handelingen blijven TE VERIFIËREN |
+| OB-03 | Leidende reanimatie- en eerstehulprichtlijn (S041) | Mathanje | MFA-L03 volgt de DRTC-dia's en PH4 uit vermoedelijk 2015; alle medische handelingen blijven TE VERIFIËREN |
 | OB-04 | Infuus in MC (MC-V03) | Mathanje en DRTC | Bezetting MC-handelingen niet definitief |
 | OB-05 | Waar 11 extra minuten van MFA-L07 vandaan komen | DRTC | MFA-urenbegroting staat op 491 minuten |
-| OB-06 | Klassieke klokuren voor de vergelijking uit IaT 4 paragraaf 6.3 punt 2. Martijn meldde op 20 november 2026: klassikaal 40 uur. Nog te bevestigen of dat MFA en MC samen is (dan gelijk aan hybride 16 plus 24 uur) of per opleiding | Martijn | Onderbouwing hybride duur onvolledig |
+| OB-06 | Klassieke duur voor CBT-02. Het rooster S047 laat zien dat 40 uur MFA (twee dagen) en MC (drie dagen) samen is; de hybride uitvoering is per opleiding niet korter (docs/urenvergelijking-v001.md). Nog te bevestigen: een online dag telt als 480 minuten en de vergelijking geldt voor de hele opleiding | DRTC | Onderbouwing staat; bevestiging en pilotmeting open |
 | OB-07 | Aantal instructeur-assessoren per dagdeel | DRTC | Zie praktijkplanning; met twee is MC te krap |
 | OB-08 | Eerder open: bevalling (MC-20.02), psychosociaal (MFA-13), medicatiegrens (MFA-10.02), actuele STCW-editie, S034 | Mathanje en DRTC | Raakt MC-L06, MFA-L06 en de normcontrole |
 

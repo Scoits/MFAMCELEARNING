@@ -88,3 +88,16 @@ S045 (1. MFA dag 1 ochtend, 105 pagina's) is als tekst gelezen en nieuw geregist
 | BC-23 | Het patiëntevaluatieformulier is vermoedelijk de trauma score kaart (dia44-45 en 61), die alleen als beeld in de PDF staat | MFA-L02-S10, station MFA-P03 | DRTC bevestigt en levert de kaart als afzonderlijk bestand |
 | BC-24 | Dia51-58 bevatten medicatie met doseringen (paracetamol, NSAID, morfine, tramadol); dia78, 83, 89 en 103 noemen reponeren, morfine, infuus en paracetamol | MFA-L06, MFA-10.02, OB-08; MFA-L04 deel B | Niet opgenomen in MFA-L04; beoordelen bij MFA-L06 (R34) |
 | BC-25 | De nekspalk wordt op dag 1 aangeleerd (dia3, 21-25) | MFA-05.03, R05 | Opgenomen als DRTC-werkwijze en voorgelegd |
+
+## Aanvulling 20 november 2026: formulier, rooster en praktijkhandelingen
+
+Martijn leverde het patiëntevaluatieformulier (S046), het rooster van januari 2024 (S047), de MLC-medische kaart (S048) en de praktijkhandelingen PH 1 tot en met 14 (S049 tot en met S061, PH 13 is S033) aan.
+
+| Nr | Bevinding | Raakt | Gevolg |
+| --- | --- | --- | --- |
+| BC-26 | Het patiëntevaluatieformulier gebruikt de Glasgow Coma Schaal, een traumascore en AMPLE | MFA-L02-S10, S12, S14, S16; MFA-L04-S16 | MFA-L02 versie 0.3 volgt het formulier; de open vraag naar ziekten, medicatie en allergieën is opgelost met AMPLE |
+| BC-27 | PH4 geeft de getallen voor reanimatie die in de dia's alleen als beeld stonden; de bestanden zijn vermoedelijk van 2015 | MFA-L03-S04, S05, S07; BC-10 | Getallen ingevuld als DRTC-werkwijze; toetsing aan S041 blijft (R22) |
+| BC-28 | Het rooster S047 laat zien dat 40 klassikale uren MFA en MC samen zijn: MFA twee dagen, MC drie dagen | BC-03, CBT-02, OB-06 | Uitgewerkt in docs/urenvergelijking-v001.md; de hybride uitvoering is per opleiding niet korter |
+| BC-29 | PH9 noemt een vacuümspalk; PH8 een verstelbare nekkraag | MFA-07.05, MFA-05.03, R05 | Opgenomen in MFA-L04 versie 0.3 |
+| BC-30 | PH12 drukpunten bestaat, terwijl de matrix drukpunten niet zonder actualiteitscontrole overneemt | MFA-02.02, MFA-L03-S12 | Niet opgenomen; R35 |
+| BC-31 | PH 14 urinekatheter en de MLC-kaart zijn scans zonder tekstlaag | MC-lessen, MC-administratie | Niet gelezen; leesbare versie of OCR nodig bij de MC-uitwerking |

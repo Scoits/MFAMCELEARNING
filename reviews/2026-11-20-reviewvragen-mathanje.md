@@ -72,3 +72,11 @@ Toegevoegd op 20 november 2026 na lezing van S044 (dag 2 middag).
 | R32 | MFA-L04-S13, S16, S20 | S045 noemt zuurstof bij wervelletsel, ernstig hoofdletsel, ribfracturen en bekkenletsel. Akkoord dat MFA dit zo aanleert, met de uitwerking in les 5? |
 | R33 | MFA-L04-S20 | Akkoord met de bekkenspalk met dekens en tape als MFA-handeling (S045 dia91-94), en hoort de vacuümmatras tot de uitrusting waarmee in MFA wordt geoefend? |
 | R34 | MFA-L04-S19, S16, S21 | S045 noemt het terugzetten van ontwrichte vingers en een methode voor schouderontwrichting met morfine, hechten van hoofdwonden in overleg en paracetamol bij verstuiking. Deze zijn niet in de lessen opgenomen. Horen ze in MFA? Zie ook OB-08 en de doseringen in dia55-58 voor MFA-L06. |
+
+## Aanvulling na de praktijkhandelingen en het patiëntevaluatieformulier
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R18 aanvulling | MFA-L02-S10, S14 | Het DRTC-patiëntevaluatieformulier (S046) bevat de Glasgow Coma Schaal en een traumascore. MFA-L02 versie 0.3 leert de GCS invullen. Moeten MFA-cursisten de GCS en traumascore zelf berekenen, of alleen invullen en doorgeven? |
+| R22 aanvulling | MFA-L03-S04, S07 | MFA-L03 versie 0.4 gebruikt de getallen uit PH4 (S052, vermoedelijk 2015): 30 op 2, 5 tot 6 centimeter, ten minste 100 per minuut, twee beademingen binnen 5 seconden, wisselen om de 2 minuten. Kloppen die met de gekozen richtlijn? |
+| R35 | MFA-L03-S12, PH12 | PH12 (S060) beschrijft drukpunten op bovenarm, lies en achter het sleutelbeen. Die zijn niet in de les opgenomen. Blijven drukpunten in MFA, en zo ja in welke volgorde met wonddrukverband en eventueel tourniquet? |

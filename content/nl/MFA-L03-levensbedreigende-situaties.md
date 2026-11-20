@@ -1,20 +1,13 @@
 # Levensbedreigende situaties
 
-Les MFA-L03, versie 0.3, 20 november 2026. Versie 0.2 vult het bloedingsscherm S12 aan met dag 2 middag (S044); versie 0.3 verwerkt de plaats van catastrofale bloeding in DRS-ABCDE uit dag 1 ochtend (S045). Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
+Les MFA-L03, versie 0.4, 20 november 2026. Versie 0.2 vult het bloedingsscherm S12 aan met dag 2 middag (S044); versie 0.3 verwerkt de plaats van catastrofale bloeding in DRS-ABCDE uit dag 1 ochtend (S045); versie 0.4 vult de getallen voor reanimatie aan uit de DRTC-praktijkhandeling PH4 (S052) en het wonddrukverband uit PH10 (S058). Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
-Deze les volgt de DRTC-presentaties zoals ze nu worden gegeven. De leidende actuele reanimatierichtlijn (S041, OB-03) is nog niet gekozen. Iedere medische handeling in deze les staat daarom als TE VERIFIËREN tot Mathanje de bron en editie heeft vastgesteld. Getallen die niet in de gelezen DRTC-dia's staan, zoals diepte en tempo van borstcompressies, zijn bewust weggelaten en moeten na die keuze worden aangevuld.
-
-## Lesgegevens
-
-| Veld | Uitwerking |
-| --- | --- |
-| Les-ID en titel | MFA-L03 Levensbedreigende situaties |
-| Cursus | MFA, STCW A-VI/4-1, IMO Model Course 1.14 Part C 1.1 en 13 |
+Deze les volgt de DRTC-presentaties zoals ze nu worden gegeven. De leidende actuele reanimatierichtlijn (S041, OB-03) is nog niet gekozen. Iedere medische handeling in deze les staat daarom als TE VERIFIËREN tot Mathanje de bron en editie heeft vastgesteld. De getallen voor compressies en beademing komen uit de DRTC-praktijkhandeling PH4 (S052), die vermoedelijk uit 2015 stamt; Mathanje toetst ze aan de gekozen richtlijn.14 Part C 1.1 en 13 |
 | Leerdoelen | MFA-12.01 tot en met MFA-12.04, MFA-00.03 en MFA-00.04 |
 | Leervorm | Rise; procesblokken, tabbladen, film van DRTC en keuzevragen; geen sleepopdracht |
 | Studieduur | Begroting 75 minuten, gelijk aan de moduleraming; nog te meten |
 | Praktijkkoppeling | Station MFA-P02 reanimatie, AED en luchtweg; station MFA-P04 voor bloeding; SC-MFA-01, SC-MFA-05 en SC-MFA-06 |
-| Bronnen | S043, S034, S044 en S045 (direct gelezen via tekstexport), S003, S005, S009; S041 nog te kiezen |
+| Bronnen | S043, S034, S044 en S045 (direct gelezen via tekstexport), PH4 tot en met PH7, PH10 en PH12 (S052 tot en met S055, S058, S060), S003, S005, S009; S041 nog te kiezen |
 | Engelse opvolger | Nog niet gestart |
 
 ## Leerdoelen en dekking
@@ -56,7 +49,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 ## MFA-L03-S02 Circulatiestilstand herkennen
 
-Leerdoelen: MFA-12.01. Bronplaats: S043 dia36 (slachtoffer benaderen), dia37 (controle van ademhaling), dia39 (geen normale ademhaling of twijfel, alarmering, niet-reanimerenverklaring); S034 dia65-66; S009 p2 item 13.1. Media: MFA-L03-M02. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-12.01. Bronplaats: S043 dia36 (slachtoffer benaderen), dia37 (controle van ademhaling), dia39 (geen normale ademhaling of twijfel, alarmering, niet-reanimerenverklaring); S034 dia65-66; S052 (PH4: volgorde veiligheid, bewustzijn, hulp, luchtweg, ademhaling, alarmeren, afwijkende ademhaling tot 40 procent); S009 p2 item 13.1. Media: MFA-L03-M02. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 6 minuten. Leerfunctie: de cursist herkent een mogelijke circulatiestilstand en alarmeert direct.
 
@@ -66,7 +59,7 @@ Je begint zoals altijd. Let op veiligheid en lees de situatie. Spreek het slacht
 
 Controleer de ademhaling. Kantel het hoofd voorzichtig naar achteren, til de kin op en kijk, luister en voel maximaal tien seconden of er ademhaling is.
 
-Is er geen normale ademhaling of twijfel je, dan start je reanimatie. Zorg eerst voor snelle alarmering: laat een collega de brug alarmeren en de AED halen, of alarmeer zelf volgens de procedure van het schip als je alleen bent.
+Is er geen normale ademhaling of twijfel je, dan start je reanimatie. Let op: kort nadat het hart stopt, zie je vaak nog een moeizame, zware en luidruchtige adembeweging. Dat is geen normale ademhaling maar een teken van een circulatiestilstand. Zorg eerst voor snelle alarmering: laat een collega de brug en de Radio Medische Dienst alarmeren en de AED halen, of alarmeer zelf volgens de procedure van het schip als je alleen bent.
 
 Heeft het slachtoffer een niet-reanimerenverklaring, dan respecteer je die. Aan boord weet je dat meestal niet; begin dan met reanimeren.
 
@@ -120,7 +113,7 @@ TE VERIFIËREN: Dezelfde beslisregel staat in MFA-L00-S07 en K00-02 (R01); houd 
 
 ## MFA-L03-S04 Reanimeren met borstcompressies en beademing
 
-Leerdoelen: MFA-12.02. Bronplaats: S043 dia40 (harde ondergrond, zitten tegen de bovenarm, niet uitkleden), dia41-42 (reanimatie en compressies, alleen beeld), dia43 (snelle kantelmethode), dia44-47 (maskerbeademing en kapbeademing); S034 dia58 (na elke 30 compressies); S005 blok 14.45-15.45 BLS en AED; S009 p2 item 13.2-13.4. Media: MFA-L03-M03, MFA-L03-M04. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-12.02. Bronplaats: S052 (PH4: borstcompressies, beademen, 30 op 2); S053 (PH5 kapbeademing); S043 dia40 (harde ondergrond, zitten tegen de bovenarm, niet uitkleden), dia41-42 (reanimatie en compressies, alleen beeld), dia43 (snelle kantelmethode), dia44-47 (maskerbeademing en kapbeademing); S034 dia58 (na elke 30 compressies); S005 blok 14.45-15.45 BLS en AED; S009 p2 item 13.2-13.4. Media: MFA-L03-M03, MFA-L03-M04. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 8 minuten. Leerfunctie: de cursist kent de onderdelen van reanimatie zoals die op de praktijkdag worden geoefend.
 
@@ -128,11 +121,11 @@ Begroting 8 minuten. Leerfunctie: de cursist kent de onderdelen van reanimatie z
 
 Voorbereiding. Leg het slachtoffer op een harde ondergrond. Ga naast het slachtoffer zitten, ter hoogte van de bovenarm. Kleed het slachtoffer niet uit.
 
-Borstcompressies. Je drukt met gestrekte armen midden op de borstkas en laat de borstkas na iedere compressie helemaal terugkomen. Druk hard en snel en onderbreek zo kort mogelijk. De film laat zien hoe je zit, waar je je handen plaatst en hoe diep en snel je drukt.
+Borstcompressies. Plaats de hiel van één hand midden op de borstkas en de andere hand erbovenop. Alleen de hiel van de hand raakt de borstkas. Druk het borstbeen 5 tot 6 centimeter in, met een tempo van ten minste 100 per minuut. Druk gelijkmatig in en laat gelijkmatig los, zonder te leunen, en onderbreek zo kort mogelijk. Je geeft telkens 30 compressies.
 
-Beademing met een masker. Na een reeks van 30 compressies geef je beademingen met een beademingsmasker. Ga achter of naast het hoofd zitten, plaats het masker met de smalle kant over de neus en de brede kant op de kin, kantel het hoofd en til de kin op. Blaas rustig in tot de borstkas omhoog komt.
+Beademing. Na 30 compressies geef je 2 beademingen, samen binnen 5 seconden. Open de luchtweg door het hoofd te kantelen en de kin op te tillen. Met een beademingsmasker plaats je het masker met de smalle kant over de neus en de brede kant op de kin; zonder masker knijp je de neus dicht en plaats je je lippen rond de mond. Blaas rustig in, ongeveer een seconde, tot de borstkas omhoog komt, en laat de borstkas terugvallen. Ga daarna door met 30 compressies en 2 beademingen.
 
-Kap- en ballonbeademing met zuurstof is een handeling voor als er twee hulpverleners en de juiste uitrusting zijn. Die oefen je op de praktijkdag; het gebruik van zuurstof komt terug in les 5.
+Kap- en ballonbeademing is een handeling voor als er twee hulpverleners en de juiste uitrusting zijn. Je zit achter het hoofd, plaatst zo nodig eerst een mayotube, drukt het masker met één hand op het gezicht met een kinlift en knijpt met de andere hand de ballon leeg tot de borstkas omhoog komt. Dit oefen je op de praktijkdag; het gebruik van zuurstof komt terug in les 5.
 
 Ga door met compressies en beademingen tot de AED er is, het slachtoffer weer normaal gaat ademen, de arts zegt dat je mag stoppen of je niet meer kunt.
 
@@ -148,9 +141,9 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 TE VERIFIËREN: Leidende reanimatierichtlijn en editie nog niet gekozen (S041, OB-03); de tekst volgt de DRTC-dia's en moet na die keuze worden vergeleken.
 
-TE VERIFIËREN: De verhouding tussen compressies en beademingen, het aantal beademingen, de diepte en het tempo van compressies staan niet in tekst in de gelezen dia's en zijn daarom niet ingevuld. Mathanje vult ze aan uit S041.
+TE VERIFIËREN: De verhouding 30 op 2, de diepte van 5 tot 6 centimeter, het tempo van ten minste 100 per minuut en twee beademingen binnen 5 seconden komen uit PH4 (S052), dat vermoedelijk uit november 2015 stamt. Mathanje toetst ze aan de gekozen richtlijn (S041, R22), onder meer of een bovengrens voor het tempo wordt genoemd.
 
-TE VERIFIËREN: De beschrijving van de compressies (gestrekte armen, midden op de borstkas, laten terugkomen, hard en snel, kort onderbreken) en van de maskerbeademing (rustig inblazen tot de borstkas omhoog komt) is een eigen formulering bij beeld-only dia's.
+TE VERIFIËREN: De compressietechniek volgt PH4; de zin over zo kort mogelijk onderbreken is een eigen toevoeging.
 
 TE VERIFIËREN: De criteria om te stoppen zijn een DRTC-ontwerp; Mathanje bevestigt ze.
 
@@ -162,19 +155,19 @@ Station MFA-P02: individueel BLS-scenario van drie minuten op een oefenpop met m
 
 ## MFA-L03-S05 De AED gebruiken
 
-Leerdoelen: MFA-12.02. Bronplaats: S043 dia48-49 (gebruik en werking AED, alleen beeld), dia50 (zuurstofmasker opzij bij schok), dia52 (bijzondere situaties: natte huid, beharing, pacemaker of ICD, niet-reanimerenverklaring); S005 blok 14.45-15.45 BLS en AED; S009 p2 item 13.3-13.4. Media: MFA-L03-M05. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-12.02. Bronplaats: S052 (PH4: AED aanzetten, elektroden één voor één, niet meer loshalen, bijzondere situaties, na herstel stabiele zijligging met AED aan); S043 dia48-49 (gebruik en werking AED, alleen beeld), dia50 (zuurstofmasker opzij bij schok), dia52 (bijzondere situaties: natte huid, beharing, pacemaker of ICD, niet-reanimerenverklaring); S005 blok 14.45-15.45 BLS en AED; S009 p2 item 13.3-13.4. Media: MFA-L03-M05. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 7 minuten. Leerfunctie: de cursist weet hoe hij een AED veilig inzet en waar hij op let.
 
 **Cursistentekst**
 
-Een AED analyseert het hartritme en geeft zo nodig een schok. Zodra de AED er is, zet je hem aan en volg je de gesproken aanwijzingen. Ga zo kort mogelijk van de borstkas af.
+Een AED analyseert het hartritme en geeft zo nodig een schok. Zodra de AED er is, zet je hem aan. Sommige AED's gaan aan als je het deksel opent, bij andere druk je op een aan-knop. Er zijn AED's met en zonder schokknop. Volg de gesproken aanwijzingen en ga zo kort mogelijk van de borstkas af.
 
-Plak de elektroden op de ontblote borstkas zoals op de afbeelding van de elektroden staat. Let op bijzondere situaties. Is de huid nat, maak die dan droog. Scheer overtollige beharing op de plakplaats af; in de AED-tas zit daarvoor meestal een scheermesje. Zie je onder de huid een pacemaker of ICD, plak de elektrode er dan niet direct op.
+Plak de elektroden één voor één op de ontblote borstkas zoals op de afbeelding van de elektroden staat. Haal ze er daarna niet meer af. Let op bijzondere situaties. Is de huid nat, maak die dan droog. Scheer overtollige beharing op de plakplaats af; in de AED-tas zit daarvoor meestal een scheermesje. Zie je onder de huid een pacemaker of ICD, plak de elektrode er dan niet direct op.
 
 Tijdens de analyse en de schok raakt niemand het slachtoffer aan. Wordt er zuurstof gegeven, houd het zuurstofmasker dan opzij als de AED een schok geeft.
 
-Na de schok of als geen schok wordt geadviseerd, ga je direct door met reanimeren tot de AED opnieuw analyseert.
+Na de schok of als geen schok wordt geadviseerd, ga je direct door met reanimeren tot de AED opnieuw analyseert. Gaat het slachtoffer weer normaal ademen, leg het dan in stabiele zijligging. Laat de elektroden zitten en de AED aan staan.
 
 **Beeld en bouw**
 
@@ -228,7 +221,7 @@ TE VERIFIËREN: Mathanje beoordeelt de feedback bij K03-02-C, in het bijzonder d
 
 ## MFA-L03-S07 Samen reanimeren
 
-Leerdoelen: MFA-12.02. Bronplaats: S043 dia51 (reanimatie, 2 hulpverleners met AED, alleen beeld); S009 p2 item 13.3-13.4. Media: MFA-L03-M06. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-12.02. Bronplaats: S052 (PH4: indien mogelijk om de 2 minuten wisselen); S043 dia51 (reanimatie, 2 hulpverleners met AED, alleen beeld); S009 p2 item 13.3-13.4. Media: MFA-L03-M06. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 4 minuten. Leerfunctie: de cursist weet hoe twee hulpverleners de taken verdelen.
 
@@ -236,7 +229,7 @@ Begroting 4 minuten. Leerfunctie: de cursist weet hoe twee hulpverleners de take
 
 Met twee hulpverleners verdeel je de taken. De een begint direct met reanimeren, de ander alarmeert en haalt de AED. Zodra de AED er is, zet de tweede hulpverlener hem aan en plakt de elektroden terwijl de eerste doorgaat met compressies.
 
-Wissel elkaar regelmatig af met de compressies, want na een paar minuten wordt drukken minder effectief. Wissel tijdens een analyse van de AED, zodat er geen extra onderbreking is.
+Wissel elkaar om de twee minuten af met de compressies, want daarna wordt drukken minder effectief. Wissel bij voorkeur tijdens een analyse van de AED, zodat er geen extra onderbreking is.
 
 Spreek hardop af wat je doet. Laat een derde persoon de tijd en de schokken noteren, zodat je dat kunt doorgeven aan de arts.
 
@@ -252,7 +245,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 TE VERIFIËREN: Leidende reanimatierichtlijn en editie nog niet gekozen (S041, OB-03); de tekst volgt de DRTC-dia's en moet na die keuze worden vergeleken.
 
-TE VERIFIËREN: De taakverdeling, het moment van wisselen en het noteren door een derde zijn een DRTC-ontwerp; dia51 bevat alleen beeld. Mathanje bevestigt de werkwijze en eventueel een wisselinterval.
+TE VERIFIËREN: Het wisselen om de twee minuten volgt PH4 (S052). De taakverdeling en het noteren door een derde zijn een DRTC-ontwerp; S043 dia51 bevat alleen beeld.
 
 **Verbinding met de praktijkdag**
 
@@ -396,7 +389,7 @@ TE VERIFIËREN: Mathanje beoordeelt de feedback bij K03-04-C; S043 dia11 noemt e
 
 ## MFA-L03-S12 Ernstige uitwendige bloeding
 
-Leerdoelen: MFA-00.03. Bronplaats: S044 dia3 (actieve bloedingen), dia4 (eerste hulp: hoog brengen, 10 minuten druk, dekverband of wonddrukverband, rust, maatregelen bij veel bloedverlies), dia5 (opbouw wonddrukverband); S034 dia51 (stop uitwendige bloeding bij shock); S045 dia41-42 (catastrofale bloeding als eerste in DRS-ABCDE); S009 p1 item 1.1 met PH4-7; S003 Part C 1.1, gedrukte p12 / PDF p18. Media: MFA-L03-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-00.03. Bronplaats: S058 (PH10 dekverband en wonddrukverband); S044 dia3 (actieve bloedingen), dia4 (eerste hulp: hoog brengen, 10 minuten druk, dekverband of wonddrukverband, rust, maatregelen bij veel bloedverlies), dia5 (opbouw wonddrukverband); S034 dia51 (stop uitwendige bloeding bij shock); S045 dia41-42 (catastrofale bloeding als eerste in DRS-ABCDE); S009 p1 item 1.1 met PH4-7; S003 Part C 1.1, gedrukte p12 / PDF p18. Media: MFA-L03-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 7 minuten. Leerfunctie: de cursist herhaalt het herkennen en stoppen van een ernstige uitwendige bloeding uit de elementaire eerste hulp.
 
@@ -404,11 +397,11 @@ Begroting 7 minuten. Leerfunctie: de cursist herhaalt het herkennen en stoppen v
 
 Dit scherm herhaalt wat je in de basisveiligheidstraining hebt geleerd. Een ernstige uitwendige bloeding is levensbedreigend. In DRS-ABCDE stop je die daarom als eerste, nog voor de ademweg. Je herkent die aan bloed dat krachtig of pulserend uit de wond komt, of aan een grote hoeveelheid bloed die snel toeneemt.
 
-Trek handschoenen aan als ze direct bij de hand zijn, maar laat het stoppen van de bloeding daar niet op wachten. Laat een collega alarmeren en de medische uitrusting halen.
+Trek handschoenen aan; in de DRTC-werkwijze is dat de eerste stap. Bij een levensbedreigende bloeding mag het stoppen daar niet op wachten: druk dan eerst met een kompres of doek en trek zo snel mogelijk handschoenen aan. Laat een collega alarmeren en de medische uitrusting halen.
 
 Druk direct en stevig op de wond, met een kompres of een schone doek als dat er is. Breng de wond zo mogelijk hoog en houd de druk tien minuten vol. Laat het slachtoffer liggen.
 
-Stopt de bloeding, dek de wond dan af met een dekverband. Stopt de bloeding niet, leg dan een wonddrukverband aan: een dekverband, daarover watten en een stevige zwachtel. Geef het gewonde lichaamsdeel rust. Dit oefen je op de praktijkdag met de middelen uit de medische uitrusting van DRTC.
+Stopt de bloeding, dek de wond dan volledig af met een dekverband, zoals een snelverband of steriele gazen met een zwachtel. Bloedt het dekverband door, leg dan een wonddrukverband aan: breng synthetische watten circulair aan tot ruim voorbij het dekverband en leg daaroverheen een stevige zwachtel, richting het hart, waarbij iedere slag de vorige voor twee derde overlapt en de watten 2 centimeter laat uitsteken. Zet het verband vast met pleister en controleer op doorbloeden en afknellen. Geef het gewonde lichaamsdeel rust.
 
 Bij veel bloedverlies kan shock ontstaan. Laat het slachtoffer liggen, beoordeel op shock, bescherm tegen afkoelen, geef niets te drinken en neem contact op met de Radio Medische Dienst. Blijf het bewustzijn, de ademhaling, de pols en de huid volgen.
 
@@ -422,7 +415,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: De herkenning en het moment van handschoenen aantrekken zijn een eigen formulering; S044 dia3 spreekt van veel bloed in korte tijd, stootsgewijs of gelijkmatig. S045 dia41-45 gaat over DRS-ABCDE en niet over de bloedingsbehandeling zelf.
+TE VERIFIËREN: De herkenning is een eigen formulering; S044 dia3 spreekt van veel bloed in korte tijd, stootsgewijs of gelijkmatig. PH10 (S058) begint met handschoenen aantrekken; de uitzondering bij een levensbedreigende bloeding is een eigen toevoeging die Mathanje bevestigt.
 
 TE VERIFIËREN: S044 dia4 noemt het hoog brengen van de wond; Mathanje toetst dat aan S041 (R10).
 
@@ -432,9 +425,11 @@ TE VERIFIËREN: Tourniquet en hemostatisch verband staan niet in de gelezen DRTC
 
 TE VERIFIËREN: S001 tabel A-VI/1-3 en S003 Part C 1.1 zijn niet gelezen voor dit onderwerp (zie MFA-00.03).
 
+TE VERIFIËREN: PH12 (S060) beschrijft drukpunten op bovenarm, lies en achter het sleutelbeen. Die zijn niet opgenomen, omdat de matrix (opmerking MFA-02.02) drukpunten niet zonder actualiteitscontrole overneemt. Mathanje beslist (R35).
+
 **Verbinding met de praktijkdag**
 
-Station MFA-P04: de cursist stopt een bloeding op een trainer; SC-MFA-06 met bloedingstrainer of grimering.
+Station MFA-P04: de cursist legt volgens PH10 een dekverband en wonddrukverband aan op een trainer; SC-MFA-06 met bloedingstrainer of grimering.
 
 ## MFA-L03-S13 Het bloedt hevig
 
@@ -562,4 +557,4 @@ Gebruik zestien Rise-secties in de volgorde S01 tot en met S16. De films in S04 
 
 ## Open punten voor Mathanje en DRTC
 
-Mathanje kiest de leidende reanimatierichtlijn en editie (S041, R11) en vult daarna de ontbrekende getallen aan. Zij beoordeelt de bronconflicten die in deze les zichtbaar worden: vijf beademingen vooraf bij verdrinking (S043 dia13 en 28) naast de gewone start met compressies, de mondinspectie na iedere 30 compressies bij verstikking (S034 dia58) en de werkwijze bij ernstige bloeding (R10).  Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R22 tot en met R26.
+Mathanje kiest de leidende reanimatierichtlijn en editie (S041, R11) en toetst daaraan de getallen uit PH4 (R22). Zij beoordeelt de bronconflicten die in deze les zichtbaar worden: vijf beademingen vooraf bij verdrinking (S043 dia13 en 28) naast de gewone start met compressies, de mondinspectie na iedere 30 compressies bij verstikking (S034 dia58) en de werkwijze bij ernstige bloeding (R10).  Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R22 tot en met R26.

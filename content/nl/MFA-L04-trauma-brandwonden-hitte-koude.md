@@ -1,6 +1,6 @@
 # Trauma, brandwonden, hitte en koude
 
-Les MFA-L04, versie 0.2, 20 november 2026. Versie 0.2 voegt deel B toe op basis van dag 1 ochtend (S045). Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
+Les MFA-L04, versie 0.3, 20 november 2026. Versie 0.2 voegt deel B toe op basis van dag 1 ochtend (S045); versie 0.3 verwerkt de praktijkhandelingen PH6 tot en met PH9 (S054 tot en met S057) en het patiëntevaluatieformulier (S046). Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 De les heeft twee delen. Deel A, S01 tot en met S11, behandelt brandwonden, hitte en koude (MFA-06.01 tot en met 06.06). Deel B, S12 tot en met S22, behandelt letsel van wervels, hoofd, botten en gewrichten en bewusteloosheid (MFA-05.01 tot en met 05.04 en MFA-07.01 tot en met 07.05). Weergavevolgorde: deel B eerst, omdat het aansluit op het onderzoek uit les 2, daarna deel A. De scherm-ID's volgen de volgorde van uitwerking.
 
@@ -14,7 +14,7 @@ De les heeft twee delen. Deel A, S01 tot en met S11, behandelt brandwonden, hitt
 | Leervorm | Rise; tabbladen, beeldvergelijking en keuzevragen; geen sleepopdracht |
 | Studieduur | Begroting 85 minuten, gelijk aan de moduleraming: deel A 41 en deel B 44 minuten. Nog te meten |
 | Praktijkkoppeling | Station MFA-P05 letsel, immobiliseren en verplaatsen; afdekken in MFA-P04; SC-MFA-02 val van een trap, SC-MFA-03 brandwond in de kombuis, SC-MFA-05 geredde persoon |
-| Bronnen | S044, S043, S045 en S034 (direct gelezen via tekstexport), S003, S009; PH8, PH9 en PH10 nog te lezen |
+| Bronnen | S044, S043, S045 en S034 (direct gelezen via tekstexport), S046, S054 tot en met S058, S003, S009 |
 | Engelse opvolger | Nog niet gestart |
 
 ## Leerdoelen en dekking
@@ -39,7 +39,7 @@ De les heeft twee delen. Deel A, S01 tot en met S11, behandelt brandwonden, hitt
 
 STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden wervelletsel, brandwonden en effecten van hitte en koude, en breuken, ontwrichtingen en spierletsel (kolom 2); beoordeling van bewijs uit praktijkinstructie (kolom 3); projectcriteria K1 tot en met K3 (kolom 4).
 
-Bronstatus: S044 (4. MFA dag 2 middag, voettekst rev.002) is op 20 november 2026 als tekstexport gelezen; dia's met alleen een titel (onder meer 23, 27, 29 en 30) bevatten beeld dat niet is beoordeeld. S043 dia7 tot en met 14 en 29 zijn de bron voor onderkoeling. S045 (1. MFA dag 1 ochtend, 105 pagina's) is daarna gelezen voor deel B; veel traumadia's bevatten alleen beeld. De praktijkhandelingen PH8, PH9 en PH10 zijn niet gelezen.
+Bronstatus: S044 (4. MFA dag 2 middag, voettekst rev.002) is op 20 november 2026 als tekstexport gelezen; dia's met alleen een titel (onder meer 23, 27, 29 en 30) bevatten beeld dat niet is beoordeeld. S043 dia7 tot en met 14 en 29 zijn de bron voor onderkoeling. S045 (1. MFA dag 1 ochtend, 105 pagina's) is daarna gelezen voor deel B; veel traumadia's bevatten alleen beeld. De praktijkhandelingen PH6 tot en met PH10 (S054 tot en met S058) zijn daarna gelezen.
 
 De schermrecords staan in [MFA-L04-schermreview.csv](../../reviews/MFA-L04-schermreview.csv). Wijzig master en CSV samen.
 
@@ -165,7 +165,7 @@ SC-MFA-03: de cursist koelt, beschermt tegen afkoelen en bereidt het RMD-contact
 
 ## MFA-L04-S05 Een brandwond steriel afdekken
 
-Leerdoelen: MFA-06.03. Bronplaats: S044 dia24 (afdekken, blaren heel laten, vastzittende kleding niet verwijderen) en dia31 (vingers apart verbinden, bij bevriezing); S009 p1 item 7.5-7.6 met PH10 (niet gelezen). Media: MFA-L04-M04. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-06.03. Bronplaats: S044 dia24 (afdekken, blaren heel laten, vastzittende kleding niet verwijderen) en dia31 (vingers apart verbinden, bij bevriezing); S009 p1 item 7.5-7.6 en S058 (PH10 dekverband). Media: MFA-L04-M04. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 4 minuten. Leerfunctie: de cursist begrijpt waarom en hoe een brandwond steriel wordt afgedekt.
 
@@ -189,7 +189,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: De werkwijze voor afdekken staat in PH10, die niet is gelezen. Handhygiëne en verpakking controleren volgen MFA-L01-S07; los afdekken en vingers apart verbinden zijn een eigen formulering en moeten met PH10 worden vergeleken.
+TE VERIFIËREN: PH10 (S058) beschrijft het dekverband in het algemeen: handschoenen, de wond volledig afdekken. Los afdekken van een brandwond en vingers apart verbinden zijn een eigen formulering bij S044 dia24 en 31.
 
 TE VERIFIËREN: DRTC bevestigt welk brandwondenverband in de trainingsuitrusting zit.
 
@@ -413,7 +413,7 @@ SC-MFA-02 val van een trap: de cursist begint met DRS-ABCDE voordat hij het lets
 
 ## MFA-L04-S13 Wervelletsel herkennen en stabiliseren
 
-Leerdoelen: MFA-05.01; MFA-05.03. Bronplaats: S045 dia17-19 (zenuwstelsel, alleen beeld), dia20-22 (wervelletsel: hoofd stabiliseren, RMA/TMAS, nekspalk, zuurstof, afwijkende motoriek en gevoel), dia23-25 (nekspalk: stabiliseren, meten, aanbrengen; alleen beeld); S043 dia54-65 (Rautek, brancards, lift-, zweef- en log-roll methode, grotendeels beeld); S034 dia53 (bedacht zijn op letsel aan nek en wervelkolom); S009 p1 item 6.1 en 6.3 met PH8 (niet gelezen). Media: MFA-L04-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-05.01; MFA-05.03. Bronplaats: S056 (PH8 aanbrengen nekspalk bij hoogenergetisch trauma); S045 dia17-19 (zenuwstelsel, alleen beeld), dia20-22 (wervelletsel: hoofd stabiliseren, RMA/TMAS, nekspalk, zuurstof, afwijkende motoriek en gevoel), dia23-25 (nekspalk: stabiliseren, meten, aanbrengen; alleen beeld); S043 dia54-65 (Rautek, brancards, lift-, zweef- en log-roll methode, grotendeels beeld); S034 dia53 (bedacht zijn op letsel aan nek en wervelkolom); S009 p1 item 6.1 en 6.3. Media: MFA-L04-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 5 minuten. Leerfunctie: de cursist herkent mogelijk wervelletsel en kent de eerste stappen om de nek en rug te beschermen.
 
@@ -425,7 +425,7 @@ Stabiliseer het hoofd. Ga achter het slachtoffer zitten en houd het hoofd met be
 
 Raadpleeg de Radio Medische Dienst.
 
-DRTC leert het aanbrengen van een nekspalk in drie stappen: stabiliseren, de juiste maat meten en de spalk aanbrengen. Dat oefen je op de praktijkdag. Volgens de DRTC-werkwijze geef je zuurstof; dat leer je in les 5.
+Bij een hoogenergetisch trauma, zoals een val van hoogte, maak je de nek onbeweeglijk met een verstelbare nekkraag. Dat doe je met twee hulpverleners. De eerste fixeert de nek en brengt het hoofd voorzichtig in een neutrale stand. De tweede meet met de vingers de maat, stelt de nekkraag in, schuift een deel onder de nek, plaatst het kindeel tegen de kin en sluit de kraag met het klittenband. Controleer of de kraag recht zit, niet te hoog of te laag, en of het slachtoffer de mond nog kan openen. Blijf het hoofd steunen en vul zo nodig de ruimte onder het hoofd op. Dit oefen je op de praktijkdag. Volgens de DRTC-werkwijze geef je zuurstof; dat leer je in les 5.
 
 Moet het slachtoffer toch worden verplaatst, bijvoorbeeld omdat de omgeving onveilig is of om het in een brancard te leggen, dan doe je dat met meerdere hulpverleners en met de log-roll methode, waarbij hoofd, nek en romp in één lijn blijven.
 
@@ -443,7 +443,7 @@ TE VERIFIËREN: De nekspalk staat in de DRTC-presentatie en in het programma van
 
 TE VERIFIËREN: Zuurstof bij wervelletsel volgt S045 dia21; Mathanje bevestigt.
 
-TE VERIFIËREN: De handgreep voor het stabiliseren en de uitleg van de log-roll zijn een eigen formulering; PH8 is niet gelezen.
+TE VERIFIËREN: De stappen van de nekkraag volgen PH8 (S056). De handgreep voor het stabiliseren en de uitleg van de log-roll zijn een eigen formulering.
 
 **Verbinding met de praktijkdag**
 
@@ -479,7 +479,7 @@ TE VERIFIËREN: Mathanje beoordeelt de feedback bij K04-05-C.
 
 ## MFA-L04-S15 Bewusteloos: de ademweg vrij houden
 
-Leerdoelen: MFA-05.02. Bronplaats: S034 dia65-66 (benaderen, ademhaling controleren, stabiele zijligging bij effectieve ademhaling), dia67-68 (films stabiele zijligging en buik-rugdraai); S043 dia34-35 (mayotube: alleen bij volledig bewusteloze slachtoffers zonder braakreflex, goede maat); S009 p1 item 6.2 met PH6-7 (niet gelezen). Media: MFA-L04-M10. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-05.02. Bronplaats: S055 (PH7 ademweg vrij maken en stabiele zijligging, met hoogenergetisch trauma); S054 (PH6 inbrengen mayotube); S034 dia65-66 (benaderen, ademhaling controleren, stabiele zijligging bij effectieve ademhaling), dia67-68 (films stabiele zijligging en buik-rugdraai); S043 dia34-35 (mayotube: alleen bij volledig bewusteloze slachtoffers zonder braakreflex, goede maat); S009 p1 item 6.2. Media: MFA-L04-M10. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 4 minuten. Leerfunctie: de cursist kent de gevaren van bewusteloosheid en hoe hij de ademweg vrij houdt.
 
@@ -487,11 +487,11 @@ Begroting 4 minuten. Leerfunctie: de cursist kent de gevaren van bewusteloosheid
 
 Een bewusteloos slachtoffer kan zelf de ademweg niet vrij houden. De tong kan de keel afsluiten en braaksel of bloed kan in de luchtpijp komen. Zonder vrije ademweg ontstaat binnen enkele minuten zuurstoftekort.
 
-Ademt het slachtoffer normaal, leg het dan in stabiele zijligging. Zo blijft de ademweg vrij en kan braaksel naar buiten lopen. Ligt het slachtoffer op de buik, draai het dan met de buik-rugdraai op de rug om de ademhaling te controleren. Blijf de ademhaling controleren.
+Ademt het slachtoffer normaal, leg het dan in stabiele zijligging. Leg de dichtstbijzijnde arm in een hoek van 90 graden. Leg de andere hand tegen de dichtstbijzijnde wang en houd die vast. Buig de verste knie met de voet op de grond en trek de knie naar je toe tot het slachtoffer op de zij rolt, door tot de elleboog de grond raakt. Kantel het hoofd voorzichtig naar achteren zodat de ademweg vrij blijft en leg het bovenste been in een hoek van 90 graden. Controleer elke minuut maximaal tien seconden de ademhaling. Ligt het slachtoffer op de buik, draai het dan eerst met de buik-rugdraai op de rug om de ademhaling te controleren.
 
-Bij vermoedelijk wervelletsel draai je zo weinig mogelijk. Lukt het niet om de ademweg vrij te houden, dan gaat de ademweg voor; draai dan met meerdere hulpverleners en houd hoofd en romp in één lijn.
+Bij een hoogenergetisch trauma steun je eerst de nek en breng je een nekspalk aan voordat je draait. Lukt het niet om de ademweg vrij te houden, dan gaat de ademweg voor; draai dan met meerdere hulpverleners en houd hoofd en romp in één lijn.
 
-Een mayotube houdt de ademweg vrij bij een volledig bewusteloos slachtoffer zonder braakreflex. Je kiest de goede maat. Het inbrengen oefen je op de praktijkdag.
+Een mayotube houdt de ademweg vrij bij een volledig bewusteloos slachtoffer zonder braakreflex in rugligging. Kies de juiste maat: van de mondhoek tot de aanhechting van de oorlel. Breng de tube met de holle kant naar je toe langs het verhemelte in, draai hem halverwege voorzichtig over de tong en schuif door tot de opstaande rand de lippen raakt. Blijf de ademhaling controleren. Het inbrengen oefen je op de praktijkdag.
 
 **Beeld en bouw**
 
@@ -503,7 +503,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: De complicaties van bewusteloosheid en de afweging tussen ademweg en wervelletsel zijn een eigen formulering. Mathanje bevestigt de afweging.
+TE VERIFIËREN: De stappen van de stabiele zijligging en het controle-interval volgen PH7 (S055), de mayotube PH6 (S054). De complicaties van bewusteloosheid zijn een eigen formulering. PH6 beschrijft de maat als opstaande rand bij de lippen en kromming bij de oorlel; Mathanje bevestigt de formulering van de maat.
 
 TE VERIFIËREN: S034 dia53 noemt bij een bewusteloos hangtraumaslachtoffer een stabiele zijligging met twee opgetrokken benen; deze les noemt alleen de gewone stabiele zijligging.
 
@@ -513,7 +513,7 @@ Station MFA-P02 en de scenario's: de cursist legt een bewusteloos maar ademend s
 
 ## MFA-L04-S16 Hoofdletsel en bewustzijn
 
-Leerdoelen: MFA-05.04. Bronplaats: S045 dia26-28 (hoofdletsel, schedelbasis, bloedingen onder de schedel), dia29 (onderzoek), dia30 (signalen ernstig hoofdletsel), dia31 (behandeling ernstig hoofdletsel), dia32-33 (hersenschudding en behandeling, zwelling, scheurwonden); S009 p1 item 6.4. Media: MFA-L04-M11. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-05.04. Bronplaats: S045 dia26-28 (hoofdletsel, schedelbasis, bloedingen onder de schedel), dia29 (onderzoek), dia30 (signalen ernstig hoofdletsel), dia31 (behandeling ernstig hoofdletsel), dia32-33 (hersenschudding en behandeling, zwelling, scheurwonden); S009 p1 item 6.4. S046 p1 (Glasgow Coma Schaal). Media: MFA-L04-M11. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 5 minuten. Leerfunctie: de cursist herkent ernstig hoofdletsel en legt veranderingen in bewustzijn vast.
 
@@ -525,7 +525,7 @@ Onderzoek bij hoofdletsel: het bewustzijnsniveau, de grootte van de pupillen en 
 
 Signalen van ernstig hoofdletsel: helder vocht uit oren of neus, een verslechterende ademhaling, bewusteloosheid, hoofdpijn, braken, niet meer kunnen zien, ruiken of horen, epileptische aanvallen en blauwe plekken rond beide ogen, een brilhematoom.
 
-Bij ernstig hoofdletsel controleer je ABCDE, behandel je het als mogelijk wervelletsel, bepaal en noteer je het bewustzijnsniveau en de pupillen en raadpleeg je de Radio Medische Dienst. Geef een duidelijke beschrijving van het ongeval en van het verloop in de tijd.
+Bij ernstig hoofdletsel controleer je ABCDE, behandel je het als mogelijk wervelletsel, bepaal en noteer je het bewustzijnsniveau met de Glasgow Coma Schaal op het patiëntevaluatieformulier, controleer je de pupillen en raadpleeg je de Radio Medische Dienst. Geef een duidelijke beschrijving van het ongeval en van het verloop in de tijd.
 
 Bij een hersenschudding heeft het slachtoffer hoofdpijn, is het duizelig, misselijk of lichtschuw, weet het korte tijd niet meer wat er gebeurde of is het kort buiten bewustzijn geweest. Het slachtoffer heeft rust nodig en wordt volgens wekadvies regelmatig gewekt en beoordeeld. Raadpleeg bij twijfel de Radio Medische Dienst.
 
@@ -617,7 +617,7 @@ Station MFA-P05: de cursist onderzoekt een gesimuleerd letsel en benoemt wat hij
 
 ## MFA-L04-S19 Ondersteunen en spalken
 
-Leerdoelen: MFA-07.02; MFA-07.05. Bronplaats: S045 dia67 (bloeding behandelen, immobiliseren, reponeren alleen in overleg met een arts), dia74 (brede das, RMA/TMAS, body splinting), dia80 (na repositie kleur, temperatuur en capillaire refill controleren), dia82 (driekante doek, brede das), dia83 (mitella of spalk, circulatie), dia87 (mitella), dia100 (spalken been, alleen beeld); S009 p1 item 8.3-8.4 en 8.7-8.8 met PH9 (niet gelezen). Media: MFA-L04-M13. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-07.02; MFA-07.05. Bronplaats: S057 (PH9 vacuümspalk arm en been); S045 dia67 (bloeding behandelen, immobiliseren, reponeren alleen in overleg met een arts), dia74 (brede das, RMA/TMAS, body splinting), dia80 (na repositie kleur, temperatuur en capillaire refill controleren), dia82 (driekante doek, brede das), dia83 (mitella of spalk, circulatie), dia87 (mitella), dia100 (spalken been, alleen beeld); S009 p1 item 8.3-8.4 en 8.7-8.8. Media: MFA-L04-M13. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 5 minuten. Leerfunctie: de cursist kent het doel van ondersteunen en spalken en controleert het effect.
 
@@ -627,7 +627,7 @@ Je ondersteunt of immobiliseert een breuk of ontwrichting om pijn te verminderen
 
 Arm en schouder. Bij letsel aan sleutelbeen, bovenarm, elleboog of schouder geef je rust en steun met een brede das van een driekante doek, eventueel aangevuld met body splinting, waarbij de arm aan de romp wordt vastgezet. Bij letsel aan onderarm, pols of vingers gebruik je een mitella of een spalk.
 
-Been. Een gebroken been immobiliseer je met een spalk uit de medische uitrusting, zodat de gewrichten boven en onder de breuk niet kunnen bewegen.
+Been en arm. DRTC gebruikt een vacuümspalk. Steun het gebroken lichaamsdeel en houd het onbeweeglijk. Knip bij een open breuk zo nodig de kleding open en dek de wond steriel af. Verdeel de korrels in de spalk gelijkmatig. Til het lichaamsdeel op, zo mogelijk vóór de dichtstbijzijnde gewrichten, terwijl een tweede hulpverlener de spalk eronder schuift. Leg het lichaamsdeel neer en houd het vast. De tweede hulpverlener vormt de spalk om het lichaamsdeel, sluit de klittenbanden en zuigt de lucht eruit met de pomp. Als de spalk hard is, laat de eerste los. Noteer de tijd van aanbrengen.
 
 Controleer voor en na het aanleggen de circulatie voorbij het letsel: kleur, temperatuur en capillaire refill. Druk daarvoor kort op een nagel en kijk of de kleur binnen enkele seconden terugkomt. Is de circulatie slechter geworden, maak de spalk of das dan losser en raadpleeg de Radio Medische Dienst.
 
@@ -645,15 +645,15 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 TE VERIFIËREN: S045 dia62-64 en 75-105 tonen grotendeels alleen beeld; waar een scherm meer zegt dan de tekst op de dia, is dat een eigen formulering.
 
-TE VERIFIËREN: Het spalksysteem van DRTC is niet bekend; het model noemt pneumatische spalken (zie opmerking MFA-07.05). DRTC bevestigt welke spalken in MFA-P05 worden gebruikt.
+TE VERIFIËREN: Het spalksysteem volgt PH9 (S057, vacuümspalk). Het model noemt pneumatische spalken (zie opmerking MFA-07.05); DRTC bevestigt dat de vacuümspalk in MFA-P05 wordt gebruikt.
 
-TE VERIFIËREN: De regel over gewrichten boven en onder de breuk en de uitleg van de capillaire refill zijn een eigen formulering.
+TE VERIFIËREN: De uitleg van de capillaire refill is een eigen formulering. PH9 noemt overleg met de RMD over pijnstilling en terugplaatsen als de doorbloeding gevaar loopt; dat is als overleg opgenomen, niet als handeling.
 
 TE VERIFIËREN: S045 dia83 noemt het terugplaatsen van ontwrichte vingers en dia78 een methode voor schouderontwrichting met pijnmedicatie. Beide zijn hier niet opgenomen; Mathanje beslist of ze in MFA horen (R34).
 
 **Verbinding met de praktijkdag**
 
-Station MFA-P05: de cursist legt een passende ondersteuning of spalk aan en controleert de circulatie voor en na.
+Station MFA-P05: de cursist legt een passende ondersteuning of een vacuümspalk volgens PH9 aan en controleert de circulatie voor en na.
 
 ## MFA-L04-S20 Bekkenletsel
 
@@ -755,4 +755,4 @@ Gebruik 22 Rise-secties in de weergavevolgorde S12 tot en met S22 en daarna S01 
 
 ## Open punten voor Mathanje en DRTC
 
-Mathanje beoordeelt de koeltijd en watertemperatuur bij brandwonden, de opwarmduur bij bevriezing, de ORS-hoeveelheid bij hitte en de grens tussen lichte en ernstige onderkoeling, alle zoals ze in de DRTC-dia's staan. Voor deel B beoordeelt zij de nekspalk, zuurstof bij wervelletsel, de bekkenspalk en de handelingen die bewust zijn weggelaten: reponeren van vingers en schouder, pijnmedicatie en infuus. DRTC levert PH8, PH9 en PH10 en bevestigt welke spalken in MFA-P05 worden gebruikt. Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R27 tot en met R34.
+Mathanje beoordeelt de koeltijd en watertemperatuur bij brandwonden, de opwarmduur bij bevriezing, de ORS-hoeveelheid bij hitte en de grens tussen lichte en ernstige onderkoeling, alle zoals ze in de DRTC-dia's staan. Voor deel B beoordeelt zij de nekspalk, zuurstof bij wervelletsel, de bekkenspalk en de handelingen die bewust zijn weggelaten: reponeren van vingers en schouder, pijnmedicatie en infuus. PH9 (S057) noemt een vacuümspalk; DRTC bevestigt dat dit de spalk in MFA-P05 is. Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R27 tot en met R34.
