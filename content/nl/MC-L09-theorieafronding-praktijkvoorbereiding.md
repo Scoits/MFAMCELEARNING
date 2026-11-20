@@ -145,7 +145,7 @@ TE VERIFIËREN: Of het station urinekatheter ook infuus omvat, hangt af van het 
 
 TE VERIFIËREN: 'Minstens twee keer leidend zorgverlener' volgt de praktijkplanning (twee leidende rollen per cursist) en is nog niet vastgesteld.
 
-TE VERIFIËREN: Wat de cursist naast een identiteitsbewijs meeneemt, bijvoorbeeld een bewijs van het MFA-certificaat, is nog niet vastgesteld (R88).
+TE VERIFIËREN: Wat de cursist meeneemt, regelt DRTC via de uitnodiging (Martijn, 20 november 2026). Stem de zin over het identiteitsbewijs af op die uitnodiging.
 
 **Verbinding met de praktijkdag**
 
@@ -185,7 +185,7 @@ TE VERIFIËREN: De toetsmatrijs raamt 60 tot 75 minuten voor 50 items; deze les 
 
 TE VERIFIËREN: Toetsduur, aantal items, slagingsgrens en pogingen zijn niet vastgesteld.
 
-TE VERIFIËREN: Hoe de identiteit bij de online toets wordt vastgesteld, is open (E01, R44).
+TE VERIFIËREN: Hoe de identiteit vóór de online toets wordt vastgesteld, staat als voorstel in docs/identificatieplan-v001.md. DRTC kiest (R44, OB-09). Pas de cursistentekst aan na die keuze.
 
 TE VERIFIËREN: Of Moodle Quiz de trekking per categorie en de gewenste terugkoppeling ondersteunt, is nog niet op de werkelijke installatie getoetst.
 

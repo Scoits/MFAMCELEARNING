@@ -139,7 +139,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 TE VERIFIËREN: De dagindeling is een ontwerpvoorstel uit de praktijkplanning en volgt het MFA-voorstel van Mathanje (halve dag handelingen, halve dag scenario's, MH-001). DRTC bevestigt de dagindeling voordat de les wordt gebouwd.
 
-TE VERIFIËREN: Wat de cursist naast een identiteitsbewijs meeneemt, zoals een ingevuld patiëntevaluatieformulier of een bewijs van de online voorbereiding, is nog niet vastgesteld (R45).
+TE VERIFIËREN: Wat de cursist meeneemt, regelt DRTC via de uitnodiging (Martijn, 20 november 2026). Stem de zin over het identiteitsbewijs af op die uitnodiging.
 
 **Verbinding met de praktijkdag**
 
@@ -175,7 +175,7 @@ De toets wordt getrokken uit de afgeschermde vragenbank volgens de [toetsmatrijs
 
 TE VERIFIËREN: Toetsduur, aantal items, slagingsgrens en pogingen zijn niet vastgesteld; de 45 minuten zijn de ondergrens van de raming in de toetsmatrijs (R43).
 
-TE VERIFIËREN: Hoe de identiteit van de cursist bij de online toets wordt vastgesteld, is open (E01, R44).
+TE VERIFIËREN: Hoe de identiteit vóór de online toets wordt vastgesteld, staat als voorstel in docs/identificatieplan-v001.md (videocontrole met quizwachtwoord, of een bevestigingstoets op locatie). DRTC kiest (R44, OB-09). Pas de cursistentekst aan na die keuze.
 
 TE VERIFIËREN: Of Moodle Quiz de trekking per categorie en de gewenste terugkoppeling ondersteunt, is nog niet op de werkelijke installatie getoetst.
 

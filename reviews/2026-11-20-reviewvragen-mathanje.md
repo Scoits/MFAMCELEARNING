@@ -206,3 +206,10 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R89 | SC-MC-01 tot en met 08, BC-43 | Is S076 de actuele lijst van LOTUS-letsels voor MC, en kan DRTC de bijbehorende kaarten aanleveren? De archiefkaarten S077 hebben een andere nummering. (vraag aan DRTC) |
 | R90 | BC-45 | Wordt het ziekte- en infectieleerspel (S081) in de MC-praktijk gebruikt? De hepatitiskaart bevat de tekst van cholera en moet dan worden hersteld. (vraag aan DRTC) |
 | R91 | BC-42 | Welke registratievorm is leidend voor de MC-praktijk: de verrichtingenlijst 2024 (S075, 23 verrichtingen) of de assessmentlijst 2026v1 (S008, 31 STCW-onderdelen)? (vraag aan DRTC) |
+
+## Antwoorden van Martijn op 20 november 2026
+
+| Nr | Antwoord | Verwerking |
+| --- | --- | --- |
+| R44 | Martijn vroeg of IaT 4 een eis stelt en stelde een korte entreetoets op locatie voor | IaT 4 par. 6.3 punt 1 eist identificatie bij start, elke inlog en vóór het examen, zonder methode. Voorstel in docs/identificatieplan-v001.md; keuze open als OB-09 |
+| R45, R88 (meenemen) | DRTC regelt wat de cursist meeneemt via de eigen uitnodigingen | Gesloten voor de lessen; MFA-L08-S04 en MC-L09-S04 stemmen de zin af op de uitnodiging. Het deel van R45 over de zelfinventarisatie en het deel van R88 over variant A of B blijven open |

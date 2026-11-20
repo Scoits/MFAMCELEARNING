@@ -54,6 +54,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | OB-06 | Klassieke duur voor CBT-02. Het rooster S047 laat zien dat 40 uur MFA (twee dagen) en MC (drie dagen) samen is; de hybride uitvoering is per opleiding niet korter (docs/urenvergelijking-v001.md). Nog te bevestigen: een online dag telt als 480 minuten en de vergelijking geldt voor de hele opleiding | DRTC | Onderbouwing staat; bevestiging en pilotmeting open |
 | OB-07 | Aantal instructeur-assessoren per dagdeel | DRTC | Zie praktijkplanning; met twee is MC te krap |
 | OB-08 | Eerder open: bevalling (MC-20.02), psychosociaal (MFA-13), medicatiegrens (MFA-10.02), actuele STCW-editie, S034 | Mathanje en DRTC | Raakt MC-L06, MFA-L06 en de normcontrole |
+| OB-09 | Identificatie vóór de online eindtoets: videocontrole met quizwachtwoord (voorstel) of bevestigingstoets op locatie | DRTC, zo nodig met ILT | Voorstel in [identificatieplan](identificatieplan-v001.md); Moodle-functies nog op de installatie te controleren |
 
 ## Volgende stap
 

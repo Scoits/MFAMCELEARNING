@@ -30,7 +30,7 @@ Bij ingebedde Storyline-scenario's worden afronding, totaalscore en afzonderlijk
 | Ondersteuning | Cursist kan technisch en inhoudelijk hulp vragen |
 | Overdracht naar praktijk | Instructeur kan vooraf zien welke theorie is afgerond en waar begeleiding nodig is |
 
-De identificatieprocedure wordt afzonderlijk uitgewerkt voor de in IaT 4 genoemde momenten. Een account of login bewijst op zichzelf niet dat alle controles zijn uitgevoerd. Exacte slagingsnormen, pogingen en toegangseisen worden later vastgesteld.
+De identificatieprocedure voor de in IaT 4 genoemde momenten staat als voorstel in [identificatieplan](../docs/identificatieplan-v001.md). Een account of login bewijst op zichzelf niet dat alle controles zijn uitgevoerd. Exacte slagingsnormen, pogingen en toegangseisen worden later vastgesteld.
 
 Gebruik testaccounts en fictieve gegevens voor de proef. Bewaar echte cursistgegevens, configuratiegeheimen en examenvragen in de daarvoor bestemde afgeschermde omgeving.
 
