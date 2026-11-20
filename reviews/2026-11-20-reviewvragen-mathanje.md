@@ -136,3 +136,13 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R57 | MC-L03-S12 | S064 dia29 noemt hoofd 5, liezen 7 en elders 10 dagen, gemiddeld 8. Is met liezen ledematen bedoeld, en welke termijnen leert MC? |
 | R58 | MC-L03-S10 | Worden instrumenten aan boord hergebruikt na desinfectie, of alleen steriel wegwerpmateriaal en nieuwe sets? De les zegt: hechten met steriel wegwerpmateriaal. (vraag aan DRTC) |
 | R59 | MC-L03-S02 | De beschrijvingen van de wondsoorten, in het bijzonder hogedruk- en hydrauliekletsel, zijn eigen tekst omdat S064 alleen titels en foto's heeft. Kloppen ze? |
+
+## Aanvulling bij MC-L04
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R60 | MC-L04-S07, BC-36 | PH1 (2015) en S063 (2024) verschillen: spierbundel oppakken of huid spannen bij een injectie in de spier; bij bloed 0,5 of 0,3 centimeter terugtrekken of opnieuw beginnen; wel of niet masseren. De les volgt S063 en kiest bij bloed voor opnieuw beginnen. Klopt dat? |
+| R61 | MC-L04-S06, S07 | Welke injectieplaatsen leert MC voor een injectie in de spier en onder de huid, en welke naaldhoek? Geen van beide staat in S063. |
+| R62 | MC-L04-S10 | PH14 beschrijft alleen katheteriseren bij een man. Hoort katheteriseren bij een vrouw in MC, en waar is de bron 'zelfkatheterisatie vrouw' uit de oude matrix? |
+| R63 | MC-L04-S10 | PH14 noemt de dikste maat urinekatheter en verwijst naar 11.5.06 en 11.5.07. Is dat de nummering van de scheepsapotheek, en welke maat geldt nu? (vraag aan DRTC) |
+| R64 | MC-L04, MC-V03 | Het scopebesluit infuus is nog open. S063 dia38-68 en PH3 zijn gelezen. Als infuus blijft, voegen we een les of schermen toe; deze les telt daar nu geen tijd voor. |
