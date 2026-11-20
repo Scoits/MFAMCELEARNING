@@ -146,3 +146,14 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R62 | MC-L04-S10 | PH14 beschrijft alleen katheteriseren bij een man. Hoort katheteriseren bij een vrouw in MC, en waar is de bron 'zelfkatheterisatie vrouw' uit de oude matrix? |
 | R63 | MC-L04-S10 | PH14 noemt de dikste maat urinekatheter en verwijst naar 11.5.06 en 11.5.07. Is dat de nummering van de scheepsapotheek, en welke maat geldt nu? (vraag aan DRTC) |
 | R64 | MC-L04, MC-V03 | Het scopebesluit infuus is nog open. S063 dia38-68 en PH3 zijn gelezen. Als infuus blijft, voegen we een les of schermen toe; deze les telt daar nu geen tijd voor. |
+
+## Aanvulling bij MC-L05
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R65 | MC-L05-S03, S04 | De les zegt: bij acute buikklachten geen pijnstillers, eten of drinken voor overleg met de arts, en overleg ook bij lichte klachten die na enkele uren niet afnemen. Klopt dat? |
+| R66 | MC-L05-S05 | S062 dia53 noemt een middel onder de tong bij pijn op de borst, in overleg met de RMD. De les noemt geen naam of dosering. Moet MC het middel bij naam kennen? |
+| R67 | MC-L05-S10 | De ernstige allergische reactie staat niet afzonderlijk in de DRTC-presentaties. Klopt de eigen tekst, en mag een MC-zorgverlener op advies van de arts een adrenaline-auto-injector toedienen? |
+| R68 | MC-L05-S13 | S062 dia9-11 beschrijft de Nederlandse meldingsplicht in groepen. Wat moet MC weten over melden aan boord en bij aankomst in een haven? (vraag ook aan DRTC) |
+| R69 | MC-L05-S14 | De maatregelen bij een uitbraak van maag-darminfectie zijn een eigen uitwerking. Kloppen ze, en is het bewaren van verdacht voedsel voor onderzoek gewenst? |
+| R70 | MC-L05-S17 | Klopt de formulering over malariaprofylaxe (rederij en bemanning verantwoordelijk) en vaccinatie tegen gele koorts, buiktyfus en dengue? |
