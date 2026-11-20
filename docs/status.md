@@ -5,6 +5,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.3. Het project bevat een brongek
 | Onderdeel | Status | Vindplaats |
 | --- | --- | --- |
 | Brede projectcontrole v003 | Uitgevoerd; correcties en resterend werk beschreven | [Projectcontrole](projectcontrole-v003.md) |
+| Cursusopbouw voor Mathanje | Negen MFA- en tien MC-blokken; bronstatus, praktijkdagen en mobiele acceptatie-eis beschreven | [Bespreekversie](cursusopbouw-voor-medische-review.md) |
 | Besluiten en kaders | Zelfstandige MFA/MC en combinatie; Nederlandse master; Mathanje; Articulate en Moodle | [Besluiten](besluiten.md) |
 | MFA | 50 concrete doelen; AED-uitwerking expliciet gemaakt | [MFA-matrix](../curriculum/mfa-dekkingsmatrix.csv) |
 | MC | 68 doelen; passend individueel bewijs per doel | [MC-matrix](../curriculum/mc-dekkingsmatrix.csv) |

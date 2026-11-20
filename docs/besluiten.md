@@ -16,6 +16,7 @@ Deze eerder door Martijn bevestigde besluiten zijn op 20 november 2026 samengebr
 | B10 | Moodle wordt bij Hetzner gehost; Hetzner is hier niet de host van ChainWise | Eerder door Martijn bevestigd op 31 oktober 2026; inrichting niet live gecontroleerd |
 | B11 | ChainWise is gekoppeld aan Moodle; de DRTC-website koppelt aan Moodle voor inschrijvingen | Eerder door Martijn bevestigd op 31 oktober 2026; precieze gegevensroute nog te controleren |
 | B12 | De bestaande DRTC-stijl en templates in Articulate worden hergebruikt voor MFA, MC en de Engelse opvolgers | Door Martijn bevestigd op 20 november 2026; exacte broncursus of templatelink nog vast te leggen |
+| B13 | Alle online lessen, oefeningen, scenario's en toetsen moeten bruikbaar zijn op mobiel, tablet en computer | Door Martijn bevestigd op 20 november 2026; werking in de volledige keten nog te testen |
 
 ## Ontwerpvoorstellen
 

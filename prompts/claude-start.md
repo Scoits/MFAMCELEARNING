@@ -41,3 +41,7 @@ Neem de keten website, ChainWise en Moodle mee in het proefplan; Moodle wordt bi
 ## Bestaande vormgeving behouden
 
 DRTC heeft al een stijl in Articulate ingericht; Martijn heeft bevestigd dat die wordt hergebruikt. Werk de MFA/MC-inhoud en Engelse opvolgers binnen die bestaande stijl uit. Gebruik bij de bouw de bestaande template of referentiecursus en leg bron en versie vast. De exacte link is nog te lokaliseren; dit verhindert de inhoudelijke uitwerking niet. Neem logo, kleuren, lettertypen en vormgeving over uit de bestaande inrichting.
+
+## Cursusopbouw en mobiel gebruik
+
+Gebruik `docs/cursusopbouw-voor-medische-review.md` als bespreekversie voor Mathanje. Alle online onderdelen moeten bruikbaar zijn op telefoon, tablet en computer. Ontwerp voor aanraking en een staand telefoonscherm, zonder noodzakelijke hover of slepen. Test ook aanmelding, toetsen, brongebruik, hervatten en resultaatregistratie op de gekozen mobiele browsers. Claim mobiele werking uitsluitend na de proef. De brede cursusopbouw is niet gebaseerd op een integrale lezing van alle boeken; houd de bronstatus zichtbaar. Maak de concrete plaats en bronkoppeling van bloedingen en shock in de MFA-herhaling expliciet en vul de ontbrekende RMD-dekking aan.
