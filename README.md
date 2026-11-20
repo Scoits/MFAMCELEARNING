@@ -14,6 +14,8 @@ De Nederlandse masterversie is leidend. De Engelse vertaling volgt na inhoudelij
 
 ## Begin hier
 
+Gebruik voor de overdracht [OVERDRACHT_CLAUDE.md](OVERDRACHT_CLAUDE.md). Dit dossier bundelt de vaste keuzes, Mathanjes reactie, bronstatus en concrete vervolgopdracht.
+
 Lees [de brede projectcontrole](docs/projectcontrole-v003.md), [de actuele projectstatus](docs/status.md), [het ontwerpkader](docs/ontwerpkader.md) en [het bronregister](sources/README.md). Voor Claude staan de werkinstructies in [CLAUDE.md](CLAUDE.md) en de startopdracht in [prompts/claude-start.md](prompts/claude-start.md). [AGENTS.md](AGENTS.md) bevat de algemene projectinstructies voor AI-assistenten.
 
 ## Projectinhoud
