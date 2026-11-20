@@ -62,3 +62,13 @@ Toegevoegd op 20 november 2026 na lezing van S044 (dag 2 middag).
 | R29 | MFA-L04-S09, S10 | Worden de fasen van onderkoeling met temperatuurgrenzen (S043 dia9) in MFA aangeleerd, en is een douche passend bij lichte onderkoeling (S043 dia11)? |
 | R30 | MFA-L04-S10 | Akkoord met opwarmen van bevriezing met lauw tot warm water gedurende twintig tot dertig minuten (S044 dia31)? |
 | R31 | S044 dia16-18, 41-42 | S044 bevat handelingen en medicatie die buiten de huidige MFA-lessen vallen: gaatje boren bij een blauwe nagel, cinnarizine en cyclizine bij zeeziekte en lidocaïne bij een vishaak. Horen deze in MFA, en zo ja in les 6 binnen de medicatiegrens (OB-08)? |
+
+## Aanvulling na lezing van dag 1 ochtend (S045)
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R18 aanvulling | MFA-L02-S10 | S045 dia42 geeft DRS-ABCDE met S als send en een catastrofale bloeding vóór A. MFA-L02 versie 0.2 volgt dat. Is de trauma score kaart (dia44-45 en 61) het formulier dat in MFA-P03 wordt gebruikt? |
+| R05 aanvulling | MFA-L01-S02, MFA-L04-S13 | Dag 1 bevat een blok nekkraag en de dia's 21-25 over het aanbrengen van een nekspalk. Blijft de nekspalk in MFA, en hoort hij dan ook in het overzicht van de uitrusting in MFA-L01? |
+| R32 | MFA-L04-S13, S16, S20 | S045 noemt zuurstof bij wervelletsel, ernstig hoofdletsel, ribfracturen en bekkenletsel. Akkoord dat MFA dit zo aanleert, met de uitwerking in les 5? |
+| R33 | MFA-L04-S20 | Akkoord met de bekkenspalk met dekens en tape als MFA-handeling (S045 dia91-94), en hoort de vacuümmatras tot de uitrusting waarmee in MFA wordt geoefend? |
+| R34 | MFA-L04-S19, S16, S21 | S045 noemt het terugzetten van ontwrichte vingers en een methode voor schouderontwrichting met morfine, hechten van hoofdwonden in overleg en paracetamol bij verstuiking. Deze zijn niet in de lessen opgenomen. Horen ze in MFA? Zie ook OB-08 en de doseringen in dia55-58 voor MFA-L06. |

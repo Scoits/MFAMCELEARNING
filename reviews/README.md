@@ -32,3 +32,5 @@ Sinds 20 november 2026 zijn er schermreviews voor [MFA-L00](MFA-L00-schermreview
 MFA-L02 en MFA-L03 zijn op 20 november 2026 toegevoegd: [MFA-L02](MFA-L02-schermreview.csv) met 18 schermen en [MFA-L03](MFA-L03-schermreview.csv) met 16 schermen, beide medische_review_nodig. De aanvullende vragen R18 tot en met R26 staan onderaan de reviewvragen van ronde 1. MFA-L03 volgt de huidige DRTC-dia's en blijft in alle medische handelingen TE VERIFIËREN tot de keuze voor S041.
 
 Na lezing van S044 zijn MFA-L03 versie 0.2 (bloeding) en [MFA-L04 deel A](MFA-L04-schermreview.csv) met 11 schermen toegevoegd; de vragen R27 tot en met R31 en een aanvulling op R10 staan onderaan de reviewvragen.
+
+Na lezing van S045 (dag 1 ochtend) zijn MFA-L02 versie 0.2, MFA-L03 versie 0.3 en MFA-L04 versie 0.2 met deel B (22 schermen) bijgewerkt; de vragen R32 tot en met R34 en aanvullingen op R05 en R18 staan onderaan de reviewvragen.

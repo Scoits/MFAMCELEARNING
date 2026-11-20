@@ -75,3 +75,16 @@ S044 (4. MFA dag 2 middag, 42 dia's) is als tekst gelezen en nieuw geregistreerd
 | BC-17 | S044 noemt medicatie en invasieve handelingen (cinnarizine, cyclizine, lidocaïne, nagel doorboren) die in geen MFA-leerdoel staan | MFA-10.02 medicatiegrens, MFA-L06, OB-08 | Niet in lessen opgenomen; R31 |
 | BC-18 | Brandwonden, hitte en bevriezing in S044 dia21-37 dekken MFA-06.01 tot en met 06.04 direct; onderkoeling komt uit S043 dia7-14 en 29 | MFA-L04 deel A | Uitgewerkt; de praktijkhandeling PH10 is nog niet gelezen |
 | BC-19 | Voor MFA-06.04 hitte is geen LOTUS-scenario gepland, terwijl S044 dia13-20 en 38-39 een eigen diagnosetest met drie rondes beschrijven | Praktijkplanning MFA-P07 | Bij de volgende versie van de praktijkplanning de bestaande DRTC-rondes vergelijken met SC-MFA-01 tot en met 06 |
+
+## Aanvulling 20 november 2026: S045 gelezen
+
+S045 (1. MFA dag 1 ochtend, 105 pagina's) is als tekst gelezen en nieuw geregistreerd.
+
+| Nr | Bevinding | Raakt | Gevolg |
+| --- | --- | --- | --- |
+| BC-20 | DRTC gebruikt DRS-ABCDE met S als send en een catastrofale bloeding vóór A (dia42). MFA-L02 versie 0.1 had S als shout en de bloeding onder C | MFA-L02-S10; MFA-L03-S12 | MFA-L02 versie 0.2 en MFA-L03 versie 0.3 volgen dia42 |
+| BC-21 | S009 koppelt item 1.1 aan PPT1 dia41-45; die dia's gaan over DRS-ABCDE en de trauma score kaart, niet over de bloedingsbehandeling | MFA-00.03 bronvindplaats | Bloedingsbehandeling steunt op S044 dia3-5 |
+| BC-22 | De anatomiedia's (7-19, 34-40, 62-64) bevatten alleen een titel en beeld. Dia17-19 behandelen het zenuwstelsel, waarvoor geen eigen MFA-leerdoel bestaat | MFA-L02-S02 tot en met S08; MFA-02 | Anatomieschermen blijven TE VERIFIËREN tegen het beeld; zenuwstelsel is in MFA-L02-S02 en MFA-L04-S13 alleen via het ruggenmerg behandeld |
+| BC-23 | Het patiëntevaluatieformulier is vermoedelijk de trauma score kaart (dia44-45 en 61), die alleen als beeld in de PDF staat | MFA-L02-S10, station MFA-P03 | DRTC bevestigt en levert de kaart als afzonderlijk bestand |
+| BC-24 | Dia51-58 bevatten medicatie met doseringen (paracetamol, NSAID, morfine, tramadol); dia78, 83, 89 en 103 noemen reponeren, morfine, infuus en paracetamol | MFA-L06, MFA-10.02, OB-08; MFA-L04 deel B | Niet opgenomen in MFA-L04; beoordelen bij MFA-L06 (R34) |
+| BC-25 | De nekspalk wordt op dag 1 aangeleerd (dia3, 21-25) | MFA-05.03, R05 | Opgenomen als DRTC-werkwijze en voorgelegd |
