@@ -1,6 +1,6 @@
 # Identificatieplan online toets en praktijkstart
 
-Versie 0.2, 20 november 2026. Ontwerpvoorstel bij CBT-01, CBT-12 en E01. Nog niet vastgesteld door DRTC en niet getoetst op de werkelijke Moodle-installatie.
+Versie 0.3, 20 november 2026. Ontwerpvoorstel bij CBT-01, CBT-12 en E01. Nog niet vastgesteld door DRTC en niet getoetst op de werkelijke Moodle-installatie.
 
 ## Aanleiding
 
@@ -69,6 +69,22 @@ Bronnen: de productpagina's en Moodle-pluginpagina's die op 20 november 2026 zij
 | quizaccess_proctoring (open bron) | Nee. Een beheerder uploadt per cursist een referentiefoto; gezichtsvergelijking via een externe dienst | Webcamfoto's ieder half minuut, beoordeling achteraf | Moodle-plugin, Moodle 4.1 en 4.2 | Gratis; Pro-versie betaald | Foto's op de eigen Hetzner-server; externe vergelijkingsdienst onbekend | Niet zonder handwerk |
 | ID-verificatiediensten zoals iDenfy | Ja, document met selfie en echtheidscontrole, standaard automatisch; handmatige nacontrole als betaalde optie | Nee, geen toezicht tijdens de toets | Geen Moodle-plugin gevonden; koppeling via API of SDK, dus maatwerk | Per goedgekeurde controle | Niet vermeld op de gelezen pagina | Alleen voor 'start'; voor het examen een tweede dienst nodig |
 
+## Diensten met een openbare maand- of stukprijs
+
+Martijn vroeg op 20 november 2026 naar een dienst met een vaste maandprijs. Gelezen op dezelfde dag; prijzen in dollars, exclusief btw, zoals op de site van de leverancier.
+
+| Dienst | Openbare prijs | Identiteitsbewijs met gezicht | Moodle | Opslag en AVG |
+| --- | --- | --- | --- | --- |
+| AutoProctor | Standard 15 dollar per maand voor 150 pogingen, of 150 dollar per jaar voor 1800; losse poging 0,10 dollar. ID-kaartcontrole kost 4 extra credits per poging, ongeveer 0,40 dollar | Ja, volgens AutoProctor vergelijkt AI naam en gezicht met het identiteitsbewijs; menselijke controle niet vermeld | Plugin quizaccess_autoproctor voor Moodle 4.1 en hoger, met API-sleutels; nieuw, weinig gebruikt | Webcam-, microfoon- en schermgegevens gaan naar servers van AutoProctor; noemt AVG en SOC 2; opslaglocatie niet vermeld |
+| Quilgo | Lite 160 dollar per maand of 128 dollar per maand bij jaarbetaling | Nee, alleen vergelijking van foto's binnen een sessie, als extra optie | Moodle-plugin | Noemt AVG en verwerkersovereenkomst; opslaglocatie als betaalde optie |
+| Veriff | Vanaf 0,80 dollar per controle met minimaal 49 dollar per maand | Ja, document, gezicht en echtheidscontrole, automatisch | Geen plugin; koppeling via API is maatwerk | Noemt AVG en ISO 27001; bewaartermijn 3 maanden; opslaglocatie niet vermeld |
+| Take2 (quizaccess_quizproctoring) | Prijs niet openbaar | Vergelijkt de cursist met beelden tijdens de toets; optioneel een foto van het identiteitsbewijs | Moodle-plugin, gebruikt AWS Rekognition of de eigen API van Take2 | Niet vermeld |
+| SMOWL | Geen openbare prijs; proefperiode | Ja | Gecertificeerde integratie | Zie hierboven |
+
+Bij circa 100 toetsen per jaar kost AutoProctor met ID-controle ongeveer 50 tot 60 dollar per jaar, binnen het jaarpakket Standard van 150 dollar. Dit is een eigen berekening op de openbare prijs, met een aangenomen aantal cursisten.
+
+Aanpassing van het voorstel: neem AutoProctor als eerste proef, omdat het de enige gelezen dienst is met een openbare maandprijs, een Moodle-plugin en een automatische ID-controle. Controleer vóór gebruik de opslaglocatie, de verwerkersovereenkomst en de werking op de Moodle-versie bij Hetzner, en maak de DPIA. SMOWL blijft het alternatief als AutoProctor op AVG of betrouwbaarheid afvalt.
+
 Constructor Proctor kon niet worden gelezen; de documentatiepagina gaf geen tekst terug.
 
 ## Wat 'volledig automatisch' betekent
@@ -103,3 +119,5 @@ De videocall uit versie 0.1 vervalt omdat die medewerkers vraagt.
 ## Gelezen webpagina's op 20 november 2026
 
 smowl.net/en/features/user-authentication; proctorio.com/solutions/integrity; web.respondus.com/privacy-additional-monitor; moodle.org/plugins/block_integrityadvocate; moodle.com/us/certified-integrations/integrity-advocate; moodle.org/plugins/quizaccess_quilgo; moodle.org/plugins/quizaccess_proctoring; documentation.idenfy.com full feature list; octoproctor.com/integrations/moodle; moodle.com/functionality-with-moodle/moodle-and-proctoring. Niet leesbaar: docs.constructor.tech.
+
+Toegevoegd in versie 0.3: autoproctor.co/pricing; moodle.org/plugins/quizaccess_autoproctor; quilgo.com/moodle; veriff.com/pricing; moodle.org/plugins/quizaccess_quizproctoring; trustradius.com en g2.com voor SMOWL (geen prijs).
