@@ -126,3 +126,13 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R52 | MC-L02-S07 | Neusbloeding en letsel aan de keel staan niet in de gelezen DRTC-dia's (BC-33). Horen ze in MC-02, en uit welke bron? |
 | R53 | MC-L02-S09 | Hoort een tourniquet in de MC-werkwijze voor ernstige bloedingen aan ledematen, en in welke volgorde met het wonddrukverband? Zie ook R35 over drukpunten. |
 | R54 | MC-L02-S12 | Mag een MC-zorgverlener op advies van de arts een ontwrichting reponeren, of blijft dat buiten de scope? S045 dia67 zegt alleen in overleg met een arts. |
+
+## Aanvulling bij MC-L03
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R55 | MC-L03-S11, BC-35 | PH2 (2015) noemt Betadine jodium voor het desinfecteren van de wond en slaat de draad bij de eerste knoop tweemaal om; S064 (2024) noemt desinfectans en driemaal. Welk middel en welke knoop gelden nu? |
+| R56 | MC-L03-S11 | De hoeveelheden lidocaïne voor een veldblokkade en een Oberst-verdoving (S064 dia23) staan niet in de les. Moet de MC-cursist die kennen, of verdooft hij alleen op advies van de arts? |
+| R57 | MC-L03-S12 | S064 dia29 noemt hoofd 5, liezen 7 en elders 10 dagen, gemiddeld 8. Is met liezen ledematen bedoeld, en welke termijnen leert MC? |
+| R58 | MC-L03-S10 | Worden instrumenten aan boord hergebruikt na desinfectie, of alleen steriel wegwerpmateriaal en nieuwe sets? De les zegt: hechten met steriel wegwerpmateriaal. (vraag aan DRTC) |
+| R59 | MC-L03-S02 | De beschrijvingen van de wondsoorten, in het bijzonder hogedruk- en hydrauliekletsel, zijn eigen tekst omdat S064 alleen titels en foto's heeft. Kloppen ze? |

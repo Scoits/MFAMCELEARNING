@@ -104,3 +104,4 @@ Martijn leverde het patiëntevaluatieformulier (S046), het rooster van januari 2
 | BC-32 | S009 verwijst voor hygiëne naar PPT4 dia17, maar die dia gaat over een blauwe nagel | MFA-11.01, MFA-11.02, MFA-L06-S06 | Scherm grotendeels eigen formulering; R42 en een juiste DRTC-vindplaats nodig |
 | BC-33 | Neusbloeding en letsel aan de keel komen in de gelezen DRTC-dia's niet voor, terwijl MC-02 letsel aan oor, neus, keel en ogen noemt | MC-02.01, MC-L02-S07 | Niet aangevuld; R52 |
 | BC-34 | S062 dia90 noemt bij chemisch oogletsel minimaal 15 minuten spoelen; de MFA-dia's noemen geen duur | MC-L02-S05; MFA-L05-S05 en R37 | Opgenomen in MC-L02; voor MFA blijft R37 open, wel ligt nu een DRTC-bron voor |
+| BC-35 | PH2 (S050, 2015) en S064 (2024) verschillen: Betadine jodium tegenover desinfectans, en tweemaal tegenover driemaal omslaan bij de eerste knoop | MC-08.02, MC-L03-S11 | Les noemt geen middel en geen aantal; R55 |
