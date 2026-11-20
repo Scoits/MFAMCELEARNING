@@ -54,3 +54,5 @@ Na lezing van S045 (dag 1 ochtend) zijn MFA-L02 versie 0.2, MFA-L03 versie 0.3 e
 [MC-L06](MC-L06-schermreview.csv) is op 20 november 2026 uitgewerkt met 15 schermen; de vragen R71 tot en met R76 staan onderaan de reviewvragen.
 
 [MC-L07](MC-L07-schermreview.csv) is op 20 november 2026 uitgewerkt met 15 schermen; de vragen R77 tot en met R81 staan onderaan de reviewvragen.
+
+[MC-L08](MC-L08-schermreview.csv) is op 20 november 2026 uitgewerkt met 15 schermen; de vragen R82 tot en met R86 staan onderaan de reviewvragen.

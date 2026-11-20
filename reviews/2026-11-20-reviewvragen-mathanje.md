@@ -178,3 +178,13 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R79 | MC-L07-S02, S03 | Wie is aan boord verantwoordelijk voor drinkwater, voedselhygiëne en de hygiënecontrole, en mag de les dit algemeen houden? (vraag ook aan DRTC) |
 | R80 | MC-L07-S10 | Hoe wordt de medische kaart (S048, DTp Form SCMG/3) in de opleiding en in scenario SC-MC-08 gebruikt? (vraag ook aan DRTC) |
 | R81 | MC-L07-S11 | Is Bijlage 5 van de Regeling veiligheid zeeschepen (S066, geldend vanaf 1 januari 2017) nog de actuele versie, en wat leert MC over schepen onder een andere vlag? |
+
+## Aanvulling bij MC-L08
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R82 | MC-L08-S09 | PH13 en PH37 noemen 'vaak wind 30 graden op bakboords boeg', S034 dia12 'meestal 2 streken', ongeveer 22,5 graden. De les noemt geen getal. Welke formulering geldt, en hoort die bij MC? (vraag aan DRTC) |
+| R83 | MC-L08-S07, S09 tot en met S11 | Welke editie van IAMSAR Volume III (S069) gebruikt DRTC? Kloppen de marifoonkanalen 16 en 67, de aanwijzing over statische elektriciteit en de uitleg waarom de geleidelijn nooit wordt vastgemaakt? (vraag aan DRTC) |
+| R84 | MC-L08-S02 | Vraagt de actuele RMD-vragenlijst (S031) dezelfde scheepsgegevens als de versie van 2010 (S021 A.1 tot en met A.5), en zijn de dichtstbijzijnde haven en de uitrustingskolom relevant voor het evacuatiebesluit? |
+| R85 | MC-L08-S12 | Hoe verloopt de overdracht in de haven in de praktijk: de rol van agent en havenautoriteit, en het vooraf melden van een besmettelijke ziekte? Dit staat niet in de DRTC-bronnen. (vraag ook aan DRTC) |
+| R86 | MC-L08-S04, S05 | Welke MC-handelingen voert de zorgverlener uit op advies van de arts, en hoe controleert hij een advies over een geneesmiddel zonder dat de les doseringen noemt? |
