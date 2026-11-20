@@ -1,6 +1,6 @@
 # Voorstel voor toetsing en beoordeling
 
-Versie 0.2 | 20 november 2026 | Ontwerp voor inhoudelijke beoordeling door DRTC en Mathanje
+Versie 0.3 | 20 november 2026 | Ontwerp voor inhoudelijke beoordeling door DRTC en Mathanje
 
 MFA en MC krijgen ieder een eigen theorieafronding en individuele praktijkbeoordeling. De combinatie gebruikt dezelfde eisen en legt de overgang tussen beide opleidingen zichtbaar vast. Mathanje beoordeelt de medische inhoud, antwoorden, feedback en praktijkcriteria. Er zijn nog geen nieuwe toetsen of criteria medisch vrijgegeven.
 
@@ -92,3 +92,11 @@ S035 benoemt toetsing na het theoriedeel en controle bij het begin van de prakti
 S036 beschrijft vakinhoudelijke en didactische kwalificaties, assessorbekwaamheid en borging via het KMS. Leg per feitelijke rol vast welk bewijs nodig is, hoe wordt ingewerkt en hoe evaluatie plaatsvindt. Neem aanvullende simulatorvereisten alleen over waar de concrete trainingsvorm daaronder valt. De medische inhoudelijke goedkeuring van een les is geen vervanging van die rolborging.
 
 De [aanvullende voorwaardenmatrix](../curriculum/aanvullende-voorwaarden.csv) bevat twaalf controlepunten naast de bestaande IaT-matrix. De [ketenbeschrijving](../moodle/chainwise-keten.md) onderscheidt Moodle-theorie, individueel praktijkbewijs, formele afronding en terugkoppeling naar ChainWise. Deze maatregelen zijn ontworpen; er is nog geen uitvoeringstest of dossiercontrole gedaan.
+
+## Reactie van Mathanje op theorieafronding
+
+Mathanje ondersteunt in [MH-001](../reviews/2026-11-20-mathanje-hoofdlijnen.md) afsluiten met een toets waarvoor een vereist slagingspercentage geldt. Dat sluit aan bij de afzonderlijke theorieafronding voor MFA en MC in dit ontwerp.
+
+Het exacte percentage is niet door haar genoemd en blijft nog vast te stellen. Werk eerst de toetsmatrijs, vraagkwaliteit en een onderbouwde normeringsaanpak uit. Leg percentage, eventuele overige beoordelingsregels en vaststellingsbesluit daarna vast per cursus. Gebruik geen zelfgekozen percentage als reeds goedgekeurde norm.
+
+De positieve reactie verandert de open status van afzonderlijke medische vraaginhoud, antwoorden, feedback en praktijkcriteria niet. Het online resultaat en de individuele praktijkbeslissing blijven afzonderlijk herkenbaar.

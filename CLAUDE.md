@@ -80,3 +80,7 @@ De toegevoegde Claude-tekst over een tender en NOGEPA betreft een ander kader. N
 ## Bestaande Articulate-stijl
 
 Martijn heeft bevestigd dat DRTC al een stijl in Articulate heeft ingericht. Gebruik die stijl en de bestaande templates voor MFA, MC en de Engelse opvolgers. De inhoudelijke stijlgids ondersteunt teksten, ID's en review binnen die vormgeving. Neem de concrete thema-instellingen over uit de bestaande cursus of template wanneer de bouwbron beschikbaar is; de exacte link is nog niet in dit dossier opgenomen. De aangeleverde ecosysteemafbeelding geeft context voor de platformen en vervangt de oorspronkelijke Articulate-template niet.
+
+## Reactie van Mathanje verwerkt
+
+De [hoofdlijnenreview MH-001](reviews/2026-11-20-mathanje-hoofdlijnen.md) is ontvangen via Martijn op 20 november 2026. De hoofdlijnen zijn positief beoordeeld. Tijdsvalidatie, een exact slagingspercentage en medische detailreview blijven open. MFA-praktijk is voorgesteld als halve dag handelingen en halve dag LOTUS/scenario's. Voor MC staan twee alternatieven open: dagelijks beide werkvormen of dag 1 handelingen en dag 2 scenario's. Lees [praktijkindeling](docs/praktijkindeling.md) en werk de varianten vergelijkbaar uit. Ken geen definitieve keuze of algemene medische vrijgave toe aan deze reactie.

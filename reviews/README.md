@@ -20,3 +20,7 @@ Na inhoudelijke wijzigingen wordt bekeken welke medische goedkeuring opnieuw nod
 ## Eerste ingevulde schermreview
 
 [MFA-L07-schermreview.csv](MFA-L07-schermreview.csv) bevat acht schermrecords met bron- en leerdoelkoppeling, interactie, feedback, tijdsraming en Mathanjes commentaarveld. Alle medische beoordelingen staan open. De [Markdown-master](../content/nl/MFA-L07-radiomedisch-advies.md) beschrijft expliciet de gedeeltelijke RMD-dekking; een administratieve tijdafspraak is nog geen beoordeelde toepassing van medisch advies in patiëntzorg.
+
+## Ontvangen hoofdlijnenreview
+
+[MH-001, Mathanje](2026-11-20-mathanje-hoofdlijnen.md) registreert de via Martijn ontvangen reactie op 20 november 2026. De hoofdlijnen zijn positief beoordeeld; de tijd moet in de praktijk worden bevestigd. Mathanje ondersteunt toetsing met een slagingsgrens en stelt een MFA-indeling en twee MC-varianten voor. Dit is geen detailvrijgave van alle leerdoelen, les- of vraaginhoud. De bestaande scherm- en doelrecords houden hun open reviewstatus.

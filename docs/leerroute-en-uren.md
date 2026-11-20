@@ -1,6 +1,6 @@
 # Leerroute en voorlopige urenbegroting
 
-Versie 0.2, 20 november 2026. Dit is een ontwerpvoorstel op basis van de vastgestelde vorm: MFA één online studiedag en één dag op locatie, MC één online studiedag en twee dagen op locatie. Onderstaande minuten zijn begrotingen voor ontwikkeling en pilotmeting, geen vastgestelde examenregels of bewezen minimale studieduur.
+Versie 0.3, 20 november 2026. Dit is een ontwerpvoorstel op basis van de vastgestelde vorm: MFA één online studiedag en één dag op locatie, MC één online studiedag en twee dagen op locatie. Onderstaande minuten zijn begrotingen voor ontwikkeling en pilotmeting, geen vastgestelde examenregels of bewezen minimale studieduur.
 
 ## Drie instroomroutes
 
@@ -51,13 +51,19 @@ De reservering van zestig minuten is geen vastgestelde examenduur. De toetsmatri
 
 De inhoudelijke MC-matrix bepaalt hoe uitgebreid ieder onderwerp moet worden behandeld. De gekozen modulevolgorde is een didactische ordening, geen vervanging van de STCW-onderwerpen. De beschikbare tijd moet in de pilot daadwerkelijk toereikend blijken.
 
-## Opzet locatiedagen
+## Opzet locatiedagen na Mathanjes reactie
 
-| Dag | Zwaartepunt | Ontwerpbewijs |
-| --- | --- | --- |
-| MFA praktijkdag | Onderzoek, levensreddende handelingen, letselzorg, veilig materiaalgebruik, RMD-communicatie en geïntegreerde scenario's | Individuele observaties gekoppeld aan leerdoelen; remediëring en herbeoordeling vastleggen |
-| MC praktijkdag 1 | Aanvullend onderzoek, zorgvaardigheden en technieken op geschikte oefenmiddelen, medicatieveiligheid en patiëntbewaking | Individuele demonstraties en zorgregistratie |
-| MC praktijkdag 2 | Geïntegreerde trauma- en ziektescenario's, langduriger zorg, samenwerking, externe hulp en eindbeoordeling | Patiëntverloop, medische overdracht en individueel herleidbaar competentiebewijs |
+Mathanje heeft de hoofdlijnen positief beoordeeld en vindt het tijdspad aannemelijk, met praktijkvalidatie als voorbehoud. Haar voorgestelde indeling is hieronder verwerkt. De exacte klokuren en stationscapaciteit zijn nog niet vastgesteld.
+
+| Route of variant | Dag | Eerste halve dag | Tweede halve dag |
+| --- | --- | --- | --- |
+| MFA | Eén locatiedag | Handelingen oefenen | LOTUS/scenariotraining |
+| MC A | Dag 1 | Handelingen oefenen | LOTUS/scenariotraining |
+| MC A | Dag 2 | Aanvullende handelingen en gerichte herhaling | LOTUS/scenariotraining |
+| MC B | Dag 1 | Handelingen oefenen | Handelingen oefenen |
+| MC B | Dag 2 | LOTUS/scenariotraining | LOTUS/scenariotraining |
+
+MC A en B zijn twee alternatieven; er wordt nog geen keuze aan Mathanje toegeschreven. De noodzakelijke startcontrole, instructie, feedback, individuele observaties, nabespreking en eventuele aanvulling worden binnen de dagdelen gepland. Werk het [praktijkvoorstel](praktijkindeling.md) uit naar een uitvoerbaar stationsplan.
 
 Deze versie bevat nog geen rooster met rotaties of vaste instructeurverhouding. Het bestaande lesplan noemt twaalf MFA-cursisten en tien MC-cursisten, met voorwaarden voor een grotere MC-groep. Dat zijn gevonden planningsuitgangspunten, geen nieuwe vaststelling van de hybride groepsgrootte.
 

@@ -45,3 +45,11 @@ DRTC heeft al een stijl in Articulate ingericht; Martijn heeft bevestigd dat die
 ## Cursusopbouw en mobiel gebruik
 
 Gebruik `docs/cursusopbouw-voor-medische-review.md` als bespreekversie voor Mathanje. Alle online onderdelen moeten bruikbaar zijn op telefoon, tablet en computer. Ontwerp voor aanraking en een staand telefoonscherm, zonder noodzakelijke hover of slepen. Test ook aanmelding, toetsen, brongebruik, hervatten en resultaatregistratie op de gekozen mobiele browsers. Claim mobiele werking uitsluitend na de proef. De brede cursusopbouw is niet gebaseerd op een integrale lezing van alle boeken; houd de bronstatus zichtbaar. Maak de concrete plaats en bronkoppeling van bloedingen en shock in de MFA-herhaling expliciet en vul de ontbrekende RMD-dekking aan.
+
+## Ontvangen reactie van Mathanje
+
+Lees eerst `reviews/2026-11-20-mathanje-hoofdlijnen.md` en `docs/praktijkindeling.md`. Mathanje heeft positief gereageerd op de hoofdlijnen en ondersteunt een afsluitende toets met een vereist slagingspercentage. De tijdsraming moet in de praktijk worden gevalideerd. Werk de MFA-praktijk uit als halve dag handelingen en halve dag LOTUS/scenario's.
+
+Werk voor MC beide tweedaagse alternatieven uit: A dagelijks ochtend handelingen en middag LOTUS/scenario's; B dag 1 handelingen en dag 2 LOTUS/scenario's. Vergelijk inhoud, individueel bewijs, tijd, LOTUS- en assessorbezetting en middelen. Presenteer de keuze als open besluit. De projectuitwerking heeft een didactische voorkeur voor A; dat is geen door Mathanje of DRTC gemaakte keuze.
+
+Maak een onderbouwd voorstel voor de toetsnorm per cursus; er is nog geen percentage vastgesteld. Laat de hoofdlijnenreactie geen automatische medische goedkeuring van teksten, protocollen, vragen of praktijkcriteria worden. Werk door aan de bestaande Nederlandse lessen en gerichte broncontrole; de open MC-keuze en getalsmatige cesuur blokkeren conceptuitwerking niet.

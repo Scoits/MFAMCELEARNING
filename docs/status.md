@@ -5,7 +5,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.3. Het project bevat een brongek
 | Onderdeel | Status | Vindplaats |
 | --- | --- | --- |
 | Brede projectcontrole v003 | Uitgevoerd; correcties en resterend werk beschreven | [Projectcontrole](projectcontrole-v003.md) |
-| Cursusopbouw voor Mathanje | Negen MFA- en tien MC-blokken; bronstatus, praktijkdagen en mobiele acceptatie-eis beschreven | [Bespreekversie](cursusopbouw-voor-medische-review.md) |
+| Cursusopbouw voor Mathanje | Negen MFA- en tien MC-blokken; positieve reactie op hoofdlijnen ontvangen; detailreview open | [Bespreekversie](cursusopbouw-voor-medische-review.md) |
 | Besluiten en kaders | Zelfstandige MFA/MC en combinatie; Nederlandse master; Mathanje; Articulate en Moodle | [Besluiten](besluiten.md) |
 | MFA | 50 concrete doelen; AED-uitwerking expliciet gemaakt | [MFA-matrix](../curriculum/mfa-dekkingsmatrix.csv) |
 | MC | 68 doelen; passend individueel bewijs per doel | [MC-matrix](../curriculum/mc-dekkingsmatrix.csv) |
@@ -21,7 +21,9 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.3. Het project bevat een brongek
 | Articulate | Integratie en importroutes onderbouwd; geen accountproef of pakket gebouwd | [Bouwroute](../articulate/import-en-bouwroute.md) |
 | Visuele uitwerking | Twee geplande mediaonderdelen geregistreerd; geen productieassets gemaakt | [Mediaregister](../articulate/mediaregister.csv) |
 | Website, ChainWise en Moodle | Eerder bevestigde architectuur vastgelegd; Moodle bij Hetzner; acht ketenproeven ontworpen | [Keten](../moodle/chainwise-keten.md) |
-| Medische goedkeuring | Nog niet uitgevoerd voor nieuwe doelen, criteria of lesprototype | [Reviewregistratie](../reviews/README.md) |
+| Review hoofdlijnen | Mathanje positief; tijdspad in praktijk toetsen; toets met slagingsgrens gesteund | [MH-001](../reviews/2026-11-20-mathanje-hoofdlijnen.md) |
+| Praktijkvoorstellen | MFA twee halve dagen; MC-varianten A/B nog te kiezen | [Praktijkindeling](praktijkindeling.md) |
+| Medische detailgoedkeuring | Nog niet uitgevoerd voor nieuwe doelen, criteria of lesprototype | [Reviewregistratie](../reviews/README.md) |
 | Engelse versie | Nog niet geproduceerd; volgt vanuit vastgestelde Nederlandse master | [Vertaling](../content/en/README.md) |
 
 ## Eerstvolgende opdracht
@@ -32,4 +34,4 @@ Controleer de directe lesbronnen per module, werk de inhoudelijke hiaten en vaar
 
 Dia's, handboeken en films zijn niet integraal gecontroleerd. De grote presentatie S034 blijft via de gebruikte extractieroute ongelezen. De model courses zijn gericht gelezen, niet de volledige compendia. De medische actualiteit en toepasselijke actuele normversie moeten nog definitief worden vastgesteld.
 
-De uren zijn ramingen zonder pilotmeting. Cesuur, toetslengte, herkansingsregels, identificatiemethode, actueel theorie-praktijkinterval, stationsrooster en assessorcapaciteit zijn nog niet vastgesteld. De live koppeling en Moodle-installatie zijn niet geïnspecteerd. Er is geen nieuwe medische of ILT-goedkeuring geregistreerd. De bestaande erkenningscontext van DRTC blijft het uitgangspunt voor ontwikkeling.
+De uren zijn ramingen zonder pilotmeting. Cesuur, toetslengte, herkansingsregels, identificatiemethode, actueel theorie-praktijkinterval, stationsrooster en assessorcapaciteit zijn nog niet vastgesteld. De live koppeling en Moodle-installatie zijn niet geïnspecteerd. Mathanjes positieve beoordeling van de hoofdlijnen is geregistreerd; medische detailvrijgave en nieuwe ILT-goedkeuring zijn niet geregistreerd. De bestaande erkenningscontext van DRTC blijft het uitgangspunt voor ontwikkeling.

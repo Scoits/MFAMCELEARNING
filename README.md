@@ -37,6 +37,8 @@ De inhoudelijke ontwerpversie 0.3 bevat 50 MFA-leerdoelen, 68 MC-leerdoelen, 23 
 
 De [brede projectcontrole](docs/projectcontrole-v003.md) beschrijft de aangebrachte correcties en open punten. De eerdere [keten website, ChainWise en Moodle](moodle/chainwise-keten.md) is teruggezet, inclusief Moodle-hosting bij Hetzner en acht beschreven acceptatieproeven. De volledige lesproductie, medische vrijgave en technische proef zijn nog niet uitgevoerd. Het RMD-prototype dekt zijn gekoppelde doelen gedeeltelijk.
 
+Mathanje heeft [positief gereageerd op de hoofdlijnen](reviews/2026-11-20-mathanje-hoofdlijnen.md) en ondersteunt toetsing met een slagingsgrens. Haar [praktijkvoorstellen](docs/praktijkindeling.md) zijn opgenomen: MFA twee halve dagen en voor MC twee nog te kiezen varianten. Het exacte percentage en de medische detailvrijgave blijven open.
+
 De volgende stap is gerichte controle van de bestaande dia's en praktijkinstructies, medische beoordeling van hiaten en vaardigheidsscope, en een stationsplan voor individueel praktijkbewijs. Daarna volgt het gecontroleerde proefpakket. Zie [Issues](https://github.com/Scoits/MFAMCELEARNING/issues) en [de ontwikkelvolgorde](docs/roadmap.md).
 
 ## Gebruik met Claude

@@ -26,6 +26,8 @@ Deze eerder door Martijn bevestigde besluiten zijn op 20 november 2026 samengebr
 | V02 | Afsluitende kennistoetsen en vragenbanken in Moodle; oefenvragen in Articulate | Definitieve toetsarchitectuur |
 | V03 | SCORM 1.2 als uitgangspunt voor reguliere Moodle-integratie | Bevestigen met versie en proefpakket |
 | V04 | Eerst één Nederlandse voorbeeldles en technisch proefpakket | RMD-prototype is uitgewerkt; medische review en technische proef volgen |
+| V05 | MFA-praktijk: halve dag handelingen oefenen, halve dag LOTUS/scenario's | Voorstel van Mathanje; individuele stationsplanning nog uitwerken |
+| V06 | MC-praktijk A: dagelijks ochtend handelingen en middag LOTUS/scenario's; B: dag 1 handelingen en dag 2 LOTUS/scenario's | Beide door Mathanje voorgesteld; keuze A/B nog open |
 
 ## Nog uit te werken
 
@@ -36,3 +38,7 @@ Exacte klokuren per activiteit, groepsgrootte en bezetting, cesuur, aantallen vr
 De op 20 november gedeelde Claude-tekst begint vanuit een EHBO-tender en NOGEPA. Die aanname geldt niet voor dit dossier. De bruikbare punten over schermreview, bronnen, stijlgids en import worden overgenomen als werkwijze. De bestaande projectkeuzes blijven leidend. Zie de [projectcontrole](projectcontrole-v003.md).
 
 De op 20 november gedeelde afbeelding E-Learning ecosysteem komt volgens Martijn uit een eerdere chat. Zij ondersteunt de ecosysteemcontext. De bestaande Articulate-inrichting is de bron voor de concrete cursusvormgeving; de nieuwe inhoudelijke stijlgids sluit daarop aan.
+
+## Feedback van Mathanje op de hoofdlijnen
+
+Op 20 november 2026 heeft Martijn Mathanjes positieve reactie aangeleverd. Zij vindt het tijdspad aannemelijk, onder voorbehoud van de praktijk, en ondersteunt een afsluitende toets met een vereist slagingspercentage. Zij noemt geen concreet percentage. Haar praktijkvoorstellen staan als V05-V06 en zijn uitgewerkt in [praktijkindeling](praktijkindeling.md). De reactie is geregistreerd als [MH-001](../reviews/2026-11-20-mathanje-hoofdlijnen.md); de afzonderlijke lessen, handelingen en toetsvragen zijn daarmee nog niet vrijgegeven.

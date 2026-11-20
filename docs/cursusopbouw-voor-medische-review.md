@@ -1,6 +1,6 @@
 # Cursusopbouw voor bespreking met Mathanje
 
-Bespreekversie, 20 november 2026. Deze opbouw bundelt de bestaande brongekoppelde matrices en urenramingen. Zij is een voorstel voor de Nederlandse master en nog geen medische vaststelling of gebouwde cursus. De bestaande DRTC-stijl in Articulate is leidend. Alle online onderdelen moeten op mobiel bruikbaar zijn.
+Bespreekversie, 20 november 2026. Deze opbouw bundelt de bestaande brongekoppelde matrices en urenramingen. Mathanje heeft inmiddels positief gereageerd op de hoofdlijnen. De uitwerking blijft een voorstel voor de Nederlandse master; er is nog geen medische detailvrijgave of gebouwde cursus. De bestaande DRTC-stijl in Articulate is leidend. Alle online onderdelen moeten op mobiel bruikbaar zijn.
 
 ## Bronbasis en leesgrenzen
 
@@ -47,15 +47,19 @@ De vier geregistreerde MC-vaardigheden houden hun afzonderlijke vaardigheid- en 
 
 De ramingen van 480 minuten zijn ontwikkelbudgetten, geen gemeten studieduur of vastgestelde minimumduur. De reservering van 60 minuten is voor theorieafronding én verwerking; zij stelt geen examenduur vast. Grote modules worden voor mobiel gebruik in korte samenhangende lessen verdeeld.
 
-## Drie locatiedagen
+## Locatiedagen: Mathanjes voorstellen
 
-| Dag | Voorgestelde inhoud | Individueel bewijs |
-| --- | --- | --- |
-| MFA | Verificatie theorievoorbereiding, slachtofferonderzoek, levensreddende vaardigheden, letselzorg, materiaalgebruik en geïntegreerde RMD-/opvangscenario's | Observaties per cursist en leerdoel; aanvullende oefening of beoordeling waar nodig |
-| MC1 | Verificatie theorievoorbereiding, aanvullend onderzoek, wondzorg, verpleegkundige zorg en technieken op passende trainingsmiddelen | Afzonderlijke waarnemingen voor iedere vastgestelde uitvoeringsvaardigheid |
-| MC2 | Geïntegreerde ziekte- en traumascenario's, patiëntverloop, medisch overleg, samenwerking, vervoer/evacuatie en eindbeoordeling | Individueel herleidbare uitvoering, beslissingen, registratie en overdracht |
+Mathanje heeft positief gereageerd op de hoofdlijnen en vindt de tijdsraming aannemelijk, onder voorbehoud van de praktijk. Zij ondersteunt een afsluitende toets met een vereist slagingspercentage; een percentage is nog niet genoemd.
 
-Dit is nog geen stationsrooster. Groepsgrootte, middelen en instructeur-/assessorcapaciteit moeten aantonen dat oefenen, feedback en individuele beoordeling in de beschikbare tijd passen.
+| Opleiding of variant | Dag | Eerste halve dag | Tweede halve dag |
+| --- | --- | --- | --- |
+| MFA | Eén locatiedag | Handelingen oefenen | LOTUS/scenariotraining |
+| MC A | Dag 1 | Handelingen oefenen | LOTUS/scenariotraining |
+| MC A | Dag 2 | Aanvullende handelingen oefenen | LOTUS/scenariotraining |
+| MC B | Dag 1 | Handelingen oefenen | Handelingen oefenen |
+| MC B | Dag 2 | LOTUS/scenariotraining | LOTUS/scenariotraining |
+
+MC A en B zijn alternatieven; de keuze staat open. Verwerk startcontrole, feedback, individuele observatie, debrief en eventuele aanvulling in het stationsplan. Zie [praktijkindeling](praktijkindeling.md) voor de uitwerking en [MH-001](../reviews/2026-11-20-mathanje-hoofdlijnen.md) voor de begrenzing van de positieve hoofdlijnenreview.
 
 ## Vaste lesopbouw
 
@@ -71,4 +75,4 @@ Test de hele keten met fictieve cursisten in iOS/Safari en Android/Chrome, plus 
 
 ## Besluiten voor de medische bespreking
 
-Mathanje beoordeelt de inhoudelijke volgorde en diepgang, de grens tussen MFA en MC, leidende actuele medische bronnen, de online/praktijkverdeling en de observeerbare prestaties. Specifieke open punten blijven bevallingszorg, psychosociale modelinhoud, medicatie en technieken, de expliciete eerstehulpherhaling en de volledige RMD-dekking. De toepasselijke eindtermen blijven herkenbaar in de uitwerking. Leg vastgestelde keuzes en resterende vragen vast voordat Claude de volledige lesproductie uitwerkt.
+Mathanje beoordeelt de inhoudelijke volgorde en diepgang, de grens tussen MFA en MC, leidende actuele medische bronnen, de online/praktijkverdeling en de observeerbare prestaties. Specifieke open punten blijven bevallingszorg, psychosociale modelinhoud, medicatie en technieken, de expliciete eerstehulpherhaling en de volledige RMD-dekking. De toepasselijke eindtermen blijven herkenbaar in de uitwerking. De ontvangen hoofdlijnenreactie geeft richting aan de verdere uitwerking. Claude kan daarmee verder werken en houdt de nog open medische keuzes, MC-praktijkvariant en toetsnorm zichtbaar.
