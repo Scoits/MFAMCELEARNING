@@ -102,3 +102,5 @@ Martijn leverde het patiëntevaluatieformulier (S046), het rooster van januari 2
 | BC-30 | PH12 drukpunten bestaat, terwijl de matrix drukpunten niet zonder actualiteitscontrole overneemt | MFA-02.02, MFA-L03-S12 | Niet opgenomen; R35 |
 | BC-31 | PH 14 urinekatheter en de MLC-kaart zijn scans zonder tekstlaag | MC-lessen, MC-administratie | Niet gelezen; leesbare versie of OCR nodig bij de MC-uitwerking |
 | BC-32 | S009 verwijst voor hygiëne naar PPT4 dia17, maar die dia gaat over een blauwe nagel | MFA-11.01, MFA-11.02, MFA-L06-S06 | Scherm grotendeels eigen formulering; R42 en een juiste DRTC-vindplaats nodig |
+| BC-33 | Neusbloeding en letsel aan de keel komen in de gelezen DRTC-dia's niet voor, terwijl MC-02 letsel aan oor, neus, keel en ogen noemt | MC-02.01, MC-L02-S07 | Niet aangevuld; R52 |
+| BC-34 | S062 dia90 noemt bij chemisch oogletsel minimaal 15 minuten spoelen; de MFA-dia's noemen geen duur | MC-L02-S05; MFA-L05-S05 en R37 | Opgenomen in MC-L02; voor MFA blijft R37 open, wel ligt nu een DRTC-bron voor |

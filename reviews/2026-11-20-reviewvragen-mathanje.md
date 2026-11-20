@@ -116,3 +116,13 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R47 | MC-L01-S09, MC-K01-02 | Welke eenvoudige tests zitten in de MC-uitrusting (urineteststrook, malariasneltest, andere), en welke instructie hoort daarbij? Voor geen van beide is een DRTC-bron gevonden. |
 | R48 | MC-L01-S06 | Wat moet een MC-cursist bij luisteren naar hart en longen kunnen onderscheiden: alleen regelmaat en verschil tussen links en rechts, of ook bijgeluiden zoals piepen en reutelen? Kloppen de luisterplaatsen? |
 | R49 | MC-L01-S07 | Het formulier S046 noemt bekloppen, drukpijn en loslaatpijn. Passen die bij MC, en hoe onderzoekt de cursist loslaatpijn veilig? |
+
+## Aanvulling bij MC-L02
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R50 | MC-L02-S02 | Leert MC een vast interval voor het herhaald beoordelen van bewustzijn en pupillen bij hoofdletsel, of altijd volgens de afspraak met de arts? |
+| R51 | MC-L02-S05 | S062 dia82 noemt verdovende oogdruppels en antibiotische zalf. De les zegt: alleen op advies van de arts. Klopt dat, en wat is de grens voor fluoresceïne? Welke houding is bedoeld met spoelen met het hoofd naar beneden (dia90)? |
+| R52 | MC-L02-S07 | Neusbloeding en letsel aan de keel staan niet in de gelezen DRTC-dia's (BC-33). Horen ze in MC-02, en uit welke bron? |
+| R53 | MC-L02-S09 | Hoort een tourniquet in de MC-werkwijze voor ernstige bloedingen aan ledematen, en in welke volgorde met het wonddrukverband? Zie ook R35 over drukpunten. |
+| R54 | MC-L02-S12 | Mag een MC-zorgverlener op advies van de arts een ontwrichting reponeren, of blijft dat buiten de scope? S045 dia67 zegt alleen in overleg met een arts. |
