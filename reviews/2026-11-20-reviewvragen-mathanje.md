@@ -80,3 +80,12 @@ Toegevoegd op 20 november 2026 na lezing van S044 (dag 2 middag).
 | R18 aanvulling | MFA-L02-S10, S14 | Het DRTC-patiëntevaluatieformulier (S046) bevat de Glasgow Coma Schaal en een traumascore. MFA-L02 versie 0.3 leert de GCS invullen. Moeten MFA-cursisten de GCS en traumascore zelf berekenen, of alleen invullen en doorgeven? |
 | R22 aanvulling | MFA-L03-S04, S07 | MFA-L03 versie 0.4 gebruikt de getallen uit PH4 (S052, vermoedelijk 2015): 30 op 2, 5 tot 6 centimeter, ten minste 100 per minuut, twee beademingen binnen 5 seconden, wisselen om de 2 minuten. Kloppen die met de gekozen richtlijn? |
 | R35 | MFA-L03-S12, PH12 | PH12 (S060) beschrijft drukpunten op bovenarm, lies en achter het sleutelbeen. Die zijn niet in de les opgenomen. Blijven drukpunten in MFA, en zo ja in welke volgorde met wonddrukverband en eventueel tourniquet? |
+
+## Aanvulling bij MFA-L05
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R36 | MFA-L05-S04 | Welke MFAG-editie of welk nationaal equivalent wordt aan boord en in SC-MFA-04 gebruikt? |
+| R37 | MFA-L05-S05, K05-02 | Moet een spoelduur bij oog- en huidcontact worden genoemd? De DRTC-dia's noemen alleen spoelen met water of zoutoplossing. |
+| R38 | MFA-L05-S07 | S043 dia31 zegt dat zuurstof in de acute fase geen contra-indicaties heeft en dia32 noemt zuurstof bij ieder trauma. Dat is niet als algemene regel overgenomen. Welke indicaties en welk debiet leert MFA aan? |
+| R39 | MFA-L05-S09, S11, K05-04 | Akkoord met de eigen uitwerking van meerdere geredde personen, zon, water en voeding, en geleidelijk drinken bij uitdroging? Deze onderwerpen staan niet in de DRTC-dia's. |
