@@ -17,6 +17,8 @@ Gebruik [het schermschema](../templates/schermreview.csv) en [de stijlgids](stij
 
 Gebruik de bestaande DRTC-stijl en templates in Articulate voor de proef en verdere productie, zoals door Martijn bevestigd. Leg de gebruikte broncursus of template, versie en overgenomen thema-instellingen vast in het bouwlog. Controleer na import of logo, kleuren, lettertypen, blokopmaak en navigatie overeenkomen met die bestaande inrichting. De exacte bronlink is nog niet opgenomen in dit dossier. Het inhoudelijke schermschema blijft bruikbaar terwijl die bouwbron wordt gelokaliseerd.
 
+Op 20 november 2026 is via de Articulate-koppeling gekeken welke Rise-cursussen in de DRTC-account staan. Er staan drie cursussen: 'Security Awareness for Seafarers Without Designated Security Duties' (bijgewerkt 1 november 2026), een AI-conceptoutline en de Articulate-introductiecursus. De Security Awareness-cursus is daarmee de waarschijnlijke bron voor de DRTC-stijl; een aparte MFA- of MC-template staat er niet. DRTC bevestigt of deze cursus de stijlbron is. De authoringlink staat in de account en is bewust niet in deze openbare repository opgenomen.
+
 ## Gekozen proefroute
 
 Maak na inhoudelijke vaststelling één schone Word-les uit dezelfde schermrecords. Rise Magic Lesson Import kan met ingeschakelde AI Assistant één Word-, PDF- of PowerPoint-bestand omzetten in een les. De documentstructuur stuurt de blokken. De documentatie beschrijft tekstbehoud, verwerking van beschikbare beelden en placeholders waar materiaal ontbreekt. De functie is als bèta beschreven. Controleer daarom in de eigen account welke blokken werkelijk worden gemaakt en vergelijk alle tekst, volgorde en feedback met de master.
