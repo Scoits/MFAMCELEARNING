@@ -36,3 +36,5 @@ Na lezing van S044 zijn MFA-L03 versie 0.2 (bloeding) en [MFA-L04 deel A](MFA-L0
 Na lezing van S045 (dag 1 ochtend) zijn MFA-L02 versie 0.2, MFA-L03 versie 0.3 en MFA-L04 versie 0.2 met deel B (22 schermen) bijgewerkt; de vragen R32 tot en met R34 en aanvullingen op R05 en R18 staan onderaan de reviewvragen.
 
 [MFA-L05](MFA-L05-schermreview.csv) is op 20 november 2026 uitgewerkt met 13 schermen; de vragen R36 tot en met R39 staan onderaan de reviewvragen.
+
+[MFA-L06](MFA-L06-schermreview.csv) is op 20 november 2026 uitgewerkt met 10 schermen; de vragen R40 tot en met R42 staan onderaan de reviewvragen.

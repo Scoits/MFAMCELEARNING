@@ -89,3 +89,11 @@ Toegevoegd op 20 november 2026 na lezing van S044 (dag 2 middag).
 | R37 | MFA-L05-S05, K05-02 | Moet een spoelduur bij oog- en huidcontact worden genoemd? De DRTC-dia's noemen alleen spoelen met water of zoutoplossing. |
 | R38 | MFA-L05-S07 | S043 dia31 zegt dat zuurstof in de acute fase geen contra-indicaties heeft en dia32 noemt zuurstof bij ieder trauma. Dat is niet als algemene regel overgenomen. Welke indicaties en welk debiet leert MFA aan? |
 | R39 | MFA-L05-S09, S11, K05-04 | Akkoord met de eigen uitwerking van meerdere geredde personen, zon, water en voeding, en geleidelijk drinken bij uitdroging? Deze onderwerpen staan niet in de DRTC-dia's. |
+
+## Aanvulling bij MFA-L06
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R40 | MFA-L06-S02, S03 | S045 dia6 noemt de Mariners Medico Guide en dia53 eindigt met een onvolledige uitzondering: de arts schrijft medicatie voor met uitzondering van een niet genoemd geval. Welke gids noemen we, en welke uitzondering is bedoeld? |
+| R41 | MFA-L06-S04, K06-01 | De doseringen en maximale dagdoseringen uit S045 dia55-58 en de tramadolregel zijn niet in de les opgenomen. Moeten MFA-cursisten doseringen kennen, of alleen leren opzoeken en uitvoeren op instructie van de arts? |
+| R42 | MFA-L06-S06, S07, K06-02 | De definities van reinigen, desinfecteren en steriliseren en de stappen voor het reinigen van materiaal zijn een eigen formulering, omdat de verwijzing in S009 naar een andere dia wijst (BC-32). Kloppen de definities, en welk desinfectiemiddel noemen we? |

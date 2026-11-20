@@ -101,3 +101,4 @@ Martijn leverde het patiëntevaluatieformulier (S046), het rooster van januari 2
 | BC-29 | PH9 noemt een vacuümspalk; PH8 een verstelbare nekkraag | MFA-07.05, MFA-05.03, R05 | Opgenomen in MFA-L04 versie 0.3 |
 | BC-30 | PH12 drukpunten bestaat, terwijl de matrix drukpunten niet zonder actualiteitscontrole overneemt | MFA-02.02, MFA-L03-S12 | Niet opgenomen; R35 |
 | BC-31 | PH 14 urinekatheter en de MLC-kaart zijn scans zonder tekstlaag | MC-lessen, MC-administratie | Niet gelezen; leesbare versie of OCR nodig bij de MC-uitwerking |
+| BC-32 | S009 verwijst voor hygiëne naar PPT4 dia17, maar die dia gaat over een blauwe nagel | MFA-11.01, MFA-11.02, MFA-L06-S06 | Scherm grotendeels eigen formulering; R42 en een juiste DRTC-vindplaats nodig |

@@ -20,13 +20,14 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | MFA-L03 | Versie 0.4, reanimatiegetallen uit PH4 en wonddrukverband uit PH10: 16 schermen, 6 kennischecks, 1 zelfcontrole, 75 minuten; volgt de DRTC-dia's, alle medische handelingen TE VERIFIËREN tot keuze S041 | [Master](../content/nl/MFA-L03-levensbedreigende-situaties.md), [schermreview](../reviews/MFA-L03-schermreview.csv) |
 | MFA-L04 | Versie 0.3, met PH6 tot en met PH9, volledig: 22 schermen, 7 kennischecks, 85 minuten; deel A brandwonden, hitte en koude, deel B letsel, wervel- en hoofdletsel | [Master](../content/nl/MFA-L04-trauma-brandwonden-hitte-koude.md), [schermreview](../reviews/MFA-L04-schermreview.csv) |
 | MFA-L05 | Uitgewerkt: 13 schermen, 4 kennischecks, 1 zelfcontrole, 55 minuten | [Master](../content/nl/MFA-L05-toxicologie-zuurstof-geredde-personen.md), [schermreview](../reviews/MFA-L05-schermreview.csv) |
-| MFA-L06, L08 | Nog niet uitgewerkt | |
+| MFA-L06 | Uitgewerkt: 10 schermen, 3 kennischecks, 35 minuten | [Master](../content/nl/MFA-L06-medicatie-hygiene-psychosociaal.md), [schermreview](../reviews/MFA-L06-schermreview.csv) |
+| MFA-L08 | Nog niet uitgewerkt | |
 | MC-lessen | Nog niet uitgewerkt | |
 | Praktijkplanning | PH 1 tot en met 14 per station gekoppeld; MFA-dag met vier stations en zes LOTUS-scenario's; MC A en B doorgerekend; voorstel A met drie instructeurs bij invasieve handelingen | [Praktijkplanning](praktijkplanning-v001.md) |
 | Urenvergelijking | Klassiek MFA 945 en MC 1425 bruto minuten (S047) tegenover hybride 990 en 1500; niet korter, CBT-02 gehaald onder twee aannames | [Urenvergelijking](urenvergelijking-v001.md) |
 | Toetsmatrijs | MFA 40 items in 14 categorieën, MC 50 items in 9 categorieën; slagingsgrens via Angoff-panel; alles voorstel | [Toetsmatrijs](toetsmatrijs-v001.md) |
-| Reviewvragen Mathanje | 39 gebundelde vragen R01 tot en met R39, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
-| Mediaregister | 51 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
+| Reviewvragen Mathanje | 42 gebundelde vragen R01 tot en met R42, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
+| Mediaregister | 57 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
 | Articulate-importinhoud | Nog niet gemaakt; volgt na Mathanjes review van de uitgewerkte lessen | [Bouwroute](../articulate/import-en-bouwroute.md) |
 | Website, ChainWise en Moodle | Ongewijzigd; acht ketenproeven ontworpen, niet uitgevoerd | [Keten](../moodle/chainwise-keten.md) |
 | Medische detailgoedkeuring | Niet uitgevoerd voor enig scherm, doel of criterium | [Reviewregistratie](../reviews/README.md) |
@@ -47,7 +48,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 
 ## Volgende stap
 
-Mathanje beoordeelt MFA-L00 tot en met L03 en MFA-L07 versie 0.3 aan de hand van de reviewvragen R01 tot en met R26. Volgende les is MFA-L06 met S045 dia51-58 binnen de medicatiegrens, daarna MFA-L08 en de MC-lessen met S062 tot en met S064 en PH1 tot en met PH3. Voor de anatomieschermen en de trauma score kaart is het beeld van S045 nodig; DRTC levert de kaart bij voorkeur als afzonderlijk bestand. Na review volgt de schone importversie van de eerste vastgestelde les.
+Mathanje beoordeelt MFA-L00 tot en met L03 en MFA-L07 versie 0.3 aan de hand van de reviewvragen R01 tot en met R26. MFA-L06 is uitgewerkt binnen de medicatiegrens. Volgende les is MFA-L08 en de MC-lessen met S062 tot en met S064 en PH1 tot en met PH3. Voor de anatomieschermen en de trauma score kaart is het beeld van S045 nodig; DRTC levert de kaart bij voorkeur als afzonderlijk bestand. Na review volgt de schone importversie van de eerste vastgestelde les.
 
 ## Grenzen van deze status
 
