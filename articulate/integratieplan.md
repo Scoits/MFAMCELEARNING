@@ -101,3 +101,16 @@ Geraadpleegd 20 november 2026. Deze documentatie beschrijft productmogelijkheden
 ## Aansluiting op de bredere projectcontrole
 
 Gebruik [de import- en bouwroute](import-en-bouwroute.md) en [de stijlgids](stijlgids.md) voor het vaste schermformat en de scheiding tussen review en cursistentekst. De keten eindigt niet bij een Moodle-score: [website, ChainWise en Moodle](../moodle/chainwise-keten.md) beschrijft de afzonderlijke theorie-, praktijk- en certificeringsbesluiten. Deze aanvulling verandert de hierboven beschreven trackingbeperkingen niet.
+
+## Verdeling Rise en Storyline per les (voorstel)
+
+Volgens besluit V01 wordt alles in Rise gebouwd, behalve een scenario waarin keuzes een echt ander vervolg geven. In de huidige masters staat bij geen enkel scherm Storyline als bloktype. De afsluitende kennistoets komt niet in Rise of Storyline, maar in Moodle Quiz: de vragen moeten uit een afgeschermde bank willekeurig worden getrokken (IaT 4 par. 6.3 punt 14) en mogen niet in een lespakket zitten.
+
+| Kandidaat voor Storyline | Schermen | Waarom vertakken iets toevoegt |
+| --- | --- | --- |
+| RMD-gesprek voorbereiden en voeren | MFA-L07-S04 tot en met S07 | Ontbrekende of verkeerde gegevens leiden tot een andere reactie van de arts |
+| Verslechtering in de nacht | MC-L04-S04 en S05 | Te laat melden geeft een ander verloop van de patiënt |
+| Helikopterevacuatie voorbereiden | MC-L08-S08 tot en met S11 | De volgorde van patiënt, dek en communicatie bepaalt het vervolg |
+
+Dit zijn voorstellen. Bouw eerst de Rise-lessen en de technische proef. Een Storyline-scenario krijgt daarna een eigen specificatie met beslispunten, feedback en afrondingsvoorwaarde, en wordt als Storyline-blok in de Rise-les geplaatst.
+
