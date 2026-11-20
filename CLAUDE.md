@@ -76,3 +76,7 @@ Lees ook `docs/projectcontrole-v003.md`, `curriculum/aanvullende-voorwaarden.csv
 De vaste scherm-ID's van MFA-L07 staan in de master en in `reviews/MFA-L07-schermreview.csv`. Behoud de drie bestaande vraag-ID's en de antwoord-ID's. Vul GMDSS en de verwerking van bevestigd medisch advies in scenariozorg gericht aan; claim geen volledige RMD-dekking op basis van alleen dit prototype.
 
 De toegevoegde Claude-tekst over een tender en NOGEPA betreft een ander kader. Neem de bruikbare reviewstructuur over en stel de al beantwoorde vragen niet opnieuw. Website, ChainWise en Moodle horen wel bij deze technische keten; Hetzner host Moodle. De exacte koppeling is nog niet live gecontroleerd. Controleer de bestaande inrichting voordat je endpoints of statusvelden voorstelt.
+
+## Bestaande Articulate-stijl
+
+Martijn heeft bevestigd dat DRTC al een stijl in Articulate heeft ingericht. Gebruik die stijl en de bestaande templates voor MFA, MC en de Engelse opvolgers. De inhoudelijke stijlgids ondersteunt teksten, ID's en review binnen die vormgeving. Neem de concrete thema-instellingen over uit de bestaande cursus of template wanneer de bouwbron beschikbaar is; de exacte link is nog niet in dit dossier opgenomen. De aangeleverde ecosysteemafbeelding geeft context voor de platformen en vervangt de oorspronkelijke Articulate-template niet.

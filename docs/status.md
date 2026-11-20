@@ -16,7 +16,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.3. Het project bevat een brongek
 | Toetsing | Theorie, praktijkstart en individueel praktijkbewijs onderscheiden; getalsmatige normen open | [Toetsontwerp](toetsontwerp.md) |
 | Nederlandse voorbeeldles | Acht vaste schermen, drie formatieve checks, 25 minuten raming; gedeeltelijke RMD-dekking | [MFA-L07-master](../content/nl/MFA-L07-radiomedisch-advies.md) |
 | Reviewdocument | Acht ingevulde schermrecords met bronnen, interactie, feedback en open Mathanje-velden | [RMD-schermreview](../reviews/MFA-L07-schermreview.csv) |
-| Stijl en schermschema | Beschikbaar; vaste ID's en scheiding reviewmaster/importinhoud | [Stijlgids](../articulate/stijlgids.md) |
+| Stijl en schermschema | Bestaande Articulate-stijl hergebruiken bevestigd; inhoudelijke gids en schermschema beschikbaar; broncursus nog vastleggen | [Stijlgids](../articulate/stijlgids.md) |
 | Articulate | Integratie en importroutes onderbouwd; geen accountproef of pakket gebouwd | [Bouwroute](../articulate/import-en-bouwroute.md) |
 | Visuele uitwerking | Twee geplande mediaonderdelen geregistreerd; geen productieassets gemaakt | [Mediaregister](../articulate/mediaregister.csv) |
 | Website, ChainWise en Moodle | Eerder bevestigde architectuur vastgelegd; Moodle bij Hetzner; acht ketenproeven ontworpen | [Keten](../moodle/chainwise-keten.md) |

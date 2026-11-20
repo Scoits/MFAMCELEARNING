@@ -37,3 +37,7 @@ Gebruik de stijlgids, het vaste schermschema en de import- en bouwroute in `arti
 Behoud afzonderlijke vaardigheids- en assessment-ID's voor de bestaande MC-technieken. Werk de open scopebesluiten uit zonder modeldetails uit 2000 als actuele protocollen te behandelen. Verifieer de twaalf aanvullende voorwaarden uit S035-S036 naast de 23 IaT-voorwaarden. Beschrijf de theoriecontrole bij praktijkstart, het actuele theorie-praktijkinterval en de concrete rolkwalificaties.
 
 Neem de keten website, ChainWise en Moodle mee in het proefplan; Moodle wordt bij Hetzner gehost. Stel bekende taal-, platform-, module- en reviewerkeuzes niet opnieuw ter discussie. NOGEPA/tender, Security Awareness en GWO zijn geen toepasselijke leerdoelen voor dit STCW-dossier. Werk de medische master eerst reviewbaar uit en maak na vaststelling de schone Articulate-importbestanden en aansluitende promptset.
+
+## Bestaande vormgeving behouden
+
+DRTC heeft al een stijl in Articulate ingericht; Martijn heeft bevestigd dat die wordt hergebruikt. Werk de MFA/MC-inhoud en Engelse opvolgers binnen die bestaande stijl uit. Gebruik bij de bouw de bestaande template of referentiecursus en leg bron en versie vast. De exacte link is nog te lokaliseren; dit verhindert de inhoudelijke uitwerking niet. Neem logo, kleuren, lettertypen en vormgeving over uit de bestaande inrichting.

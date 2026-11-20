@@ -13,6 +13,10 @@ Werkversie 0.1, 20 november 2026. De Nederlandse reviewmaster blijft de inhoudel
 
 Gebruik [het schermschema](../templates/schermreview.csv) en [de stijlgids](stijlgids.md). Het eerste ingevulde voorbeeld staat in [de RMD-schermreview](../reviews/MFA-L07-schermreview.csv). De huidige conceptstatus is geschikt voor review en een technische proef; medische vrijgave blijft nodig voor definitieve cursistpublicatie.
 
+## Bestaande stijl als bouwbron
+
+Gebruik de bestaande DRTC-stijl en templates in Articulate voor de proef en verdere productie, zoals door Martijn bevestigd. Leg de gebruikte broncursus of template, versie en overgenomen thema-instellingen vast in het bouwlog. Controleer na import of logo, kleuren, lettertypen, blokopmaak en navigatie overeenkomen met die bestaande inrichting. De exacte bronlink is nog niet opgenomen in dit dossier. Het inhoudelijke schermschema blijft bruikbaar terwijl die bouwbron wordt gelokaliseerd.
+
 ## Gekozen proefroute
 
 Maak na inhoudelijke vaststelling één schone Word-les uit dezelfde schermrecords. Rise Magic Lesson Import kan met ingeschakelde AI Assistant één Word-, PDF- of PowerPoint-bestand omzetten in een les. De documentstructuur stuurt de blokken. De documentatie beschrijft tekstbehoud, verwerking van beschikbare beelden en placeholders waar materiaal ontbreekt. De functie is als bèta beschreven. Controleer daarom in de eigen account welke blokken werkelijk worden gemaakt en vergelijk alle tekst, volgorde en feedback met de master.

@@ -11,6 +11,7 @@ Deze repository ondersteunt de ontwikkeling van de hybride STCW-opleidingen Medi
 | Aanbod | Zelfstandig te volgen onderdelen en een gecombineerd traject |
 | Taal | Nederlandse master; gelijkwaardige Engelse vertaling daarna |
 | Bouw en levering | Articulate 360 en zelf gehost Moodle |
+| Visuele stijl | Bestaande DRTC-stijl en templates in Articulate hergebruiken |
 | Medische eindgoedkeuring | Mathanje |
 
 DRTC is volgens Martijn erkend en heeft deze ontwikkeling met ILT besproken. Beschrijf die context correct; presenteer het gesprek niet als een al verleende formele erkenning van de nieuwe hybride uitvoering. Maak bestaande erkenningsbesluiten niet tot voorwaarde om het ontwerpwerk te starten.
@@ -44,3 +45,5 @@ Dit project blijft STCW MFA/MC. Tender-, NOGEPA-, Security Awareness- en GWO-mat
 Lees `docs/projectcontrole-v003.md`, `articulate/stijlgids.md`, `articulate/import-en-bouwroute.md` en `moodle/chainwise-keten.md`. Gebruik vaste scherm-ID's en het schema `templates/schermreview.csv`. Houd reviewmaster en schone Articulate-importinhoud gescheiden. Interne onzekerheden horen niet als cursistentekst in de import.
 
 De eerder bevestigde architectuur is website en ChainWise gekoppeld aan Moodle, met Moodle gehost bij Hetzner. De concrete werking is nog niet gecontroleerd. S035 en S036 voegen eerder aangeleverde uitvoerings- en kwalificatiebronnen toe. De Covid-termijn uit S035 is geen vastgesteld huidig interval. Bouw geen zelfbedachte API's, toetsnormen of medische technieken om open velden te vullen.
+
+Martijn heeft bevestigd dat de Articulate-stijl al bestaat. Gebruik die bestaande stijl voor MFA, MC en de Engelse opvolgers. De stijlgids vult schrijfwijze, schermstructuur en review aan binnen die vormgeving. Neem concrete thema-instellingen bij de bouw over uit de bestaande Articulate-bron; de exacte cursus- of templatelink is nog niet in dit dossier vastgelegd.

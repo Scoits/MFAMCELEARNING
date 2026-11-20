@@ -15,6 +15,7 @@ Deze eerder door Martijn bevestigde besluiten zijn op 20 november 2026 samengebr
 | B09 | Repository Scoits/MFAMCELEARNING is de gezamenlijke projectwerkplek | Door Martijn aangewezen |
 | B10 | Moodle wordt bij Hetzner gehost; Hetzner is hier niet de host van ChainWise | Eerder door Martijn bevestigd op 31 oktober 2026; inrichting niet live gecontroleerd |
 | B11 | ChainWise is gekoppeld aan Moodle; de DRTC-website koppelt aan Moodle voor inschrijvingen | Eerder door Martijn bevestigd op 31 oktober 2026; precieze gegevensroute nog te controleren |
+| B12 | De bestaande DRTC-stijl en templates in Articulate worden hergebruikt voor MFA, MC en de Engelse opvolgers | Door Martijn bevestigd op 20 november 2026; exacte broncursus of templatelink nog vast te leggen |
 
 ## Ontwerpvoorstellen
 
@@ -32,3 +33,5 @@ Exacte klokuren per activiteit, groepsgrootte en bezetting, cesuur, aantallen vr
 ## Reikwijdte van aanvullende input
 
 De op 20 november gedeelde Claude-tekst begint vanuit een EHBO-tender en NOGEPA. Die aanname geldt niet voor dit dossier. De bruikbare punten over schermreview, bronnen, stijlgids en import worden overgenomen als werkwijze. De bestaande projectkeuzes blijven leidend. Zie de [projectcontrole](projectcontrole-v003.md).
+
+De op 20 november gedeelde afbeelding E-Learning ecosysteem komt volgens Martijn uit een eerdere chat. Zij ondersteunt de ecosysteemcontext. De bestaande Articulate-inrichting is de bron voor de concrete cursusvormgeving; de nieuwe inhoudelijke stijlgids sluit daarop aan.

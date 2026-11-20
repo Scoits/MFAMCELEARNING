@@ -1,6 +1,6 @@
 # Articulate productie
 
-De cursus wordt gebouwd in Articulate 360 en geleverd via zelf gehost Moodle. Definitieve productie volgt op het Nederlandse lesontwerp en de inhoudelijke beoordeling.
+De cursus wordt gebouwd in Articulate 360 en geleverd via zelf gehost Moodle. De bestaande DRTC-stijl en templates in Articulate zijn het visuele uitgangspunt. Definitieve productie volgt op het Nederlandse lesontwerp en de inhoudelijke beoordeling.
 
 Rise is het voorgestelde uitgangspunt voor theorie, visuele uitleg, demonstraties en kennischecks. Storyline wordt gebruikt wanneer beslispunten met verschillende vervolgstappen bijdragen aan het leerdoel. De keuze per les wordt onderbouwd in het storyboard.
 
