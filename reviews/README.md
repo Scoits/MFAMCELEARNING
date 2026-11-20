@@ -24,3 +24,7 @@ Na inhoudelijke wijzigingen wordt bekeken welke medische goedkeuring opnieuw nod
 ## Ontvangen hoofdlijnenreview
 
 [MH-001, Mathanje](2026-11-20-mathanje-hoofdlijnen.md) registreert de via Martijn ontvangen reactie op 20 november 2026. De hoofdlijnen zijn positief beoordeeld; de tijd moet in de praktijk worden bevestigd. Mathanje ondersteunt toetsing met een slagingsgrens en stelt een MFA-indeling en twee MC-varianten voor. Dit is geen detailvrijgave van alle leerdoelen, les- of vraaginhoud. De bestaande scherm- en doelrecords houden hun open reviewstatus.
+
+## Uitgewerkte lessen en reviewvragen ronde 1
+
+Sinds 20 november 2026 zijn er schermreviews voor [MFA-L00](MFA-L00-schermreview.csv), [MFA-L01](MFA-L01-schermreview.csv) en [MFA-L07 versie 0.3](MFA-L07-schermreview.csv). Alle schermen hebben de status medische_review_nodig. Concrete onzekerheden staan per scherm als TE VERIFIËREN in het veld source_location en in de master. De gebundelde vragen voor Mathanje staan in [reviewvragen ronde 1](2026-11-20-reviewvragen-mathanje.md).

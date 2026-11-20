@@ -1,0 +1,77 @@
+lesson_id,screen_id,learning_goal_ids,title,learner_text,voice_over,interaction,feedback_correct,feedback_incorrect,source_ids,source_location,media_ids,platform_block,minutes_estimate,review_status,medical_reviewer,mathanje_comment,version,review_date
+MFA-L01,MFA-L01-S01,MFA-01.01;MFA-01.02,Waar is de medische uitrusting?,"Tijdens het lossen snijdt een collega zich aan een scherpe rand. De officier van de wacht vraagt jou de medische uitrusting te halen. Weet jij waar die staat, wat erin zit en wat je meeneemt?
+
+In deze les leer je de medische uitrusting aan boord kennen: waarvoor de onderdelen dienen, waar je ze vindt en hoe je ze veilig en hygiënisch gebruikt.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S001;S003,"S001 tabel A-VI/4-1, gedrukte/PDF p201, kennisgebied eerstehulpuitrusting; S003 Part C 2.1-2.2, gedrukte p12 / PDF p18.",MFA-L01-M01,Rise afbeelding met tekst,2,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S02,MFA-01.01,Wat hoort bij de medische uitrusting?,"De medische uitrusting is ingedeeld naar functie. Open ieder tabblad.
+
+Wond- en verbandmateriaal: kompressen, verbanden, pleisters, driekante doeken en brandwondverband. Hiermee dek je wonden af, behandel je bloedingen en ondersteun je letsel.
+
+Instrumenten voor onderzoek en verzorging: onder meer schaar, pincet, thermometer en bloeddrukmeter.
+
+Ademweg en beademing: een beademingsmasker en, als die aan boord is, zuurstofapparatuur. Het veilige gebruik daarvan leer je in les 5.
+
+Immobilisatie en vervoer: spalken, eventueel andere ondersteuningsmiddelen en de brancard.
+
+Persoonlijke bescherming en hygiëne: handschoenen, middelen voor handhygiëne, afvalzakken en een container voor scherp afval.
+
+Geneesmiddelen en documentatie: geneesmiddelen gebruik je alleen volgens de medische gids en het ontvangen advies; zie les 6. De medische gids en registratieformulieren horen ook bij de uitrusting.
+
+Welke middelen precies aan boord moeten zijn, hangt af van het type schip en het vaargebied. De actuele inventarislijst van jouw schip is leidend.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003;S009;S014;S023,"S003 Part C 2.1, gedrukte p12 / PDF p18; S009 p1 item 2.1 met PPT1 dia51-52/54-58 en PPT4 dia2 (indirect). TE VERIFIËREN: De indeling en voorbeelden zijn een DRTC-ontwerp; toets ze aan S023 en S014 (niet gelezen) en aan de actuele wettelijke uitrustingseisen. Mathanje bevestigt of ondersteuningsmiddelen zoals een nekkraag hier genoemd worden (zie opmerking MFA-05.03).",MFA-L01-M02,Rise tabbladen,5,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S03,MFA-01.01,Kies het juiste materiaal,Denk terug aan je collega met de snijwond in de hand.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K01-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Je collega heeft een bloedende snijwond in de hand. Wat neem je als eerste mee uit de uitrusting?
+K01-01-A: Handschoenen en wond- en verbandmateriaal (juist)
+K01-01-B: Een spalk en een driekante doek
+K01-01-C: Een thermometer en een registratieformulier",K01-01-A: Juist. Je beschermt jezelf en kunt de wond afdekken en de bloeding behandelen.,"K01-01-B: Onjuist voor deze situatie. Die middelen gebruik je vooral bij vermoedelijk bot- of gewrichtsletsel.
+K01-01-C: Onjuist als eerste keuze. Vastleggen is belangrijk, maar eerst moet je de bloeding kunnen behandelen en jezelf beschermen.",S003,"S003 Part C 2.1 en 2.4, gedrukte p12 / PDF p18; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de feedback bij K01-01-B.",,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S04,MFA-01.02,Vinden en beschikbaar maken,"In een noodsituatie wil je niet zoeken. Zorg dat je op jouw schip weet:
+
+waar de medische uitrusting, de AED en de brancard staan;
+
+hoe die plaatsen zijn aangeduid;
+
+wie de uitrusting controleert en aanvult;
+
+hoe je meldt wat je hebt gebruikt.
+
+Bekijk na aanmonstering zelf deze plaatsen. Meld gebruikt, beschadigd of verlopen materiaal direct, zodat het wordt aangevuld.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"I01-01: tikopdracht op fictieve plattegrond van OEFENSCHIP A met zes tikvlakken. Opdracht: Kies op de plattegrond de plaatsen waar je de medische uitrusting, de AED en de brancard vindt. Gebruik de veiligheidstekens op de plattegrond.
+I01-01-H1: ziekenruimte met teken eerste hulp (juist voor medische uitrusting)
+I01-01-H2: gang bij de brug met teken AED (juist voor AED)
+I01-01-H3: gang bij de accommodatie met aanduiding brancard (juist voor brancard)
+I01-01-H4: kombuis (onjuist)
+I01-01-H5: machinekamerwerkplaats (onjuist)
+I01-01-H6: verfopslag (onjuist)","H1, H2 en H3: Goed gevonden. Op dit oefenschip wijzen de veiligheidstekens de plaats aan. Op jouw eigen schip kunnen de plaatsen anders zijn; kijk het daar zelf na.","H4, H5 of H6: Hier staat op dit oefenschip geen medische uitrusting. Zoek het teken voor eerste hulp of AED op de plattegrond.",S003;S009;S042,"S003 Part C 2.2, gedrukte p12 / PDF p18; S009 p1 item 2.2 met PPT1 dia51-52 (indirect); fictieve plattegrond is DRTC-ontwerp. TE VERIFIËREN: Bevestig welke veiligheidstekens DRTC wil tonen; voorstel is ISO 7010 E003 eerste hulp en E010 AED (S042, niet gelezen).",MFA-L01-M03,Rise tekst en gelabelde afbeelding (tikvlakken),5,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S05,MFA-01.03,Uitrusting in reddingsmiddelen,"Reddingsboten en reddingsvlotten hebben een eigen, kleinere eerstehulpuitrusting. Die is bedoeld voor de periode waarin je na het verlaten van het schip op redding wacht.
+
+De uitrusting is compact en waterdicht verpakt en heeft een gebruiksaanwijzing. Je hebt dan geen toegang tot de uitrusting van het schip en contact voor medisch advies is beperkt of niet mogelijk.
+
+Lees daarom de gebruiksaanwijzing en ken de inhoud voordat je die nodig hebt. Onderkoeling, zeeziekte en te weinig drinkwater zijn in een reddingsmiddel belangrijke risico's; die behandel je in les 5.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003;S009;S040,"S003 Part C 2.3, gedrukte p12 / PDF p18; S009 p1 item 2.3 met PPT1 dia52/55 en PPT4 dia2 (indirect). TE VERIFIËREN: Bevestig in de LSA Code (S040, niet gelezen) de eis van een waterdicht verpakte eerstehulpuitrusting met gebruiksaanwijzing in reddingsboten en reddingsvlotten.",MFA-L01-M04,Rise afbeelding met tekst,4,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S06,MFA-01.03,Scheepsuitrusting en reddingsmiddel vergelijken,Vergelijk de uitrusting van het schip met die van een reddingsvlot.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K01-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Waarin verschilt de eerstehulpuitrusting van een reddingsvlot van de medische uitrusting van het schip?
+K01-02-A: Hij is kleiner en bedoeld om zelf te gebruiken totdat redding komt (juist)
+K01-02-B: Hij bevat dezelfde middelen als de uitrusting van het schip
+K01-02-C: Hij mag alleen door een arts worden gebruikt","K01-02-A: Juist. De uitrusting is beperkt en bedoeld voor zelfstandig gebruik met de gebruiksaanwijzing, zonder de middelen van het schip.","K01-02-B: Onjuist. De uitrusting in een reddingsmiddel is kleiner en beperkter.
+K01-02-C: Onjuist. De uitrusting is bedoeld voor de opvarenden in het reddingsmiddel en heeft daarom een gebruiksaanwijzing.",S003,"S003 Part C 2.3, gedrukte p12 / PDF p18; antwoordlogica is DRTC-ontwerp.",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S07,MFA-01.04,Materiaal veilig en hygiënisch gebruiken,"Goed materiaal helpt alleen als je het veilig gebruikt. Werk in deze volgorde:
+
+Bescherm jezelf. Trek handschoenen aan voordat je bloed of lichaamsvocht kunt aanraken.
+
+Kies wat je nodig hebt en leg het overzichtelijk klaar.
+
+Controleer de verpakking. Is die heel, droog en niet verlopen? Gebruik steriel materiaal alleen als de verpakking onbeschadigd is.
+
+Raak het deel dat op de wond komt niet aan.
+
+Gooi gebruikt materiaal in de afvalzak. Scherp afval gaat in de container voor scherp afval.
+
+Reinig je handen na het uittrekken van de handschoenen en meld wat je hebt gebruikt.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003;S009,"S003 Part C 2.4, gedrukte p12 / PDF p18; S009 p1 item 2.4 met PPT4 dia2-12 en PH10 (indirect). TE VERIFIËREN: Mathanje beoordeelt de zes stappen en de volgorde, in het bijzonder handhygiëne na het uittrekken van handschoenen. DRTC bevestigt of een container voor scherp afval in de MFA-trainingsuitrusting zit.",MFA-L01-M05,Rise procesblok met korte video,5,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S08,MFA-01.04,Een beschadigde verpakking,Je bereidt materiaal voor om een wond af te dekken.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K01-03: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Je pakt een steriel kompres en ziet dat de verpakking aan één kant open is. Wat doe je?
+K01-03-A: Je gebruikt het, want het kompres ziet er schoon uit
+K01-03-B: Je legt het apart, neemt een kompres met een onbeschadigde verpakking en meldt het beschadigde exemplaar (juist)
+K01-03-C: Je desinfecteert het kompres eerst met alcohol",K01-03-B: Juist. Zo gebruik je alleen materiaal waarvan je zeker bent en wordt de voorraad aangevuld.,"K01-03-A: Onjuist. Je kunt niet zien of het kompres nog steriel is.
+K01-03-C: Onjuist. Daarmee maak je het kompres niet opnieuw steriel.",S003,"S003 Part C 2.4, gedrukte p12 / PDF p18; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de feedback bij K01-03-C.",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
+MFA-L01,MFA-L01-S09,MFA-01.01;MFA-01.02;MFA-01.03;MFA-01.04,Naar de praktijkdag,"Op de praktijkdag controleer je samen met de instructeur een trainingsuitrusting. Je laat zien dat je weet wat erin zit en waarvoor het dient, en je kiest het juiste materiaal voor een letselsituatie.
+
+In de scenario's haal je zelf de uitrusting en gebruik je het materiaal hygiënisch.
+
+Bekijk vóór de praktijkdag zo mogelijk de medische uitrusting op je eigen schip.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003,"S003 Part C 2.1-2.4, gedrukte p12 / PDF p18; observatiecriteria volgens drtc_criterium_voorstel in de MFA-matrix.",,Rise tekst,2,medische_review_nodig,Mathanje,,0.1,

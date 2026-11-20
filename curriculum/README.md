@@ -4,7 +4,7 @@ De twee inhoudelijke CSV-bestanden zijn uitgewerkt naar concrete leerdoelen: 50 
 
 | Bestand | Inhoud |
 | --- | --- |
-| [mfa-dekkingsmatrix.csv](mfa-dekkingsmatrix.csv) | 50 doelen, A-VI/4-1 en Model Course 1.14 |
+| [mfa-dekkingsmatrix.csv](mfa-dekkingsmatrix.csv) | 52 doelen, A-VI/4-1 en Model Course 1.14; MFA-00.03 en 00.04 toegevoegd op 20 november 2026 |
 | [mc-dekkingsmatrix.csv](mc-dekkingsmatrix.csv) | 68 doelen, A-VI/4-2 en Model Course 1.15 |
 | [iat-cbt-matrix.csv](iat-cbt-matrix.csv) | 23 voorwaarden voor CBT en uitvoering met ontwerpmaatregelen |
 | [aanvullende-voorwaarden.csv](aanvullende-voorwaarden.csv) | 12 controlepunten uit eerdere e-learning- en kwalificatiebronnen |

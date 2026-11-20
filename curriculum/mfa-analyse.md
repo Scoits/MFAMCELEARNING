@@ -1,6 +1,6 @@
 # MFA dekking en ontwerpbevindingen
 
-Werkversie 20 november 2026. De [MFA-matrix](mfa-dekkingsmatrix.csv) bevat 50 concrete leerdoelen op basis van de STCW-tabel, de gelezen modeluitwerking en de bestaande DRTC-verwijzingen. Dit is een inhoudelijk uitgewerkt ontwerp. De medische teksten, praktische uitvoeringscriteria en volledige onderliggende lesbronnen zijn nog niet gevalideerd.
+Werkversie 20 november 2026. De [MFA-matrix](mfa-dekkingsmatrix.csv) bevat 52 concrete leerdoelen (sinds 20 november 2026 inclusief MFA-00.03 bloeding en MFA-00.04 shock, zie docs/broncontrole-v004.md) op basis van de STCW-tabel, de gelezen modeluitwerking en de bestaande DRTC-verwijzingen. Dit is een inhoudelijk uitgewerkt ontwerp. De medische teksten, praktische uitvoeringscriteria en volledige onderliggende lesbronnen zijn nog niet gevalideerd.
 
 ## Wat is daadwerkelijk gecontroleerd
 
