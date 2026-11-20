@@ -35,7 +35,7 @@ Lees [de brede projectcontrole](docs/projectcontrole-v003.md), [de actuele proje
 
 ## Huidige fase
 
-De inhoudelijke ontwerpversie 0.4 bevat 52 MFA-leerdoelen, 68 MC-leerdoelen, 23 IaT/CBT-voorwaarden, twaalf aanvullende controlepunten uit eerdere ILT-documenten, een toetsontwerp en urenramingen. Uitgewerkt in concept zijn MFA-L00 tot en met MFA-L08, met de RMD-les MFA-L07 in versie 0.3, en MC-L00 tot en met MC-L08, alle met een schermreview en de status medische_review_nodig. De [ingevulde schermreview](reviews/MFA-L07-schermreview.csv), [stijlgids](articulate/stijlgids.md) en [import- en bouwroute](articulate/import-en-bouwroute.md) maken de overdracht naar Mathanje en Articulate concreet.
+De inhoudelijke ontwerpversie 0.4 bevat 52 MFA-leerdoelen, 68 MC-leerdoelen, 23 IaT/CBT-voorwaarden, twaalf aanvullende controlepunten uit eerdere ILT-documenten, een toetsontwerp en urenramingen. Uitgewerkt in concept zijn MFA-L00 tot en met MFA-L08, met de RMD-les MFA-L07 in versie 0.3, en MC-L00 tot en met MC-L09, alle met een schermreview en de status medische_review_nodig. De [ingevulde schermreview](reviews/MFA-L07-schermreview.csv), [stijlgids](articulate/stijlgids.md) en [import- en bouwroute](articulate/import-en-bouwroute.md) maken de overdracht naar Mathanje en Articulate concreet.
 
 De [brede projectcontrole](docs/projectcontrole-v003.md) beschrijft de aangebrachte correcties en open punten. De eerdere [keten website, ChainWise en Moodle](moodle/chainwise-keten.md) is teruggezet, inclusief Moodle-hosting bij Hetzner en acht beschreven acceptatieproeven. De volledige lesproductie, medische vrijgave en technische proef zijn nog niet uitgevoerd. Het RMD-prototype dekt zijn gekoppelde doelen gedeeltelijk.
 

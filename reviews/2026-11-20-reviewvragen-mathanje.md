@@ -188,3 +188,10 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R84 | MC-L08-S02 | Vraagt de actuele RMD-vragenlijst (S031) dezelfde scheepsgegevens als de versie van 2010 (S021 A.1 tot en met A.5), en zijn de dichtstbijzijnde haven en de uitrustingskolom relevant voor het evacuatiebesluit? |
 | R85 | MC-L08-S12 | Hoe verloopt de overdracht in de haven in de praktijk: de rol van agent en havenautoriteit, en het vooraf melden van een besmettelijke ziekte? Dit staat niet in de DRTC-bronnen. (vraag ook aan DRTC) |
 | R86 | MC-L08-S04, S05 | Welke MC-handelingen voert de zorgverlener uit op advies van de arts, en hoe controleert hij een advies over een geneesmiddel zonder dat de les doseringen noemt? |
+
+## Aanvulling bij MC-L09
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R87 | MC-L09-S05 | De toetsmatrijs raamt de MC-toets van 50 items op 60 tot 75 minuten; MC-L09 reserveert 50 minuten. Wordt de toets korter, met minder situatievragen, of verschuift er tijd? (vraag aan DRTC) |
+| R88 | MC-L09-S04 | Welke variant voor de praktijkdagen kiest DRTC (A of B), en wat neemt de cursist mee naast een identiteitsbewijs, bijvoorbeeld een bewijs van het MFA-certificaat? (vraag ook aan DRTC) |

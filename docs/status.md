@@ -31,12 +31,12 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | MC-L06 | Uitgewerkt: 15 schermen, 4 kennischecks, 55 minuten; bevalling alleen als oriëntatie | [Master](../content/nl/MC-L06-bijzondere-zorg.md), [schermreview](../reviews/MC-L06-schermreview.csv) |
 | MC-L07 | Uitgewerkt: 15 schermen, 4 kennischecks, 55 minuten; uitrusting onderbouwd met S066 | [Master](../content/nl/MC-L07-preventie-beheer-regelgeving.md), [schermreview](../reviews/MC-L07-schermreview.csv) |
 | MC-L08 | Uitgewerkt: 15 schermen, 4 kennischecks, 45 minuten; bouwt voort op MFA-L07; helikopterevacuatie uit PH13 en PH37 | [Master](../content/nl/MC-L08-gecoordineerde-hulp-evacuatie.md), [schermreview](../reviews/MC-L08-schermreview.csv) |
-| MC-L09 | Nog niet uitgewerkt | |
+| MC-L09 | Uitgewerkt: 7 schermen, 2 oefenvragen, 60 minuten waarvan 50 voor de toets; dagindeling wacht op keuze variant A of B | [Master](../content/nl/MC-L09-theorieafronding-praktijkvoorbereiding.md), [schermreview](../reviews/MC-L09-schermreview.csv) |
 | Praktijkplanning | PH 1 tot en met 14 per station gekoppeld; MFA-dag met vier stations en zes LOTUS-scenario's; MC A en B doorgerekend; voorstel A met drie instructeurs bij invasieve handelingen | [Praktijkplanning](praktijkplanning-v001.md) |
 | Urenvergelijking | Klassiek MFA 945 en MC 1425 bruto minuten (S047) tegenover hybride 990 en 1500; niet korter, CBT-02 gehaald onder twee aannames | [Urenvergelijking](urenvergelijking-v001.md) |
 | Toetsmatrijs | MFA 40 items in 14 categorieën, MC 50 items in 9 categorieën; slagingsgrens via Angoff-panel; alles voorstel | [Toetsmatrijs](toetsmatrijs-v001.md) |
-| Reviewvragen Mathanje | 86 gebundelde vragen R01 tot en met R86, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
-| Mediaregister | 99 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
+| Reviewvragen Mathanje | 88 gebundelde vragen R01 tot en met R88, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
+| Mediaregister | 101 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
 | Articulate-importinhoud | Nog niet gemaakt; volgt na Mathanjes review van de uitgewerkte lessen | [Bouwroute](../articulate/import-en-bouwroute.md) |
 | Website, ChainWise en Moodle | Ongewijzigd; acht ketenproeven ontworpen, niet uitgevoerd | [Keten](../moodle/chainwise-keten.md) |
 | Medische detailgoedkeuring | Niet uitgevoerd voor enig scherm, doel of criterium | [Reviewregistratie](../reviews/README.md) |
@@ -57,7 +57,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 
 ## Volgende stap
 
-Mathanje beoordeelt MFA-L00 tot en met L03 en MFA-L07 versie 0.3 aan de hand van de reviewvragen R01 tot en met R26. Alle MFA-lessen L00 tot en met L08 zijn in concept uitgewerkt. MC-L00 tot en met MC-L08 zijn uitgewerkt. Volgende stap is MC-L09 en verder in de MC-reeks met S062 tot en met S064 en PH1 tot en met PH3. Voor de anatomieschermen en de trauma score kaart is het beeld van S045 nodig; DRTC levert de kaart bij voorkeur als afzonderlijk bestand. Na review volgt de schone importversie van de eerste vastgestelde les.
+Mathanje beoordeelt MFA-L00 tot en met L03 en MFA-L07 versie 0.3 aan de hand van de reviewvragen R01 tot en met R26. Alle MFA-lessen L00 tot en met L08 zijn in concept uitgewerkt. MC-L00 tot en met MC-L09 zijn uitgewerkt; daarmee zijn alle MFA- en MC-lessen in concept beschikbaar. Volgende stap is het registreren en vergelijken van de nieuw opgehaalde praktijkdocumenten uit map 025 (infuus, verdoven en hechten, katheter, verrichtingenlijst MC 2024, MC-letsels 2024 tot 2029) met MC-L03 tot en met MC-L05. Voor de anatomieschermen en de trauma score kaart is het beeld van S045 nodig; DRTC levert de kaart bij voorkeur als afzonderlijk bestand. Na review volgt de schone importversie van de eerste vastgestelde les.
 
 ## Grenzen van deze status
 
