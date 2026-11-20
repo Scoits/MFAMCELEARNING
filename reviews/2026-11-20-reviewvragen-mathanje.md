@@ -168,3 +168,13 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R74 | MC-L06-S10, MC-20.02 | Het scopebesluit over de bevalling is open. Blijft het bij deze oriëntatie, of komt er een handelingsinstructie, en uit welke bron? |
 | R75 | MC-L06-S13 tot en met S15 | Zijn de regels uit S063 dia11-13 (officier van justitie in Amsterdam, voorlopige overlijdensakte, twee getuigen, bewaartermijnen) actueel, wie maakt de voorlopige akte op, en wat geldt onder een andere vlag? (vraag ook aan DRTC) |
 | R76 | MC-L06-S11, S12 | Hoe lang moet een persoon na bijna-verdrinking worden bewaakt, en welke signalen leert MC? |
+
+## Aanvulling bij MC-L07
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R77 | MC-L07-S07, MC-25.01 | Welke actuele vaccinatiebron voor zeevarenden gebruikt MC, en klopt de uitleg van actieve en passieve immunisatie met tetanus als voorbeeld? |
+| R78 | MC-L07-S12, S14 | Hoe worden vervallen geneesmiddelen en medisch afval aan boord afgevoerd? S066 regelt dit niet. (vraag ook aan DRTC) |
+| R79 | MC-L07-S02, S03 | Wie is aan boord verantwoordelijk voor drinkwater, voedselhygiëne en de hygiënecontrole, en mag de les dit algemeen houden? (vraag ook aan DRTC) |
+| R80 | MC-L07-S10 | Hoe wordt de medische kaart (S048, DTp Form SCMG/3) in de opleiding en in scenario SC-MC-08 gebruikt? (vraag ook aan DRTC) |
+| R81 | MC-L07-S11 | Is Bijlage 5 van de Regeling veiligheid zeeschepen (S066, geldend vanaf 1 januari 2017) nog de actuele versie, en wat leert MC over schepen onder een andere vlag? |
