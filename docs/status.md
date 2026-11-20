@@ -36,7 +36,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.4. Claude heeft het dossier van 
 | OB-03 | Leidende reanimatie- en eerstehulprichtlijn (S041) | Mathanje | MFA-L03 kan alleen in structuur worden uitgewerkt |
 | OB-04 | Infuus in MC (MC-V03) | Mathanje en DRTC | Bezetting MC-handelingen niet definitief |
 | OB-05 | Waar 11 extra minuten van MFA-L07 vandaan komen | DRTC | MFA-urenbegroting staat op 491 minuten |
-| OB-06 | Klassieke klokuren MFA en MC voor de vergelijking uit IaT 4 paragraaf 6.3 punt 2 | Martijn | Onderbouwing hybride duur onvolledig |
+| OB-06 | Klassieke klokuren voor de vergelijking uit IaT 4 paragraaf 6.3 punt 2. Martijn meldde op 20 november 2026: klassikaal 40 uur. Nog te bevestigen of dat MFA en MC samen is (dan gelijk aan hybride 16 plus 24 uur) of per opleiding | Martijn | Onderbouwing hybride duur onvolledig |
 | OB-07 | Aantal instructeur-assessoren per dagdeel | DRTC | Zie praktijkplanning; met twee is MC te krap |
 | OB-08 | Eerder open: bevalling (MC-20.02), psychosociaal (MFA-13), medicatiegrens (MFA-10.02), actuele STCW-editie, S034 | Mathanje en DRTC | Raakt MC-L06, MFA-L06 en de normcontrole |
 
