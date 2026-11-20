@@ -18,6 +18,7 @@ Bijgewerkt op 20 november 2026, inhoudelijke ontwerpversie 0.2. De eerste bronge
 | Medische goedkeuring | Nog niet uitgevoerd voor nieuwe doelen, criteria of lesprototype | [Reviewregistratie](../reviews/README.md) |
 | Directe dia-controle | Nog grotendeels open; S034-inhoudsextractie door bestandsgrootte geblokkeerd | [Bevindingen](ontwerpbevindingen-v002.md) |
 | Articulate en Moodle | Ontwerp aanwezig; geen pakket gebouwd of installatie getest | [Moodle](../moodle/README.md) |
+| Rise en Storyline integratie | Voorstel toegevoegd na beoordeling van Copilot-notities; zeven scenario-onderwerpen en registratieroutes | [Integratieplan](../articulate/integratieplan.md) |
 | Engelse versie | Nog niet geproduceerd; volgt vanuit vastgestelde Nederlandse master | [Vertaling](../content/en/README.md) |
 
 ## Eerstvolgende opdracht

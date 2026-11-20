@@ -15,6 +15,8 @@ De plaats van de afsluitende toets is een voorstel en nog geen bevestigd project
 
 Voor gewone Moodle-SCORM-activiteiten is SCORM 1.2 een voorlopig uitgangspunt. Native ondersteuning voor SCORM 2004 mag niet worden verondersteld. Controleer de werkelijke installatie voordat een definitieve exportinstelling wordt vastgelegd.
 
+Bij ingebedde Storyline-scenario's worden afronding, totaalscore en afzonderlijke antwoorden apart beoordeeld. Ga niet uit van volledige registratie van alle scenariokeuzes. Zie [het integratieplan](../articulate/integratieplan.md) voor de voorgestelde routes en technische proef.
+
 ## Technische proef
 
 | Proef | Te controleren resultaat |
