@@ -1,23 +1,29 @@
 # Projectstatus
 
-Bijgewerkt op 20 november 2026. Deze repository bevat de start van het ontwerp; de lesproductie is nog niet begonnen.
+Bijgewerkt op 20 november 2026, inhoudelijke ontwerpversie 0.2. De eerste brongekoppelde leerdoelen en een Nederlands lesprototype zijn beschikbaar. Medische vrijgave, directe controle van alle onderliggende lesbronnen en technische productie zijn nog niet uitgevoerd.
 
 | Onderdeel | Status | Vindplaats |
 | --- | --- | --- |
-| Besluiten en leerdoel van het project | Vastgelegd | [Besluiten](besluiten.md) |
-| Ontwerpkader v001 | Beschikbaar als werkdocument | [Ontwerpkader](ontwerpkader.md) |
-| Beide bijlagen van Mathanje | Gelezen; medische validatie volgt | [Bronregister](../sources/README.md) |
-| Bestaande lesplannen, assessments en ILT-verwijsoverzichten | Gelezen | [Bronregister CSV](../sources/register.csv) |
-| IaT 4 augustus 2026 | Gelezen, inclusief CBT-voorwaarden | [Bronregister](../sources/README.md) |
-| IMO model courses | Part A en B gericht gecontroleerd; volledige detailmapping volgt | [Bronregister](../sources/README.md) |
-| Presentaties, praktijkhandelingen, overige boeken en media | Geïnventariseerd; inhoudelijke controle volgt | [Bronregister](../sources/README.md) |
-| Dekkingsmatrices | Onderwerpniveau, nog uit te werken naar afzonderlijke leerdoelen | [Curriculum](../curriculum/README.md) |
-| Medisch goedgekeurde nieuwe lessen | Nog geen | [Reviewregistratie](../reviews/README.md) |
-| Articulate- en Moodle-proefpakket | Nog te bouwen | [Moodle](../moodle/README.md) |
-| Engelse versie | Volgt op goedgekeurde Nederlandse inhoud | [Vertaling](../content/en/README.md) |
+| Bevestigde besluiten | Vastgelegd | [Besluiten](besluiten.md) |
+| Ontwerpkader v001 | Basisdocument; actuele uitwerking in de nieuwe documenten | [Ontwerpkader](ontwerpkader.md) |
+| Inhoudelijke bevindingen v002 | Beschikbaar met hiaten en grenzen van de controle | [Bevindingen](ontwerpbevindingen-v002.md) |
+| MFA | 50 concrete doelen met bron- en beoordelingskoppeling | [MFA-analyse](../curriculum/mfa-analyse.md) |
+| MC | 68 concrete doelen met bron- en beoordelingskoppeling | [MC-analyse](../curriculum/mc-analyse.md) |
+| CBT en uitvoering | 23 voorwaarden vertaald naar ontwerpmaatregelen | [CBT-matrix](../curriculum/iat-cbt-matrix.csv) |
+| Toetsing | Voorstel voor kennischecks, kennistoetsen, instroom en individueel praktijkbewijs | [Toetsontwerp](toetsontwerp.md) |
+| Leerroute en uren | Drie routes; voorlopig online budget 480 minuten per opleiding | [Leerroute en uren](leerroute-en-uren.md) |
+| Bronnen | 34 registerregels; leesstatus per bron zichtbaar | [Bronregister](../sources/register.csv) |
+| Model courses | Gerichte Part C-lezing toegevoegd; gehele compendia niet gelezen | [Bronverantwoording](../sources/README.md) |
+| Nederlandse voorbeeldles | RMD-storyboard van circa 25 minuten met drie formatieve kennischecks | [MFA-L07](../content/nl/MFA-L07-radiomedisch-advies.md) |
+| Medische goedkeuring | Nog niet uitgevoerd voor nieuwe doelen, criteria of lesprototype | [Reviewregistratie](../reviews/README.md) |
+| Directe dia-controle | Nog grotendeels open; S034-inhoudsextractie door bestandsgrootte geblokkeerd | [Bevindingen](ontwerpbevindingen-v002.md) |
+| Articulate en Moodle | Ontwerp aanwezig; geen pakket gebouwd of installatie getest | [Moodle](../moodle/README.md) |
+| Engelse versie | Nog niet geproduceerd; volgt vanuit vastgestelde Nederlandse master | [Vertaling](../content/en/README.md) |
 
 ## Eerstvolgende opdracht
 
-Werk de starters in `curriculum/` uit naar volledige, brongebonden leerdoelen en beoordeel de ontbrekende dekking. Markeer onbekende broninhoud en ontbrekende goedkeuring expliciet. Gebruik [de Claude-startopdracht](../prompts/claude-start.md).
+Voer gerichte broncontrole uit, leg inhoudelijke hiaten aan Mathanje voor en maak een stationsplan met individuele oefen- en assessmentcapaciteit. Werk vervolgens het RMD-prototype uit naar een gecontroleerde bouwspecificatie en technisch proefpakket. De actuele opdracht voor Claude staat in [de vervolgopdracht](../prompts/claude-start.md).
 
-Er zijn nog geen nieuwe medische teksten, toetsnormen of hybride uitvoeringsdetails als goedgekeurd vastgelegd. Nieuwe ontwikkelingen worden met datum, gewijzigde bestanden en reviewstatus aan deze status toegevoegd.
+## Wat nog niet is vastgesteld
+
+De minutenbegroting is niet met cursisten gemeten. De getalsmatige toetsnormen en de definitieve procedure voor identificatie zijn nog niet vastgesteld. Er is geen nieuwe medische of ILT-goedkeuring geregistreerd. De bestaande erkenningscontext van DRTC blijft het uitgangspunt voor verdere ontwikkeling.

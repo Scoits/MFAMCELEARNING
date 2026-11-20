@@ -49,7 +49,7 @@ Gebruik eigen formuleringen met bronverwijzingen. Publiceer geen originele boeke
 | Productie | Articulate-bouwpakket en Moodle-inrichting | Inhoud, technische werking en registratie worden afzonderlijk geverifieerd |
 | Vertaling | Engelse versie vanuit de vastgestelde Nederlandse master | Medische en operationele gelijkwaardigheid is beoordeeld |
 
-De eerste opdracht is dekkingswerk, analyse en één prototype. Genereer niet meteen de volledige opleiding vanuit een algemene prompt.
+De eerste uitwerking is inmiddels gemaakt: 50 MFA-doelen, 68 MC-doelen, een CBT-matrix, analyses en het RMD-lesprototype. Lees de actuele status en de startopdracht voordat je opnieuw werk maakt. De volgende opdracht is broncontrole en verdere uitwerking van dit bestaande ontwerp. Genereer niet meteen de volledige opleiding vanuit een algemene prompt.
 
 ## Lessen en toetsing
 

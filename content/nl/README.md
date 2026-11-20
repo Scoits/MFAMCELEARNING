@@ -1,6 +1,6 @@
 # Nederlandse master
 
-Hier komen de Nederlandse lessen. Er is nog geen lesinhoud vrijgegeven.
+Hier komen de Nederlandse lessen. [MFA-L07 Radiomedisch advies](MFA-L07-radiomedisch-advies.md) is uitgewerkt als eerste prototype met cursistentekst, bouwinstructies, formatieve kennischecks en praktijkoverdracht. De medische review en technische bouw zijn nog niet uitgevoerd; er is nog geen lesinhoud vrijgegeven.
 
 Gebruik [het lesstoryboard](../../templates/les-storyboard.md) en koppel iedere les aan de dekkingsmatrix. Geef de les een stabiele ID, bijvoorbeeld `MFA-L01`, een versienummer, bronplaatsen en reviewstatus. Plaats de eerste uitwerking op een branch.
 

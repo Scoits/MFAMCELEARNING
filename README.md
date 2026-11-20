@@ -33,9 +33,9 @@ Lees [de actuele projectstatus](docs/status.md), [het ontwerpkader](docs/ontwerp
 
 ## Huidige fase
 
-De projectopzet en bronneninventarisatie zijn beschikbaar. De matrices zijn starters op onderwerpniveau en nog geen complete of goedgekeurde STCW-dekkingsanalyse. Er zijn nog geen definitieve cursuslessen, medische protocollen, examens of SCORM-pakketten opgeleverd.
+De eerste inhoudelijke uitwerking is beschikbaar: 50 MFA-leerdoelen, 68 MC-leerdoelen, 23 CBT- en uitvoeringsvoorwaarden, een toetsontwerp, een voorlopige urenbegroting en één Nederlands lesprototype over radiomedisch advies. Zie [de bevindingen van versie 0.2](docs/ontwerpbevindingen-v002.md). De matrices zijn brongekoppelde ontwerpen; de onderliggende lesbronnen en medische actualiteit vragen nog gerichte controle. Er zijn nog geen medisch vrijgegeven lessen, definitieve examens of gebouwde SCORM-pakketten.
 
-De eerstvolgende stap is een gedetailleerde dekkingsmatrix met precieze bronplaatsen, onderwijsactiviteiten, klokuren en beoordelingsbewijs. Daarna wordt één Nederlandse voorbeeldles met praktijkoverdracht en een technisch proefpakket uitgewerkt. Open taken staan bij [Issues](https://github.com/Scoits/MFAMCELEARNING/issues) en in [de ontwikkelvolgorde](docs/roadmap.md).
+De volgende stap is gerichte controle van de bestaande dia's en praktijkinstructies, beoordeling van de inhoudelijke hiaten en het lesprototype door Mathanje, en een stationsplan voor individueel praktijkbewijs. Het prototype kan vervolgens als klein proefpakket in Moodle worden gebouwd en getest. Open taken staan bij [Issues](https://github.com/Scoits/MFAMCELEARNING/issues) en in [de ontwikkelvolgorde](docs/roadmap.md).
 
 ## Gebruik met Claude
 
