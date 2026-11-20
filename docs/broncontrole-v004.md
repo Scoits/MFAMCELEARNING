@@ -63,3 +63,15 @@ Na de eerste controle zijn via Microsoft 365 twee DRTC-presentaties als tekstexp
 | BC-12 | S034 gebruikt DRS-ABCDE zonder de letters uit te schrijven; het patiëntevaluatieformulier is geen afzonderlijk bestand | MFA-L02-S10; MFA-04.01, 04.03; station MFA-P03 | Uitwerking per letter is DRTC-ontwerp en moet gelijk zijn aan het schema in MFA-P03 (R18) |
 | BC-13 | De bloedingsdia's (PPT1 dia41-45) en de anatomiedia's (PPT1) zijn nog niet gelezen | MFA-L02-S02 tot en met S08; MFA-L03-S12; MFA-00.03 | Eigen formulering op basisniveau, gemarkeerd als TE VERIFIËREN; PPT1 als PDF-export nodig |
 | BC-14 | S043 dia31 noemt zuurstof een middel zonder contra-indicaties in de acute fase | MFA-L05 (zuurstof) | Bij uitwerking van MFA-L05 voorleggen aan Mathanje; niet overgenomen in L02 of L03 |
+
+## Aanvulling 20 november 2026: S044 gelezen
+
+S044 (4. MFA dag 2 middag, 42 dia's) is als tekst gelezen en nieuw geregistreerd.
+
+| Nr | Bevinding | Raakt | Gevolg |
+| --- | --- | --- | --- |
+| BC-15 | S044 dia3-5 zijn een directe bron voor ernstige bloeding, die eerder alleen indirect via PPT1 bekend was | MFA-L03-S12, K03-05; MFA-00.03 | MFA-L03 versie 0.2 gebruikt S044; tourniquet blijft open (R10) |
+| BC-16 | S044 dia4 noemt een infuus bij veel bloedverlies in een MFA-presentatie | MFA-L03-S12; scopegrens MFA en MC (MC-V03) | Niet opgenomen in MFA; voorgelegd aan Mathanje |
+| BC-17 | S044 noemt medicatie en invasieve handelingen (cinnarizine, cyclizine, lidocaïne, nagel doorboren) die in geen MFA-leerdoel staan | MFA-10.02 medicatiegrens, MFA-L06, OB-08 | Niet in lessen opgenomen; R31 |
+| BC-18 | Brandwonden, hitte en bevriezing in S044 dia21-37 dekken MFA-06.01 tot en met 06.04 direct; onderkoeling komt uit S043 dia7-14 en 29 | MFA-L04 deel A | Uitgewerkt; de praktijkhandeling PH10 is nog niet gelezen |
+| BC-19 | Voor MFA-06.04 hitte is geen LOTUS-scenario gepland, terwijl S044 dia13-20 en 38-39 een eigen diagnosetest met drie rondes beschrijven | Praktijkplanning MFA-P07 | Bij de volgende versie van de praktijkplanning de bestaande DRTC-rondes vergelijken met SC-MFA-01 tot en met 06 |

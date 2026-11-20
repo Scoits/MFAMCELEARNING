@@ -30,3 +30,5 @@ Na inhoudelijke wijzigingen wordt bekeken welke medische goedkeuring opnieuw nod
 Sinds 20 november 2026 zijn er schermreviews voor [MFA-L00](MFA-L00-schermreview.csv), [MFA-L01](MFA-L01-schermreview.csv) en [MFA-L07 versie 0.3](MFA-L07-schermreview.csv). Alle schermen hebben de status medische_review_nodig. Concrete onzekerheden staan per scherm als TE VERIFIËREN in het veld source_location en in de master. De gebundelde vragen voor Mathanje staan in [reviewvragen ronde 1](2026-11-20-reviewvragen-mathanje.md).
 
 MFA-L02 en MFA-L03 zijn op 20 november 2026 toegevoegd: [MFA-L02](MFA-L02-schermreview.csv) met 18 schermen en [MFA-L03](MFA-L03-schermreview.csv) met 16 schermen, beide medische_review_nodig. De aanvullende vragen R18 tot en met R26 staan onderaan de reviewvragen van ronde 1. MFA-L03 volgt de huidige DRTC-dia's en blijft in alle medische handelingen TE VERIFIËREN tot de keuze voor S041.
+
+Na lezing van S044 zijn MFA-L03 versie 0.2 (bloeding) en [MFA-L04 deel A](MFA-L04-schermreview.csv) met 11 schermen toegevoegd; de vragen R27 tot en met R31 en een aanvulling op R10 staan onderaan de reviewvragen.

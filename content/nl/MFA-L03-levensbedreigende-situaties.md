@@ -1,6 +1,6 @@
 # Levensbedreigende situaties
 
-Les MFA-L03, versie 0.1, 20 november 2026. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
+Les MFA-L03, versie 0.2, 20 november 2026. Versie 0.2 vult het bloedingsscherm S12 aan met dag 2 middag (S044). Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 Deze les volgt de DRTC-presentaties zoals ze nu worden gegeven. De leidende actuele reanimatierichtlijn (S041, OB-03) is nog niet gekozen. Iedere medische handeling in deze les staat daarom als TE VERIFIËREN tot Mathanje de bron en editie heeft vastgesteld. Getallen die niet in de gelezen DRTC-dia's staan, zoals diepte en tempo van borstcompressies, zijn bewust weggelaten en moeten na die keuze worden aangevuld.
 
@@ -14,7 +14,7 @@ Deze les volgt de DRTC-presentaties zoals ze nu worden gegeven. De leidende actu
 | Leervorm | Rise; procesblokken, tabbladen, film van DRTC en keuzevragen; geen sleepopdracht |
 | Studieduur | Begroting 75 minuten, gelijk aan de moduleraming; nog te meten |
 | Praktijkkoppeling | Station MFA-P02 reanimatie, AED en luchtweg; station MFA-P04 voor bloeding; SC-MFA-01, SC-MFA-05 en SC-MFA-06 |
-| Bronnen | S043 en S034 (direct gelezen via tekstexport), S003, S005, S009; PPT1 dag 1 ochtend alleen indirect via S009; S041 nog te kiezen |
+| Bronnen | S043, S034 en S044 (direct gelezen via tekstexport), S003, S005, S009; PPT1 dag 1 ochtend alleen indirect via S009; S041 nog te kiezen |
 | Engelse opvolger | Nog niet gestart |
 
 ## Leerdoelen en dekking
@@ -30,7 +30,7 @@ Deze les volgt de DRTC-presentaties zoals ze nu worden gegeven. De leidende actu
 
 STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebied hartstilstand, verdrinking en verstikking en de herhaling van elementaire eerste hulp (kolom 2); beoordeling van bewijs uit praktijkinstructie (kolom 3); projectcriteria K1 tot en met K3 (kolom 4). Een online resultaat vervangt de individuele uitvoering op de oefenpop niet.
 
-Bronstatus: S043 (2. MFA dag 1 middag, voettekst Rev. 002) en S034 (3. MFA dag 2 ochtend) zijn op 20 november 2026 als tekstexport gelezen. Voor reanimatie zijn S043 dia36 tot en met 53 de directe bron; de dia's met alleen een film of afbeelding (onder meer dia41, 42, 49 en 51) bevatten geen tekst en dus geen getallen. Voor ernstige bloeding is PPT1 dia41 tot en met 45 de geplande bron; die is niet gelezen.
+Bronstatus: S043 (2. MFA dag 1 middag, voettekst Rev. 002) en S034 (3. MFA dag 2 ochtend) zijn op 20 november 2026 als tekstexport gelezen. Voor reanimatie zijn S043 dia36 tot en met 53 de directe bron; de dia's met alleen een film of afbeelding (onder meer dia41, 42, 49 en 51) bevatten geen tekst en dus geen getallen. Voor ernstige bloeding is S044 (4. MFA dag 2 middag) dia3 tot en met 5 de directe bron; PPT1 dia41 tot en met 45 is nog niet gelezen.
 
 De schermrecords staan in [MFA-L03-schermreview.csv](../../reviews/MFA-L03-schermreview.csv). Wijzig master en CSV samen.
 
@@ -396,7 +396,7 @@ TE VERIFIËREN: Mathanje beoordeelt de feedback bij K03-04-C; S043 dia11 noemt e
 
 ## MFA-L03-S12 Ernstige uitwendige bloeding
 
-Leerdoelen: MFA-00.03. Bronplaats: S034 dia51 (stop uitwendige bloeding als eerste maatregel bij shock); S009 p1 item 1.1 met PPT1 dia41-45 (indirect) en PH4-7; S003 Part C 1.1, gedrukte p12 / PDF p18. Media: MFA-L03-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-00.03. Bronplaats: S044 dia3 (actieve bloedingen), dia4 (eerste hulp: hoog brengen, 10 minuten druk, dekverband of wonddrukverband, rust, maatregelen bij veel bloedverlies), dia5 (opbouw wonddrukverband); S034 dia51 (stop uitwendige bloeding bij shock); S009 p1 item 1.1 met PPT1 dia41-45 (indirect) en PH4-7; S003 Part C 1.1, gedrukte p12 / PDF p18. Media: MFA-L03-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 7 minuten. Leerfunctie: de cursist herhaalt het herkennen en stoppen van een ernstige uitwendige bloeding uit de elementaire eerste hulp.
 
@@ -406,11 +406,11 @@ Dit scherm herhaalt wat je in de basisveiligheidstraining hebt geleerd. Een erns
 
 Trek handschoenen aan als ze direct bij de hand zijn, maar laat het stoppen van de bloeding daar niet op wachten. Laat een collega alarmeren en de medische uitrusting halen.
 
-Druk direct en stevig op de wond, met een kompres of een schone doek als dat er is. Blijf drukken. Laat het slachtoffer liggen.
+Druk direct en stevig op de wond, met een kompres of een schone doek als dat er is. Breng de wond zo mogelijk hoog en houd de druk tien minuten vol. Laat het slachtoffer liggen.
 
-Hoe je de bloeding daarna verder behandelt, oefen je op de praktijkdag met de middelen uit de medische uitrusting van DRTC.
+Stopt de bloeding, dek de wond dan af met een dekverband. Stopt de bloeding niet, leg dan een wonddrukverband aan: een dekverband, daarover watten en een stevige zwachtel. Geef het gewonde lichaamsdeel rust. Dit oefen je op de praktijkdag met de middelen uit de medische uitrusting van DRTC.
 
-Na een ernstige bloeding kan shock ontstaan. Blijf daarom het bewustzijn, de ademhaling, de pols en de huid volgen en vraag medisch advies.
+Bij veel bloedverlies kan shock ontstaan. Laat het slachtoffer liggen, beoordeel op shock, bescherm tegen afkoelen, geef niets te drinken en neem contact op met de Radio Medische Dienst. Blijf het bewustzijn, de ademhaling, de pols en de huid volgen.
 
 **Beeld en bouw**
 
@@ -422,9 +422,13 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: De bloedingsdia's van PPT1 (dag 1 ochtend, dia41-45) zijn niet gelezen. Herkenning, handschoenen en direct drukken zijn een eigen formulering op basis van elementaire eerste hulp en moeten met PPT1 en S041 worden vergeleken.
+TE VERIFIËREN: De herkenning en het moment van handschoenen aantrekken zijn een eigen formulering; S044 dia3 spreekt van veel bloed in korte tijd, stootsgewijs of gelijkmatig. PPT1 dia41-45 is nog niet gelezen.
 
-TE VERIFIËREN: De vervolgbehandeling, waaronder drukverband en tourniquet, is bewust niet uitgeschreven tot Mathanje de werkwijze heeft bepaald (R10).
+TE VERIFIËREN: S044 dia4 noemt het hoog brengen van de wond; Mathanje toetst dat aan S041 (R10).
+
+TE VERIFIËREN: S044 dia4 noemt bij veel bloedverlies ook een infuus. Dat is in deze MFA-les niet opgenomen, omdat infuus geen MFA-handeling is (zie MC-V03); Mathanje bevestigt dit.
+
+TE VERIFIËREN: Tourniquet en hemostatisch verband staan niet in de gelezen DRTC-dia's en zijn niet opgenomen tot Mathanje de werkwijze heeft bepaald (R10).
 
 TE VERIFIËREN: S001 tabel A-VI/1-3 en S003 Part C 1.1 zijn niet gelezen voor dit onderwerp (zie MFA-00.03).
 
@@ -434,7 +438,7 @@ Station MFA-P04: de cursist stopt een bloeding op een trainer; SC-MFA-06 met blo
 
 ## MFA-L03-S13 Het bloedt hevig
 
-Leerdoelen: MFA-00.03. Bronplaats: S034 dia51; S009 p1 item 1.1; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-00.03. Bronplaats: S044 dia4; S034 dia51; S009 p1 item 1.1; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: de cursist kiest de eerste handeling bij een ernstige uitwendige bloeding.
 
@@ -558,4 +562,4 @@ Gebruik zestien Rise-secties in de volgorde S01 tot en met S16. De films in S04 
 
 ## Open punten voor Mathanje en DRTC
 
-Mathanje kiest de leidende reanimatierichtlijn en editie (S041, R11) en vult daarna de ontbrekende getallen aan. Zij beoordeelt de bronconflicten die in deze les zichtbaar worden: vijf beademingen vooraf bij verdrinking (S043 dia13 en 28) naast de gewone start met compressies, de mondinspectie na iedere 30 compressies bij verstikking (S034 dia58) en de werkwijze bij ernstige bloeding (R10). DRTC levert PPT1 (dag 1 ochtend) als PDF-export voor de bloedingsdia's. Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R22 tot en met R26.
+Mathanje kiest de leidende reanimatierichtlijn en editie (S041, R11) en vult daarna de ontbrekende getallen aan. Zij beoordeelt de bronconflicten die in deze les zichtbaar worden: vijf beademingen vooraf bij verdrinking (S043 dia13 en 28) naast de gewone start met compressies, de mondinspectie na iedere 30 compressies bij verstikking (S034 dia58) en de werkwijze bij ernstige bloeding (R10). DRTC levert PPT1 (dag 1 ochtend) als PDF-export voor de herhaling van bloedingen in dia41-45. Zie reviews/2026-11-20-reviewvragen-mathanje.md, vragen R22 tot en met R26.

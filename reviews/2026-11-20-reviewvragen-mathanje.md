@@ -49,3 +49,16 @@ Toegevoegd op 20 november 2026 na lezing van S034 (dag 2 ochtend) en S043 (dag 1
 | R24 | MFA-L03-S08 | Akkoord met de mondinspectie na iedere 30 compressies bij een bewusteloos geraakt verstikkingsslachtoffer (S034 dia58), en met de aanvullende zin over beoordeling na buikstoten? |
 | R25 | MFA-L03-S05 | Akkoord met de aanwijzingen bij pacemaker of ICD en de natte huid? S043 dia52 noemt de situaties zonder handelingsaanwijzing. |
 | R26 | MFA-L03-S14 | Hoort het percentage brandwonden uit S034 dia49 in MFA, en wordt benen hoog leggen bij shock genoemd? Het staat niet in dia51 en is daarom niet opgenomen. |
+
+## Aanvulling bij MFA-L03 versie 0.2 en MFA-L04 deel A
+
+Toegevoegd op 20 november 2026 na lezing van S044 (dag 2 middag).
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R10 aanvulling | MFA-L03-S12 | S044 dia4 noemt hoog brengen, tien minuten druk, dekverband of wonddrukverband en bij veel bloedverlies een infuus. Het infuus is niet opgenomen omdat dat geen MFA-handeling is. Akkoord, en blijft hoog brengen in de les? |
+| R27 | MFA-L04-S04, K04-02 | Akkoord met koelen tien tot twintig minuten met zacht stromend lauw leidingwater (S044 dia24), en met de feedback over zalf en ijs? Moet de uitgebreidheid van brandwonden in MFA worden aangeleerd? |
+| R28 | MFA-L04-S07 | Akkoord met ten minste een liter ORS bij hittekramp en hitte-uitputting en de voeten in koud water (S044 dia33 en 35)? Hoe wordt actief koelen bij een hitteberoerte in MFA uitgewerkt? |
+| R29 | MFA-L04-S09, S10 | Worden de fasen van onderkoeling met temperatuurgrenzen (S043 dia9) in MFA aangeleerd, en is een douche passend bij lichte onderkoeling (S043 dia11)? |
+| R30 | MFA-L04-S10 | Akkoord met opwarmen van bevriezing met lauw tot warm water gedurende twintig tot dertig minuten (S044 dia31)? |
+| R31 | S044 dia16-18, 41-42 | S044 bevat handelingen en medicatie die buiten de huidige MFA-lessen vallen: gaatje boren bij een blauwe nagel, cinnarizine en cyclizine bij zeeziekte en lidocaïne bij een vishaak. Horen deze in MFA, en zo ja in les 6 binnen de medicatiegrens (OB-08)? |
