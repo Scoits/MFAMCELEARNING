@@ -1,0 +1,70 @@
+# Overdracht aan Claude
+
+## Doel van de samenwerking
+
+Ontwikkel met DRTC twee zelfstandige hybride STCW-opleidingen die ook gecombineerd gevolgd kunnen worden. MFA bestaat uit één online studiedag en één dag op locatie. MC bestaat uit één online studiedag en twee dagen op locatie. De online onderdelen bereiden cursisten voor op oefenen en individuele praktische beoordeling bij DRTC.
+
+De Nederlandse versie is de master. De Engelse versie volgt vanuit de vastgestelde Nederlandse inhoud. Articulate 360 wordt gebruikt voor de productie en zelf gehost Moodle voor levering en registratie. Mathanje geeft de definitieve medische inhoudelijke goedkeuring.
+
+De werkroute is ChatGPT voor opzet en onderbouwing, Claude voor verdere uitwerking en review, Articulate voor bouw en Moodle voor gebruik. Neem de projectbesluiten over; een vergelijking tussen AI-producten is geen taak van dit dossier.
+
+## Leesvolgorde
+
+1. `AGENTS.md` voor de projectinstructies.
+2. `README.md` voor navigatie en actuele projectstructuur.
+3. `docs/ontwerpkader.md` voor bevestigde keuzes en ontwerpvoorstellen.
+4. `docs/status.md` voor afgerond werk en openstaande punten.
+5. `sources/README.md` en `sources/register.csv` voor de beschikbare bronnen en hun leesstatus.
+6. De bestanden in `curriculum/` voor de structuur van de dekkingsmatrix.
+
+Een eerdere review van Part A en B van de model courses betekent niet dat hun hele inhoud is uitgelezen. Een geïnventariseerde presentatie of video is niet automatisch inhoudelijk gecontroleerd. Houd dit onderscheid bij iedere overdracht in stand.
+
+## Normatieve koppeling
+
+| Cursus | STCW-tabel | IMO-modelcursus |
+| --- | --- | --- |
+| Medical First Aid | A-VI/4-1 | 1.14 |
+| Medical Care | A-VI/4-2 | 1.15 |
+
+De model courses geven didactische uitwerking. De STCW-tabellen bevatten competenties, kennis en vaardigheden, wijze van aantonen en beoordelingscriteria. Nederlandse uitvoeringsvoorwaarden, waaronder IaT 4, worden afzonderlijk gekoppeld. Verwar deze soorten bronnen niet met elkaar.
+
+DRTC is volgens Martijn erkend en heeft de hybride stap met ILT besproken. Dat is voldoende context om het ontwerpwerk voort te zetten. Benoem de definitieve onderbouwing van de nieuwe hybride uitvoering als projectwerk; stel geen nieuwe toestemmingseisen in om documenten of voorstellen te kunnen maken.
+
+## Toegang tot bronnen
+
+Ga niet uit van toegang tot de SharePoint-connector of bestanden van ChatGPT. De oorspronkelijke boeken, films en presentaties zijn via het bronregister vindbaar, maar moeten in jouw omgeving daadwerkelijk beschikbaar zijn om ze te lezen.
+
+Noteer per ontbrekende bron welk leerdoel of besluit erdoor wordt geraakt. Werk door aan onderdelen die wel te onderbouwen zijn. Vraag alleen gericht om een ontbrekende bron wanneer die nodig is voor de volgende inhoudelijke stap. Vul broninhoud nooit aan met aannames die als feit worden gepresenteerd.
+
+Gebruik eigen formuleringen met bronverwijzingen. Publiceer geen originele boeken, video's of grote overgenomen bronpassages in deze openbare repository. Echte summatieve toetsbanken, antwoorden en cursistgegevens horen in de daarvoor ingerichte afgeschermde omgeving.
+
+## Volgorde van uitwerking
+
+| Fase | Resultaat | Belangrijke controle |
+| --- | --- | --- |
+| Dekking | Gedetailleerde MFA- en MC-matrix met leerdoelcodes en vindplaatsen | Alle vier STCW-kolommen en de relevante IaT-voorwaarden zijn gekoppeld of zichtbaar open |
+| Analyse | Overzicht van ontbrekende inhoud, overlap, veroudering en bronconflicten | Feiten en voorstellen zijn gescheiden; gevolgen voor theorie, praktijk en toetsing staan erbij |
+| Prototype | Eén Nederlandse les met kennischeck en praktijkoverdracht | Mathanje kan inhoud en antwoorden beoordelen; het lesformat is reproduceerbaar |
+| Lesuitwerking | Volledige lessen en scenario's per afgesproken module | Bronstatus, studieduur, interactie en beoordelingsbewijs blijven traceerbaar |
+| Productie | Articulate-bouwpakket en Moodle-inrichting | Inhoud, technische werking en registratie worden afzonderlijk geverifieerd |
+| Vertaling | Engelse versie vanuit de vastgestelde Nederlandse master | Medische en operationele gelijkwaardigheid is beoordeeld |
+
+De eerste opdracht is dekkingswerk, analyse en één prototype. Genereer niet meteen de volledige opleiding vanuit een algemene prompt.
+
+## Lessen en toetsing
+
+Iedere uitgewerkte les bevat een leerdoelcode, bronverwijzingen met pagina of dia, cursistentekst, visuele instructies, eventuele voice-over, interacties, oefenvragen met feedback, geschatte studieduur en een concrete verbinding met de praktijktraining.
+
+Onderscheid kennischecks tijdens het leren, afsluitende kennistoetsen en de individuele praktijkbeoordeling. Online voorbereiding van fysieke handelingen vervangt de uitvoering en beoordeling op locatie niet. Een positief online resultaat is niet het volledige cursuscertificaat.
+
+Het beheren van afsluitende kennistoetsen in Moodle is een voorstel uit het ontwerpkader, nog geen afzonderlijk bevestigd besluit. De exacte Moodle-versie en technische voorzieningen zijn nog niet onderzocht. Neem geen volledige technische werking aan op basis van de productnaam.
+
+Cesuur, toetslengte, examenduur, herkansingen en regels voor kritieke fouten zijn nog niet vastgesteld. Maak waar nodig een onderbouwd voorstel en houd dat herkenbaar als voorstel. De actualisatie van de vragenbank en volledige examenvernieuwing zijn verschillende beheeronderwerpen; gebruik de precieze bronvoorwaarden.
+
+Mathanje beoordeelt de medische inhoud, scenario's, correcte antwoorden, feedback en praktijkcriteria. Geef zelf geen status medisch goedgekeurd of ILT-goedgekeurd. Houd inhoudelijke goedkeuring, technische validatie en eventuele erkenningsstappen apart in de registratie.
+
+## Werkvorm in deze repository
+
+Maak compacte, samenhangende dossiers. Werk per afgerond onderwerp met gerichte wijzigingen en een duidelijk beschreven resultaat. Bewaar bestaande leerdoelcodes en verwijzingen; leg noodzakelijke wijzigingen uit. Werk `docs/status.md` bij zodat een volgende medewerker of AI direct verder kan.
+
+Schrijf helder Nederlands zonder icoontjes of decoratieve streepjes. Leg echte onzekerheden vast, maar voorkom algemene waarschuwingen en nieuwe blokkades voor zelfstandig uit te voeren ontwerpwerk.

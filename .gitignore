@@ -1,0 +1,27 @@
+# Lokale bronbestanden en productiebestanden
+sources/local/
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.mp4
+*.wmv
+*.story
+*.zip
+articulate/exports/
+moodle/backups/
+
+# Persoonlijke gegevens en geheimen
+.env
+.env.*
+!.env.example
+credentials*
+secrets/
+learner-data/
+
+# Tijdelijke bestanden
+.DS_Store
+Thumbs.db
+__pycache__/
+*.tmp
+~$*
