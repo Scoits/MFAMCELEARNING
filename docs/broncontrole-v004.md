@@ -50,3 +50,16 @@ Bestaande en nog ongewijzigde hiaten blijven open: psychosociale modelinhoud zon
 | MFA-L06 medicatie | Scopebesluit Mathanje over MFA-10.02 | Bepaalt wat de MFA-cursist moet weten over toedieningsvormen |
 
 Zonder deze bronnen kan de lesstructuur, de interactie en de praktijkkoppeling worden uitgewerkt, met de medische zinnen als TE VERIFIËREN. Dat is de werkwijze voor de volgende lessen totdat de bronnen beschikbaar zijn.
+
+## Aanvulling 20 november 2026: S034 en S043 gelezen
+
+Na de eerste controle zijn via Microsoft 365 twee DRTC-presentaties als tekstexport gelezen: S034 (3. MFA dag 2 ochtend, 68 dia's) en S043 (2. MFA dag 1 middag, 67 dia's, nieuw geregistreerd). Ze zijn de directe bron voor MFA-L02 en MFA-L03. Bevindingen:
+
+| Nr | Bevinding | Raakt | Gevolg |
+| --- | --- | --- | --- |
+| BC-09 | Bestandsnamen zeggen rev 003, voetteksten Rev.002. In S043 dragen dia2-4 de voettekst van dag 1 ochtend; in S034 dragen dia52-53 (hangtrauma) een GWO-voettekst | Bronversie in register en lessen | DRTC bevestigt de geldende revisie; hangtrauma is in MFA-L03 alleen als oorzaak van shock genoemd |
+| BC-10 | De reanimatiedia's met verhouding, diepte en tempo (S043 dia41-42, 49, 51) bevatten alleen beeld of film | MFA-L03-S04, S05, S07; MFA-12.02 | Getallen niet ingevuld; aanvullen na keuze S041 (R22) |
+| BC-11 | Bij verdrinking start DRTC met vijf beademingen (S043 dia13 en 28); bij verstikking mondinspectie na iedere 30 compressies (S034 dia58) | MFA-L03-S08, S10; MFA-12.03, 12.04 | Overgenomen als DRTC-werkwijze en gemarkeerd voor Mathanje (R23, R24) |
+| BC-12 | S034 gebruikt DRS-ABCDE zonder de letters uit te schrijven; het patiëntevaluatieformulier is geen afzonderlijk bestand | MFA-L02-S10; MFA-04.01, 04.03; station MFA-P03 | Uitwerking per letter is DRTC-ontwerp en moet gelijk zijn aan het schema in MFA-P03 (R18) |
+| BC-13 | De bloedingsdia's (PPT1 dia41-45) en de anatomiedia's (PPT1) zijn nog niet gelezen | MFA-L02-S02 tot en met S08; MFA-L03-S12; MFA-00.03 | Eigen formulering op basisniveau, gemarkeerd als TE VERIFIËREN; PPT1 als PDF-export nodig |
+| BC-14 | S043 dia31 noemt zuurstof een middel zonder contra-indicaties in de acute fase | MFA-L05 (zuurstof) | Bij uitwerking van MFA-L05 voorleggen aan Mathanje; niet overgenomen in L02 of L03 |

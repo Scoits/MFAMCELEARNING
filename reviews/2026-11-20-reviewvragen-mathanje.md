@@ -33,3 +33,19 @@
 | --- | --- | --- |
 | R16 | Toetsmatrijs | Wil je deelnemen aan het panel dat de slagingsgrens met de Angoff-methode bepaalt, met ten minste twee DRTC-instructeurs? |
 | R17 | Toetsmatrijs | Welke kennis is kritiek? Kandidaten: veiligheid en prioritering, hartstilstand, contact bij levensbedreiging, ernstige bloeding, herkennen van verslechtering, evacuatie. |
+
+## Aanvulling bij MFA-L02 en MFA-L03
+
+Toegevoegd op 20 november 2026 na lezing van S034 (dag 2 ochtend) en S043 (dag 1 middag) als tekstexport. De vragen volgen dezelfde werkwijze: antwoord per scherm in mathanje_comment van de betreffende schermreview.
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R18 | MFA-L02-S10 | Klopt de uitwerking van DRS-ABCDE per letter met het onderzoeksschema of patiëntevaluatieformulier dat DRTC in station MFA-P03 gebruikt? S034 gebruikt de afkorting maar schrijft die niet uit. Horen de vier niveaus van reactie in MFA, of komt de Glasgow Coma Scale pas in MC? |
+| R19 | MFA-L02-S14, K02-06 | Moet MFA normaalwaarden of grenswaarden voor pols, ademhaling, bloeddruk en temperatuur aanbieden, en uit welke bron? In deze versie staan er geen. |
+| R20 | MFA-L02-S07 | Is de indeling van de buik in vier delen de gewenste werkwijze, en hoe ver gaat het buikonderzoek in MFA? S034 dia27 noemt ook luisteren, beklopen en loslaatpijn. |
+| R21 | MFA-L02-S12 | Volstaat de brede vragenset uit S034 dia23-26, en waar staan de vragen naar ziekten, medicijnen en allergieën die DRTC wil gebruiken? |
+| R22 | MFA-L03-S04, S07 | Na de keuze voor S041: welke verhouding tussen compressies en beademingen, diepte, tempo en wisselinterval worden aangeleerd? De dia's tonen deze alleen in beeld of film. Wordt kap- en ballonbeademing in MFA individueel beoordeeld? |
+| R23 | MFA-L03-S10, K03-04 | Blijft de DRTC-werkwijze van vijf beademingen vooraf bij een drenkeling (S043 dia13 en 28) leidend, en hoe wordt dat in de praktijkbeoordeling gescoord? |
+| R24 | MFA-L03-S08 | Akkoord met de mondinspectie na iedere 30 compressies bij een bewusteloos geraakt verstikkingsslachtoffer (S034 dia58), en met de aanvullende zin over beoordeling na buikstoten? |
+| R25 | MFA-L03-S05 | Akkoord met de aanwijzingen bij pacemaker of ICD en de natte huid? S043 dia52 noemt de situaties zonder handelingsaanwijzing. |
+| R26 | MFA-L03-S14 | Hoort het percentage brandwonden uit S034 dia49 in MFA, en wordt benen hoog leggen bij shock genoemd? Het staat niet in dia51 en is daarom niet opgenomen. |
