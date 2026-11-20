@@ -157,3 +157,14 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R68 | MC-L05-S13 | S062 dia9-11 beschrijft de Nederlandse meldingsplicht in groepen. Wat moet MC weten over melden aan boord en bij aankomst in een haven? (vraag ook aan DRTC) |
 | R69 | MC-L05-S14 | De maatregelen bij een uitbraak van maag-darminfectie zijn een eigen uitwerking. Kloppen ze, en is het bewaren van verdacht voedsel voor onderzoek gewenst? |
 | R70 | MC-L05-S17 | Klopt de formulering over malariaprofylaxe (rederij en bemanning verantwoordelijk) en vaccinatie tegen gele koorts, buiktyfus en dengue? |
+
+## Aanvulling bij MC-L06
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R71 | MC-L06-S02, S03 | S063 dia3 geeft alleen de indeling van dronkenschap en dia4 de onttrekkingsverschijnselen als beeld. Kloppen de eigen tekst over alcoholvergiftiging en de keuze om onttrekkingsverschijnselen niet uit te schrijven? |
+| R72 | MC-L06-S07 | Mag de MC-zorgverlener op advies van de arts een tandabces aanprikken, en hoort er tandheelkundig noodmateriaal in de les? |
+| R73 | MC-L06-S09 | Kloppen de alarmsignalen bij zwangerschap en de vragen naar zwangerschap en laatste menstruatie? |
+| R74 | MC-L06-S10, MC-20.02 | Het scopebesluit over de bevalling is open. Blijft het bij deze oriëntatie, of komt er een handelingsinstructie, en uit welke bron? |
+| R75 | MC-L06-S13 tot en met S15 | Zijn de regels uit S063 dia11-13 (officier van justitie in Amsterdam, voorlopige overlijdensakte, twee getuigen, bewaartermijnen) actueel, wie maakt de voorlopige akte op, en wat geldt onder een andere vlag? (vraag ook aan DRTC) |
+| R76 | MC-L06-S11, S12 | Hoe lang moet een persoon na bijna-verdrinking worden bewaakt, en welke signalen leert MC? |
