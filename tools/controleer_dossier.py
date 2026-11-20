@@ -117,6 +117,12 @@ for pad in sorted(glob.glob(os.path.join(ROOT, "reviews", "*-schermreview.csv"))
                 fouten.append(f"{s}: geen kop in {os.path.relpath(masters[0], ROOT)}")
     meldingen.append(f"{rel}: {len(rijen)} schermen, {minuten:g} minuten")
 
+with open(os.path.join(ROOT, "articulate", "mediaregister.csv"), encoding="utf-8", newline="") as f:
+    mediarijen = list(csv.reader(f))
+for nr, rij in enumerate(mediarijen[1:], start=2):
+    if len(rij) != len(mediarijen[0]):
+        fouten.append(f"articulate/mediaregister.csv regel {nr}: {len(rij)} kolommen in plaats van {len(mediarijen[0])}")
+
 for m in meldingen:
     print("INFO ", m)
 for f in fouten:

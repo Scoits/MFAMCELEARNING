@@ -158,16 +158,61 @@ def maak_docx(les, schermen, uitpad, proef):
     doc.save(uitpad)
 
 
+# Vindplaats in SharePoint-map 025 per bron-ID; volgt bronnen/INDEX-025-MFA-MC.md.
+MAP_025 = "SharePoint 025 - Medical First Aid - Medical Care (MFA-MC)"
+BRONPAD = {
+    "S026": "4. Overig/Filmpjes",
+    "S029": "3. Praktijkhandelingen",
+    "S034": "2. Presentaties/Nederlands/3. MFA dag 2 ochtend 2025 rev 003.pptx",
+    "S043": "2. Presentaties/Nederlands/2. MFA dag 1 middag 2025 rev 003.pptx",
+    "S044": "2. Presentaties/Nederlands/4. MFA dag 2 middag 2025 rev 003.pptx",
+    "S045": "2. Presentaties/Nederlands/1. MFA dag 1 ochtend 2025 rev 003.pptx",
+    "S061": "3. Praktijkhandelingen/PH 14 Urinekatheter inbrengen.pdf",
+    "S062": "2. Presentaties/Nederlands/5. MC dag 1 ochtend 2024 rev.001.pptx",
+    "S063": "2. Presentaties/Nederlands/6. MC dag 1 middag 2024 rev.001.pptx",
+    "S064": "2. Presentaties/Nederlands/7. MC dag 2 ochtend  2024 rev.001.pptx",
+    "S065": "2. Presentaties/Nederlands/1.1 Bekkenfractuur rev001 2024.pptx",
+}
+BRONLINK = {"S031": "https://www.knrm.nl/images/over-ons/wat-doet-de-knrm/radio-medische-dienst/Downloads/RMD_vragenlijst-v3.pdf"}
+
+
+def lees_media():
+    pad = os.path.join(ROOT, "articulate", "mediaregister.csv")
+    with open(pad, encoding="utf-8", newline="") as f:
+        return {r["media_id"]: r for r in csv.DictReader(f)}
+
+
+def mediabron(media_id, register):
+    """Beschrijf voor de bouwer welk bestand of welke link bij een media-ID hoort."""
+    r = register.get(media_id)
+    if not r:
+        return f"{media_id}: niet in het mediaregister"
+    tekst = f"{r['vindplaats']} {r['omschrijving']}"
+    delen = []
+    for sid in sorted(set(re.findall(r"S0\d\d", tekst))):
+        if sid in BRONLINK:
+            delen.append(f"link {BRONLINK[sid]}")
+        elif sid in BRONPAD:
+            dia = re.search(sid + r" dia\s?([\d\-, en]+)", tekst)
+            delen.append(f"{MAP_025}/{BRONPAD[sid]}" + (f", dia {dia.group(1).strip()}" if dia else ""))
+    if not delen:
+        delen.append("geen bestand in map 025; eigen beeld maken of tijdelijk een placeholder gebruiken")
+    rechten = "" if "rechten" not in tekst and "Eigen" in r["gebruiksrecht"] else f"; gebruiksrecht: {r['gebruiksrecht']}"
+    return f"{media_id}: {r['omschrijving']}. Bron: {'; '.join(delen)}{rechten}. Alt-tekst: {r['alt_tekst']}"
+
+
 def maak_config(schermen, uitpad):
     kolommen = ["screen_id", "title", "platform_block", "minutes_estimate", "media_ids",
                 "question_id", "answer_id", "answer_text", "correct", "feedback",
-                "interaction_other", "voice_over", "version", "review_status"]
+                "interaction_other", "media_source", "voice_over", "version", "review_status"]
+    register = lees_media()
     with open(uitpad, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, lineterminator="\n")
         w.writerow(kolommen)
         for s in schermen:
             basis = [s["screen_id"], s["title"], s["platform_block"], s["minutes_estimate"], s["media_ids"]]
-            staart = [s["voice_over"], s["version"], s["review_status"]]
+            bron = " | ".join(mediabron(m.strip(), register) for m in s["media_ids"].split(";") if m.strip())
+            staart = [bron, s["voice_over"], s["version"], s["review_status"]]
             _, vraag = splits_oude_vorm(s)
             if vraag:
                 vraag_id, _, opties = vraag
