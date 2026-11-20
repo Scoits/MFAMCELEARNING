@@ -12,7 +12,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | MC | 68 doelen; MC-32.01 verplaatst naar MC-L00 | [MC-matrix](../curriculum/mc-dekkingsmatrix.csv) |
 | MC-technieken | Vier afzonderlijke vaardigheid- en assessment-ID's; scopebesluiten open | [Vaardigheidsregister](../curriculum/mc-vaardigheidsregister.csv) |
 | IaT en CBT | 23 voorwaarden; duurvergelijking CBT-02 open omdat klassieke klokuren ontbreken | [IaT-matrix](../curriculum/iat-cbt-matrix.csv) |
-| Bronnen | 65 registerregels; LOTUS-kaarten (S027) en MC-presentaties S062 tot en met S064 gelezen via tekstexport; S034, S043 tot en met S047 en de praktijkhandelingen S049 tot en met S060 gelezen; S048 en S061 zijn scans; S039 tot en met S042 voorgesteld en niet gelezen | [Bronregister](../sources/register.csv) |
+| Bronnen | 81 registerregels; LOTUS-kaarten (S027) en MC-presentaties S062 tot en met S064 gelezen via tekstexport; S034, S043 tot en met S047 en de praktijkhandelingen S049 tot en met S060 gelezen; S048 en S061 als afbeelding gelezen; S066 tot en met S068 en S070 tot en met S081 uit map 025 gelezen via tekstexport; S039 tot en met S042 en S069 voorgesteld en niet gelezen | [Bronregister](../sources/register.csv) |
 | MFA-L00 | Uitgewerkt: 8 schermen, 2 kennischecks, 1 zelfinschatting, 15 minuten | [Master](../content/nl/MFA-L00-start-veiligheid-voorkennis.md), [schermreview](../reviews/MFA-L00-schermreview.csv) |
 | MFA-L01 | Uitgewerkt: 9 schermen, 3 kennischecks, 1 tikopdracht, 30 minuten | [Master](../content/nl/MFA-L01-medische-uitrusting.md), [schermreview](../reviews/MFA-L01-schermreview.csv) |
 | MFA-L07 | Versie 0.3: 11 schermen, 6 kennischecks, 36 minuten; GMDSS en advies verwerken toegevoegd | [Master](../content/nl/MFA-L07-radiomedisch-advies.md), [schermreview](../reviews/MFA-L07-schermreview.csv) |
@@ -35,7 +35,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | Praktijkplanning | PH 1 tot en met 14 per station gekoppeld; MFA-dag met vier stations en zes LOTUS-scenario's; MC A en B doorgerekend; voorstel A met drie instructeurs bij invasieve handelingen | [Praktijkplanning](praktijkplanning-v001.md) |
 | Urenvergelijking | Klassiek MFA 945 en MC 1425 bruto minuten (S047) tegenover hybride 990 en 1500; niet korter, CBT-02 gehaald onder twee aannames | [Urenvergelijking](urenvergelijking-v001.md) |
 | Toetsmatrijs | MFA 40 items in 14 categorieën, MC 50 items in 9 categorieën; slagingsgrens via Angoff-panel; alles voorstel | [Toetsmatrijs](toetsmatrijs-v001.md) |
-| Reviewvragen Mathanje | 88 gebundelde vragen R01 tot en met R88, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
+| Reviewvragen Mathanje | 91 gebundelde vragen R01 tot en met R91, met aanvullingen op R62 tot en met R64, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
 | Mediaregister | 101 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
 | Articulate-importinhoud | Nog niet gemaakt; volgt na Mathanjes review van de uitgewerkte lessen | [Bouwroute](../articulate/import-en-bouwroute.md) |
 | Website, ChainWise en Moodle | Ongewijzigd; acht ketenproeven ontworpen, niet uitgevoerd | [Keten](../moodle/chainwise-keten.md) |
@@ -57,7 +57,7 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 
 ## Volgende stap
 
-Mathanje beoordeelt MFA-L00 tot en met L03 en MFA-L07 versie 0.3 aan de hand van de reviewvragen R01 tot en met R26. Alle MFA-lessen L00 tot en met L08 zijn in concept uitgewerkt. MC-L00 tot en met MC-L09 zijn uitgewerkt; daarmee zijn alle MFA- en MC-lessen in concept beschikbaar. Volgende stap is het registreren en vergelijken van de nieuw opgehaalde praktijkdocumenten uit map 025 (infuus, verdoven en hechten, katheter, verrichtingenlijst MC 2024, MC-letsels 2024 tot 2029) met MC-L03 tot en met MC-L05. Voor de anatomieschermen en de trauma score kaart is het beeld van S045 nodig; DRTC levert de kaart bij voorkeur als afzonderlijk bestand. Na review volgt de schone importversie van de eerste vastgestelde les.
+Mathanje beoordeelt MFA-L00 tot en met L03 en MFA-L07 versie 0.3 aan de hand van de reviewvragen R01 tot en met R26. Alle MFA-lessen L00 tot en met L08 zijn in concept uitgewerkt. MC-L00 tot en met MC-L09 zijn uitgewerkt; daarmee zijn alle MFA- en MC-lessen in concept beschikbaar. De praktijkdocumenten uit map 025 zijn als S070 tot en met S081 geregistreerd en vergeleken (BC-39 tot en met BC-45); zij veranderen de lessen niet, maar onderbouwen R55, R62, R63 en R64 en tonen dat de actuele LOTUS-kaarten voor MC ontbreken (R89). Volgende stap is de review door Mathanje en de besluiten van DRTC over infuus, de praktijkvariant en de toetsduur. Voor de anatomieschermen en de trauma score kaart is het beeld van S045 nodig; DRTC levert de kaart bij voorkeur als afzonderlijk bestand. Na review volgt de schone importversie van de eerste vastgestelde les.
 
 ## Grenzen van deze status
 

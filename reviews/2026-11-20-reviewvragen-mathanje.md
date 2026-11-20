@@ -195,3 +195,14 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | --- | --- | --- |
 | R87 | MC-L09-S05 | De toetsmatrijs raamt de MC-toets van 50 items op 60 tot 75 minuten; MC-L09 reserveert 50 minuten. Wordt de toets korter, met minder situatievragen, of verschuift er tijd? (vraag aan DRTC) |
 | R88 | MC-L09-S04 | Welke variant voor de praktijkdagen kiest DRTC (A of B), en wat neemt de cursist mee naast een identiteitsbewijs, bijvoorbeeld een bewijs van het MFA-certificaat? (vraag ook aan DRTC) |
+
+## Aanvulling bij de broncontrole van map 025
+
+| Nr | ID | Vraag |
+| --- | --- | --- |
+| R62 aanvulling | MC-L04-S10, BC-41 | De bron 'zelfkatheterisatie vrouw' is gevonden (S073). Het is een instructie voor zelfkatheterisatie in een zorginstelling. Hoort katheteriseren bij een vrouw door de MC-zorgverlener in de opleiding, en zo ja, uit welke bron? |
+| R63 aanvulling | MC-L04-S10, BC-40 | De codes 11.5.06 en 11.5.07 zijn II.5.06 en II.5.07 van Bijlage 5 (S066). Blijft 'dikste maat' de instructie, nu de uitrusting nr 16 en 12 noemt? |
+| R64 aanvulling | MC-V03, BC-42 | De DRTC-praktijk bevat infuus (S074, S075, S047). Blijft infuus in MC? Zo ja, dan volgt een aparte les of reeks schermen op basis van S074, S063 dia38-68 en PH3, zonder druppelsnelheid in de cursistentekst. |
+| R89 | SC-MC-01 tot en met 08, BC-43 | Is S076 de actuele lijst van LOTUS-letsels voor MC, en kan DRTC de bijbehorende kaarten aanleveren? De archiefkaarten S077 hebben een andere nummering. (vraag aan DRTC) |
+| R90 | BC-45 | Wordt het ziekte- en infectieleerspel (S081) in de MC-praktijk gebruikt? De hepatitiskaart bevat de tekst van cholera en moet dan worden hersteld. (vraag aan DRTC) |
+| R91 | BC-42 | Welke registratievorm is leidend voor de MC-praktijk: de verrichtingenlijst 2024 (S075, 23 verrichtingen) of de assessmentlijst 2026v1 (S008, 31 STCW-onderdelen)? (vraag aan DRTC) |
