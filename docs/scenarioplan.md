@@ -1,8 +1,8 @@
 # Scenarioplan: rijke, vertakte interactie per les
 
-Werkversie 0.1, 21 november 2026. Uitwerking van de vaste verhouding in de [afspraken](afspraken.md), hoofdstuk 4. MFA is 80 procent Rise en 20 procent Storyline-niveau, MC 60 procent Rise en 40 procent Storyline-niveau. Gerekend in studietijd betekent dat minimaal 96 minuten bij MFA en 192 minuten bij MC aan beslisscenario's, simulaties en complexe casussen. Wij bouwen die als codepakket voor een Rise Code Block, of in Storyline waar dat beter werkt.
+Werkversie 0.2, 21 november 2026. Uitwerking van de vaste verhouding in de [afspraken](afspraken.md), hoofdstuk 4. MFA is 80 procent Rise en 20 procent Storyline-niveau, MC 60 procent Rise en 40 procent Storyline-niveau. Gerekend in studietijd betekent dat minimaal 96 minuten bij MFA en 192 minuten bij MC aan beslisscenario's, simulaties en complexe casussen. Wij bouwen die als codepakket voor een Rise Code Block, of in Storyline waar dat beter werkt.
 
-Een scenario telt met het kortste volledige pad (afspraken, hoofdstuk 11), berekend door `tools/studietijd.py` uit het script in `articulate/storyline/`. Een scenario van tien tot twaalf beslismomenten komt dan op ongeveer 13 tot 15 minuten. Stand op 21 november 2026: MFA 13 van 96 minuten, MC 22 van 192 minuten.
+Een scenario telt met het kortste volledige pad (afspraken, hoofdstuk 11), berekend door `tools/studietijd.py` uit het script in `articulate/storyline/`. Een scenario van tien tot twaalf beslismomenten komt dan op ongeveer 13 tot 15 minuten. Stand op 21 november 2026, avond: MFA 101 van 96 minuten, MC 206 van 192 minuten. Beide verhoudingen zijn gehaald met de scripts hieronder. De twee scenario's met de status reserve schrijven we alleen als de review van Mathanje een script laat vervallen.
 
 Ieder scenario hoort bij leerdoelen uit de [dekkingsmatrix](dekkingsmatrix-mc.md) waar beslissen, herkennen of de volgorde van handelen centraal staat. De keuzes en de feedback komen uit de lesinhoud. De casus is fictief. Mathanje beoordeelt ieder script. MC gaat voor.
 
@@ -17,7 +17,7 @@ Ieder scenario hoort bij leerdoelen uit de [dekkingsmatrix](dekkingsmatrix-mc.md
 | MC-L05-SL03 Koorts na de haven | MC-L05 | MC-16, MC-17 | Matroos met koorts na een havenbezoek in de tropen | Script klaar | ongeveer 14 |
 | MC-L01-SL01 Onderzoek van top tot teen | MC-L01 | MC-32 | Zieke collega: onderzoek, voorgeschiedenis, gegevens voor de arts | Script klaar | ongeveer 14 |
 | MC-L02-SL01 Val in het ruim | MC-L02 | MC-01, MC-05 | Hoofd- en wervelletsel, vervoer in de vacuümmatras | Script klaar | ongeveer 14 |
-| MC-L02-SL02 Brand in de machinekamer | MC-L02 | MC-03, MC-04 | Brandwonden en bloeding, bewaken tot advies | Te schrijven | ongeveer 14 |
+| MC-L02-SL02 Brand in de machinekamer | MC-L02 | MC-03, MC-04 | Brandwonden en bloeding, bewaken tot advies | Reserve; niet nodig voor de verhouding | ongeveer 14 |
 | MC-L03-SL01 De wond in de onderarm | MC-L03 | MC-06, MC-08, MC-11 | Wond beoordelen, sluiten of niet, verband en controle | Script klaar | ongeveer 14 |
 | MC-L04-SL02 Een week in de ziekenboeg | MC-L04 | MC-12, MC-13 | Bedlegerige patiënt verzorgen, injectie op advies | Script klaar | ongeveer 14 |
 | MC-L06-SL01 Alcoholontwenning | MC-L06 | MC-18 | Collega die na een paar dagen op zee onrustig en verward raakt | Script klaar | ongeveer 14 |
@@ -32,13 +32,13 @@ Ieder scenario hoort bij leerdoelen uit de [dekkingsmatrix](dekkingsmatrix-mc.md
 | Scenario | Les | Leerdoelen | Situatie | Status | Kortste pad |
 | --- | --- | --- | --- | --- | --- |
 | MFA-L07-SL01 Het RMD-gesprek | MFA-L07 | MFA-09 | Val in het ruim, advies vragen en verwerken | Script klaar | 13 |
-| MFA-L02-SL01 De gevallen collega | MFA-L02 | MFA-04 | Slachtofferonderzoek stap voor stap | Te schrijven | ongeveer 13 |
-| MFA-L03-SL01 Reanimatie in de machinekamer | MFA-L03 | MFA-12 | Collega zakt in elkaar, reanimatie met AED | Te schrijven | ongeveer 13 |
-| MFA-L03-SL02 Verslikking in de mess | MFA-L03 | MFA-05, MFA-12 | Verstikking, daarna bewusteloos | Te schrijven | ongeveer 12 |
-| MFA-L04-SL01 Brand in de kombuis | MFA-L04 | MFA-06 | Brandwond: koelen, afdekken, bewaken | Te schrijven | ongeveer 13 |
-| MFA-L04-SL02 Val van de ladder | MFA-L04 | MFA-05, MFA-07 | Vermoed wervelletsel en een breuk | Te schrijven | ongeveer 13 |
-| MFA-L05-SL01 Gas in de tank | MFA-L05 | MFA-03 | Besloten ruimte, MFAG, zuurstof | Te schrijven | ongeveer 13 |
-| MFA-L05-SL02 Man over boord | MFA-L05 | MFA-08 | Geredde persoon in koude | Te schrijven | ongeveer 13 |
+| MFA-L02-SL01 De collega in de werkplaats | MFA-L02 | MFA-04 | Slachtofferonderzoek stap voor stap | Script klaar | ongeveer 13 |
+| MFA-L03-SL01 Reanimatie in de machinekamer | MFA-L03 | MFA-12 | Collega zakt in elkaar, reanimatie met AED | Script klaar | ongeveer 13 |
+| MFA-L03-SL02 Verslikking in de mess | MFA-L03 | MFA-05, MFA-12 | Verstikking, daarna bewusteloos | Script klaar | ongeveer 12 |
+| MFA-L04-SL01 Brand in de kombuis | MFA-L04 | MFA-06 | Brandwond: koelen, afdekken, bewaken | Script klaar | ongeveer 13 |
+| MFA-L04-SL02 Val van de ladder | MFA-L04 | MFA-05, MFA-07 | Vermoed wervelletsel en een breuk | Script klaar | ongeveer 13 |
+| MFA-L05-SL01 Gas in de tank | MFA-L05 | MFA-03 | Besloten ruimte, MFAG, zuurstof | Script klaar | ongeveer 13 |
+| MFA-L05-SL02 Man over boord | MFA-L05 | MFA-08 | Geredde persoon in koude | Reserve; niet nodig voor de verhouding | ongeveer 13 |
 | | | | | **Samen** | **ongeveer 103** |
 
 ## Werkwijze

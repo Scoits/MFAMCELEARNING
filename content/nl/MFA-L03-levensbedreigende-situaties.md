@@ -1035,7 +1035,7 @@ Station MFA-P02 en MFA-P04 en de scenario's SC-MFA-01, SC-MFA-05 en SC-MFA-06 in
 
 ## Bouw en test
 
-Gebruik zestien Rise-secties in de volgorde S01 tot en met S16. De films in S04 en S05 zijn DRTC-instructiefilms uit S026 of nieuw op te nemen; geen films van derden zonder vastgelegd gebruiksrecht (zie S043 dia44, 47 en 53). Iedere film krijgt ondertiteling en een tekstalternatief. Controleer op een staand telefoonscherm dat de procesblokken zonder horizontaal scrollen leesbaar zijn. K03-01 tot en met K03-11 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 34 Rise-secties in de schermvolgorde bij de lesgegevens. S33 en S34 zijn de scenariopakketten MFA-L03-SL01 en SL02 in een Code Block. De films in S04 en S05 zijn DRTC-instructiefilms uit S026 of nieuw op te nemen; geen films van derden zonder vastgelegd gebruiksrecht (zie S043 dia44, 47 en 53). Iedere film krijgt ondertiteling en een tekstalternatief. Controleer op een staand telefoonscherm dat de procesblokken zonder horizontaal scrollen leesbaar zijn. K03-01 tot en met K03-11 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

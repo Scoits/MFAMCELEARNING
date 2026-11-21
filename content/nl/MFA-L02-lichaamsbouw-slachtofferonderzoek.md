@@ -34,7 +34,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden lichaam
 
 Bronstatus: S034 (3. MFA dag 2 ochtend, voettekst Rev.002) is op 20 november 2026 als tekstexport gelezen. De dia's 19 tot en met 28 en 65 en 66 zijn de directe bron voor het onderzoeksdeel. S045 (PPT1, dag 1 ochtend) is daarna gelezen: dia42 geeft de DRTC-uitwerking van DRS-ABCDE, dia47 en 50 pols en bloeddruk. De anatomiedia's van S045 bevatten alleen titel en beeld; de anatomieschermen blijven daarom TE VERIFIËREN. Het DRTC-patiëntevaluatieformulier (S046) is op 20 november 2026 door Martijn aangeleverd en gelezen. Het bevat de Glasgow Coma Schaal, een traumascore, het top-teenonderzoek, AMPLE, de RMD-contactgegevens en de vragenlijst borst en buik uit S034. Deze les volgt dat formulier. Het DRTC-onderzoeksschema in deze les moet gelijk zijn aan wat de instructeur in MFA-P03 gebruikt.
 
-De schermrecords staan in [MFA-L02-schermreview.csv](../../reviews/MFA-L02-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S27, S28, S29, S02, S03, S30, S31, S32, S04, S33, S34, S05, S06, S35, S36, S07, S08, S37, S38, S39, S40, S09, S41, S10, S11, S42, S43, S44, S45, S12, S13, S14, S15, S16, S17, S46, S47, S18.
+De schermrecords staan in [MFA-L02-schermreview.csv](../../reviews/MFA-L02-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S27, S28, S29, S02, S03, S30, S31, S32, S04, S33, S34, S05, S06, S35, S36, S07, S08, S37, S38, S39, S40, S09, S41, S10, S11, S42, S43, S44, S45, S12, S13, S14, S15, S16, S17, S48, S46, S47, S18.
 
 ## MFA-L02-S01 Wat is er met je collega aan de hand?
 
@@ -1158,6 +1158,24 @@ Wat geef je door aan de officier van de wacht en de arts?
 
 TE VERIFIËREN: Mathanje beoordeelt de feedback bij K02-07-A.
 
+## MFA-L02-S48 Scenario: de collega in de werkplaats
+
+Leerdoelen: MFA-04.01; MFA-04.02; MFA-04.03; MFA-04.04. Bronplaats: zie het script [MFA-L02-SL01](../../articulate/storyline/MFA-L02-SL01-de-collega-in-de-werkplaats.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een collega is in de werkplaats in elkaar gezakt en bloedt uit zijn arm. Jij onderzoekt hem stap voor stap volgens DRS-ABCDE, vraagt door, meet en meldt wat er verandert.
+
+**Interactie**
+
+Scenario-pakket MFA-L02-SL01 in een Rise Code Block met afrondingseis. Script: [MFA-L02-SL01](../../articulate/storyline/MFA-L02-SL01-de-collega-in-de-werkplaats.md), bouwlijst: [MFA-L02-SL01-bouwlijst.csv](../../articulate/storyline/MFA-L02-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R141).
+
 ## MFA-L02-S46 Doe-opdracht: de werkplaatscasus stap voor stap
 
 Leerdoelen: MFA-04.01; MFA-04.02; MFA-04.03. Bronplaats: S045 dia42 (DRS-ABCDE); S046 (AMPLE en metingen op het patiëntevaluatieformulier); S034 dia23 (vragen bij pijn op de borst); S016 GH1 boek p33-34 / PDF p36-37 (nagaan wat er is gebeurd, houding waarin het slachtoffer het best ademt); de casusgegevens zijn fictief; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -1248,7 +1266,7 @@ Startcontrole MFA-P01 en station MFA-P03 in docs/praktijkplanning-v001.md.
 
 ## Bouw en test
 
-Gebruik 39 Rise-secties in de volgorde van deze master. De lichaamsafbeeldingen in S02, S04, S05 en S07 zijn gelabelde afbeeldingen met tikpunten en een tekstalternatief; alle uitleg staat ook in de tekst, zodat niets alleen via een tikpunt bereikbaar is. De tijdlijn in S16 is een Rise-procesblok. Controleer op een staand telefoonscherm dat labels leesbaar blijven; anders de afbeelding splitsen. K02-01 tot en met K02-16 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 40 Rise-secties in de schermvolgorde bij de lesgegevens. De lichaamsafbeeldingen in S02, S04, S05 en S07 zijn gelabelde afbeeldingen met tikpunten en een tekstalternatief; alle uitleg staat ook in de tekst, zodat niets alleen via een tikpunt bereikbaar is. De tijdlijn in S16 is een Rise-procesblok. Controleer op een staand telefoonscherm dat labels leesbaar blijven; anders de afbeelding splitsen. K02-01 tot en met K02-16 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

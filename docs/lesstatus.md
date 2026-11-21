@@ -18,10 +18,10 @@ Definition of Done per les: bron gecontroleerd; studietijd berekend; mobiel geco
 | MC-L09 | 0.1 | concept | 5 | 0 van 2 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest; in dekkingsmatrix |
 | MFA-L00 | 0.1 | concept | 6 | 0 van 1 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
 | MFA-L01 | 0.4 | concept | 34 | 2 van 10 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
-| MFA-L02 | 0.4 | concept | 67 | 2 van 20 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
-| MFA-L03 | 0.5 | concept | 38 | 2 van 12 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
-| MFA-L04 | 0.4 | concept | 57 | 5 van 18 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
-| MFA-L05 | 0.4 | concept | 35 | 4 van 12 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
+| MFA-L02 | 0.4 | concept | 82 | 2 van 20 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
+| MFA-L03 | 0.5 | concept | 66 | 2 van 12 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
+| MFA-L04 | 0.4 | concept | 87 | 5 van 18 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
+| MFA-L05 | 0.4 | concept | 49 | 4 van 12 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
 | MFA-L06 | 0.1 | concept | 9 | 0 van 6 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
 | MFA-L07 | 0.4 | concept | 39 | 0 van 2 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |
 | MFA-L08 | 0.1 | concept | 5 | 0 van 2 | bron gecontroleerd; mobiel gecontroleerd; taalredactie; medische review; media compleet; navigatie en Continue getest |

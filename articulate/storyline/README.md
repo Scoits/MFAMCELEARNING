@@ -11,9 +11,27 @@ Per scenario staan hier twee bestanden:
 
 | Scenario | Les en scherm | Status |
 | --- | --- | --- |
+| MC-L01-SL01 Onderzoek van top tot teen | MC-L01-S28 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L02-SL01 Val in het ruim | MC-L02-S36 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L03-SL01 De wond in de onderarm | MC-L03-S13 | Script en bouwlijst in concept, 21 november 2026 |
 | MC-L04-SL01 Verslechtering in de nacht | MC-L04-S26 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L04-SL02 Een week in de ziekenboeg | MC-L04-S28 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L05-SL01 Pijn op de borst tijdens de wacht | MC-L05-S47 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L05-SL02 Buikpijn die erger wordt | MC-L05-S48 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L05-SL03 Koorts na de haven | MC-L05-S49 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L06-SL01 De motorman die beestjes ziet | MC-L06-S32 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L06-SL02 Een collega gevonden | MC-L06-S33 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L07-SL01 Vijf zieken na het avondeten | MC-L07-S35 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L07-SL02 De controle voor de inspectie | MC-L07-S36 | Script en bouwlijst in concept, 21 november 2026 |
 | MC-L08-SL01 Helikopterevacuatie | MC-L08-S24 | Script en bouwlijst in concept, 21 november 2026 |
-| MFA-L07-SL01 RMD-gesprek | MFA-L07 | Script en bouwlijst in concept, 21 november 2026 |
+| MC-L08-SL02 Overdracht in de haven | MC-L08-S26 | Script en bouwlijst in concept, 21 november 2026 |
+| MFA-L02-SL01 De collega in de werkplaats | MFA-L02-S48 | Script en bouwlijst in concept, 21 november 2026 |
+| MFA-L03-SL01 Reanimatie in de machinekamer | MFA-L03-S33 | Script en bouwlijst in concept, 21 november 2026 |
+| MFA-L03-SL02 Verslikking in de mess | MFA-L03-S34 | Script en bouwlijst in concept, 21 november 2026 |
+| MFA-L04-SL01 Brand in de kombuis | MFA-L04-S47 | Script en bouwlijst in concept, 21 november 2026 |
+| MFA-L04-SL02 Val van de ladder | MFA-L04-S48 | Script en bouwlijst in concept, 21 november 2026 |
+| MFA-L05-SL01 Gas in de tank | MFA-L05-S34 | Script en bouwlijst in concept, 21 november 2026 |
+| MFA-L07-SL01 Het RMD-gesprek | MFA-L07-S12 | Script en bouwlijst in concept, 21 november 2026 |
 
 Bouwregels voor ieder scenario:
 
