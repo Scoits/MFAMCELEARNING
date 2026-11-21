@@ -226,6 +226,16 @@ Versie 0.4 breidt de les uit met uitleg uit GH1 hoofdstuk 1 en 2. De TE VERIFIË
 | R97 | MFA-L02-S27 en S31 | Welke cellen noemt de les als cellen die zich niet delen, en welke term gebruikt de les voor het ellebooggewricht? |
 | R98 | MFA-L02-S44 | Komt het stappenplan voor draaien van buik naar rug uit GH1 overeen met wat de instructeur op de praktijkdag aanleert? (ook aan DRTC) |
 
+## Aanvulling bij MC-L05 versie 0.2
+
+Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 1 tot en met 15. GH2 dateert van oktober 2013 en noemt bij veel aandoeningen geneesmiddelen met dosering, een infuus en termijnen. Die zijn niet overgenomen. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R99 | MC-L05-S25 tot en met S27, S34, S35, S39, S41 en S43 | GH2 noemt middelen die de MC-zorgverlener zelf mag geven, zoals een zetpil bij galstenen zonder overleg, adrenaline bij anafylactische shock en een pijnstiller bij darmafsluiting, malaria en nierstenen. Welke handelingen en middelen uit GH2 neemt de les op, en met welke formulering? Hoort het eenmalig terugduwen van een beknelde liesbreuk en het opwekken van loslaatpijn bij MC? |
+| R100 | MC-L05-S41 tot en met S45 | Welke gegevens uit GH2 (2013) moeten worden geactualiseerd: incubatie- en isolatietijden bij quarantaineziekten, de tetanustermijnen van 3 en 15 jaar, de beschrijving van hiv als ongeneeslijk en het advies over malariatabletten? Welke actuele bron gebruikt de les? |
+| R101 | MC-L05-S46 | Kloppen de eerste handelingen na een prikaccident (laten doorbloeden, spoelen, ontsmetten, direct contact met de arts), en noemt de les de mogelijkheid van een spoedbehandeling? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |
