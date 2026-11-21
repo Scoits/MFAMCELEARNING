@@ -331,6 +331,7 @@ Versie 0.4 voegt na de proefimport van 21 november 2026 de casus S20 toe als Ris
 | Nr | Scherm | Vraag |
 | --- | --- | --- |
 | R122 | MFA-L07 en articulate/storyline/MFA-L07-SL01 | Is trager reageren op aanspreken en ogen die dichtvallen na een val op het hoofd een passend en eenduidig teken van verslechtering voor dit oefenscenario? Klopt het fictieve oefenadvies als voorbeeld, zonder dat het op een echt protocol lijkt? Is de vraag om een infuus geschikt om de grens tussen MFA en MC te laten zien? |
+| R123 | MFA-L07-S13 | Kloppen de keuzes en de feedback in de casus over het melden van de brandwond in de kombuis (I07-04)? Lijkt het fictieve oefenadvies niet op een echt behandeladvies? Is het goed dat de cursist de grootte van de wond in gewone woorden beschrijft en geen percentage of graad noemt? |
 
 ## Antwoorden van Martijn op 20 november 2026
 

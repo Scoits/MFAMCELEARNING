@@ -106,10 +106,12 @@ Stand 21 november 2026, eind van de middag, met deze strenge regel:
 | MFA-L04 | 46 | 6555 | 57 |
 | MFA-L05 | 33 | 4094 | 35 |
 | MFA-L06 | 10 | 828 | 9 |
-| MFA-L07 | 11 | 1053 | 12 |
+| MFA-L07 | 16 | 1262 | 37 |
 | MFA-L08 | 7 | 513 | 5 |
 
 MFA komt op 265 en MC op 306 minuten, samen ongeveer 9,5 uur. Eerder die middag werd ongeveer 13 uur genoemd. Dat getal paste alleen de leessnelheid aan en telde de doe-opdrachten en 1,5 minuut per kennischeck nog mee. Het tekort is 215 minuten bij MFA en 174 bij MC.
+
+Bijgewerkt 21 november 2026, avond. `tools/studietijd.py` telde drie kennischecks van MFA-L07 in de oudere schrijfwijze niet mee; dat is hersteld. MFA-L07 versie 0.4 kreeg het scenario-pakket, een casus, een sorteeroefening en twee kennischecks. Stand: MFA 290 minuten (tekort 190), MC 306 minuten (tekort 174). De tabel hierboven toont de stand per les.
 
 Het tekort wordt aangevuld met leeractiviteit, niet met meer tekst. Zie [leeractiviteiten-plan](leeractiviteiten-plan.md). De werkelijke tijd volgt uit de meting met testcursisten in de proefles. Die meting is ook de basis voor de urenonderbouwing (CBT-02). Of de online kennistoetsen in MFA-L08 en MC-L09 meetellen voor de 16 uur, is een vraag voor DRTC; ze zijn hier niet meegeteld.
 

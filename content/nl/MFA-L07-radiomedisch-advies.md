@@ -1,6 +1,6 @@
 # Radiomedisch advies voorbereiden en overdragen
 
-Lesprototype MFA-L07, versie 0.3, 20 november 2026. Versie 0.3 voegt S09 tot en met S11 toe over GMDSS en het verwerken van ontvangen advies, en vult S08 aan; alle bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Nederlandse master in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal en bevat geen summatieve examenvragen. De bouw en technische test in Articulate en Moodle zijn nog niet uitgevoerd.
+Lesprototype MFA-L07, versie 0.4, 21 november 2026. Versie 0.4 voegt S12 tot en met S16 toe: het vertakte scenario RMD-gesprek als HTML-pakket in een Code Block, een casus als Rise Scenario-blok, een sorteeroefening en twee kennischecks. Versie 0.3 voegde S09 tot en met S11 toe over GMDSS en het verwerken van ontvangen advies. Alle bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Nederlandse master in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal en bevat geen summatieve examenvragen. De bouw en technische test in Articulate en Moodle zijn nog niet uitgevoerd.
 
 ## Lesdoel en afbakening
 
@@ -11,11 +11,11 @@ Na deze les kan de cursist informatie voor een radiomedische hulpvraag ordenen, 
 | Matrixkoppeling | MFA-09.01, MFA-09.02 en MFA-09.03; gedeeltelijke dekking zoals hieronder beschreven |
 | STCW | A-VI/4-1, kennisgebied radiomedisch advies; de praktische bewijsvoering en algemene criteria blijven van toepassing |
 | Model course | 1.14, Part C onderwerp 10; exacte subdoelen volgen uit de matrix |
-| Leervorm | Rise met een keuzeoefening; Storyline is voor dit prototype niet noodzakelijk |
-| Studieduur | Begroting 36 minuten inclusief zes kennischecks; 11 minuten boven de moduleraming van 25 minuten, zie docs/broncontrole-v004.md; nog te meten |
+| Leervorm | Rise met keuzeoefeningen, een sorteeroefening en een casus als Scenario-blok, plus het vertakte scenario MFA-L07-SL01 als HTML-pakket in een Code Block (terugval Storyline) |
+| Studieduur | Met de strenge rekenregel uit docs/studietijd-rekenregel.md ongeveer 38 minuten, met acht kennischecks, een sorteeroefening, een casus en het scenario-pakket; nog te meten met testcursisten |
 | Praktijkkoppeling | Een gesimuleerd gesprek met een instructeur, gevolgd door verslaglegging |
 | Bronnen | S001, S003, S005, S009, S021 ter vergelijking, S030, S031, S032; S039 als nog te lezen bron voor GMDSS |
-| Schermvolgorde | S01 tot en met S07, daarna S09, S10, S11 en als laatste S08. De nummering volgt de ontstaansvolgorde zodat bestaande ID's behouden blijven |
+| Schermvolgorde | S01 tot en met S07, S09, S10, S11, S14, S15, S13, S16, S12 en als laatste S08. De nummering volgt de ontstaansvolgorde zodat bestaande ID's behouden blijven |
 | Leidend formulier | De actuele officiële KNRM-vragenlijst via S031, niet een eigen vervangend DRTC-formulier |
 
 De KNRM biedt radiomedisch advies aan schepen en verwijst voor het voorbereiden van een consult naar de officiële vragenlijst en procedure. De huidige vragenlijst bevat onder meer scheepsinformatie, patiëntgegevens en de hulpvraag. Gebruik in productie een gecontroleerde bronlink of actuele kopie met versieregistratie. De opgeslagen DRTC-kopie uit 2010 moet vóór gebruik op actualiteit worden vervangen of gecontroleerd.
@@ -28,9 +28,9 @@ De KNRM biedt radiomedisch advies aan schepen en verwijst voor het voorbereiden 
 | MFA-09.02 | Gegevens ordenen en feiten van aannames onderscheiden; schermen S03-S05 en S07 | Volledige individuele consultvoorbereiding met aanvullende gegevens op locatie |
 | MFA-09.03 | Terugkoppelen en vastleggen van een oefenafspraak; schermen S06-S08. Ontvangen oefenadvies teruglezen, vastleggen, uitvoeren en bij verandering opnieuw melden; schermen S10 en S11 | Mathanjes beoordeling van het fictieve oefenadvies; individuele toepassing in het RMD-scenario op locatie |
 
-De online les dekt nu alle drie de subdoelen voorbereidend, maar levert geen competentiebewijs voor MFA-09; dat ontstaat pas in het individueel geobserveerde RMD-scenario. De zes formatieve vragen toetsen alleen de genoemde voorbereidende onderdelen. De ontbrekende medische toepassing wordt niet ingevuld met een zelfbedacht protocol.
+De online les dekt nu alle drie de subdoelen voorbereidend, maar levert geen competentiebewijs voor MFA-09; dat ontstaat pas in het individueel geobserveerde RMD-scenario. De acht formatieve vragen toetsen alleen de genoemde voorbereidende onderdelen. De ontbrekende medische toepassing wordt niet ingevuld met een zelfbedacht protocol.
 
-De schermrecords met reviewvelden staan in [MFA-L07-schermreview.csv](../../reviews/MFA-L07-schermreview.csv). Deze Markdown-master en de CSV zijn versie 0.3; wijzig ze samen. Alle medische reviewvelden staan nog open.
+De schermrecords met reviewvelden staan in [MFA-L07-schermreview.csv](../../reviews/MFA-L07-schermreview.csv). Deze Markdown-master en de CSV zijn versie 0.4; wijzig ze samen. Alle medische reviewvelden staan nog open.
 
 ## MFA-L07-S01 De situatie aan boord
 
@@ -332,6 +332,184 @@ Om 16.15 UTC reageert de patiënt minder goed op aanspreken dan eerder. Het afge
 TE VERIFIËREN: Mathanje beoordeelt of 'minder goed reageren op aanspreken' een passend en eenduidig voorbeeld van verslechtering is voor MFA-niveau.
 
 
+## MFA-L07-S14 Oefening: feit of eigen oordeel
+
+Leerdoelen: MFA-09.02. Bronplaats: Uitwerking van MFA-L07-S04 en S05 (feiten zonder eigen diagnose; onbekende waarden als onbekend); S032 gedrukte p7; de kaarten zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist onderscheidt feiten en letterlijke klachten van eigen oordelen.
+
+**Cursistentekst**
+
+Een arts op afstand kan de patiënt niet zien. Hij moet het doen met wat jij vertelt. Geef daarom feiten: wat je ziet, wat je meet, en wat de patiënt letterlijk zegt. Een eigen oordeel, zoals een diagnose, kan de arts op het verkeerde spoor zetten.
+
+Sleep iedere kaart naar de juiste stapel.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Interactie**
+
+I07-05: sorteeroefening, Rise Sorting activity. Twee stapels: Feit of letterlijke klacht (I07-05-T1) en Eigen oordeel (I07-05-T2).
+
+I07-05-A: Om 15.40 UTC gevallen van een ladder, ongeveer twee meter -> T1
+
+I07-05-B: Hij zegt: "Mijn pols doet pijn." -> T1
+
+I07-05-C: Ademfrequentie nog niet gemeten -> T1
+
+I07-05-D: Pols 15.50 UTC: 88 per minuut (oefenwaarde) -> T1
+
+I07-05-E: Hij heeft zijn pols gebroken -> T2
+
+I07-05-F: Het is vast een hersenschudding -> T2
+
+I07-05-G: Hij stelt zich aan -> T2
+
+I07-05-H: Het valt wel mee -> T2
+
+Feedback bij een kaart op de verkeerde stapel: Een feit kun je zien, meten of letterlijk horen. Een oordeel is jouw uitleg ervan. Geef de arts de feiten en laat het oordeel aan de arts.
+
+## MFA-L07-S15 Wat zeg je als je het niet weet?
+
+Leerdoelen: MFA-09.02. Bronplaats: Uitwerking van MFA-L07-S04 (onbekende waarden als onbekend noteren en gericht laten aanvullen); S031 vraagt naar medicijngebruik en allergieën; de vraag is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 2 minuten. Leerfunctie: de cursist gaat eerlijk om met een vraag waarop hij het antwoord niet weet.
+
+**Cursistentekst**
+
+De arts stelt vaak vragen waarop je het antwoord nog niet hebt. Dat is normaal.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K07-07**
+
+De arts vraagt of de patiënt allergisch is voor medicijnen. Je weet het niet. Wat zeg je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K07-07-A | "Nee, dat denk ik niet." | Onjuist. Een gok kan de arts op een verkeerd idee brengen. Zeg dat je het niet weet en laat het nagaan. |
+| K07-07-B | "Dat weet ik niet. Ik laat het nu nagaan bij de patiënt en in zijn gegevens, en meld het zodra ik het weet." | Juist. Je bent eerlijk, en je zorgt dat het ontbrekende gegeven zo snel mogelijk bekend wordt. |
+| K07-07-C | Je zegt niets en wacht op de volgende vraag. | Onjuist. Dan weet de arts niet of je de vraag hebt gehoord. Zeg dat je het niet weet en laat het nagaan. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Bevestig dat de actuele KNRM-vragenlijst (S031) een rubriek voor allergieën heeft.
+
+## MFA-L07-S13 Casus: de brandwond in de kombuis melden
+
+Leerdoelen: MFA-09.02; MFA-09.03. Bronplaats: Keuzes en feedback komen uit MFA-L07-S04, S05, S06, S10 en S11 van deze les; de eerste hulp bij brandwonden zelf staat in MFA-L04 en wordt hier niet behandeld; de casus is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 9 minuten. Leerfunctie: de cursist oefent de voorbereiding en het verwerken van advies in een tweede, andere situatie.
+
+**Cursistentekst**
+
+Nog een situatie, nu in de kombuis. Jij zet de gegevens klaar en verwerkt het advies van de arts. Kies steeds wat je doet. Bij een verkeerde keuze krijg je uitleg en probeer je het opnieuw.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Interactie**
+
+I07-04: casus met keuzes, Rise Scenario-blok. Personages: Fatima (kok), Kees (kapitein) en Sanne (tweede stuurman met GMDSS-certificaat); fictief.
+
+Scène 1: Om 09.20 UTC morst Fatima hete olie over haar linkeronderarm. Een collega geeft de eerste hulp zoals in les 4. Kees wil medisch advies en vraagt jou de gegevens klaar te zetten. Wat doe je eerst?
+
+I07-04-1A: Je schrijft op wat er is gebeurd en hoe laat, wat er al is gedaan en sinds wanneer, en wat Fatima letterlijk zegt (juist). Feedback: Goed. Dit zijn de feiten die de arts als eerste nodig heeft. Wat je nog niet weet, schrijf je op als onbekend.
+
+I07-04-1B: Je wacht met opschrijven tot de arts aan de lijn is (onjuist). Feedback: Dan moet de arts alles vragen wat jij al weet, en dat kost tijd. Zet de gegevens klaar terwijl Sanne contact legt. Terug naar scène 1.
+
+I07-04-1C: Je zoekt eerst op internet wat de beste behandeling is (onjuist). Feedback: Jij stelt geen behandeling vast. Je verzamelt de feiten, zodat de arts kan beoordelen wat nodig is. Terug naar scène 1.
+
+Scène 2: De arts vraagt hoe groot de brandwond is. Je hebt het niet gemeten. Wat zeg je?
+
+I07-04-2A: "Het is een tweedegraads brandwond van ongeveer vijf procent." (onjuist) Feedback: Dat is een eigen oordeel dat je niet hebt geleerd vast te stellen. Beschrijf wat je ziet en zeg wat je niet weet. Terug naar scène 2.
+
+I07-04-2B: "Het valt wel mee." (onjuist) Feedback: Daar heeft de arts niets aan. Beschrijf waar de wond zit en hoe groot hij er ongeveer uitziet. Terug naar scène 2.
+
+I07-04-2C: "De rode plek loopt van haar pols tot halverwege haar onderarm, aan de bovenkant. Ik heb het niet gemeten." (juist) Feedback: Goed. Je beschrijft wat je ziet in gewone woorden en zegt eerlijk wat je niet hebt gemeten.
+
+Scène 3: Fictief oefenadvies om 09.35 UTC: "Ga door met wat jullie nu doen. Meet om 09.50 UTC de pols en vraag haar hoeveel pijn ze heeft. Neem om 10.00 UTC opnieuw contact op." Wat zeg je terug?
+
+I07-04-3A: "Ik lees terug: doorgaan met wat we doen, om 09.50 UTC pols meten en naar de pijn vragen, om 10.00 UTC opnieuw contact. Klopt dat?" (juist) Feedback: Goed. Je leest alle afspraken terug, met de tijden in UTC.
+
+I07-04-3B: "Begrepen, we bellen straks terug." (onjuist) Feedback: Met "straks" is niet duidelijk wanneer. Lees de afspraken en de tijden terug. Terug naar scène 3.
+
+I07-04-3C: "Om tien uur." (onjuist) Feedback: Tien uur in welke tijd? En de andere afspraken ontbreken. Terug naar scène 3.
+
+Scène 4: Een collega heeft een crème bij zich en wil die op de wond doen. Dat is niet afgesproken. Wat doe je?
+
+I07-04-4A: Je laat het hem doen; het is goed bedoeld (onjuist). Feedback: Voer alleen uit wat met de arts is afgesproken. Pas een advies niet zelf aan. Terug naar scène 4.
+
+I07-04-4B: Je zegt dat jullie alleen doen wat is afgesproken. Je noteert de vraag en legt die om 10.00 UTC aan de arts voor (juist). Feedback: Goed. Je houdt je aan het advies, en de arts kan zelf beslissen over de vraag.
+
+I07-04-4C: Je belt meteen een andere arts voor een tweede mening (onjuist). Feedback: Je werkt met één adviseur en houdt je aan de afspraken. Leg de vraag bij het volgende contact voor. Terug naar scène 4.
+
+Einde: Het advies is teruggelezen, vastgelegd en uitgevoerd. Afronding van het blok bij het bereiken van het einde.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: De casus en het oefenadvies zijn fictief. Mathanje beoordeelt of de keuzes en de feedback passen, en of het oefenadvies niet op een echt behandeladvies lijkt (R123).
+
+## MFA-L07-S16 Tijd in het logboek
+
+Leerdoelen: MFA-09.03. Bronplaats: Uitwerking van MFA-L07-S06, S07 en S10 (tijdafspraken terugkoppelen en vastleggen in UTC); de vraag is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 2 minuten. Leerfunctie: de cursist legt tijden eenduidig vast.
+
+**Cursistentekst**
+
+Aan boord, bij de Kustwacht en bij de arts kan een andere klok gelden. Daarom spreek je tijden af en noteer je ze in UTC, zoals in deze les.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K07-08**
+
+Je schip vaart in een andere tijdzone dan de arts. Hoe noteer je het moment dat je het advies kreeg?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K07-08-A | 16.05 UTC | Juist. Met UTC erbij weet iedereen welk moment je bedoelt. |
+| K07-08-B | Kwart over vier | Onjuist. Dat kan in iedere tijdzone een ander moment zijn. Noteer de tijd met UTC erbij. |
+| K07-08-C | Net na de lunch | Onjuist. Zo kan niemand het verloop later terugvinden. Noteer de tijd met UTC erbij. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: DRTC bevestigt dat de cursus overal UTC gebruikt voor tijden in het logboek en bij het RMD-contact.
+
+## MFA-L07-S12 Scenario: het RMD-gesprek
+
+Leerdoelen: MFA-09.01; MFA-09.02; MFA-09.03. Bronplaats: Zie het script; keuzes en feedback komen uit MFA-L07-S02, S04, S05, S06, S07, S09, S10 en S11; S016 GH1 boek p106-107 / PDF p109-110; de casus is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 12 minuten. Leerfunctie: de cursist past de hele les toe in één doorlopend gesprek, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Joost is in het ruim van een ladder gevallen. De kapitein wil medisch advies. Sanne, de tweede stuurman, legt contact. Jij zet de gegevens klaar, voert het gesprek met de arts, leest het advies terug en legt alles vast. Ondertussen verandert er iets.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg en een omweg. Het scenario duurt ongeveer tien minuten. Het telt niet mee voor de toets, en je kunt het opnieuw doen.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Interactie**
+
+Scenario-pakket MFA-L07-SL01 in een Rise Code Block, met Storyline als terugval. Script: [MFA-L07-SL01](../../articulate/storyline/MFA-L07-SL01-rmd-gesprek.md), bouwlijst: [MFA-L07-SL01-bouwlijst.csv](../../articulate/storyline/MFA-L07-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: De casus, het oefenadvies en het teken van verslechtering zijn fictief. Mathanje beoordeelt het script, de juiste keuzes en de feedback (R122).
+
+**Verbinding met de praktijkdag**
+
+Op de praktijkdag voer je hetzelfde soort gesprek met de instructeur in de rol van arts of radio-operator.
+
 ## MFA-L07-S08 Naar de praktijkdag
 
 Leerdoelen: MFA-09.02; MFA-09.03. Bronplaats: S003 Part C10.2-10.3, gedrukte p16 / PDF22; individuele DRTC-observatiecriteria als voorstel. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -358,7 +536,7 @@ Dit zijn DRTC-ontwerpcriteria, nog geen vastgestelde cesuur of definitief prakti
 
 ## Bouw en test
 
-Gebruik elf herkenbare Rise-secties in de volgorde S01 tot en met S07, S09, S10, S11, S08. De zes kennischecks zijn oefenvragen met directe uitleg en tellen niet als volledig cursus-examen. Leg in de technische proef vast welke voortgang of antwoorden Moodle daadwerkelijk ontvangt. Een lokaal tekstvak in een Articulate-les geldt niet automatisch als opgeslagen bewijs in Moodle. K07-01 is gekoppeld aan MFA-09.02; K07-02 aan MFA-09.02; K07-03 alleen aan het voorbereidende registratiedeel van MFA-09.03; K07-04 aan MFA-09.01; K07-05 en K07-06 aan MFA-09.03. Gebruik de vaste antwoord-ID's en feedback uit deze master.
+Gebruik zestien herkenbare Rise-secties in de volgorde S01 tot en met S07, S09, S10, S11, S14, S15, S13, S16, S12, S08. De acht kennischecks zijn oefenvragen met directe uitleg en tellen niet als volledig cursus-examen. Leg in de technische proef vast welke voortgang of antwoorden Moodle daadwerkelijk ontvangt. Een lokaal tekstvak in een Articulate-les geldt niet automatisch als opgeslagen bewijs in Moodle. K07-01 is gekoppeld aan MFA-09.02; K07-02 aan MFA-09.02; K07-03 alleen aan het voorbereidende registratiedeel van MFA-09.03; K07-04 aan MFA-09.01; K07-05, K07-06 en K07-08 aan MFA-09.03; K07-07 aan MFA-09.02. De sorteeroefening I07-05 hoort bij MFA-09.02, de casus I07-04 bij MFA-09.02 en MFA-09.03. Het scenario-pakket MFA-L07-SL01 in S12 is een Code Block dat afgerond is bij de debriefing; de punten gaan niet naar Moodle. Gebruik de vaste antwoord-ID's en feedback uit deze master.
 
 Plaats officiële externe bronnen achter een duidelijk bronlabel met controledatum. Gebruik voor de uiteindelijke productie een vastgelegde bronversie. Toets of de inhoud en het formulier op het afgesproken apparaat bruikbaar zijn. Alt-teksten en eventuele ondertiteling worden bij de concrete media uitgewerkt.
 

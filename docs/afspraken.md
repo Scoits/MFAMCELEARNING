@@ -16,7 +16,7 @@ Bijgewerkt: 21 november 2026. Dit is het vaste overzicht van alle afspraken met 
 - Minimaal 16 uur echte studietijd: 8 uur MFA en 8 uur MC (elk minimaal 480 minuten).
 - Klassikaal duren MFA en MC samen 40 uur.
 - Strenge rekenregel: 150 woorden per minuut, 1 minuut per kennischeck, een opdracht telt alleen mee als Rise controleert dat de cursist hem doet. Video telt met de echte duur.
-- Stand 21 november, eind van de middag, met de strenge regel: MFA 265 en MC 306 minuten, samen ongeveer 9,5 uur. Tekort: 215 minuten MFA en 174 minuten MC. Het tekort wordt aangevuld met activiteiten, niet met meer tekst. Rekenen met `tools/studietijd.py`.
+- Stand 21 november, avond, met de strenge regel: MFA 290 en MC 306 minuten, samen ongeveer 10 uur. Tekort: 190 minuten MFA en 174 minuten MC. Het tekort wordt aangevuld met activiteiten, niet met meer tekst. Rekenen met `tools/studietijd.py`.
 - De echte tijd wordt gemeten met testcursisten. Alleen die meting telt voor de urenonderbouwing.
 - Open: telt de online eindtoets mee voor de 16 uur?
 

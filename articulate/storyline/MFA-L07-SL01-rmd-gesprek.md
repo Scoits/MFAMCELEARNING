@@ -12,7 +12,7 @@ Volgens de afspraken wordt dit scenario een HTML-pakket voor een Code Block in R
 | Duur | Ongeveer 10 minuten bij de juiste route, 12 minuten met omwegen |
 | Bronnen | MFA-L07-S02 (bij levensgevaar direct de Kustwacht; een formulier is geen reden om te wachten); S04 (onbekende waarden als onbekend noteren); S05 (feiten zonder eigen diagnose); S06 (terugmelden); S07 (verloop met tijdstip vastleggen); S09 (de radio-operator voert de radiocommunicatie, jij zet de gegevens klaar); S10 (advies teruglezen, vastleggen, alleen uitvoeren wat je hebt geleerd); S11 (bij verandering direct opnieuw contact); S016 GH1 boek p106-107 / PDF p109-110 (de RMD via het Kustwachtcentrum, de RMA-vragenlijst) |
 | Afronding | Bereiken van scherm 9 (debriefing). Het pakket meldt dan aan Rise dat het is voltooid |
-| Variabelen | `Punten` (getal 0 tot 7, alleen feedback voor de cursist), `Omweg` (getal: het aantal keren dat de cursist via een omweg ging) |
+| Variabelen | `Punten` (getal 0 tot 8, één punt per scherm 1 tot en met 8, alleen bij de eerste poging op dat scherm; alleen feedback voor de cursist), `Omweg` (getal: het aantal keren dat de cursist via een omweg ging) |
 | Personages | Jij, de eerstehulpverlener; Joost, matroos, fictief; Sanne, de tweede stuurman met het GMDSS-certificaat; de arts van de Radio Medische Dienst (alleen als tekst) |
 | Media | Eigen illustraties van het ruim, de brug met de radio, een notitieblok met tijden. Geen foto's van patiënten. Bij iedere keuze staat de tekst ook als knop, zodat alles op een telefoon werkt |
 
@@ -128,7 +128,7 @@ Vraag: wat antwoord je?
 
 Tekst: "De arts en de Kustwacht overleggen over een evacuatie. Jij blijft bij Joost, meet zoals afgesproken en legt alles vast met de tijd erbij."
 
-Toon `Punten` van de 7 en het aantal omwegen. Toon daarna de vijf lessen:
+Toon `Punten` van de 8 en het aantal omwegen. Toon daarna de vijf lessen:
 
 1. Contact leggen en gegevens klaarzetten gebeuren tegelijk. Bij levensgevaar gaat hulp vóór het formulier.
 2. Schrijf onbekende waarden op als onbekend.
@@ -136,7 +136,7 @@ Toon `Punten` van de 7 en het aantal omwegen. Toon daarna de vijf lessen:
 4. Lees het advies terug, met de tijden in UTC, en leg het vast.
 5. Pas een advies niet zelf aan. Bij een verandering meld je direct, en je bent duidelijk over wat je niet hebt geleerd.
 
-Knop: "Opnieuw" (zet de variabelen terug) en "Klaar" (meldt aan Rise dat het pakket is voltooid).
+Knop: "Opnieuw" (zet de variabelen terug en begint bij de situatie). Het pakket meldt de voltooiing aan Rise zodra de cursist dit scherm bereikt.
 
 ## Te verifiëren door Mathanje
 

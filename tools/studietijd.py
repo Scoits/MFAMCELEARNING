@@ -26,7 +26,11 @@ def scherm(x):
     inter = x["interaction"]
     w = len(x["learner_text"].split())
     m = w / 150
-    m += len(re.findall(r"^Vraag:", inter, re.M)) * 1
+    # kennischecks: een regel "Vraag:", of in de oudere vorm alleen de kop "K07-01: enkele keuze ..."
+    vragen = len(re.findall(r"^Vraag:", inter, re.M))
+    if not vragen:
+        vragen = len(set(re.findall(r"^(K\d\d-\d\d): ", inter, re.M)))
+    m += vragen
     if "scenario-blok" in p:
         m += 7
     if "storyline" in p or "code block" in p:
