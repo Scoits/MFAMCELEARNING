@@ -96,6 +96,10 @@ K03-08-A: Je drukt op de maag om de lucht eruit te krijgen
 K03-08-B: Je stopt met reanimeren, want het slachtoffer reageert
 K03-08-C: Je draait het slachtoffer snel op de zij, maakt de mond leeg, draait terug en gaat verder; je blaast daarna rustiger in (juist)",K03-08-C: Juist. Mond leegmaken en direct verder. Rustig inblazen voorkomt nieuwe lucht in de maag.,"K03-08-A: Onjuist. Druk nooit op een opgezette maag. Dan komt nog meer maaginhoud omhoog, die in de longen kan komen.
 K03-08-B: Onjuist. Braken is geen teken van herstel. Het komt door lucht in de maag.",S016,S016 GH1 boek p77 / PDF p80; antwoordlogica is DRTC-ontwerp.,,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.5,
+MFA-L03,MFA-L03-S33,MFA-12.01;MFA-12.02,Scenario: reanimatie in de machinekamer,"In de machinekamer ligt een collega op de vloer. Jij beslist wat er gebeurt, van de eerste seconden tot het melden aan de Radio Medische Dienst.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"Scenario-pakket MFA-L03-SL01, als HTML-pakket in een Rise Code Block met afrondingseis; terugval Rise Scenario-blok of Storyline-blok.
+Script: articulate/storyline/MFA-L03-SL01-reanimatie-in-de-machinekamer.md
+Bouwlijst: articulate/storyline/MFA-L03-SL01-bouwlijst.csv
+Afronding bij het bereiken van de debriefing; punten formatief, niet in Moodle",Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S052;S043;S034;S016,"Zie het script articulate/storyline/MFA-L03-SL01-reanimatie-in-de-machinekamer.md; keuzes en feedback komen uit de schermen van de les; de casus is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R136).",,Rise Storyline-blok (codepakket),14,medische_review_nodig,Mathanje,,0.5,
 MFA-L03,MFA-L03-S32,MFA-12.02,Doe-opdracht: een reanimatie melden,"Je hebt samen met twee collega's een reanimatie gedaan. De derde collega heeft aantekeningen gemaakt. De gegevens zijn verzonnen voor deze oefening.
 
 | Tijd | Gebeurtenis |

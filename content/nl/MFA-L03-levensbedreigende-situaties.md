@@ -27,7 +27,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebied hartstils
 
 Bronstatus: S043 (2. MFA dag 1 middag, voettekst Rev. 002) en S034 (3. MFA dag 2 ochtend) zijn op 20 november 2026 als tekstexport gelezen. Voor reanimatie zijn S043 dia36 tot en met 53 de directe bron; de dia's met alleen een film of afbeelding (onder meer dia41, 42, 49 en 51) bevatten geen tekst en dus geen getallen. Voor ernstige bloeding is S044 (4. MFA dag 2 middag) dia3 tot en met 5 de directe bron; S045 (dag 1 ochtend) dia41 en 42 plaatsen de catastrofale bloeding vooraan in DRS-ABCDE.
 
-De schermrecords staan in [MFA-L03-schermreview.csv](../../reviews/MFA-L03-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S17, S18, S02, S03, S19, S04, S20, S05, S06, S07, S21, S22, S32, S23, S08, S09, S10, S11, S12, S24, S25, S26, S13, S14, S27, S28, S15, S29, S30, S31, S16.
+De schermrecords staan in [MFA-L03-schermreview.csv](../../reviews/MFA-L03-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S17, S18, S02, S03, S19, S04, S20, S05, S06, S07, S21, S22, S33, S32, S23, S08, S09, S10, S11, S12, S24, S25, S26, S13, S14, S27, S28, S15, S29, S30, S31, S16.
 
 ## MFA-L03-S01 Iedere seconde telt
 
@@ -414,6 +414,24 @@ Wat doe je?
 | K03-08-A | Je drukt op de maag om de lucht eruit te krijgen | Onjuist. Druk nooit op een opgezette maag. Dan komt nog meer maaginhoud omhoog, die in de longen kan komen. |
 | K03-08-B | Je stopt met reanimeren, want het slachtoffer reageert | Onjuist. Braken is geen teken van herstel. Het komt door lucht in de maag. |
 | K03-08-C | Je draait het slachtoffer snel op de zij, maakt de mond leeg, draait terug en gaat verder; je blaast daarna rustiger in | Juist. Mond leegmaken en direct verder. Rustig inblazen voorkomt nieuwe lucht in de maag. |
+
+## MFA-L03-S33 Scenario: reanimatie in de machinekamer
+
+Leerdoelen: MFA-12.01; MFA-12.02. Bronplaats: zie het script [MFA-L03-SL01](../../articulate/storyline/MFA-L03-SL01-reanimatie-in-de-machinekamer.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+In de machinekamer ligt een collega op de vloer. Jij beslist wat er gebeurt, van de eerste seconden tot het melden aan de Radio Medische Dienst.
+
+**Interactie**
+
+Scenario-pakket MFA-L03-SL01 in een Rise Code Block met afrondingseis. Script: [MFA-L03-SL01](../../articulate/storyline/MFA-L03-SL01-reanimatie-in-de-machinekamer.md), bouwlijst: [MFA-L03-SL01-bouwlijst.csv](../../articulate/storyline/MFA-L03-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R136).
 
 ## MFA-L03-S32 Doe-opdracht: een reanimatie melden
 
