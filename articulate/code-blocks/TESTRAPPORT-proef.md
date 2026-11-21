@@ -4,6 +4,8 @@ Versie 1, 21 november 2026. Proefpakketten: **MFA-L01-I01** plattegrond (versie 
 
 ## Uitkomst in het kort
 
+Aanvulling 21 november avond: MC-L04-SL01 is nu versie 0.3, met ingetogen beweging en de observatielijst als kaarten op een telefoon (de bloeddruk viel eerst buiten beeld). Alle tests hieronder zijn daarna opnieuw uitgevoerd en goed. Gebruik voor checklist punt 1 tot en met 8 de ZIP van versie 0.3.
+
 Alles wat buiten Rise te testen is, werkt: telefoon, toetsenbord, hervatten, afrondingsmelding, toegankelijkheid en taalwissel. Wat alleen in Rise en Moodle te zien is, staat in de checklist onderaan. Pas als die checklist goed is, rollen we de techniek uit naar de andere scenario's. Terugval als het tegenvalt: een Rise Scenario-blok met dezelfde inhoud.
 
 ## Hoe Rise de afronding herkent
