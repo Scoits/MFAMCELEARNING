@@ -18,7 +18,7 @@ Bijgewerkt: 21 november 2026. Versie 2.0 verwerkt de reviews van ChatGPT, Gemini
 - Geen opvulling. Iedere aanvullende activiteit is gekoppeld aan een leerdoel en heeft een inhoudelijke reden: informatie opzoeken, een situatie beoordelen, een keuze maken, feedback verwerken. Wachttijden, verplichte animaties en herhaling zonder leerfunctie tellen niet mee.
 - Klassikaal duren MFA en MC samen 40 uur.
 - Strenge rekenregel: leestempo 150 woorden per minuut (leestijd in minuten = aantal woorden gedeeld door 150), 1 minuut per kennischeck, een opdracht telt alleen mee als Rise controleert dat de cursist hem doet. Video telt met de echte duur.
-- Stand 21 november, avond, met de strenge regel (kortste pad bij scenario's), zonder de eindtoets, rekenscript van 21 november: MFA 290 en MC 307 minuten, samen ongeveer 10 uur. Tekort: 190 minuten MFA en 173 minuten MC. Grove planning per les in `docs/tijdplanning-per-les.md`. We vullen geen minuten op. De dekkingsmatrix bepaalt waar nog toepassing, besluitvorming, herkenning, demonstratie of feedback ontbreekt. Alleen activiteiten die aantoonbaar bijdragen aan een leerdoel komen erbij; de extra minuten zijn daar het gevolg van. Rekenen met `tools/studietijd.py`.
+- Stand 21 november, avond, met de strenge regel (kortste pad bij scenario's), zonder de eindtoets, rekenscript van 21 november: MFA 377 en MC 491 minuten. Tekort: 103 minuten MFA; MC haalt het minimum. Rijke interactie: MFA 101 van minimaal 96 minuten, MC 206 van minimaal 192 (scenarioplan in `docs/scenarioplan.md`). Grove planning per les in `docs/tijdplanning-per-les.md`. We vullen geen minuten op. De dekkingsmatrix bepaalt waar nog toepassing, besluitvorming, herkenning, demonstratie of feedback ontbreekt. Alleen activiteiten die aantoonbaar bijdragen aan een leerdoel komen erbij; de extra minuten zijn daar het gevolg van. Rekenen met `tools/studietijd.py`.
 - We onderscheiden geplande, afgedwongen en gemeten studietijd. Een Continue-knop bewijst dat een blok is afgerond, niet hoe lang iemand actief heeft geleerd.
 - De urenonderbouwing combineert de inhoudelijke tijdsbegroting met gebruikerstesten bij representatieve cursisten. Actieve leertijd, pauzes en technische vertraging worden onderscheiden. We rapporteren de mediaan, de spreiding en de verschillen in voorkennis.
 - Bij ieder tijdscijfer staan de versie van de lesteksten en van het rekenscript.
@@ -36,8 +36,10 @@ Bijgewerkt: 21 november 2026. Versie 2.0 verwerkt de reviews van ChatGPT, Gemini
 - Helder Nederlands, zonder icoontjes of decoratieve streepjes.
 
 ## 4. Rise, Storyline en codepakketten
-- Rise is de basis, voor ongeveer 80 tot 90 procent van de opleiding: uitleg, foto's en video, accordeon, proces, tabs, eenvoudige scenario's, kennischecks, Continue-blokken en navigatie.
-- Codepakketten (Rise Code Block) zijn er voor de 10 tot 20 procent waar standaard Rise didactisch tekortschiet: beslisscenario's, triage, interactieve waarneming en complexe casussen. Rise ondersteunt officieel een afrondingseis voor Code Blocks, zodat een Continue-blok wacht tot de activiteit echt is afgerond. Dat testen we in de proef.
+- Vaste verhouding (afspraak van Martijn uit de beginfase, bevestigd 21 november): MFA 80 procent Rise en 20 procent Storyline-niveau; MC 60 procent Rise en 40 procent Storyline-niveau. Gerekend in studietijd is dat minimaal ongeveer 96 minuten bij MFA en 192 minuten bij MC aan rijke, vertakte interactie: beslisscenario's, simulaties en complexe casussen.
+- Storyline-niveau betekent de rijkheid van de interactie. Wij bouwen die als codepakket voor Rise, of in Storyline waar dat beter werkt. MC krijgt dus veel meer scenario's dan de drie die eerst gepland waren.
+- Rise is de basis voor de rest: uitleg, foto's en video, accordeon, proces, tabs, eenvoudige scenario's, kennischecks, Continue-blokken en navigatie.
+- Codepakketten (Rise Code Block) zijn er voor het deel waar standaard Rise didactisch tekortschiet: beslisscenario's, triage, interactieve waarneming en complexe casussen. Rise ondersteunt officieel een afrondingseis voor Code Blocks, zodat een Continue-blok wacht tot de activiteit echt is afgerond. Dat testen we in de proef.
 - Storyline 360 is secundair gereedschap, voor interacties die aantoonbaar niet goed lukken in Rise of in een codepakket. We hoeven het niet te gebruiken, maar verbieden het ook niet.
 - Scenario's waarin een keuze echt een ander vervolg geeft: het RMD-gesprek (MFA les 7), een patiënt die 's nachts verslechtert (MC les 4), de helikopterevacuatie (MC les 8), en meer waar het iets oplevert.
 - Martijn wil zelf zo weinig mogelijk bouwen. Daarom programmeren wij die scenario's als kant-en-klare pakketten (HTML) die hij alleen in Rise plaatst via een Code Block. De uitgewerkte scenarioscripts zijn de inhoudelijke basis.
@@ -47,6 +49,14 @@ Bijgewerkt: 21 november 2026. Versie 2.0 verwerkt de reviews van ChatGPT, Gemini
 - De Code Block-route is pas vast na een technische proef met één representatief scenario: bediening op een telefoon, toetsenbordbediening, hervatten na afsluiten, afronding van het blok en gedrag na export naar Moodle. Hervatten van Rise en hervatten midden in een ingesloten scenario zijn aparte eisen. Pas daarna rollen we de techniek uit over alle scenario's.
 - De proef toetst ook drie risico's: (a) blijft de Continue-knop echt geblokkeerd tot het scenario is afgerond, want anders telt het scenario niet mee voor de studietijd; (b) werkt het op een iPhone en een Android-telefoon in Moodle, zonder dubbele scrollbalken of afgesneden knoppen; (c) vertaling: tekst in een codepakket gaat niet mee in de XLIFF-export van Rise, dus alle tekst staat in een apart taalbestand per pakket (nl en en).
 - Valt de proef tegen, dan worden de scenario's Rise Scenario-blokken of Storyline-blokken.
+
+
+Aanvulling 21 november avond (Martijn):
+- Storyline mag met AI gebouwd worden. De AI Assistant in Storyline (Beta) kan dia's en scenes toevoegen, tekst schrijven en animaties programmeren. Martijn zit dan zelf aan de knoppen op zijn Windows-pc; Claude levert per scenario de prompts en het script.
+- Vergelijking loopt met MC-L04-SL01 (nachtpatient): codepakket voor Rise met meer animatie tegenover een promptset voor de Storyline-assistent. De route met het mooiste resultaat voor de minste moeite wordt de methode voor alle scenario's.
+- Animatie en afwerking horen erbij, op het niveau van Martijns Skippy-app. Ingetogen, DRTC-stijl, werkt op mobiel, en uit te zetten voor wie minder beweging wil.
+- Welkomstanimatie: elke cursus begint met een geanimeerd welkom bij de e-learningomgeving van DRTC, met uitleg wat het is en hoe het werkt. Algemeen DRTC-deel herbruikbaar, plus een deel per cursus. Het DRTC-logo ontbreekt nog.
+- Stand 21 november: 18 nieuwe scenarioscripts (12 MC, 6 MFA), rijke interactie MFA 101 en MC 206 minuten; studietijd MC 491, MFA 377 minuten (MFA mist nog 103).
 
 ## 5. Bouwen in Rise
 - Create with AI (AI Course Draft) is een experiment tot MFA les 1 is gebouwd. Bij Security Awareness gaf het het aantrekkelijkste resultaat, maar medische inhoud brengt een nieuw risico mee.
@@ -75,6 +85,9 @@ Bijgewerkt: 21 november 2026. Versie 2.0 verwerkt de reviews van ChatGPT, Gemini
 - Video telt met de echte duur. In dezelfde sessie als de foto's neemt de instructeur korte video's op van de medische kist, het vlotpakket, de zuurstofkoffer en de praktijkhandelingen. Wij leveren een draaiboek met shotlijst.
 - Het tekort in studietijd wordt vooraf grof gepland per les: hoeveel minuten video, casus, scenario en doe-opdracht, vóór we bouwen.
 - Foto's van de medische kist, het vlotpakket en de zuurstofkoffer ontbreken nog. Een instructeur van DRTC maakt die foto's (Martijn akkoord, 21 november). Wij leveren een fotolijst per les.
+
+
+Aanvulling 21 november avond: Martijn heeft een krachtige pc met Blender. Voor handelingen die op foto lastig te tonen zijn mogen korte 3D-animaties gemaakt worden; Claude schrijft het script, Martijn rendert. Eerst een proef (voorstel: stabiele zijligging), wacht op zijn akkoord. Medische juistheid van elke animatie gaat langs Mathanje.
 
 ## 7. Toetsing
 - Kennischecks in de lessen zijn oefening, met feedback waarom een antwoord goed of fout is.

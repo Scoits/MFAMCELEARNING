@@ -546,6 +546,26 @@ TE VERIFIËREN: Het dagelijks bijhouden van nieuwe zieken en contacten is een ei
 
 In SC-MC-03 legt de cursist uit hoe hij het verloop van de uitbraak volgt.
 
+## MC-L07-S35 Scenario: vijf zieken na het avondeten
+
+Leerdoelen: MC-23.01; MC-23.02; MC-24.01; MC-24.02. Bronplaats: zie het script [MC-L07-SL01](../../articulate/storyline/MC-L07-SL01-diarree-aan-boord.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een paar uur na het avondeten zijn vijf opvarenden ziek. Jij zoekt uit wat er aan de hand is, zorgt voor de zieken en voorkomt dat het zich verspreidt. Je volgt de uitbraak tot hij voorbij is.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg, en soms een omweg. Het scenario telt niet mee voor de toets, en je kunt het opnieuw doen.
+
+**Interactie**
+
+Scenario-pakket MC-L07-SL01 in een Rise Code Block met afrondingseis. Script: [MC-L07-SL01](../../articulate/storyline/MC-L07-SL01-diarree-aan-boord.md), bouwlijst: [MC-L07-SL01-bouwlijst.csv](../../articulate/storyline/MC-L07-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R128).
+
 ## MC-L07-S07 Vaccinaties
 
 Leerdoelen: MC-25.01; MC-25.02. Bronplaats: S062 dia19 (actieve en passieve immunisatie, DKTP, bof, mazelen, rubella, influenza type b, meningitis C), dia27-29 (vaccinatie buiktyfus, dengue, gele koorts verplicht); S066 tabel 1, 7.6.01 tetanusvaccin en 7.6.02 anti-tetanus immunoglobuline (RMA). Media: MC-L07-M02. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -957,6 +977,26 @@ Wat is er aan de hand?
 **Verbinding met de praktijkdag**
 
 Bij de controle van de trainingskist in MC-H5 wordt ook een oefenregister geteld.
+
+## MC-L07-S36 Scenario: de controle voor de inspectie
+
+Leerdoelen: MC-26.01; MC-26.02; MC-33.01; MC-33.02. Bronplaats: zie het script [MC-L07-SL02](../../articulate/storyline/MC-L07-SL02-de-kluis-en-het-logboek.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Over twee weken is de jaarlijkse inspectie van de medische uitrusting. Jij bereidt de controle voor. Onderweg vind je dingen die niet kloppen, en krijg je vragen over een patiënt.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg, en soms een omweg. Het scenario telt niet mee voor de toets, en je kunt het opnieuw doen.
+
+**Interactie**
+
+Scenario-pakket MC-L07-SL02 in een Rise Code Block met afrondingseis. Script: [MC-L07-SL02](../../articulate/storyline/MC-L07-SL02-de-kluis-en-het-logboek.md), bouwlijst: [MC-L07-SL02-bouwlijst.csv](../../articulate/storyline/MC-L07-SL02-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R129).
 
 ## MC-L07-S13 De sleutel van de kluis
 

@@ -40,7 +40,7 @@ Bronstatus: S034 dia3 tot en met 19 en 21 en de praktijkhandelingen S033 en S068
 
 De les leert geen radioprocedure, geen nautische handelingen en geen hijsprocedure. De dekvoorbereiding staat erin omdat de MC-zorgverlener moet weten wat er om de patiënt heen gebeurt en wanneer de patiënt klaar moet zijn.
 
-De schermrecords staan in [MC-L08-schermreview.csv](../../reviews/MC-L08-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S02, S03, S16, S17, S18, S04, S05, S06, S07, S19, S08, S20, S09, S21, S10, S11, S22, S12, S23, S13, S14, S15, S24, S25.
+De schermrecords staan in [MC-L08-schermreview.csv](../../reviews/MC-L08-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S02, S03, S16, S17, S18, S04, S05, S06, S07, S19, S08, S20, S09, S21, S10, S11, S22, S12, S23, S13, S14, S26, S15, S24, S25.
 
 ## MC-L08-S01 Hulp van buiten het schip
 
@@ -691,6 +691,24 @@ Hoe draag je de patiënt het beste over?
 **Te verifiëren door Mathanje of DRTC**
 
 TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback.
+
+## MC-L08-S26 Scenario: overdracht in de haven
+
+Leerdoelen: MC-30.01; MC-30.02. Bronplaats: zie het script [MC-L08-SL02](../../articulate/storyline/MC-L08-SL02-overdracht-in-de-haven.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een matroos met koorts en diarree gaat in een Spaanse haven van boord. Jij bereidt de overdracht voor, draagt over aan een havenarts die weinig Engels spreekt en regelt de terugkoppeling.
+
+**Interactie**
+
+Scenario-pakket MC-L08-SL02 in een Rise Code Block met afrondingseis. Script: [MC-L08-SL02](../../articulate/storyline/MC-L08-SL02-overdracht-in-de-haven.md), bouwlijst: [MC-L08-SL02-bouwlijst.csv](../../articulate/storyline/MC-L08-SL02-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R135).
 
 ## MC-L08-S15 Jouw rol in een gecoördineerde hulpactie
 

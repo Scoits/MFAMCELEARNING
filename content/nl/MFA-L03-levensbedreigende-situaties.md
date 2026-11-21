@@ -27,7 +27,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebied hartstils
 
 Bronstatus: S043 (2. MFA dag 1 middag, voettekst Rev. 002) en S034 (3. MFA dag 2 ochtend) zijn op 20 november 2026 als tekstexport gelezen. Voor reanimatie zijn S043 dia36 tot en met 53 de directe bron; de dia's met alleen een film of afbeelding (onder meer dia41, 42, 49 en 51) bevatten geen tekst en dus geen getallen. Voor ernstige bloeding is S044 (4. MFA dag 2 middag) dia3 tot en met 5 de directe bron; S045 (dag 1 ochtend) dia41 en 42 plaatsen de catastrofale bloeding vooraan in DRS-ABCDE.
 
-De schermrecords staan in [MFA-L03-schermreview.csv](../../reviews/MFA-L03-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S17, S18, S02, S03, S19, S04, S20, S05, S06, S07, S21, S22, S32, S23, S08, S09, S10, S11, S12, S24, S25, S26, S13, S14, S27, S28, S15, S29, S30, S31, S16.
+De schermrecords staan in [MFA-L03-schermreview.csv](../../reviews/MFA-L03-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S17, S18, S02, S03, S19, S04, S20, S05, S06, S07, S21, S22, S33, S32, S23, S08, S09, S34, S10, S11, S12, S24, S25, S26, S13, S14, S27, S28, S15, S29, S30, S31, S16.
 
 ## MFA-L03-S01 Iedere seconde telt
 
@@ -415,6 +415,24 @@ Wat doe je?
 | K03-08-B | Je stopt met reanimeren, want het slachtoffer reageert | Onjuist. Braken is geen teken van herstel. Het komt door lucht in de maag. |
 | K03-08-C | Je draait het slachtoffer snel op de zij, maakt de mond leeg, draait terug en gaat verder; je blaast daarna rustiger in | Juist. Mond leegmaken en direct verder. Rustig inblazen voorkomt nieuwe lucht in de maag. |
 
+## MFA-L03-S33 Scenario: reanimatie in de machinekamer
+
+Leerdoelen: MFA-12.01; MFA-12.02. Bronplaats: zie het script [MFA-L03-SL01](../../articulate/storyline/MFA-L03-SL01-reanimatie-in-de-machinekamer.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+In de machinekamer ligt een collega op de vloer. Jij beslist wat er gebeurt, van de eerste seconden tot het melden aan de Radio Medische Dienst.
+
+**Interactie**
+
+Scenario-pakket MFA-L03-SL01 in een Rise Code Block met afrondingseis. Script: [MFA-L03-SL01](../../articulate/storyline/MFA-L03-SL01-reanimatie-in-de-machinekamer.md), bouwlijst: [MFA-L03-SL01-bouwlijst.csv](../../articulate/storyline/MFA-L03-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R136).
+
 ## MFA-L03-S32 Doe-opdracht: een reanimatie melden
 
 Leerdoelen: MFA-12.02. Bronplaats: S016 GH1 boek p77 / PDF p80 (4.6 berichtgeving aan de RMD: tijdstip, duur, complicaties); S046; de gegevens zijn fictief; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -540,6 +558,24 @@ Wat is de volgende stap?
 TE VERIFIËREN: Leidende reanimatierichtlijn en editie nog niet gekozen (S041, OB-03); de tekst volgt de DRTC-dia's en moet na die keuze worden vergeleken.
 
 TE VERIFIËREN: Mathanje beoordeelt de feedback bij K03-03-A.
+
+## MFA-L03-S34 Scenario: verslikking in de mess
+
+Leerdoelen: MFA-12.03; MFA-12.02. Bronplaats: zie het script [MFA-L03-SL02](../../articulate/storyline/MFA-L03-SL02-verslikking-in-de-mess.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Tijdens de lunch verslikt een collega zich. Jij helpt hem zolang hij bij bewustzijn is, en daarna als hij in elkaar zakt.
+
+**Interactie**
+
+Scenario-pakket MFA-L03-SL02 in een Rise Code Block met afrondingseis. Script: [MFA-L03-SL02](../../articulate/storyline/MFA-L03-SL02-verslikking-in-de-mess.md), bouwlijst: [MFA-L03-SL02-bouwlijst.csv](../../articulate/storyline/MFA-L03-SL02-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R137).
 
 ## MFA-L03-S10 Verdrinking: redding en eerste hulp
 
@@ -999,7 +1035,7 @@ Station MFA-P02 en MFA-P04 en de scenario's SC-MFA-01, SC-MFA-05 en SC-MFA-06 in
 
 ## Bouw en test
 
-Gebruik zestien Rise-secties in de volgorde S01 tot en met S16. De films in S04 en S05 zijn DRTC-instructiefilms uit S026 of nieuw op te nemen; geen films van derden zonder vastgelegd gebruiksrecht (zie S043 dia44, 47 en 53). Iedere film krijgt ondertiteling en een tekstalternatief. Controleer op een staand telefoonscherm dat de procesblokken zonder horizontaal scrollen leesbaar zijn. K03-01 tot en met K03-11 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 34 Rise-secties in de schermvolgorde bij de lesgegevens. S33 en S34 zijn de scenariopakketten MFA-L03-SL01 en SL02 in een Code Block. De films in S04 en S05 zijn DRTC-instructiefilms uit S026 of nieuw op te nemen; geen films van derden zonder vastgelegd gebruiksrecht (zie S043 dia44, 47 en 53). Iedere film krijgt ondertiteling en een tekstalternatief. Controleer op een staand telefoonscherm dat de procesblokken zonder horizontaal scrollen leesbaar zijn. K03-01 tot en met K03-11 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

@@ -412,6 +412,24 @@ TE VERIFIËREN: Pus als ontstekingsteken en het vastleggen in het logboek zijn e
 
 In MC-H3 beschrijft de cursist de nazorg en wanneer hij de hechtingen verwijdert.
 
+## MC-L03-S13 Scenario: de wond in de onderarm
+
+Leerdoelen: MC-06.01; MC-06.02; MC-07.02; MC-08.01; MC-10.01; MC-10.02; MC-11.02; MC-34.01. Bronplaats: zie het script [MC-L03-SL01](../../articulate/storyline/MC-L03-SL01-de-wond-in-de-onderarm.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een elektricien heeft zich gesneden met een afbreekmes. Jij stopt het bloeden, beoordeelt de wond, overlegt met de arts, hecht steriel en controleert de wond in de dagen daarna.
+
+**Interactie**
+
+Scenario-pakket MC-L03-SL01 in een Rise Code Block met afrondingseis. Script: [MC-L03-SL01](../../articulate/storyline/MC-L03-SL01-de-wond-in-de-onderarm.md), bouwlijst: [MC-L03-SL01-bouwlijst.csv](../../articulate/storyline/MC-L03-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R133).
+
 ## Bouw en test
 
 Gebruik twaalf Rise-secties in de volgorde S01 tot en met S12. Toon in S02 wondfoto's alleen na een waarschuwing vooraf en met een knop om ze over te slaan. Gebruik in S11 foto's of video van hechten op oefenhuid, geen patiëntbeelden. MC-K03-01 tot en met MC-K03-03 zijn oefenvragen en tellen niet mee.

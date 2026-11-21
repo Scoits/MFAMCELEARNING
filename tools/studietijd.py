@@ -75,6 +75,20 @@ def scherm(x):
     return m
 
 
+def rijk_per_les():
+    """Minuten rijke, vertakte interactie (codepakket of Storyline), kortste pad; afspraken hoofdstuk 4."""
+    uit = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "reviews", "*-schermreview.csv"))):
+        for x in csv.DictReader(open(f, encoding="utf-8")):
+            p = x["platform_block"].lower()
+            if "storyline" in p or "code block" in p:
+                uit[x["lesson_id"]] = uit.get(x["lesson_id"], 0) + scherm(x)
+    return uit
+
+
+NORM_RIJK = {"MFA": 96, "MC": 192}  # 20 procent van 480 bij MFA, 40 procent bij MC
+
+
 def per_les():
     uit = {}
     for f in sorted(glob.glob(os.path.join(ROOT, "reviews", "*-schermreview.csv"))):
@@ -98,6 +112,8 @@ def main():
     for c in ("MFA", "MC"):
         tot = sum(m for les, (m, _, _) in d.items() if les.startswith(c + "-"))
         print(f"{c} totaal: {tot} minuten van de minimaal 480; tekort {max(0, 480 - tot)}")
+        rijk = round(sum(m for les, m in rijk_per_les().items() if les.startswith(c + "-")))
+        print(f"{c} rijke interactie: {rijk} minuten van de minimaal {NORM_RIJK[c]}")
 
 
 if __name__ == "__main__":
