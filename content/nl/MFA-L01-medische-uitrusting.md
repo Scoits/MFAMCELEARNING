@@ -1,6 +1,6 @@
 # Medische uitrusting aan boord
 
-Les MFA-L01, versie 0.3, 21 november 2026. Versie 0.3 vult de uitleg over wonden en verbandmiddelen aan uit leerboek GH1 (S016, hoofdstuk 2 en 3) en voegt S18 en S19 met K01-07 toe. GH1 heeft geen hoofdstuk over de medische uitrusting; daarvoor blijft S066 de bron. Versie 0.2 breidt de les uit tot een volledige vervanging van de klassikale theorie over de medische uitrusting. De uitleg begint bij de basis, voor zeevarenden zonder medische voorkennis. Nieuw zijn de schermen S10 tot en met S17 en de kennischecks K01-04 tot en met K01-06, gebaseerd op de Regeling medische uitrusting (S066), dag 1 ochtend dia 51-53 (S045), dag 2 middag dia 2-10 (S044), PH10 (S058) en LOTUS-kaart 12 (S027). S02 en S09 zijn verdiept. De bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
+Les MFA-L01, versie 0.4, 21 november 2026. Versie 0.4 voegt na de proefimport de casus S20 met keuzes toe als Rise Scenario-blok. Versie 0.3 vult de uitleg over wonden en verbandmiddelen aan uit leerboek GH1 (S016, hoofdstuk 2 en 3) en voegt S18 en S19 met K01-07 toe. GH1 heeft geen hoofdstuk over de medische uitrusting; daarvoor blijft S066 de bron. Versie 0.2 breidt de les uit tot een volledige vervanging van de klassikale theorie over de medische uitrusting. De uitleg begint bij de basis, voor zeevarenden zonder medische voorkennis. Nieuw zijn de schermen S10 tot en met S17 en de kennischecks K01-04 tot en met K01-06, gebaseerd op de Regeling medische uitrusting (S066), dag 1 ochtend dia 51-53 (S045), dag 2 middag dia 2-10 (S044), PH10 (S058) en LOTUS-kaart 12 (S027). S02 en S09 zijn verdiept. De bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 ## Lesgegevens
 
@@ -10,7 +10,7 @@ Les MFA-L01, versie 0.3, 21 november 2026. Versie 0.3 vult de uitleg over wonden
 | Cursus | MFA, STCW A-VI/4-1, IMO Model Course 1.14 Part C 2 |
 | Leerdoelen | MFA-01.01 tot en met MFA-01.04 |
 | Leervorm | Rise; uitleg met accordeons en tabbladen, zeven keuzevragen, een tikopdracht op een plattegrond en een controlelijst als doe-opdracht |
-| Studieduur | 54 minuten, berekend volgens de rekenregel in docs/studietijd-rekenregel.md. De moduleraming van 30 minuten is daarmee overschreden; herverdeling volgt in OB-05 |
+| Studieduur | 61 minuten, berekend volgens de rekenregel in docs/studietijd-rekenregel.md. De moduleraming van 30 minuten is daarmee overschreden; herverdeling volgt in OB-05 |
 | Praktijkkoppeling | Kitinspectie in het wondstation en zelf materiaal halen en gebruiken in de scenario's |
 | Bronnen | S001, S003, S009, S016, S027, S044, S045, S058, S066; S040 en S042 als voorgestelde aanvullende bronnen |
 | Engelse opvolger | Nog niet gestart |
@@ -26,7 +26,7 @@ Les MFA-L01, versie 0.3, 21 november 2026. Versie 0.3 vult de uitleg over wonden
 
 STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebied eerstehulpuitrusting (kolom 2); beoordeling van bewijs uit praktijkinstructie (kolom 3); projectcriteria K2 en K3 (kolom 4). De les legt de opbouw van de Nederlandse uitrustingsregeling uit met voorbeelden. Ze is geen volledige inventarislijst; de lijst van het eigen schip blijft leidend.
 
-De schermrecords staan in [MFA-L01-schermreview.csv](../../reviews/MFA-L01-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S10, S02, S03, S11, S12, S04, S13, S14, S05, S15, S06, S07, S18, S19, S16, S17, S08, S09.
+De schermrecords staan in [MFA-L01-schermreview.csv](../../reviews/MFA-L01-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S10, S02, S03, S11, S12, S04, S13, S14, S05, S15, S06, S07, S18, S19, S16, S17, S08, S20, S09.
 
 ## MFA-L01-S01 Waar is de medische uitrusting?
 
@@ -625,6 +625,62 @@ Je pakt een steriel kompres en ziet dat de verpakking aan één kant open is. Wa
 
 TE VERIFIËREN: Mathanje beoordeelt de feedback bij K01-03-C.
 
+## MFA-L01-S20 Casus: de snijwond bij het lossen
+
+Leerdoelen: MFA-01.01; MFA-01.02; MFA-01.04. Bronplaats: Keuzes en feedback komen uit MFA-L01-S03 (K01-01), S04 (I01-01), S07, S08 (K01-03) en S13 van deze les; de casus zelf is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 7 minuten. Leerfunctie: de cursist past toe wat hij over vinden, kiezen en veilig gebruiken van de uitrusting heeft geleerd, in één doorlopende situatie.
+
+**Cursistentekst**
+
+Weet je nog: je collega met de snijwond bij het lossen? Nu ben jij aan de beurt. Je kiest steeds wat je doet en ziet wat er gebeurt. Kies je verkeerd, dan krijg je uitleg en probeer je het opnieuw.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Interactie**
+
+I01-02: casus met keuzes, Rise Scenario-blok. Personages: Ahmed (matroos) en Linda (officier van de wacht); fictief.
+
+Scène 1: Bij het lossen snijdt Ahmed zich aan een scherpe rand in zijn hand. Het bloedt. Linda: "Haal de medische uitrusting." Waar ga je naartoe?
+
+I01-02-1A: Naar de ziekenruimte met het teken eerste hulp (juist). Feedback: Goed. Daar ligt de uitrusting, met de controlelijst bij de kist.
+
+I01-02-1B: Naar de kombuis (onjuist). Feedback: Daar ligt de medische uitrusting niet en je verliest tijd. Bekijk na aanmonstering zelf waar de uitrusting, de AED en de brancard staan. Terug naar scène 1.
+
+I01-02-1C: Naar de machinekamerwerkplaats (onjuist). Feedback: Daar ligt de medische uitrusting niet. Let op het teken eerste hulp. Terug naar scène 1.
+
+Scène 2: Je staat bij de kist in de ziekenruimte. Wat neem je als eerste mee?
+
+I01-02-2A: Handschoenen en wond- en verbandmateriaal (juist). Feedback: Juist. Je beschermt jezelf en kunt de wond afdekken en de bloeding behandelen.
+
+I01-02-2B: Een spalk en een driekante doek (onjuist). Feedback: Die middelen gebruik je vooral bij vermoedelijk letsel aan botten of gewrichten. Hier is een bloedende wond. Terug naar scène 2.
+
+I01-02-2C: Een thermometer en een registratieformulier (onjuist). Feedback: Vastleggen is belangrijk, maar eerst moet je de wond kunnen afdekken en jezelf beschermen. Terug naar scène 2.
+
+Scène 3: Bij Ahmed pak je een steriel snelverband. De verpakking is aan één kant open. Wat doe je?
+
+I01-02-3A: Je gebruikt het; het verband ziet er schoon uit (onjuist). Feedback: Een open verpakking is niet meer steriel, ook als het verband er schoon uitziet. Terug naar scène 3.
+
+I01-02-3B: Je legt het apart, neemt een snelverband met een onbeschadigde verpakking en meldt het beschadigde exemplaar (juist). Feedback: Juist. Steriel materiaal gebruik je alleen als de verpakking heel, droog en niet verlopen is.
+
+I01-02-3C: Je desinfecteert het verband eerst met alcohol (onjuist). Feedback: Daarmee wordt het niet weer steriel. Neem een verband met een onbeschadigde verpakking. Terug naar scène 3.
+
+Scène 4: De wond is afgedekt. Je hebt twee snelverbanden en een paar handschoenen gebruikt. Wat doe je nu?
+
+I01-02-4A: Je trekt de handschoenen uit en gaat direct weer aan het werk (onjuist). Feedback: Gooi het gebruikte materiaal in de afvalzak en reinig je handen na het uittrekken van de handschoenen. En wat je hebt gebruikt, moet worden aangevuld. Terug naar scène 4.
+
+I01-02-4B: Je gooit het gebruikte materiaal in de afvalzak, reinigt je handen en meldt aan de beheerder wat je hebt gebruikt (juist). Feedback: Juist. Zo is de uitrusting weer compleet bij het volgende ongeval.
+
+I01-02-4C: Je meldt niets; het waren maar twee verbanden (onjuist). Feedback: Meld altijd wat je hebt gebruikt, ook als het maar één pleister is. Anders ontbreekt het de volgende keer. Terug naar scène 4.
+
+Einde: Ahmed is geholpen en de uitrusting is weer compleet. Afronding van het blok bij het bereiken van het einde.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: De casus is fictief. Mathanje bevestigt de keuzes en de feedback (R121).
+
 ## MFA-L01-S09 Naar de praktijkdag
 
 Leerdoelen: MFA-01.01; MFA-01.02; MFA-01.03; MFA-01.04. Bronplaats: S003 Part C 2.1-2.4, gedrukte p12 / PDF p18; observatiecriteria volgens drtc_criterium_voorstel in de MFA-matrix. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -651,7 +707,7 @@ Wondstation MFA-P04 en LOTUS-scenario's in docs/praktijkplanning-v001.md.
 
 ## Bouw en test
 
-Gebruik negentien Rise-secties in de volgorde van deze master. De plattegrond in S04 is een tikopdracht met grote, duidelijk gescheiden tikvlakken en een tekstalternatief voor schermlezers. Controleer op een staand telefoonscherm dat de plattegrond zonder inzoomen bruikbaar is; anders vervangen door een keuzevraag met dezelfde antwoord-ID's. De controlelijst in S14 is een Rise-tabel boven het kennischeckblok. K01-01 tot en met K01-07 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik twintig Rise-secties in de volgorde van deze master. De plattegrond in S04 is een tikopdracht met grote, duidelijk gescheiden tikvlakken en een tekstalternatief voor schermlezers. Controleer op een staand telefoonscherm dat de plattegrond zonder inzoomen bruikbaar is; anders vervangen door een keuzevraag met dezelfde antwoord-ID's. De controlelijst in S14 is een Rise-tabel boven het kennischeckblok. K01-01 tot en met K01-07 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

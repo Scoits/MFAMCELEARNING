@@ -46,7 +46,7 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 | Les | Begroting | Rekenregel nu | Opmerking |
 | --- | --- | --- | --- |
 | MFA-L00 | 15 | 9 | |
-| MFA-L01 | 30 | 54 | Uitgewerkt in versie 0.3 met GH1; begroting te herzien |
+| MFA-L01 | 30 | 61 | Uitgewerkt in versie 0.4 met GH1 en casus S20 (7 minuten); begroting te herzien |
 | MFA-L02 | 100 | 102 | Uitgewerkt in versie 0.4 met GH1 hoofdstuk 1 en 2 |
 | MFA-L03 | 75 | 74 | Uitgewerkt in versie 0.5 met GH1 hoofdstuk 3, 5 en 6 |
 | MFA-L04 | 85 | 103 | Uitgewerkt in versie 0.4 met GH1 hoofdstuk 3, 4, 6, 7 en 9 |

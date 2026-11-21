@@ -318,6 +318,14 @@ Versie 0.2 breidt de les uit met uitleg uit de Ships medical guide (S025) hoofds
 | R119 | MC-L08-S16, S17 en S23 | Passen de vragenlijsten uit de Ships medical guide bij ziekte en letsel bij de RMD-vragenlijst die DRTC in MFA-L07 gebruikt? Moet de cursist leren dat hij het gesprek opneemt of alleen schriftelijk vastlegt? Is de verwijsbrief die met de patiënt meegaat hetzelfde document als de medische kaart, of komen er twee? |
 | R120 | MC-L08-S24 en articulate/storyline/MC-L08-SL01 | Kloppen de fictieve casus van bootsman Henk, de keuzes en de feedback in het scenario helikopterevacuatie? Kloppen het label, de geleidelijn en de rolverdeling met IAMSAR en de werkwijze van de Kustwacht? |
 
+## Aanvulling bij MFA-L01 versie 0.4
+
+Versie 0.4 voegt na de proefimport van 21 november 2026 de casus S20 toe als Rise Scenario-blok. De keuzes en de feedback komen uit de schermen van deze les.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R121 | MFA-L01-S20 | Kloppen de keuzes en de feedback in de casus over de snijwond bij het lossen (I01-02), van het halen van de uitrusting tot het melden van wat is gebruikt? Is handen reinigen na het uittrekken van de handschoenen zo juist verwoord? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

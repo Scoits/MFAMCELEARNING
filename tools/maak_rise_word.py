@@ -237,6 +237,8 @@ def scherm_blokken(s):
 
     if "storyline" in p:
         blokken.append({"type": "Storyline", "tekst": s["interaction"]})
+    elif "scenario-blok" in p:
+        blokken.append({"type": "Scenario", "tekst": s["interaction"]})
     elif vraag:
         blokken.append({"type": "Kennischeck", "vraag": vraag, "scherm": s})
     elif (s["interaction"].strip() and not s["interaction"].startswith("Niet van toepassing")
@@ -284,10 +286,11 @@ RISE = {
     "Gelabelde afbeelding": ("Labeled graphic", "Interactive > Labeled graphic; markeringen volgens de interactieconfiguratie"),
     "Kennischeck": ("Multiple choice", "Knowledge check > Multiple choice; juist antwoord en feedback per keuze zoals hieronder"),
     "Interactie": ("zie interactieconfiguratie", "bouwen volgens de interactieconfiguratie"),
+    "Scenario": ("Scenario", "Interactive > Scenario; maak per scène een dialoog met de keuzes en de feedback zoals hieronder; een onjuiste keuze gaat terug naar dezelfde scène"),
     "Storyline": ("Storyline", "Interactive > Storyline; kies de publicatie uit Review 360, zet Require completion aan"),
 }
 INTERACTIEF = {"Tabbladen", "Accordeon", "Tijdlijn", "Flashcards", "Proces", "Sorteeroefening",
-               "Gelabelde afbeelding", "Kennischeck", "Interactie", "Storyline"}
+               "Gelabelde afbeelding", "Kennischeck", "Interactie", "Storyline", "Scenario"}
 
 
 def blokkop(doc, n, soort):
@@ -461,7 +464,7 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt, importmodus=False):
         for k, (aid, _, _) in enumerate(opties):
             if fb.get(aid):
                 doc.add_paragraph(f"Feedback bij {letters[k]}: {fb[aid]}")
-    elif t == "Storyline":
+    elif t in ("Storyline", "Scenario"):
         for regel in [r.strip() for r in b["tekst"].splitlines() if r.strip()]:
             doc.add_paragraph(regel)
     elif t == "Interactie":
@@ -489,7 +492,7 @@ def samenvatting(b):
         return b["vraag"][1][:80]
     if t == "Tabel":
         return "tabel uit de schermtekst"
-    if t in ("Interactie", "Storyline"):
+    if t in ("Interactie", "Storyline", "Scenario"):
         return b["tekst"].splitlines()[0][:90]
     if t == "Opvallend kader":
         return b["tekst"][:80]
@@ -555,7 +558,7 @@ def maak_bouwboek(les, titel, delen, uitpad, media_map, proef, bouw):
     return ontbreekt
 
 
-ALLEEN_NA_IMPORT = {"Storyline", "Interactie", "Sorteeroefening"}
+ALLEEN_NA_IMPORT = {"Storyline", "Interactie", "Sorteeroefening", "Scenario"}
 
 
 def maak_importbestanden(les, titel, delen, uitdir, media_map):
@@ -601,6 +604,10 @@ def maak_importbestanden(les, titel, delen, uitdir, media_map):
                                   "Sleep iedere kaart naar de juiste groep.")
                     for kop, kaarten in b["stapels"]:
                         regels.append(f"  - {kop}: " + "; ".join(kaarten))
+                    continue
+                if b["type"] == "Scenario":
+                    regels.append(f"- {s['screen_id']}: Scenario (Interactive > Scenario). De scènes, keuzes "
+                                  "en feedback staan in het bouwboek bij dit scherm.")
                     continue
                 eerste = b["tekst"].splitlines()[0] if b.get("tekst") else ""
                 regels.append(f"- {s['screen_id']}: {RISE[b['type']][0]}. {eerste}")
