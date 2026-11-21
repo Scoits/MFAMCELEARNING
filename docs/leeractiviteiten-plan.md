@@ -1,6 +1,6 @@
 # Plan leeractiviteit per les
 
-Werkversie 0.1, 21 november 2026. Met de herziene rekenregel uit [studietijd-rekenregel](studietijd-rekenregel.md) komt de e-learning op ongeveer 766 minuten. Dat is ongeveer 195 minuten onder de 16 uur, waarvan ongeveer 130 bij MFA. Martijn mist daarnaast interactie. Dit plan vult het tekort aan met activiteiten waarin de cursist herkent, beslist of iets doet. Het voegt geen extra tekst toe. Iedere activiteit gebruikt de bestaande lesinhoud en de leerdoelen uit [leerdoel-gedrag](../curriculum/leerdoel-gedrag.csv). Casussen gebruiken bij voorkeur situaties uit de LOTUS-kaarten (S027, S076, S077), zodat de cursist ze op de praktijkdag herkent.
+Werkversie 0.1, 21 november 2026. Met de strenge rekenregel uit [studietijd-rekenregel](studietijd-rekenregel.md) komt MFA op 265 en MC op 306 minuten. Het tekort is 215 minuten bij MFA en 174 bij MC. De tabel hieronder is de eerste ronde, en dekt dat tekort nog niet. De tweede ronde staat onder Benodigd per cursus. Martijn mist daarnaast interactie. Dit plan vult het tekort aan met activiteiten waarin de cursist herkent, beslist of iets doet. Het voegt geen extra tekst toe. Iedere activiteit gebruikt de bestaande lesinhoud en de leerdoelen uit [leerdoel-gedrag](../curriculum/leerdoel-gedrag.csv). Casussen gebruiken bij voorkeur situaties uit de LOTUS-kaarten (S027, S076, S077), zodat de cursist ze op de praktijkdag herkent.
 
 ## Activiteiten
 
@@ -25,6 +25,22 @@ Werkversie 0.1, 21 november 2026. Met de herziene rekenregel uit [studietijd-rek
 | MC | Kijkopdrachten bij films uit map 025 (S026) | Kijkopdracht | ongeveer 30 |
 
 Samen is dat ongeveer 105 minuten casus en opdracht en 70 minuten kijkopdracht. Daarnaast komen MFA-L06, MFA-L07 en MC-L03 nog op hun begroting (ongeveer 60 minuten). Dan komt het totaal volgens de herziene regel op ongeveer 1000 minuten.
+
+## Benodigd per cursus
+
+Ruwe begroting met de strenge regel. Iedere activiteit wordt een scherm in de schermreview, zodat `tools/studietijd.py` haar meetelt.
+
+| Bron van minuten | MFA | MC |
+| --- | --- | --- |
+| Casussen als Rise Scenario-blok, 7 minuten per stuk | 9 casussen, 63 | 8 casussen, 56 |
+| Vertakte scenario-pakketten, 10 minuten per stuk | RMD-gesprek, reanimatie, brand in de kombuis: 30 | twee bestaande plus twee nieuwe: 20 erbij |
+| Doe-opdrachten met een gecontroleerde vraag erna, 5 minuten per stuk | 6, samen 30 | 8, samen 40 |
+| Kijkopdrachten (echte duur plus twee vragen) | ongeveer 35 | ongeveer 25 |
+| Uitbreiding MFA-L06, MFA-L07 en MC-L03 met uitleg uit GH1, GH2 en S025 | ongeveer 40 | ongeveer 20 |
+| Extra kennischecks, 1 minuut per stuk | 20 | 15 |
+| Samen | ongeveer 218 | ongeveer 176 |
+
+Telt de online eindtoets mee (open punt), dan ligt er meer marge.
 
 ## Kijkopdrachten (voorlopige koppeling)
 

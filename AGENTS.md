@@ -51,3 +51,7 @@ Martijn heeft bevestigd dat de Articulate-stijl al bestaat. Gebruik die bestaand
 Alle online lessen, interacties, scenario's en toetsen moeten bruikbaar zijn op mobiel, tablet en computer. Dit is door Martijn bevestigd. Gebruik `docs/cursusopbouw-voor-medische-review.md` voor de bespreekversie en mobiele acceptatiecriteria. Ontwerp voor touch en een staand telefoonscherm en verifieer de hele leerroute inclusief toetsing en hervatten. De werking is nog niet getest.
 
 Mathanjes via Martijn ontvangen reactie is vastgelegd in `reviews/2026-11-20-mathanje-hoofdlijnen.md`. Behoud het onderscheid tussen positieve hoofdlijnenfeedback, praktijkvoorstellen en medische detailvrijgave. De MFA-indeling en beide MC-alternatieven staan in `docs/praktijkindeling.md`. Verzin geen gekozen MC-variant of slagingspercentage. Conceptuitwerking kan doorgaan met deze keuzes zichtbaar open.
+
+## Vaste afspraken
+
+Lees eerst `docs/afspraken.md`: de vaste afspraken met Martijn. Bij verschil met andere documenten gaan die afspraken voor.

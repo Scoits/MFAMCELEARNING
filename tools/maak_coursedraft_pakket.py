@@ -80,7 +80,7 @@ def schrijf(cursus, uitpad):
     s.append(f"Gebruik precies {c['lessen']} lessen, in deze volgorde en met deze titels. Ieder bronbestand is één les. Neem per les de leerdoelen hieronder over:")
     for les, titel, doelen in ls:
         s.append(f"{les} {titel} (ongeveer {c['tijd'][les]} minuten studietijd). Leerdoelen: " + " ".join(f"{g}: {t}" for g, t, _ in doelen))
-    s.append("Harde grenzen: gebruik uitsluitend de geüploade bronbestanden. Voeg geen medische feiten, getallen, doseringen, middelen, codes of handelingen toe die niet in de bron staan, en vul niet aan uit algemene kennis. Kort geen stappen, waarschuwingen of uitzonderingen in en verander de volgorde van stappen niet. Ontbreekt er iets, zet dan in de les een Note met de tekst VRAAG VOOR MATHANJE en wat er ontbreekt. Online leren vervangt de praktijkbeoordeling niet: verwijs bij handelingen naar de praktijkdag.")
+    s.append("Harde grenzen: gebruik uitsluitend de geüploade bronbestanden. Voeg geen medische feiten, getallen, doseringen, middelen, codes of handelingen toe die niet in de bron staan, en vul niet aan uit algemene kennis. Kort geen stappen, waarschuwingen of uitzonderingen in en verander de volgorde van stappen niet. Ontbreekt er iets, zet dan in de les een Note met de tekst VRAAG VOOR MATHANJE en wat er ontbreekt. Begin iedere les met de conceptmelding uit de bron in een Note. Online leren vervangt de praktijkbeoordeling niet: verwijs bij handelingen naar de praktijkdag.")
     for t in s:
         a("> " + t)
         a(">")
@@ -120,14 +120,14 @@ def schrijf(cursus, uitpad):
         "Alle vragen zijn formatief: de cursist mag opnieuw proberen en er is geen score.",
         "Bouw de casussen met keuzes uit de bron als Scenario-blok: één scène per keuze, en een onjuiste keuze gaat met uitleg terug naar dezelfde scène. Personen en dialogen mogen verzonnen zijn. Wat zij medisch doen of zeggen, komt uit de bron.",
         "Wissel uitleg en activiteit af: na hoogstens twee tekstblokken komt een interactief blok of een oefenvraag. Gebruik geen flashcards. Gebruik een accordeon alleen voor naslag.",
-        "Waar de bron een Storyline-scenario noemt, laat je een lege plek met de tekst STORYLINE-BLOK.",
+        "Waar de bron SCENARIO-PAKKET noemt, laat je een lege plek met de tekst SCENARIO-PAKKET. DRTC plaatst daar een kant-en-klaar scenario in een Code Block.",
     ]:
         a("> " + t)
         a(">")
     r.pop()
     a("")
     if c["storyline"]:
-        a("Storyline-scenario's die DRTC apart bouwt en daarna in de les zet: " + "; ".join(f"{v} in {k}" for k, v in c["storyline"].items()) + ". Zie `articulate/storyline/`.")
+        a("Vertakte scenario's die DRTC als HTML-pakket levert en die je met een Code Block in de les zet: " + "; ".join(f"{v} in {k}" for k, v in c["storyline"].items()) + ". De scripts staan in `articulate/storyline/`; Storyline is de terugval.")
         a("")
     a("Zet na de generatie bij Settings > Navigation de navigatie op Restricted. Zet na ieder interactief blok en iedere kennischeck een Continue-blok met Complete block above.")
     a("")
@@ -148,7 +148,7 @@ def schrijf(cursus, uitpad):
         a(">")
     r.pop()
     a("")
-    a("Herstel ieder punt in het betreffende blok, met de tekst uit de bron. Laat de les niet opnieuw genereren. Tel daarna de studietijd met de rekenregel en leg de les vast in `articulate/revisieregister.csv`. Mathanje beoordeelt daarna de gepubliceerde les, met de nieuwe oefenvragen en casussen. Een gegenereerde les krijgt geen andere status dan een les uit de letterlijke import: medische review nodig.")
+    a("Herstel ieder punt in het betreffende blok, met de tekst uit de bron. Laat de les niet opnieuw genereren. Tel daarna de studietijd met `tools/studietijd.py` (strenge rekenregel) en leg de les vast in `articulate/revisieregister.csv`. Mathanje beoordeelt daarna de gepubliceerde les, met de nieuwe oefenvragen en casussen. Een gegenereerde les krijgt geen andere status dan een les uit de letterlijke import: medische review nodig.")
     a("")
     a("## Leerdoelen per les")
     a("")

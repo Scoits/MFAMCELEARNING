@@ -1,6 +1,6 @@
 # Storyline-scenario's
 
-Volgens besluit V01 komt alles in Rise, behalve scenario's waarin een keuze een echt ander vervolg geeft. Die scenario's worden in Storyline 360 gebouwd, via Review 360 gepubliceerd en als Storyline-blok in de Rise-les geplaatst. Zie [integratieplan](../integratieplan.md).
+Volgens besluit V01 komt alles in Rise, behalve scenario's waarin een keuze een echt ander vervolg geeft. Sinds 21 november 2026 worden die scenario's kant-en-klaar geprogrammeerd als HTML-pakket, dat Martijn met een Code Block in Rise plaatst. De scripts en bouwlijsten hieronder zijn de inhoudelijke basis voor die pakketten. Storyline 360 met Review 360 en een Storyline-blok blijft de terugval. Zie [integratieplan](../integratieplan.md).
 
 Per scenario staan hier twee bestanden:
 

@@ -51,7 +51,7 @@ Plak deze prompt in het veld voor de cursusbeschrijving of de instructie. Is het
 >
 > MC-L09 Theorieafronding en voorbereiding op de praktijkdagen (ongeveer 25 minuten studietijd). Leerdoelen: 
 >
-> Harde grenzen: gebruik uitsluitend de geüploade bronbestanden. Voeg geen medische feiten, getallen, doseringen, middelen, codes of handelingen toe die niet in de bron staan, en vul niet aan uit algemene kennis. Kort geen stappen, waarschuwingen of uitzonderingen in en verander de volgorde van stappen niet. Ontbreekt er iets, zet dan in de les een Note met de tekst VRAAG VOOR MATHANJE en wat er ontbreekt. Online leren vervangt de praktijkbeoordeling niet: verwijs bij handelingen naar de praktijkdag.
+> Harde grenzen: gebruik uitsluitend de geüploade bronbestanden. Voeg geen medische feiten, getallen, doseringen, middelen, codes of handelingen toe die niet in de bron staan, en vul niet aan uit algemene kennis. Kort geen stappen, waarschuwingen of uitzonderingen in en verander de volgorde van stappen niet. Ontbreekt er iets, zet dan in de les een Note met de tekst VRAAG VOOR MATHANJE en wat er ontbreekt. Begin iedere les met de conceptmelding uit de bron in een Note. Online leren vervangt de praktijkbeoordeling niet: verwijs bij handelingen naar de praktijkdag.
 
 ## 3. Correctiechecklist voor de outline
 
@@ -92,9 +92,9 @@ Maak voor het genereren een kopie van de cursus. Als je een generatie annuleert,
 >
 > Wissel uitleg en activiteit af: na hoogstens twee tekstblokken komt een interactief blok of een oefenvraag. Gebruik geen flashcards. Gebruik een accordeon alleen voor naslag.
 >
-> Waar de bron een Storyline-scenario noemt, laat je een lege plek met de tekst STORYLINE-BLOK.
+> Waar de bron SCENARIO-PAKKET noemt, laat je een lege plek met de tekst SCENARIO-PAKKET. DRTC plaatst daar een kant-en-klaar scenario in een Code Block.
 
-Storyline-scenario's die DRTC apart bouwt en daarna in de les zet: MC-L04-SL01 verslechtering in de nacht in MC-L04; MC-L08-SL01 helikopterevacuatie in MC-L08. Zie `articulate/storyline/`.
+Vertakte scenario's die DRTC als HTML-pakket levert en die je met een Code Block in de les zet: MC-L04-SL01 verslechtering in de nacht in MC-L04; MC-L08-SL01 helikopterevacuatie in MC-L08. De scripts staan in `articulate/storyline/`; Storyline is de terugval.
 
 Zet na de generatie bij Settings > Navigation de navigatie op Restricted. Zet na ieder interactief blok en iedere kennischeck een Continue-blok met Complete block above.
 
@@ -116,7 +116,7 @@ Plak deze prompt in de AI Assistant bij iedere les, met het bronbestand van die 
 >
 > Geef per punt het blok en de bronzin. Herschrijf niets.
 
-Herstel ieder punt in het betreffende blok, met de tekst uit de bron. Laat de les niet opnieuw genereren. Tel daarna de studietijd met de rekenregel en leg de les vast in `articulate/revisieregister.csv`. Mathanje beoordeelt daarna de gepubliceerde les, met de nieuwe oefenvragen en casussen. Een gegenereerde les krijgt geen andere status dan een les uit de letterlijke import: medische review nodig.
+Herstel ieder punt in het betreffende blok, met de tekst uit de bron. Laat de les niet opnieuw genereren. Tel daarna de studietijd met `tools/studietijd.py` (strenge rekenregel) en leg de les vast in `articulate/revisieregister.csv`. Mathanje beoordeelt daarna de gepubliceerde les, met de nieuwe oefenvragen en casussen. Een gegenereerde les krijgt geen andere status dan een les uit de letterlijke import: medische review nodig.
 
 ## Leerdoelen per les
 

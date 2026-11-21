@@ -76,14 +76,40 @@ Voorgestelde regel, totdat de pilotmeting (OB-06) er is:
 | Onderdeel | Tijd |
 | --- | --- |
 | Cursistentekst | 1 minuut per 150 woorden |
-| Kennischeck met feedback | 1,5 minuut per vraag |
+| Kennischeck met feedback | 1 minuut per vraag |
 | Casus met keuzes (Rise Scenario-blok, drie of vier beslismomenten) | 6 tot 8 minuten |
 | Storyline-scenario | 10 tot 15 minuten, na de proef te meten |
 | Kijkopdracht | werkelijke duur van de film plus 2 minuten voor de vragen |
 | Doe-opdracht | 5 minuten, alleen als de cursist in Rise een antwoord geeft dat wordt gecontroleerd of afgerond; anders 0 |
 | Sorteeroefening of gelabelde afbeelding | 2 tot 3 minuten |
 
-Met alleen de lagere leessnelheid komt het totaal op ongeveer 766 minuten in plaats van 968: MFA 351 en MC 415. Dat is bijna 13 uur. De doe-opdrachten zijn daarin nog meegeteld. De ondergrens van 16 uur is met de herziene regel dus niet gehaald. Het tekort is ongeveer 195 minuten, waarvan ongeveer 130 bij MFA.
+Deze regel is op 21 november 2026 met Martijn vastgelegd als afspraak (zie [afspraken](afspraken.md)). Nog strenger dan de tabel hierboven: een doe-opdracht telt alleen mee als Rise controleert dat de cursist hem doet, en een kennischeck telt 1 minuut. `tools/studietijd.py` rekent dit per scherm uit de schermreviews. Een casus als Rise Scenario-blok telt 7 minuten, een vertakt scenario-pakket 10 minuten, en een sorteeroefening, gelabelde afbeelding of tikopdracht 2 minuten. Video telt pas mee als de echte duur is gemeten.
+
+Stand 21 november 2026, eind van de middag, met deze strenge regel:
+
+| Les | Schermen | Woorden | Minuten (strenge regel) |
+| --- | --- | --- | --- |
+| MC-L00 | 7 | 520 | 6 |
+| MC-L01 | 27 | 3722 | 34 |
+| MC-L02 | 35 | 5611 | 43 |
+| MC-L03 | 12 | 1221 | 11 |
+| MC-L04 | 27 | 3640 | 40 |
+| MC-L05 | 46 | 6639 | 57 |
+| MC-L06 | 31 | 4313 | 36 |
+| MC-L07 | 34 | 4384 | 38 |
+| MC-L08 | 25 | 2892 | 35 |
+| MC-L09 | 7 | 556 | 6 |
+| MFA-L00 | 8 | 564 | 6 |
+| MFA-L01 | 20 | 2990 | 36 |
+| MFA-L02 | 39 | 6118 | 67 |
+| MFA-L03 | 32 | 4034 | 38 |
+| MFA-L04 | 46 | 6555 | 57 |
+| MFA-L05 | 33 | 4094 | 35 |
+| MFA-L06 | 10 | 828 | 9 |
+| MFA-L07 | 11 | 1053 | 12 |
+| MFA-L08 | 7 | 513 | 5 |
+
+MFA komt op 265 en MC op 306 minuten, samen ongeveer 9,5 uur. Eerder die middag werd ongeveer 13 uur genoemd. Dat getal paste alleen de leessnelheid aan en telde de doe-opdrachten en 1,5 minuut per kennischeck nog mee. Het tekort is 215 minuten bij MFA en 174 bij MC.
 
 Het tekort wordt aangevuld met leeractiviteit, niet met meer tekst. Zie [leeractiviteiten-plan](leeractiviteiten-plan.md). De werkelijke tijd volgt uit de meting met testcursisten in de proefles. Die meting is ook de basis voor de urenonderbouwing (CBT-02). Of de online kennistoetsen in MFA-L08 en MC-L09 meetellen voor de 16 uur, is een vraag voor DRTC; ze zijn hier niet meegeteld.
 

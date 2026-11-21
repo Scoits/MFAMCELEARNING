@@ -1,12 +1,15 @@
 # Productiewerkwijze Rise en Storyline
 
-Werkversie 0.1, 21 november 2026. Dit document verwerkt de productiehandleiding "Hoogwaardige e-learning: Articulate, AI en eigen content" die Martijn op 21 november 2026 aanleverde. De handleiding steunt op de officiële Articulate-documentatie van september tot november 2026 en op praktijkverslagen. Productmogelijkheden zijn hier overgenomen zoals de handleiding ze beschrijft. Ze worden in de proefles in de eigen DRTC-account getest.
+Werkversie 0.2, 21 november 2026. De vaste afspraken staan in [docs/afspraken.md](../docs/afspraken.md); bij verschil gaan die voor. Dit document verwerkt de productiehandleiding "Hoogwaardige e-learning: Articulate, AI en eigen content" die Martijn op 21 november 2026 aanleverde. De handleiding steunt op de officiële Articulate-documentatie van september tot november 2026 en op praktijkverslagen. Productmogelijkheden zijn hier overgenomen zoals de handleiding ze beschrijft. Ze worden in de proefles in de eigen DRTC-account getest.
 
-## 1. Importroute
+## 1. Bouwroutes
+
+Volgens de afspraken van 21 november 2026 is de hoofdroute Create with AI (AI Course Draft), zoals bij Security Awareness. Zie de derde route hieronder en [ai-course-draft-MFA](ai-course-draft-MFA.md). De letterlijke import en het bouwboek per blok zijn de terugval.
 
 | Doel | Route |
 | --- | --- |
-| Vastgestelde les met beelden naar Rise | Magic Lesson Import met het importbestand per deel |
+| Hele cursus bouwen | AI Course Draft met de bronbestanden per les, startprompt, correctiechecklist en controleprompt |
+| Terugval: vastgestelde les letterlijk naar Rise | Magic Lesson Import met het importbestand per deel |
 | Eén blok achteraf vervangen of toevoegen | Magic text import of handmatig, met de prompt uit [ai-blokprompts](ai-blokprompts.md) |
 | Nieuwe inhoud bedenken | Niet in Rise. Nieuwe inhoud gaat via de reviewmaster en Mathanje |
 
@@ -27,14 +30,14 @@ Fouten uit de proefimport van deel 1, verwerkt op 21 november 2026:
 - de sorteeroefening kwam niet over, dus die staat nu op de checklist na de import;
 - een zin met gemengde opsomming ("voor maag en darmen, tegen pijn, ogen") werd verkeerd gesplitst, dus die blijft nu een zin.
 
-### Derde route: AI Course Drafts zoals bij Security Awareness
+### Hoofdroute: AI Course Drafts zoals bij Security Awareness
 
 Martijn bouwde Security Awareness via 360 Home, Create with AI. Hij uploadde de eigen bronnen, stuurde de outline bij met correctieprompts, zette Text and interactive content aan, zette AI images en de final quiz uit, en gaf een instructie voor de kennischecks. Daarna liet hij Rise de lessen bouwen. Dat gaf het beste resultaat. Voor MFA en MC staat dezelfde route klaar in [ai-course-draft-MFA](ai-course-draft-MFA.md) en [ai-course-draft-MC](ai-course-draft-MC.md), gemaakt met `tools/maak_coursedraft_pakket.py`. De bronbestanden per les maak je met `tools/maak_rise_word.py <LES> --bron`. Die bevatten alleen de beoordeelde lestekst, de beelden, de kennischecks en de casussen. Iedere gegenereerde les wordt met de controleprompt tegen de bron gecontroleerd, en daarna beoordeelt Mathanje haar.
 
 ## 2. Beelden
 
 - Gebruik echte, gecontroleerde foto's en video's voor handelingen, uitrusting en apparatuur. Gebruik eigen schema's voor stappen, tabellen en plattegronden. AI-beelden gebruik je alleen voor sfeer of een fictieve situatie, nooit voor een handeling of een detail van apparatuur.
-- Upload de presentaties en PDF's uit map 025 die bij een les horen als bron in de Rise-cursus. Rise zet de afbeeldingen daaruit in een doorzoekbare galerij. In een beeldblok kies je dan Content, Replace from your sources, From your sources. De galerij hoort bij één cursus.
+- De PowerPoints uit map 025 zijn te groot om als bron in Rise te uploaden. Gebruik de compacte PDF-versies, of zet losse dia's als afbeelding in de mediamap. Een geüploade PDF komt in een doorzoekbare galerij. In een beeldblok kies je dan Content, Replace from your sources, From your sources. De galerij hoort bij één cursus.
 - Importeer uit OneDrive alleen de bestanden die je kiest. Een import is een momentopname: wijzigingen in OneDrive komen niet vanzelf in de cursus.
 - Het [beeldbankregister](beeldbank-register.csv) legt per beeld vast: ID en versie, soort beeld, leerdoelen, wat er te zien moet zijn, wie het heeft gecontroleerd, bron en gebruiksrecht, waar het staat en het bewerkbare origineel. `tools/maak_beeldbank.py` maakt het opnieuw uit het [mediaregister](mediaregister.csv).
 - Plan één opnamesessie met een instructeur voor alle foto's van handelingen. Gebruik daarvoor de beelden met soort "echte foto of video" in het register. Fotografeer ook de details en de veelgemaakte fouten die de cursist moet herkennen.
@@ -66,13 +69,14 @@ Gebruik AI alleen voor een afgebakende taak, met een korte prompt die tekst en v
 - Leg iedere vrijgegeven versie vast in het [revisieregister](revisieregister.csv): les, versie, datum, wat is gewijzigd, inhoudelijk akkoord, technische test en eigenaar. Een wijziging in één les is een bewerking van die les, niet een nieuwe generatie van de cursus.
 - Maak voor een grote import of AI-bewerking eerst een kopie van de cursus. Bij AI Course Drafts kan annuleren al gegenereerde lessen verwijderen.
 
-## 6. Storyline en toetsing
+## 6. Vertakte scenario's en toetsing
 
-- Storyline gebruik je alleen voor oefenscenario's met keuzes en gevolgen: MFA-L07-SL01, MC-L04-SL01 en MC-L08-SL01. Zie [storyline](storyline/README.md).
-- Een Storyline-blok in Rise geeft de voltooiing door, en bij de juiste instelling een score. De losse antwoorden in het blok gaan niet via Rise naar Moodle. De scenario's zijn daarom formatief en tellen alleen als voltooid.
-- Na een nieuwe versie in Review 360 moet je de interactie in het Rise-blok opnieuw selecteren. Dat gebeurt niet vanzelf.
-- De afsluitende kennistoets komt in Moodle Quiz, zoals het ontwerpkader voorstelt. De kennischecks in Rise zijn oefenvragen.
-- Test de registratie in Moodle vóór de volledige productie: voltooiing van Rise, voltooiing van een Storyline-blok, de Moodle-quiz, en hervatten na afbreken. Zie [proefles-MFA-L01](proefles-MFA-L01.md).
+- Scenario's waarin een keuze echt een ander vervolg geeft, worden kant-en-klaar geprogrammeerd als HTML-pakket. Martijn plaatst zo'n pakket in Rise met een Code Block. De scripts in [storyline](storyline/README.md) zijn de inhoudelijke basis. Storyline zelf is de terugval. De pakketten maakt een andere werklijn van het project.
+- Een ingesloten pakket of Storyline-blok geeft hoogstens de voltooiing door. Scores en losse antwoorden gaan niet naar Moodle. De scenario's zijn daarom oefenscenario's, maar ze tellen wel mee in de studietijd.
+- Alles moet werken op telefoon, tablet en computer, ook de pakketten.
+- Bij de Storyline-terugval: na een nieuwe versie in Review 360 selecteer je de interactie in het Rise-blok opnieuw.
+- De afsluitende kennistoets komt in Moodle Quiz, met een vragenbank waaruit willekeurig wordt getrokken (IaT 4). De kennischecks in Rise zijn oefenvragen.
+- Test de registratie in Moodle vóór de volledige productie: voltooiing van Rise, voltooiing van een Code Block-pakket, de Moodle-quiz, en hervatten na afbreken. Zie [proefles-MFA-L01](proefles-MFA-L01.md).
 
 ## 7. Leerdoelen als gedrag
 

@@ -287,7 +287,7 @@ RISE = {
     "Kennischeck": ("Multiple choice", "Knowledge check > Multiple choice; juist antwoord en feedback per keuze zoals hieronder"),
     "Interactie": ("zie interactieconfiguratie", "bouwen volgens de interactieconfiguratie"),
     "Scenario": ("Scenario", "Interactive > Scenario; maak per scène een dialoog met de keuzes en de feedback zoals hieronder; een onjuiste keuze gaat terug naar dezelfde scène"),
-    "Storyline": ("Storyline", "Interactive > Storyline; kies de publicatie uit Review 360, zet Require completion aan"),
+    "Storyline": ("Code Block", "Code Block met het HTML-scenariopakket uit de projectmap; terugval: Interactive > Storyline uit Review 360 met Require completion"),
 }
 INTERACTIEF = {"Tabbladen", "Accordeon", "Tijdlijn", "Flashcards", "Proces", "Sorteeroefening",
                "Gelabelde afbeelding", "Kennischeck", "Interactie", "Storyline", "Scenario"}
@@ -559,6 +559,9 @@ def maak_bouwboek(les, titel, delen, uitpad, media_map, proef, bouw):
     return ontbreekt
 
 
+CONCEPTMELDING = ("Concept: deze les is nog niet medisch goedgekeurd. "
+                  "De medisch deskundige van DRTC beoordeelt de inhoud voordat cursisten de les volgen.")
+
 ALLEEN_NA_IMPORT = {"Storyline", "Interactie", "Sorteeroefening", "Scenario"}
 
 
@@ -579,6 +582,8 @@ def maak_importbestanden(les, titel, delen, uitdir, media_map):
         doc = Document()
         doc.styles["Normal"].font.size = Pt(11)
         doc.add_heading(f"{titel}, deel {d}", level=1)
+        importlabel(doc, "Opvallend kader")
+        doc.add_paragraph(CONCEPTMELDING)
         later, knoppen, los = [], [], []
         for s in schermen:
             doc.add_heading(s["title"], level=2)
@@ -636,14 +641,15 @@ def maak_bronbestand(les, titel, schermen, uitdir, media_map):
     doc = Document()
     doc.styles["Normal"].font.size = Pt(11)
     doc.add_heading(f"{les} {titel}", level=1)
+    doc.add_paragraph(CONCEPTMELDING)
     later = []
     for s in schermen:
         doc.add_heading(s["title"], level=2)
         doc.add_paragraph(f"Leerdoelen: {s['learning_goal_ids'].replace(';', ', ')}")
         for b in met_extra(scherm_blokken(s)):
             if b["type"] == "Storyline":
-                doc.add_paragraph("Hier komt een Storyline-scenario dat DRTC apart bouwt. "
-                                  "Laat op deze plek ruimte voor een Storyline-blok.")
+                doc.add_paragraph("SCENARIO-PAKKET: hier komt een vertakt scenario dat DRTC apart levert "
+                                  "als HTML-pakket voor een Code Block. Laat op deze plek ruimte.")
             elif b["type"] == "Interactie":
                 for regel in [r.strip() for r in b["tekst"].splitlines() if r.strip()]:
                     doc.add_paragraph(regel)

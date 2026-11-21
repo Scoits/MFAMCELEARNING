@@ -10,6 +10,8 @@ De werkroute is ChatGPT voor opzet en onderbouwing, Claude voor verdere uitwerki
 
 ## Leesvolgorde
 
+Lees eerst `docs/afspraken.md`: de vaste afspraken met Martijn. Bij verschil met andere documenten gaan die afspraken voor.
+
 1. `AGENTS.md` voor de projectinstructies.
 2. `README.md` voor navigatie en actuele projectstructuur.
 3. `docs/ontwerpkader.md` voor bevestigde keuzes en ontwerpvoorstellen.
