@@ -13,7 +13,7 @@ Per scenario staan hier twee bestanden:
 | --- | --- | --- |
 | MC-L04-SL01 Verslechtering in de nacht | MC-L04-S26 | Script en bouwlijst in concept, 21 november 2026 |
 | MC-L08-SL01 Helikopterevacuatie | MC-L08-S24 | Script en bouwlijst in concept, 21 november 2026 |
-| MFA-L07-SL01 RMD-gesprek | MFA-L07 | Nog te maken |
+| MFA-L07-SL01 RMD-gesprek | MFA-L07 | Script en bouwlijst in concept, 21 november 2026 |
 
 Bouwregels voor ieder scenario:
 

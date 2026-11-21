@@ -326,6 +326,12 @@ Versie 0.4 voegt na de proefimport van 21 november 2026 de casus S20 toe als Ris
 | --- | --- | --- |
 | R121 | MFA-L01-S20 | Kloppen de keuzes en de feedback in de casus over de snijwond bij het lossen (I01-02), van het halen van de uitrusting tot het melden van wat is gebruikt? Is handen reinigen na het uittrekken van de handschoenen zo juist verwoord? |
 
+## Aanvulling bij het scenario RMD-gesprek
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R122 | MFA-L07 en articulate/storyline/MFA-L07-SL01 | Is trager reageren op aanspreken en ogen die dichtvallen na een val op het hoofd een passend en eenduidig teken van verslechtering voor dit oefenscenario? Klopt het fictieve oefenadvies als voorbeeld, zonder dat het op een echt protocol lijkt? Is de vraag om een infuus geschikt om de grens tussen MFA en MC te laten zien? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |
