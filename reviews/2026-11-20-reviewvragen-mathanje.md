@@ -282,6 +282,15 @@ Versie 0.4 breidt de les uit met uitleg uit GH1 (S016) hoofdstuk 2 en 4 en de Sh
 | R111 | MFA-L05-S05, S21 en S22 | GH1 adviseert bij een ingeslikte niet-bijtende stof zo snel mogelijk te laten braken en bij een bijtende stof direct twee glazen water te geven. De les zegt: geen braken opwekken en niets te drinken, tenzij het MFAG of de arts dat adviseert. Welke lijn volgt MFA? |
 | R112 | MFA-L05-S19, S20, S25 en S29 | Welke spoelduur noemt de les na blootstelling aan gas of damp (Ships medical guide 15 minuten douchen, GH1 30 minuten bij de huid), en hoe lang moet een geredde drenkeling of iemand die gas heeft ingeademd aan boord worden bewaakt (Ships medical guide tot 8 uur longschade, GH1 tot 2 dagen)? |
 
+## Aanvulling bij MC-L02 versie 0.2
+
+Versie 0.2 breidt de les uit met uitleg uit de Ships medical guide (S025) hoofdstuk 2, 4 tot en met 7 en 9. Geneesmiddelen, infuus, oogmedicatie, honing op brandwonden, zelf terugzetten van een schouder en noodhandelingen bij borstletsel zijn niet overgenomen. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R113 | MC-L02-S15, S18 en S24 | Neemt MC het bewakingsschema na hoofdletsel uit de Ships medical guide over (GCS na 30 minuten en twee uur, daarna iedere 2 tot 3 uur gedurende 24 uur)? Mag de MC-zorgverlener zelf een nekletsel uitsluiten en de kraag afnemen, en volgt hij bij shock door bloedverlies eerst de behandeling en dan het medisch advies, zoals de Ships medical guide zegt? |
+| R114 | MC-L02-S28 en S30 | Hoort de ontlastende naaldpunctie bij een spanningsklaplong in MC, hoe wordt een open borstwond afgedekt (luchtdicht volgens de Ships medical guide of volgens de huidige richtlijn) en in welke houding ligt de patiënt? Gebruikt MC de grenzen van 15, 10 en 2 procent om te bepalen of een brandwond aan boord wordt behandeld? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |
