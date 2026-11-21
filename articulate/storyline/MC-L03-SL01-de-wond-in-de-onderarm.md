@@ -28,9 +28,9 @@ Vraag: wat doe je eerst?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je haalt de doek eraf en desinfecteert de wond meteen. | Scherm 1B | Niet goed. Eerst stop je het bloeden. Desinfecteren komt later, bij de verzorging van de wond. | 0 |
-| B. Je trekt handschoenen aan, laat haar zitten, drukt met steriel gaas op de wond en houdt de arm in rust. | Scherm 2 | Goed. Eerst het bloeden stoppen met druk en rust. Daarna kun je de wond rustig beoordelen. | 1 |
-| C. Je pakt de hechtset, want de wond moet dicht. | Scherm 1 opnieuw | Niet goed. Je hecht nooit zonder overleg met de arts, en eerst stop je het bloeden. | 0 |
+| A. Je haalt de doek eraf en desinfecteert de wond meteen goed. | Scherm 1B | Niet goed. Eerst stop je het bloeden. Desinfecteren komt later, bij de verzorging van de wond. | 0 |
+| B. Handschoenen aan, haar laten zitten, met steriel gaas drukken en de arm rust geven. | Scherm 2 | Goed. Eerst het bloeden stoppen met druk en rust. Daarna kun je de wond rustig beoordelen. | 1 |
+| C. Je pakt direct de hechtset, want de wond moet zo snel mogelijk dicht. | Scherm 1 opnieuw | Niet goed. Je hecht nooit zonder overleg met de arts, en eerst stop je het bloeden. | 0 |
 
 ### Scherm 1B Eerst druk (alleen bij A)
 
@@ -44,9 +44,9 @@ Vraag: wat controleer je nog?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Niets; een snijwond met gladde randen is eenvoudig. | Scherm 2 opnieuw | Te weinig. Bij een snijwond in arm of hand kan een pees geraakt zijn. Controleer of ze haar vingers normaal kan buigen en strekken. | 0 |
+| A. Niets bijzonders, want een snijwond met gladde randen is eenvoudig. | Scherm 2 opnieuw | Te weinig. Bij een snijwond in arm of hand kan een pees geraakt zijn. Controleer of ze haar vingers normaal kan buigen en strekken. | 0 |
 | B. Je vraagt haar de wond aan te raken om te voelen hoe diep hij is. | Scherm 2 opnieuw | Niet goed. Zo breng je vuil in de wond. Jij beoordeelt de wond, met handschoenen aan. | 0 |
-| C. Je laat haar alle vingers buigen en strekken, controleert kleur, warmte en gevoel van de hand en schrijft op hoe de wond is ontstaan, hoe oud hij is, waar hij zit, hoe groot en diep hij is en of er vuil in zit. | Scherm 3 | Goed. Zo zie je of een pees is geraakt en heb je alles wat de arts wil weten om te beslissen over hechten. | 1 |
+| C. Je controleert buigen, strekken en de doorbloeding en beschrijft de wond. | Scherm 3 | Goed. Zo zie je of een pees is geraakt en heb je alles wat de arts wil weten om te beslissen over hechten. | 1 |
 
 ### Scherm 3 Hechten of niet?
 
@@ -56,9 +56,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je overlegt met de arts. Je vertelt hoe de wond is ontstaan, dat hij een kwartier oud is, waar hij zit, hoe groot en diep hij is, dat er geen vuil in zit en dat buigen en strekken goed gaan. Je vraagt Lisa wanneer haar laatste tetanusprik was en meldt dat ook. | Scherm 4 | Goed. Je hecht alleen na overleg. Deze wond is vers, schoon en niet door een vleesmes of vis ontstaan. De arts beslist, met de tetanusvraag erbij. | 1 |
-| B. Je hecht zelf, want de wond is schoon en vers. | Scherm 3 opnieuw | Niet goed. Ook een wond die geschikt lijkt, hecht je alleen na overleg met de arts. | 0 |
-| C. Je hecht niet, want iedere wond aan boord raakt ontstoken. | Scherm 3 opnieuw | Niet goed. Wonden ouder dan zes uur, bijtwonden, wonden door een vleesmes of van vis, diepe steekwonden en vuile wonden hecht je niet. Deze wond is geen van die. Overleg met de arts. | 0 |
+| A. Je hecht de wond zelf, want hij is schoon, vers en niet diep. | Scherm 3 opnieuw | Niet goed. Ook een wond die geschikt lijkt, hecht je alleen na overleg met de arts. | 0 |
+| B. Je hecht niet, want iedere wond die je aan boord hecht, raakt ontstoken. | Scherm 3 opnieuw | Niet goed. Wonden ouder dan zes uur, bijtwonden, wonden door een vleesmes of van vis, diepe steekwonden en vuile wonden hecht je niet. Deze wond is geen van die. Overleg met de arts. | 0 |
+| C. Je overlegt met de arts over de wond en meldt haar laatste tetanusprik. | Scherm 4 | Goed. Je hecht alleen na overleg. Deze wond is vers, schoon en niet door een vleesmes of vis ontstaan. De arts beslist, met de tetanusvraag erbij. | 1 |
 
 ### Scherm 4 De instructie
 
@@ -68,8 +68,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je neemt de hoeveelheid die je de vorige keer gebruikte. | Scherm 4 opnieuw | Niet goed. Je geeft alleen wat de arts nu adviseert. Vraag na wat ontbreekt. | 0 |
-| B. Je vraagt Lisa naar allergieën, ook voor verdoving, pleister en desinfectiemiddel. Je vraagt de arts welke sterkte en hoeveel, herhaalt de instructie hardop en schrijft hem op. | Scherm 5 | Goed. Je voert een instructie pas uit als middel, sterkte en hoeveelheid duidelijk zijn en de arts weet of er een allergie is. | 1 |
+| A. Je vraagt naar allergieën en vraagt de arts welke sterkte en hoeveel. | Scherm 5 | Goed. Je voert een instructie pas uit als middel, sterkte en hoeveelheid duidelijk zijn en de arts weet of er een allergie is. | 1 |
+| B. Je neemt dezelfde hoeveelheid verdoving die je de vorige keer gebruikte. | Scherm 4 opnieuw | Niet goed. Je geeft alleen wat de arts nu adviseert. Vraag na wat ontbreekt. | 0 |
 | C. Je hecht zonder verdoving, want dan hoef je niets na te vragen. | Scherm 4 opnieuw | Niet goed. De arts heeft verdoving geadviseerd. Vraag na wat onduidelijk is en voer het advies dan uit. | 0 |
 
 ### Scherm 5 Het werkveld
@@ -80,9 +80,9 @@ Vraag: hoe bereid je het werkveld voor?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je pakt de set die vorige week is gebruikt en daarna is schoongemaakt en gedesinfecteerd. | Scherm 5 opnieuw | Niet goed. Reinigen en desinfecteren maakt instrumenten niet steriel. Gebruik steriel wegwerpmateriaal of een nieuwe steriele set. | 0 |
-| B. Je controleert of de verpakking heel en droog is en de houdbaarheidsdatum niet is verstreken. Je opent de set zonder de binnenkant aan te raken en laat de inhoud op de steriele doek vallen. Je zorgt voor goed licht. Dan was je je handen en trek je steriele handschoenen aan. | Scherm 6 | Goed. Steriel materiaal komt uit een gesloten, onbeschadigde verpakking. Na het aantrekken van de steriele handschoenen raak je alleen nog steriel materiaal aan. | 1 |
-| C. Je trekt eerst steriele handschoenen aan en scheurt dan de verpakking open. | Scherm 5 opnieuw | Niet goed. Met de buitenkant van de verpakking maak je de handschoenen onsteriel. Open eerst de set, was je handen en trek dan de steriele handschoenen aan. | 0 |
+| A. Je pakt de set van vorige week, die is schoongemaakt en gedesinfecteerd. | Scherm 5 opnieuw | Niet goed. Reinigen en desinfecteren maakt instrumenten niet steriel. Gebruik steriel wegwerpmateriaal of een nieuwe steriele set. | 0 |
+| B. Je trekt eerst steriele handschoenen aan en scheurt dan de verpakking open. | Scherm 5 opnieuw | Niet goed. Met de buitenkant van de verpakking maak je de handschoenen onsteriel. Open eerst de set, was je handen en trek dan de steriele handschoenen aan. | 0 |
+| C. Verpakking en datum controleren, steriel openen, handen wassen, steriele handschoenen aan. | Scherm 6 | Goed. Steriel materiaal komt uit een gesloten, onbeschadigde verpakking. Na het aantrekken van de steriele handschoenen raak je alleen nog steriel materiaal aan. | 1 |
 
 ### Scherm 6 Een moment van twijfel
 
@@ -92,9 +92,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je gaat door; het was maar heel even. | Scherm 6 opnieuw | Niet goed. Twijfel je of iets steriel is, dan is het niet steriel. | 0 |
-| B. Je veegt de handschoen af met een gaasje en gaat door. | Scherm 6 opnieuw | Niet goed. Afvegen maakt een handschoen niet weer steriel. | 0 |
-| C. Je trekt de handschoenen uit, wast je handen opnieuw en trekt nieuwe steriele handschoenen aan. | Scherm 7 | Goed. Bij twijfel is het niet steriel. Nieuwe handschoenen kosten een minuut; een wondinfectie kost veel meer. | 1 |
+| A. Je gaat door, want het was maar heel even en de rand was schoon. | Scherm 6 opnieuw | Niet goed. Twijfel je of iets steriel is, dan is het niet steriel. | 0 |
+| B. Je veegt de handschoen af met een steriel gaasje en gaat door. | Scherm 6 opnieuw | Niet goed. Afvegen maakt een handschoen niet weer steriel. | 0 |
+| C. Je trekt nieuwe steriele handschoenen aan na opnieuw handen wassen. | Scherm 7 | Goed. Bij twijfel is het niet steriel. Nieuwe handschoenen kosten een minuut; een wondinfectie kost veel meer. | 1 |
 
 ### Scherm 7 Verdoven
 
@@ -104,7 +104,7 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je spuit toch in, want dan werkt de verdoving sneller. | Scherm 7B | Niet goed. Bloed in de spuit betekent dat je in een bloedvat zit. Daar spuit je niet in. | 0 |
+| A. Je spuit toch in, want dan werkt de verdoving sneller en beter. | Scherm 7B | Niet goed. Bloed in de spuit betekent dat je in een bloedvat zit. Daar spuit je niet in. | 0 |
 | B. Je verplaatst de naald en trekt opnieuw de zuiger iets terug voordat je inspuit. | Scherm 8 | Goed. Zie je bloed, dan zit je in een bloedvat en verplaats je de naald. Controleer het opnieuw voordat je inspuit. | 1 |
 | C. Je stopt met verdoven en hecht zonder verdere verdoving. | Scherm 7 opnieuw | Niet goed. Je hoeft niet te stoppen. Verplaats de naald en controleer opnieuw. | 0 |
 
@@ -120,8 +120,8 @@ Vraag: hoe rond je af?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je maakt de wond schoon, dekt hem af met een steriele pleister of gaas, gooit de naalden en het mesje direct in de naaldcontainer en schrijft de behandeling in het medisch logboek. | Scherm 9 | Goed. Een behandeling is pas klaar als de wond is afgedekt, scherpe materialen veilig weg zijn en alles is vastgelegd. | 1 |
-| B. Je legt de naalden op het blad en ruimt alles op als Lisa weg is. | Scherm 8 opnieuw | Niet goed. Naalden en mesjes gooi je direct in de naaldcontainer, zodat niemand zich kan prikken. | 0 |
+| A. Je legt de naalden op het blad en ruimt alles op als Lisa weg is. | Scherm 8 opnieuw | Niet goed. Naalden en mesjes gooi je direct in de naaldcontainer, zodat niemand zich kan prikken. | 0 |
+| B. Wond schoon en afdekken, naalden direct in de container, behandeling noteren. | Scherm 9 | Goed. Een behandeling is pas klaar als de wond is afgedekt, scherpe materialen veilig weg zijn en alles is vastgelegd. | 1 |
 | C. Je laat de wond open aan de lucht drogen, dan geneest hij sneller. | Scherm 8 opnieuw | Niet goed. Dek een gehechte wond af met een steriele pleister of gaas. | 0 |
 
 ### Scherm 9 Het verband
@@ -132,9 +132,9 @@ Vraag: wat controleer je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Niets; een verband om een arm kan niet te strak zitten. | Scherm 9 opnieuw | Niet goed. Ieder verband kan te strak zitten. Controleer de doorbloeding voorbij het verband. | 0 |
-| B. Je controleert kleur, warmte en gevoel van de vingers, vraagt of het verband knelt en spreekt af dat Lisa iedere dag langskomt en eerder als de wond pijnlijker wordt of het verband nat of vuil is. | Scherm 10 | Goed. Je controleert de doorbloeding, en een gehechte wond controleer je iedere dag. Een nat of vuil verband vervang je. | 1 |
-| C. Je vraagt alleen of het verband goed voelt. | Scherm 9 opnieuw | Te weinig. Kijk zelf ook naar kleur, warmte en gevoel van de vingers, en spreek een dagelijkse controle af. | 0 |
+| A. Niets, want een verband om een arm kan eigenlijk niet te strak zitten. | Scherm 9 opnieuw | Niet goed. Ieder verband kan te strak zitten. Controleer de doorbloeding voorbij het verband. | 0 |
+| B. Je controleert de vingers en spreekt af dat ze dagelijks langskomt. | Scherm 10 | Goed. Je controleert de doorbloeding, en een gehechte wond controleer je iedere dag. Een nat of vuil verband vervang je. | 1 |
+| C. Je vraagt alleen of het verband goed voelt en laat haar dan gaan. | Scherm 9 opnieuw | Te weinig. Kijk zelf ook naar kleur, warmte en gevoel van de vingers, en spreek een dagelijkse controle af. | 0 |
 
 ### Scherm 10 Dag drie
 
@@ -145,8 +145,8 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je maakt de wond schoon, legt een nieuw verband aan en kijkt morgen opnieuw. | Scherm 10 opnieuw | Niet goed. Een rode streep met koorts wijst op een lymfevatontsteking. Daarvoor raadpleeg je direct de arts. | 0 |
-| B. Je wacht af, want roodheid hoort bij genezing. | Scherm 10 opnieuw | Niet goed. Een rode streep en koorts horen niet bij normale genezing. | 0 |
-| C. Je meet de temperatuur en de andere vitale functies, schrijft op wat je ziet en raadpleegt direct de arts. Bij ontsteking verwijder je de hechtingen, zoals de les beschrijft, en je volgt het advies van de arts. | Debriefing | Goed. De infectie breidt zich uit. Direct overleg is nodig, en bij ontsteking gaan de hechtingen eruit. | 1 |
+| B. Je meet temperatuur en vitale functies, noteert wat je ziet en raadpleegt de arts. | Debriefing | Goed. De infectie breidt zich uit. Direct overleg is nodig, en bij ontsteking gaan de hechtingen eruit. | 1 |
+| C. Je wacht af, want roodheid en wat zwelling horen bij de genezing. | Scherm 10 opnieuw | Niet goed. Een rode streep en koorts horen niet bij normale genezing. | 0 |
 
 ### Debriefing
 

@@ -28,9 +28,9 @@ Vraag: hoe ontvang je Henk?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je knipt de broek open langs de buitennaad van het rechterbeen. Hij krijgt kleding zonder lange mouwen. Je zet water, een urinefles onder een doek en een bel klaar en plaatst de slingerschotten. | Scherm 2 | Goed. Zo beweeg je het gebroken been niet. Met korte mouwen kun je de bloeddruk meten zonder hem uit te kleden. Met de bel kan hij hulp roepen. | 1 |
-| B. Je helpt hem de broek uit te trekken, eerst het gezonde been en dan voorzichtig het gebroken been. | Scherm 2 opnieuw | Niet goed. Bij een ernstig beenletsel knip je de broek open langs de buitennaad. Uittrekken beweegt het been. | 0 |
-| C. Hij houdt zijn werkkleding aan; dan hoef je hem niet te bewegen. | Scherm 2 opnieuw | Niet goed. In werkkleding kun je het been, de huid en de bloeddruk niet goed controleren. Knip de broek open langs de buitennaad. | 0 |
+| A. Je helpt hem de broek uit te trekken, eerst het gezonde been en dan het gebroken been. | Scherm 2 opnieuw | Niet goed. Bij een ernstig beenletsel knip je de broek open langs de buitennaad. Uittrekken beweegt het been. | 0 |
+| B. Broek openknippen langs de naad, makkelijke kleding, water, urinefles en bel klaar. | Scherm 2 | Goed. Zo beweeg je het gebroken been niet. Met korte mouwen kun je de bloeddruk meten zonder hem uit te kleden. Met de bel kan hij hulp roepen. | 1 |
+| C. Hij houdt zijn werkkleding aan; dan hoef je hem helemaal niet te bewegen. | Scherm 2 opnieuw | Niet goed. In werkkleding kun je het been, de huid en de bloeddruk niet goed controleren. Knip de broek open langs de buitennaad. | 0 |
 
 ### Scherm 2 Het dossier
 
@@ -39,8 +39,8 @@ Vraag: hoe leg je het dossier aan?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je schrijft het advies van de arts op een los briefje bij het bed. | Scherm 2 opnieuw | Niet goed. Een los briefje raakt kwijt. Alles komt in het eigen dossier van de patiënt, met de datum, de tijd en wie het schreef. | 0 |
-| B. Je schrijft alles in het algemene logboek, onder elkaar met de andere opvarenden. | Scherm 2 opnieuw | Niet goed. Iedere patiënt krijgt een eigen dossier en een eigen medicatielijst. Zo is alles over hem bij elkaar en blijft het vertrouwelijk. | 0 |
-| C. Je legt een eigen dossier aan met zijn naam op iedere bladzijde en een aparte medicatielijst. Je noteert het advies van de arts met tijd en naam, en ook zijn eigen medicijnen en allergieën. | Scherm 3 | Goed. Een eigen dossier helpt je niets te vergeten, helpt de arts bij het overleg en laat zien welke zorg je hebt gegeven. | 1 |
+| B. Een eigen dossier met medicatielijst, het advies met tijd en naam en zijn allergieën. | Scherm 3 | Goed. Een eigen dossier helpt je niets te vergeten, helpt de arts bij het overleg en laat zien welke zorg je hebt gegeven. | 1 |
+| C. Je schrijft alles in het algemene logboek, onder elkaar met de andere opvarenden. | Scherm 2 opnieuw | Niet goed. Iedere patiënt krijgt een eigen dossier en een eigen medicatielijst. Zo is alles over hem bij elkaar en blijft het vertrouwelijk. | 0 |
 
 ### Scherm 3 Een injectie op advies
 
@@ -50,8 +50,8 @@ Vraag: wat doe je voordat je de injectie geeft?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je leest het etiket als je het middel pakt, als je het klaarmaakt en voordat je het geeft, controleert de vervaldatum, laat Fatima het middel en de hoeveelheid nakijken, vraagt Henk naar allergieën en vraagt zijn naam en wat hij denkt te krijgen. | Scherm 4 | Goed. Drie keer het etiket, de vervaldatum, een collega die meekijkt en de vragen aan de patiënt voorkomen het verkeerde middel, de verkeerde hoeveelheid en de verkeerde patiënt. | 1 |
-| B. Je pakt het middel en geeft het; de arts heeft het geadviseerd. | Scherm 3B | Niet goed. Ook bij een advies van de arts kan het misgaan. Controleer het etiket drie keer, de vervaldatum en de allergieën, en laat een collega meekijken. | 0 |
+| A. Etiket drie keer lezen, datum controleren, laten nakijken, allergie en naam vragen. | Scherm 4 | Goed. Drie keer het etiket, de vervaldatum, een collega die meekijkt en de vragen aan de patiënt voorkomen het verkeerde middel, de verkeerde hoeveelheid en de verkeerde patiënt. | 1 |
+| B. Je pakt het middel en geeft het, want de arts heeft het geadviseerd. | Scherm 3B | Niet goed. Ook bij een advies van de arts kan het misgaan. Controleer het etiket drie keer, de vervaldatum en de allergieën, en laat een collega meekijken. | 0 |
 | C. Je laat Fatima de injectie geven, want zij heeft er meer zin in. | Scherm 3 opnieuw | Niet goed. Jij hebt het advies ontvangen en bent verantwoordelijk. Een collega controleert mee, maar jij voert de controles uit. | 0 |
 
 ### Scherm 3B De controles alsnog (alleen bij B)
@@ -65,7 +65,7 @@ Vraag: hoe geef je de injectie onder de huid?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je spant de huid strak met duim en wijsvinger en prikt loodrecht diep in. | Scherm 4 opnieuw | Niet goed. Zo geef je een injectie in de spier. Voor een injectie onder de huid pak je een huidplooi. | 0 |
-| B. Je reinigt de huid, pakt een huidplooi, prikt met een snelle, vloeiende beweging en trekt de zuiger iets terug. Zie je geen bloed, dan spuit je langzaam in. Daarna gaat de naald direct in de naaldcontainer en schrijf je het op de medicatielijst. | Scherm 5 | Goed. Huidplooi, snel prikken, controleren op bloed, langzaam inspuiten, de naald direct weg en direct opschrijven. | 1 |
+| B. Huidplooi, snel prikken, zuiger terug, langzaam inspuiten, naald direct in de container. | Scherm 5 | Goed. Huidplooi, snel prikken, controleren op bloed, langzaam inspuiten, de naald direct weg en direct opschrijven. | 1 |
 | C. Je prikt, spuit in en steekt de naald terug in het hulsje om hem later weg te gooien. | Scherm 4 opnieuw | Niet goed. Steek een naald nooit terug in het hulsje. Gooi hem direct in de naaldcontainer. | 0 |
 
 ### Scherm 5 Het schema
@@ -76,9 +76,9 @@ Vraag: op welke tijden geef je de volgende doses?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Bij het ontbijt, de lunch en het avondeten. | Scherm 5 opnieuw | Niet goed. Dan zitten er ongelijke tussenpozen tussen. Verdeel de doses gelijkmatig over het etmaal, of vraag de arts wat hij bedoelt. | 0 |
+| A. Bij het ontbijt, de lunch en het avondeten, dan vergeet je het niet. | Scherm 5 opnieuw | Niet goed. Dan zitten er ongelijke tussenpozen tussen. Verdeel de doses gelijkmatig over het etmaal, of vraag de arts wat hij bedoelt. | 0 |
 | B. Om 12.00 en 16.00 uur, zodat hij 's nachts kan slapen. | Scherm 5 opnieuw | Niet goed. Dan zitten de doses dicht op elkaar en is er 's nachts een lange pauze. | 0 |
-| C. Om 16.00 en 24.00 uur, zodat de doses gelijkmatig over het etmaal zijn verdeeld. Twijfel je wat de arts bedoelt, dan vraag je het na. | Scherm 6 | Goed. Drie keer per dag betekent een gelijkmatige verdeling over het etmaal, bijvoorbeeld 08.00, 16.00 en 24.00 uur. | 1 |
+| C. Om 16.00 en 24.00 uur, gelijk verdeeld; bij twijfel vraag je het na. | Scherm 6 | Goed. Drie keer per dag betekent een gelijkmatige verdeling over het etmaal, bijvoorbeeld 08.00, 16.00 en 24.00 uur. | 1 |
 
 ### Scherm 6 Dag drie
 
@@ -89,8 +89,8 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je wrijft de plek stevig in, zodat het bloed weer gaat stromen. | Scherm 6 opnieuw | Niet goed. Wrijven beschadigt de huid. Ontlast de plek en draai de patiënt regelmatig. | 0 |
-| B. Je meldt de plek aan de arts. Je draait Henk vanaf nu minstens iedere twee uur, dag en nacht, met twee personen, zonder hem over het laken te trekken, ontlast de hiel met een kussen en kijkt bij iedere draaibeurt naar de drukplekken. | Scherm 7 | Goed. Een rode plek die niet wegtrekt, is het begin van een doorligwond. Die meld je, en je voorkomt dat het erger wordt. Bij een gebroken been vraag je de arts ook hoe je hem veilig draait. | 1 |
-| C. Je wacht af; een rode plek gaat vanzelf weg. | Scherm 6 opnieuw | Niet goed. Een rode plek die niet wegtrekt, meld je aan de arts. Wie lang stil ligt, krijgt snel een doorligwond. | 0 |
+| B. Je wacht af, want een rode plek gaat meestal vanzelf weer weg. | Scherm 6 opnieuw | Niet goed. Een rode plek die niet wegtrekt, meld je aan de arts. Wie lang stil ligt, krijgt snel een doorligwond. | 0 |
+| C. Melden, minstens iedere twee uur draaien, hiel ontlasten en drukplekken controleren. | Scherm 7 | Goed. Een rode plek die niet wegtrekt, is het begin van een doorligwond. Die meld je, en je voorkomt dat het erger wordt. Bij een gebroken been vraag je de arts ook hoe je hem veilig draait. | 1 |
 
 ### Scherm 7 Wassen en het bed
 
@@ -100,8 +100,8 @@ Vraag: hoe verzorg je hem?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je was hem iedere dag, één deel van het lichaam tegelijk en te beginnen bij het gezicht. Het bed verschoon je met Fatima: Henk rolt naar één kant, het oude laken rolt op tegen zijn rug en het schone laken gaat half neer. | Scherm 8 | Goed. Bij warm weer of koorts was je hem iedere dag. Per deel wassen houdt hem warm en bedekt. Een bed verschoon je nooit alleen. | 1 |
-| B. Je wast hem eens per week, want hij ligt toch stil. | Scherm 7 opnieuw | Niet goed. Een bedlegerige patiënt was je minstens om de dag, en iedere dag bij warm weer of koorts. Een schone, droge huid helpt doorligwonden voorkomen. | 0 |
+| A. Dagelijks wassen, deel voor deel, en het bed verschonen terwijl hij opzij rolt. | Scherm 8 | Goed. Bij warm weer of koorts was je hem iedere dag. Per deel wassen houdt hem warm en bedekt. Een bed verschoon je nooit alleen. | 1 |
+| B. Je wast hem eens per week, want hij ligt toch stil en zweet weinig. | Scherm 7 opnieuw | Niet goed. Een bedlegerige patiënt was je minstens om de dag, en iedere dag bij warm weer of koorts. Een schone, droge huid helpt doorligwonden voorkomen. | 0 |
 | C. Je verschoont het bed alleen, terwijl Henk even op de stoel zit. | Scherm 7 opnieuw | Niet goed. Henk moet in bed blijven. Verschoon het bed met twee personen terwijl hij erin ligt. | 0 |
 
 ### Scherm 8 Dag vijf, 03.00 uur
@@ -112,11 +112,11 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je zegt dat hij moet proberen te slapen en kijkt over een uur weer. | Scherm 8B | Niet goed. Als de patiënt benauwder wordt, meld je dat direct. Wacht niet. | 0 |
-| B. Je geeft hem een extra dosis van het middel tegen de pijn, zodat hij rustiger wordt. | Scherm 8B | Niet goed. Je geeft alleen wat de arts adviseert. Benauwdheid meld je direct. | 0 |
-| C. Je legt hem halfzittend met kussens in de rug, meet ademhaling, pols, bloeddruk, temperatuur en bewustzijn, zet de waarden naast de vorige en laat direct contact leggen met de arts. | Scherm 9 | Goed. De juiste houding helpt bij benauwdheid. Wordt een patiënt benauwder, dan meld je dat direct aan de arts, met de metingen naast elkaar. | 1 |
+| A. Halfzittend leggen, alles meten, vergelijken met eerder en direct de arts laten bellen. | Scherm 9 | Goed. De juiste houding helpt bij benauwdheid. Wordt een patiënt benauwder, dan meld je dat direct aan de arts, met de metingen naast elkaar. | 1 |
+| B. Je zegt dat hij moet proberen te slapen en kijkt over een uur weer. | Scherm 8B | Niet goed. Als de patiënt benauwder wordt, meld je dat direct. Wacht niet. | 0 |
+| C. Je geeft hem een extra dosis van het middel tegen de pijn, zodat hij rustiger wordt. | Scherm 8B | Niet goed. Je geeft alleen wat de arts adviseert. Benauwdheid meld je direct. | 0 |
 
-### Scherm 8B Direct melden (alleen bij A of B)
+### Scherm 8B Direct melden (alleen bij B of C)
 
 Tekst: Je legt Henk halfzittend, meet opnieuw en laat de kapitein direct contact leggen met de arts. Doorgaan naar scherm 9. `Omweg` plus 1.
 
@@ -128,9 +128,9 @@ Vraag: wat zeg je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Het gaat wel, ik red me." | Scherm 9 opnieuw | Niet goed. Zorg voor een patiënt is zwaar naast je eigen werk. Een vermoeide verzorger maakt fouten. Spreek aflossing af. | 0 |
-| B. "Ik doe het allemaal zelf, anders gaat het mis." | Scherm 9 opnieuw | Niet goed. Je kunt taken verdelen, zoals de nachtelijke metingen en het draaien met twee personen. Spreek af wie je aflost. | 0 |
-| C. Je vertelt eerlijk dat je moe bent en spreekt met de kapitein af wie welke wacht bij Henk overneemt, met wat die persoon moet meten en wanneer hij jou moet roepen. | Scherm 10 | Goed. De kapitein let erop hoe de verzorger het volhoudt. Een goede aflossing is ook zorg voor de patiënt. | 1 |
+| A. "Het gaat wel, ik red me. Het is maar een paar dagen." | Scherm 9 opnieuw | Niet goed. Zorg voor een patiënt is zwaar naast je eigen werk. Een vermoeide verzorger maakt fouten. Spreek aflossing af. | 0 |
+| B. "Ik doe het allemaal zelf, anders gaat het mis met de metingen." | Scherm 9 opnieuw | Niet goed. Je kunt taken verdelen, zoals de nachtelijke metingen en het draaien met twee personen. Spreek af wie je aflost. | 0 |
+| C. Je zegt eerlijk dat je moe bent en regelt met de kapitein een vervanger. | Scherm 10 | Goed. De kapitein let erop hoe de verzorger het volhoudt. Een goede aflossing is ook zorg voor de patiënt. | 1 |
 
 ### Scherm 10 Van boord
 
@@ -140,9 +140,9 @@ Vraag: wat geef je mee?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Niets; het ziekenhuis onderzoekt hem toch opnieuw. | Scherm 10 opnieuw | Niet goed. Het verloop aan boord is belangrijk voor het ziekenhuis. De patiënt krijgt een kopie van zijn medische gegevens mee. | 0 |
-| B. De ingevulde medische kaart of een brief met het letsel, de metingen met de tijd, alles wat hij kreeg met tijd en hoeveelheid, de adviezen van de arts en de rode plek op de hiel. Daarbij het evaluatieformulier, de logboekregels, zijn documenten en zijn eigen medicijnen. Een kopie bewaar je in het dossier aan boord. | Debriefing | Goed. De arts aan de wal kent Henk niet. Met deze gegevens weet hij wat er aan boord is gebeurd. Het dossier aan boord bewaar je. | 1 |
-| C. Alleen een mondelinge overdracht aan de ambulance. | Scherm 10 opnieuw | Te weinig. Geef altijd een kaart of brief mee. Een vreemde arts moet het zonder uitleg kunnen begrijpen, ook in een andere taal. | 0 |
+| A. Medische kaart of brief met metingen, middelen en adviezen, plus documenten en medicijnen. | Debriefing | Goed. De arts aan de wal kent Henk niet. Met deze gegevens weet hij wat er aan boord is gebeurd. Het dossier aan boord bewaar je. | 1 |
+| B. Niets, want het ziekenhuis onderzoekt hem toch helemaal opnieuw. | Scherm 10 opnieuw | Niet goed. Het verloop aan boord is belangrijk voor het ziekenhuis. De patiënt krijgt een kopie van zijn medische gegevens mee. | 0 |
+| C. Alleen een mondelinge overdracht aan de ambulance, dat is het snelst. | Scherm 10 opnieuw | Te weinig. Geef altijd een kaart of brief mee. Een vreemde arts moet het zonder uitleg kunnen begrijpen, ook in een andere taal. | 0 |
 
 ### Debriefing
 

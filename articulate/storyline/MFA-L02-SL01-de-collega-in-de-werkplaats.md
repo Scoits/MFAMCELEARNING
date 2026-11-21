@@ -28,11 +28,11 @@ Vraag: wat doe je eerst?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je kijkt om je heen, laat Tim de slijpmachine uitzetten en loopt pas naar Robin als het veilig is. | Scherm 2 | Goed. Eerst veiligheid. Bewegende delen kunnen ook jou raken. Neem het gevaar weg en help dan. | 1 |
-| B. Je loopt direct naar Robin; de slijpmachine staat toch aan de andere kant. | Scherm 1B | Niet goed. Kijk eerst of er gevaar is voor jou, het slachtoffer of anderen. Als jou iets overkomt, kun je niemand meer helpen. | 0 |
-| C. Je sleept Robin meteen de gang in. | Scherm 1 opnieuw | Niet goed. Verplaatsen kan letsel erger maken. Neem eerst het gevaar weg; help waar het slachtoffer ligt als dat veilig kan. | 0 |
+| A. Je loopt direct naar Robin; de slijpmachine staat toch aan de andere kant. | Scherm 1B | Niet goed. Kijk eerst of er gevaar is voor jou, het slachtoffer of anderen. Als jou iets overkomt, kun je niemand meer helpen. | 0 |
+| B. Je kijkt om je heen, laat de machine uitzetten en gaat dan naar Robin. | Scherm 2 | Goed. Eerst veiligheid. Bewegende delen kunnen ook jou raken. Neem het gevaar weg en help dan. | 1 |
+| C. Je sleept Robin meteen de gang in, weg van de machine. | Scherm 1 opnieuw | Niet goed. Verplaatsen kan letsel erger maken. Neem eerst het gevaar weg; help waar het slachtoffer ligt als dat veilig kan. | 0 |
 
-### Scherm 1B Eerst veiligheid (alleen bij B)
+### Scherm 1B Eerst veiligheid (alleen bij A)
 
 Tekst: Je stopt en laat Tim de slijpmachine uitzetten. Dan ga je naar Robin. Doorgaan naar scherm 2. `Omweg` plus 1.
 
@@ -44,9 +44,9 @@ Vraag: wat doe je nu?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je begint meteen met het onderzoek van zijn hoofd. | Scherm 2 opnieuw | Te vroeg. Spreek hem eerst aan en roep om hulp. Dan weet je of hij reageert en komt er hulp. | 0 |
-| B. Je wacht tot de officier van de wacht er is. | Scherm 2 opnieuw | Niet goed. Begin zelf. Spreek hem aan en laat een ander alarmeren. | 0 |
-| C. Je spreekt Robin luid aan en schudt voorzichtig aan zijn schouders. Je vraagt wat er is gebeurd. Je laat Tim alarmeren volgens de procedure van het schip. | Scherm 3 | Goed. Reactie en hulp: zo weet je of hij reageert en komt er hulp. | 1 |
+| A. Je begint meteen met het onderzoek van zijn hoofd en hals. | Scherm 2 opnieuw | Te vroeg. Spreek hem eerst aan en roep om hulp. Dan weet je of hij reageert en komt er hulp. | 0 |
+| B. Je spreekt hem aan, schudt zacht, vraagt wat er gebeurde en laat alarmeren. | Scherm 3 | Goed. Reactie en hulp: zo weet je of hij reageert en komt er hulp. | 1 |
+| C. Je wacht tot de officier van de wacht er is en zegt wat te doen. | Scherm 2 opnieuw | Niet goed. Begin zelf. Spreek hem aan en laat een ander alarmeren. | 0 |
 
 ### Scherm 3 De bloeding
 
@@ -68,9 +68,9 @@ Vraag: wat doe je bij A?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat het zo; snurken betekent dat hij ademt. | Scherm 4 opnieuw | Niet goed. Snurken kan betekenen dat de ademweg gedeeltelijk dicht is, bijvoorbeeld door de tong. | 0 |
-| B. Je kantelt het hoofd voorzichtig naar achteren, tilt de kin op, kijkt in de mond en controleert of het snurken stopt. | Scherm 5 | Goed. Bij A kijk je of de ademweg vrij is. Snurken of rochelen wijst op een probleem dat je eerst oplost. | 1 |
-| C. Je laat hem een slok water drinken. | Scherm 4 opnieuw | Niet goed. Geef niets te drinken aan iemand die niet goed reageert. Maak de ademweg vrij. | 0 |
+| A. Je laat het zo, want snurken betekent dat hij ademt. | Scherm 4 opnieuw | Niet goed. Snurken kan betekenen dat de ademweg gedeeltelijk dicht is, bijvoorbeeld door de tong. | 0 |
+| B. Je laat hem een slok water drinken om de keel vrij te maken. | Scherm 4 opnieuw | Niet goed. Geef niets te drinken aan iemand die niet goed reageert. Maak de ademweg vrij. | 0 |
+| C. Hoofd kantelen, kin optillen, in de mond kijken en luisteren of het stopt. | Scherm 5 | Goed. Bij A kijk je of de ademweg vrij is. Snurken of rochelen wijst op een probleem dat je eerst oplost. | 1 |
 
 ### Scherm 5 De ademhaling
 
@@ -80,9 +80,9 @@ Vraag: wat doe je bij B?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je vraagt Robin of hij goed kan ademen. | Scherm 5 opnieuw | Te weinig. Hij reageert nauwelijks. Kijk, tel en luister zelf. | 0 |
-| B. Je gaat verder met C; hij ademt, dat is genoeg. | Scherm 5 opnieuw | Te weinig. Bij B tel je de ademhaling, kijk je of het moeite kost, luister je en kijk je of beide kanten gelijk bewegen. | 0 |
-| C. Je telt de ademhaling, kijkt of het moeite kost, luistert naar geluiden en kijkt of beide kanten van de borstkas gelijk bewegen. | Scherm 6 | Goed. Zo ontdek je een ademhalingsprobleem, zoals een kant die niet meebeweegt. | 1 |
+| A. Je vraagt Robin of hij goed kan ademen en of het pijn doet. | Scherm 5 opnieuw | Te weinig. Hij reageert nauwelijks. Kijk, tel en luister zelf. | 0 |
+| B. Je telt de ademhaling, kijkt naar moeite, geluid en beide kanten. | Scherm 6 | Goed. Zo ontdek je een ademhalingsprobleem, zoals een kant die niet meebeweegt. | 1 |
+| C. Je gaat verder met C, want hij ademt en dat is genoeg. | Scherm 5 opnieuw | Te weinig. Bij B tel je de ademhaling, kijk je of het moeite kost, luister je en kijk je of beide kanten gelijk bewegen. | 0 |
 
 ### Scherm 6 De circulatie
 
@@ -90,9 +90,9 @@ Vraag: wat doe je bij C?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je voelt de pols aan de duimzijde van de pols, telt 15 seconden en vermenigvuldigt met 4. Je kijkt naar de kleur en temperatuur van de huid, zoekt naar andere bloedingen en denkt aan grote breuken van bekken of bovenbeen. | Scherm 7 | Goed. Pols, huid, andere bloedingen en grote breuken. Een gebroken bekken of bovenbeen kan veel bloedverlies geven. | 1 |
-| B. Alleen de pols, want de bloeding is al gestopt. | Scherm 6 opnieuw | Te weinig. Er kan nog een andere bloeding zijn, ook een inwendige. Kijk ook naar de huid en denk aan grote breuken. | 0 |
-| C. Je meet eerst de bloeddruk; de rest komt later. | Scherm 6 opnieuw | Niet de goede volgorde. Bij C begin je met de pols, de huid en het zoeken naar bloedingen. De metingen leg je daarna vast. | 0 |
+| A. Alleen de pols, want de bloeding is al gestopt en hij is wakker. | Scherm 6 opnieuw | Te weinig. Er kan nog een andere bloeding zijn, ook een inwendige. Kijk ook naar de huid en denk aan grote breuken. | 0 |
+| B. Je meet eerst de bloeddruk; de rest van C komt later wel. | Scherm 6 opnieuw | Niet de goede volgorde. Bij C begin je met de pols, de huid en het zoeken naar bloedingen. De metingen leg je daarna vast. | 0 |
+| C. Pols tellen, huid bekijken, andere bloedingen zoeken en denken aan grote breuken. | Scherm 7 | Goed. Pols, huid, andere bloedingen en grote breuken. Een gebroken bekken of bovenbeen kan veel bloedverlies geven. | 1 |
 
 ### Scherm 7 Het bewustzijn
 
@@ -103,8 +103,8 @@ Vraag: wat zegt dit over D?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Hij is bij bewustzijn en praat, dus het bewustzijn is normaal. | Scherm 7 opnieuw | Niet goed. Alleen wie de ogen uit zichzelf opent en normaal antwoord geeft, heeft een normaal bewustzijn. | 0 |
-| B. Het bewustzijn is verminderd. Je bepaalt de GCS met het formulier, kijkt naar de pupillen en vraagt of hij armen en benen kan bewegen. Je schrijft het op met de tijd. | Scherm 8 | Goed. Hij opent de ogen pas bij aanspreken en is niet georiënteerd. Het bewustzijn is de beste graadmeter voor de vitale functies. | 1 |
-| C. Hij maakt een grapje; je vraagt het later nog eens. | Scherm 7 opnieuw | Niet goed. Een verkeerd antwoord op een eenvoudige vraag is een teken van een verminderd bewustzijn. Leg het nu vast. | 0 |
+| B. Hij maakt een grapje; je vraagt het later nog eens. | Scherm 7 opnieuw | Niet goed. Een verkeerd antwoord op een eenvoudige vraag is een teken van een verminderd bewustzijn. Leg het nu vast. | 0 |
+| C. Verminderd: GCS, pupillen en bewegen van armen en benen, met tijd noteren. | Scherm 8 | Goed. Hij opent de ogen pas bij aanspreken en is niet georiënteerd. Het bewustzijn is de beste graadmeter voor de vitale functies. | 1 |
 
 ### Scherm 8 Van top tot teen
 
@@ -112,9 +112,9 @@ Vraag: wat doe je bij E?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je onderzoekt alleen de arm met de wond. | Scherm 8 opnieuw | Te weinig. Ook als iemand in elkaar zakt, kan er ander letsel zijn. Onderzoek het hele lichaam van top tot teen. | 0 |
-| B. Je onderzoekt van top tot teen volgens het formulier: schedel, gelaat, hals, armen, polsen, handen, borst, buik, rug, bekken, benen en voeten, telkens links en rechts. Je houdt hem warm, beweegt hem niet onnodig en respecteert zijn privacy. | Scherm 9 | Goed. Een vaste volgorde voorkomt dat je iets mist. Houd hem warm en beweeg hem niet onnodig. | 1 |
-| C. Je trekt al zijn kleren uit om goed te kunnen kijken. | Scherm 8 opnieuw | Niet goed. Houd het slachtoffer warm en respecteer de privacy. Kijk per deel en beweeg hem niet onnodig. | 0 |
+| A. Je onderzoekt alleen de arm met de wond, want daar zit het letsel. | Scherm 8 opnieuw | Te weinig. Ook als iemand in elkaar zakt, kan er ander letsel zijn. Onderzoek het hele lichaam van top tot teen. | 0 |
+| B. Van top tot teen volgens het formulier, warm houden en niet onnodig bewegen. | Scherm 9 | Goed. Een vaste volgorde voorkomt dat je iets mist. Houd hem warm en beweeg hem niet onnodig. | 1 |
+| C. Je trekt al zijn kleren uit om alles goed te kunnen bekijken. | Scherm 8 opnieuw | Niet goed. Houd het slachtoffer warm en respecteer de privacy. Kijk per deel en beweeg hem niet onnodig. | 0 |
 
 ### Scherm 9 Wat is er gebeurd?
 
@@ -124,9 +124,9 @@ Vraag: hoe kom je aan de anamnese?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je slaat de anamnese over. | Scherm 9 opnieuw | Niet goed. De arts op afstand is afhankelijk van jouw vragen. Vraag het aan anderen als het slachtoffer niet kan antwoorden. | 0 |
-| B. Je blijft Robin dezelfde vragen stellen tot hij antwoordt. | Scherm 9 opnieuw | Niet goed. Een slachtoffer dat niet kan antwoorden, kun je niet bevragen. Vraag collega's wat zij hebben gezien. | 0 |
-| C. Je vraagt Tim wat hij heeft gezien: wat Robin aan het doen was, hoe hij in elkaar zakte en of hij daarbij zijn hoofd stootte. Je vraagt collega's naar allergieën, medicijnen en ziekten van Robin, en schrijft alles direct op. | Scherm 10 | Goed. Kan het slachtoffer niet antwoorden, vraag dan collega's wat zij hebben gezien en weten. De toedracht helpt de arts in te schatten wat er aan de hand is. | 1 |
+| A. Je slaat de anamnese over, want Robin kan nu toch niets vertellen. | Scherm 9 opnieuw | Niet goed. De arts op afstand is afhankelijk van jouw vragen. Vraag het aan anderen als het slachtoffer niet kan antwoorden. | 0 |
+| B. Je vraagt Tim en collega's wat er gebeurde en naar Robins gezondheid. | Scherm 10 | Goed. Kan het slachtoffer niet antwoorden, vraag dan collega's wat zij hebben gezien en weten. De toedracht helpt de arts in te schatten wat er aan de hand is. | 1 |
+| C. Je blijft Robin dezelfde vragen stellen tot hij antwoordt. | Scherm 9 opnieuw | Niet goed. Een slachtoffer dat niet kan antwoorden, kun je niet bevragen. Vraag collega's wat zij hebben gezien. | 0 |
 
 ### Scherm 10 Een kwartier later
 
@@ -137,10 +137,10 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je wacht op de volgende meting om zeker te weten dat het erger wordt. | Scherm 10B | Niet goed. Een snellere pols, een bleke, klamme huid en minder goed reageren zijn tekenen van verslechtering. Meld het direct. | 0 |
-| B. Je herhaalt ABCDE en de metingen, schrijft alles op met de tijd en meldt de verslechtering direct aan de officier van de wacht en de arts van de Radio Medische Dienst. Je geeft door wie hij is, wat er is gebeurd, wat je vond, de metingen met tijden, wat je deed en wat er is veranderd. | Debriefing | Goed. Je blijft herbeoordelen tot de zorg is overgedragen. Een verslechtering meld je direct, in een vaste volgorde. | 1 |
-| C. Je laat hem rustig liggen; hij is moe. | Scherm 10B | Niet goed. Suffer worden kan betekenen dat een vitale functie tekortschiet. Herhaal ABCDE en meld het direct. | 0 |
+| B. Je laat hem rustig liggen, want hij is moe van de val. | Scherm 10B | Niet goed. Suffer worden kan betekenen dat een vitale functie tekortschiet. Herhaal ABCDE en meld het direct. | 0 |
+| C. ABCDE herhalen, noteren en de verslechtering direct melden aan wacht en arts. | Debriefing | Goed. Je blijft herbeoordelen tot de zorg is overgedragen. Een verslechtering meld je direct, in een vaste volgorde. | 1 |
 
-### Scherm 10B Direct melden (alleen bij A of C)
+### Scherm 10B Direct melden (alleen bij A of B)
 
 Tekst: Je herhaalt ABCDE en de metingen en laat direct de officier van de wacht en de arts van de Radio Medische Dienst waarschuwen. Doorgaan naar Debriefing. `Omweg` plus 1.
 

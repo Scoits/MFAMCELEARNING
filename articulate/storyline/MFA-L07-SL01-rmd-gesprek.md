@@ -45,8 +45,8 @@ Vraag: wat zet je bij de ademfrequentie?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Een gebruikelijke waarde, zodat de lijst compleet lijkt. | Scherm 2 opnieuw | Niet goed. De arts gaat dan uit van een waarde die niemand heeft gemeten. | 0 |
-| B. "Nog niet gemeten", en je vraagt de collega bij Joost om de ademhaling te tellen. | Scherm 3 | Goed. Je maakt zichtbaar wat onbekend is en laat het gericht aanvullen. | 1 |
-| C. Je laat het vak leeg. | Scherm 2 opnieuw | Niet goed. Een leeg vak zegt niet of je het vergeten bent of nog niet weet. Schrijf op dat het nog niet is gemeten. | 0 |
+| B. "Nog niet gemeten", en je laat de ademhaling tellen. | Scherm 3 | Goed. Je maakt zichtbaar wat onbekend is en laat het gericht aanvullen. | 1 |
+| C. Je laat het vak leeg en gaat verder met de rest. | Scherm 2 opnieuw | Niet goed. Een leeg vak zegt niet of je het vergeten bent of nog niet weet. Schrijf op dat het nog niet is gemeten. | 0 |
 
 ### Scherm 3 De opening van het gesprek
 
@@ -54,9 +54,9 @@ Tekst: "Sanne zegt: de arts van de Radio Medische Dienst is aan de lijn." Welke 
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "OEFENSCHIP A. Om 15.40 UTC is een matroos ongeveer twee meter gevallen. Hij heeft zijn hoofd en rechterpols gestoten. Hij zegt dat hij hoofdpijn heeft en dat zijn pols pijn doet. De ademfrequentie en zijn medicijnen worden nog nagegaan." | Scherm 4 | Goed. Je geeft wat er is gebeurd, wanneer, de letterlijke klachten en wat nog onbekend is. | 1 |
-| B. "Een matroos heeft een hersenschudding en een gebroken pols." | Scherm 3B | Niet goed. Dat is een diagnose die niemand heeft gesteld. Geef de feiten en laat de arts beoordelen. | 0 |
-| C. "Er is iemand gevallen, kunt u helpen?" | Scherm 3B | Te weinig. De arts moet eerst alles vragen wat jij al weet. Dat kost tijd. | 0 |
+| A. "OEFENSCHIP A. Matroos twee meter gevallen, hoofd en pols gestoten; ademfrequentie volgt." | Scherm 4 | Goed. Je geeft wat er is gebeurd, wanneer, de letterlijke klachten en wat nog onbekend is. | 1 |
+| B. "Een matroos heeft een hersenschudding en een gebroken pols. Wat moet ik doen?" | Scherm 3B | Niet goed. Dat is een diagnose die niemand heeft gesteld. Geef de feiten en laat de arts beoordelen. | 0 |
+| C. "Er is iemand gevallen in het ruim, kunt u ons helpen met advies?" | Scherm 3B | Te weinig. De arts moet eerst alles vragen wat jij al weet. Dat kost tijd. | 0 |
 
 ### Scherm 3B Opnieuw formuleren (alleen bij B of C)
 
@@ -70,9 +70,9 @@ Vraag: wat zeg je terug?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Begrepen." | Scherm 4 opnieuw | Niet genoeg. Met alleen "begrepen" weet de arts niet of je alles goed hebt gehoord. | 0 |
-| B. "Ik lees terug: rustig laten liggen, om 16.20 UTC pols, ademfrequentie en reactie op aanspreken meten, om 16.30 UTC terugmelden, geen medicijnen zonder overleg. Klopt dat?" | Scherm 5 | Goed. Door terug te lezen merk je een misverstand op voordat je gaat handelen. Ook de tijden en UTC lees je terug. | 1 |
-| C. "Om half vijf bellen we terug." | Scherm 4 opnieuw | Niet goed. Half vijf in welke tijd? En de andere afspraken ontbreken. | 0 |
+| A. "Ik lees terug: rustig liggen, 16.20 meten, 16.30 terugmelden, geen medicijnen." | Scherm 5 | Goed. Door terug te lezen merk je een misverstand op voordat je gaat handelen. Ook de tijden en UTC lees je terug. | 1 |
+| B. "Begrepen, dank u. We doen wat u zegt en bellen terug." | Scherm 4 opnieuw | Niet genoeg. Met alleen "begrepen" weet de arts niet of je alles goed hebt gehoord. | 0 |
+| C. "Om half vijf bellen we terug met de nieuwe metingen." | Scherm 4 opnieuw | Niet goed. Half vijf in welke tijd? En de andere afspraken ontbreken. | 0 |
 
 ### Scherm 5 Vastleggen
 
@@ -80,9 +80,9 @@ Vraag: welke notitie schrijf je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "16.05 UTC advies arts RMD: rustig laten liggen; 16.20 UTC pols, ademfrequentie en reactie meten; 16.30 UTC terugmelden; geen medicijnen zonder overleg. Teruggelezen en bevestigd. Uitvoering: jouw naam." | Scherm 6 | Goed. De notitie heeft de tijd, de adviseur, alle afspraken, de bevestiging en wie het uitvoert. | 1 |
-| B. "Arts zegt dat het meevalt." | Scherm 5 opnieuw | Niet goed. Dat heeft de arts niet gezegd, en de afspraken ontbreken. | 0 |
-| C. "Pols meten en terugbellen." | Scherm 5 opnieuw | Te weinig. De tijden, de andere metingen en de afspraak over medicijnen ontbreken. | 0 |
+| A. "16.05 UTC: arts zegt dat het meevalt; we bellen later terug als het nodig is." | Scherm 5 opnieuw | Niet goed. Dat heeft de arts niet gezegd, en de afspraken ontbreken. | 0 |
+| B. "16.05 UTC RMD: rustig laten liggen; 16.20 meten; 16.30 terugmelden; teruggelezen." | Scherm 6 | Goed. De notitie heeft de tijd, de adviseur, alle afspraken, de bevestiging en wie het uitvoert. | 1 |
+| C. "Pols meten en terugbellen; geen medicijnen; patiënt ligt rustig." | Scherm 5 opnieuw | Te weinig. De tijden, de andere metingen en de afspraak over medicijnen ontbreken. | 0 |
 
 ### Scherm 6 De vraag om een middel
 
@@ -92,9 +92,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je geeft hem een pijnstiller; dat is toch onschuldig. | Scherm 6 opnieuw | Niet goed. De afspraak was: geen medicijnen zonder overleg. Pas een advies niet zelf aan. | 0 |
-| B. Je legt Joost uit dat je eerst overlegt. Je noteert zijn vraag en geeft die door bij het volgende contact. | Scherm 7 | Goed. Je houdt je aan de afspraak en de arts krijgt de vraag. | 1 |
-| C. Je zegt dat hij niets krijgt en noteert het niet. | Scherm 6 opnieuw | Bijna. Je geeft terecht niets, maar de arts moet weten dat hij erom vraagt. Noteer het en geef het door. | 0 |
+| A. Je legt uit dat je eerst overlegt en geeft zijn vraag door. | Scherm 7 | Goed. Je houdt je aan de afspraak en de arts krijgt de vraag. | 1 |
+| B. Je geeft hem een pijnstiller, want dat is toch onschuldig. | Scherm 6 opnieuw | Niet goed. De afspraak was: geen medicijnen zonder overleg. Pas een advies niet zelf aan. | 0 |
+| C. Je zegt dat hij niets krijgt en noteert zijn vraag niet. | Scherm 6 opnieuw | Bijna. Je geeft terecht niets, maar de arts moet weten dat hij erom vraagt. Noteer het en geef het door. | 0 |
 
 ### Scherm 7 Een verandering
 
@@ -104,11 +104,11 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je wacht tot 16.30 UTC, zoals afgesproken. | Scherm 7B | Niet goed. Het advies paste bij wat de arts om 16.05 UTC wist. Bij een verandering meld je direct. | 0 |
-| B. Je vraagt Sanne direct opnieuw contact te leggen. Je meldt wat is veranderd en hoe laat, en je volgt de nieuwe aanwijzingen. | Scherm 8 | Goed. De arts heeft de nieuwe informatie nodig om het advies te herzien. | 1 |
+| A. Direct opnieuw contact, de verandering melden en de nieuwe aanwijzingen volgen. | Scherm 8 | Goed. De arts heeft de nieuwe informatie nodig om het advies te herzien. | 1 |
+| B. Je wacht tot 16.30 UTC, zoals met de arts is afgesproken. | Scherm 7B | Niet goed. Het advies paste bij wat de arts om 16.05 UTC wist. Bij een verandering meld je direct. | 0 |
 | C. Je schudt Joost wakker en zet hem rechtop, zodat hij wakker blijft. | Scherm 7B | Niet goed. Je past de zorg zelf aan zonder overleg. Meld de verandering direct. | 0 |
 
-### Scherm 7B Direct melden (alleen bij A of C)
+### Scherm 7B Direct melden (alleen bij B of C)
 
 Tekst: "Je laat Sanne alsnog direct contact leggen en meldt de verandering met het tijdstip." Doorgaan naar scherm 8. `Omweg` plus 1.
 
@@ -120,8 +120,8 @@ Vraag: wat antwoord je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Ik probeer het; hoe moeilijk kan het zijn?" | Scherm 8 opnieuw | Niet goed. Voer alleen uit wat je hebt geleerd. De arts moet weten wat aan boord wel mogelijk is. | 0 |
-| B. "Ik heb dat niet geleerd. Ik vraag de kapitein of iemand aan boord een Medical Care-certificaat heeft." | Scherm 9 | Goed. Je bent duidelijk over je grenzen. De arts kan het advies daarop aanpassen. | 1 |
+| A. "Dat heb ik niet geleerd; ik vraag of iemand Medical Care heeft." | Scherm 9 | Goed. Je bent duidelijk over je grenzen. De arts kan het advies daarop aanpassen. | 1 |
+| B. "Ik probeer het wel; hoe moeilijk kan het zijn?" | Scherm 8 opnieuw | Niet goed. Voer alleen uit wat je hebt geleerd. De arts moet weten wat aan boord wel mogelijk is. | 0 |
 | C. Je zegt niets en laat de vraag over aan Sanne. | Scherm 8 opnieuw | Niet goed. Jij kent de toestand van Joost en weet wat je hebt geleerd. Geef zelf antwoord. | 0 |
 
 ### Scherm 9 Debriefing

@@ -28,9 +28,9 @@ Vraag: waar begin je bij Jesse?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Bij het been, want dat ziet er het ergst uit. | Scherm 1 opnieuw | Niet goed. Een gebroken been ziet er heftig uit, maar is meestal niet het eerste probleem. Behandel eerst wat het eerst doodt. | 0 |
-| B. Je werkt volgens DRS-ABCDE en behandelt eerst wat het eerst doodt: een catastrofale bloeding, dan ademweg, ademhaling, circulatie, bewustzijn en omgeving. | Scherm 2 | Goed. Ook bij letsel werk je in de vaste volgorde. Het been komt later aan bod. | 1 |
-| C. Bij de bult op zijn hoofd, want die moet gekoeld worden. | Scherm 1 opnieuw | Niet goed. Een zwelling koel je later. Begin met de vaste volgorde, zodat je niets mist dat levensbedreigend is. | 0 |
+| A. Volgens DRS-ABCDE: eerst behandelen wat het eerst doodt. | Scherm 2 | Goed. Ook bij letsel werk je in de vaste volgorde. Het been komt later aan bod. | 1 |
+| B. Bij het been, want dat ziet er het ergst uit en doet de meeste pijn. | Scherm 1 opnieuw | Niet goed. Een gebroken been ziet er heftig uit, maar is meestal niet het eerste probleem. Behandel eerst wat het eerst doodt. | 0 |
+| C. Bij de bult op zijn hoofd, want die moet direct gekoeld worden. | Scherm 1 opnieuw | Niet goed. Een zwelling koel je later. Begin met de vaste volgorde, zodat je niets mist dat levensbedreigend is. | 0 |
 
 ### Scherm 2 Hij wil opstaan
 
@@ -40,8 +40,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je helpt hem voorzichtig rechtop zitten. | Scherm 2B | Niet goed. Na een val van hoogte met rugpijn denk je aan wervelletsel. Laat hem liggen en niet bewegen. | 0 |
-| B. Je laat hem liggen zoals hij ligt, zegt dat hij absoluut niet mag bewegen, en houdt zijn hoofd met beide handen in de stand waarin je het vindt, in lijn met het lichaam. Linda raadpleegt de Radio Medische Dienst. | Scherm 3 | Goed. Bij een val van hoogte en pijn in de rug denk je aan wervelletsel. Je beweegt hem niet onnodig en stabiliseert het hoofd. | 1 |
+| A. Je helpt hem voorzichtig rechtop zitten, zodat hij beter ademt. | Scherm 2B | Niet goed. Na een val van hoogte met rugpijn denk je aan wervelletsel. Laat hem liggen en niet bewegen. | 0 |
+| B. Hem laten liggen, zeggen dat hij niet mag bewegen en het hoofd stabiliseren. | Scherm 3 | Goed. Bij een val van hoogte en pijn in de rug denk je aan wervelletsel. Je beweegt hem niet onnodig en stabiliseert het hoofd. | 1 |
 | C. Je vraagt hem zijn hoofd heen en weer te draaien om te zien of de nek pijn doet. | Scherm 2 opnieuw | Niet goed. Laat hem het hoofd niet bewegen. Pijn in nek of rug na een ongeval is al een alarmsignaal. | 0 |
 
 ### Scherm 2B Weer liggen (alleen bij A)
@@ -56,9 +56,9 @@ Vraag: hoe breng je de nekkraag aan?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je doet het alleen, terwijl Jesse zijn hoofd zelf stilhoudt. | Scherm 3 opnieuw | Niet goed. Een nekkraag breng je met twee hulpverleners aan. De een houdt het hoofd, de ander brengt de kraag aan. | 0 |
-| B. Jij fixeert de nek en brengt het hoofd voorzichtig in een neutrale stand. Een helper meet de maat met de vingers, stelt de kraag in, schuift een deel onder de nek, plaatst het kindeel en sluit de kraag. Je controleert of hij recht zit en Jesse zijn mond kan openen. | Scherm 4 | Goed. Bij een val van hoogte maak je de nek onbeweeglijk met een verstelbare nekkraag, met twee hulpverleners. Daarna controleer je hoe de kraag zit. | 1 |
-| C. Een nekkraag is niet nodig, want hij kan praten. | Scherm 3 opnieuw | Niet goed. Praten zegt niets over de wervelkolom. Bij een val van hoogte maak je de nek onbeweeglijk. | 0 |
+| A. Jij fixeert de nek, een helper meet en plaatst de kraag, daarna controleren. | Scherm 4 | Goed. Bij een val van hoogte maak je de nek onbeweeglijk met een verstelbare nekkraag, met twee hulpverleners. Daarna controleer je hoe de kraag zit. | 1 |
+| B. Je doet het alleen, terwijl Jesse zijn hoofd zelf stilhoudt. | Scherm 3 opnieuw | Niet goed. Een nekkraag breng je met twee hulpverleners aan. De een houdt het hoofd, de ander brengt de kraag aan. | 0 |
+| C. Een nekkraag is niet nodig, want hij kan praten en bewegen. | Scherm 3 opnieuw | Niet goed. Praten zegt niets over de wervelkolom. Bij een val van hoogte maak je de nek onbeweeglijk. | 0 |
 
 ### Scherm 4 De bult op zijn hoofd
 
@@ -68,9 +68,9 @@ Vraag: wat onderzoek je en wat leg je vast?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Alleen of de bult groter wordt. | Scherm 4 opnieuw | Te weinig. Bij hoofdletsel onderzoek je het bewustzijn, de pupillen en tekenen van verlamming aan één kant. Het verloop is belangrijker dan één beoordeling. | 0 |
-| B. Het bewustzijn met de Glasgow Coma Schaal op het formulier, de grootte van de pupillen en hun reactie op licht, en of er tekenen van verlamming aan één kant zijn. Je schrijft alles op met de tijd. | Scherm 5 | Goed. Een bloeding in of rond de hersenen kan pas na enige tijd verschijnselen geven. Met de tijden erbij zie je later of er iets verandert. | 1 |
-| C. Je vraagt of hij zich goed voelt; hij zegt ja, dus dat is in orde. | Scherm 4 opnieuw | Te weinig. Hij is even weg geweest. Bepaal het bewustzijn met de GCS, kijk naar de pupillen en schrijf het op. | 0 |
+| A. Alleen of de bult op zijn hoofd groter wordt. | Scherm 4 opnieuw | Te weinig. Bij hoofdletsel onderzoek je het bewustzijn, de pupillen en tekenen van verlamming aan één kant. Het verloop is belangrijker dan één beoordeling. | 0 |
+| B. Je vraagt of hij zich goed voelt; hij zegt ja, dus dat is in orde. | Scherm 4 opnieuw | Te weinig. Hij is even weg geweest. Bepaal het bewustzijn met de GCS, kijk naar de pupillen en schrijf het op. | 0 |
+| C. GCS, pupillen en tekenen van verlamming, met tijd genoteerd. | Scherm 5 | Goed. Een bloeding in of rond de hersenen kan pas na enige tijd verschijnselen geven. Met de tijden erbij zie je later of er iets verandert. | 1 |
 
 ### Scherm 5 Het been
 
@@ -81,8 +81,8 @@ Vraag: wat controleer je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je beweegt het been voorzichtig om te voelen of het bot kraakt. | Scherm 5 opnieuw | Niet goed. Abnormale beweeglijkheid of kraken probeer je nooit uit. Je let er alleen op als je het merkt. | 0 |
-| B. Je trekt aan de voet om het been recht te leggen. | Scherm 5 opnieuw | Niet goed. Een breuk of ontwrichting terugzetten doe je alleen in overleg met een arts. | 0 |
-| C. Je controleert gevoel en beweging van de tenen, de kleur, de temperatuur en de capillaire refill voorbij de breuk, en kijkt naar de vorm. Je vraagt hoe hij precies viel en schrijft het op. | Scherm 6 | Goed. Je controleert wat er voorbij de breuk gebeurt en legt de toedracht vast. Dat helpt de arts het letsel in te schatten. | 1 |
+| B. Je trekt aan de voet om het been weer recht te leggen. | Scherm 5 opnieuw | Niet goed. Een breuk of ontwrichting terugzetten doe je alleen in overleg met een arts. | 0 |
+| C. Gevoel, beweging, kleur en doorbloeding voorbij de breuk controleren en noteren. | Scherm 6 | Goed. Je controleert wat er voorbij de breuk gebeurt en legt de toedracht vast. Dat helpt de arts het letsel in te schatten. | 1 |
 
 ### Scherm 6 Spalken
 
@@ -92,9 +92,9 @@ Vraag: hoe spalk je het been?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Een helper tilt het been op, zo mogelijk vóór de dichtstbijzijnde gewrichten, en de ander schuift de vacuümspalk eronder, vormt hem om het been, sluit de klittenbanden en zuigt de lucht eruit. Je noteert de tijd en controleert de circulatie opnieuw. | Scherm 7 | Goed. Met twee hulpverleners en een vacuümspalk zet je het been onbeweeglijk vast. Controleer de circulatie voor en na en noteer de tijd. | 1 |
+| A. Been ondersteunen, vacuümspalk eronder, vormen, lucht eruit, tijd en circulatie noteren. | Scherm 7 | Goed. Met twee hulpverleners en een vacuümspalk zet je het been onbeweeglijk vast. Controleer de circulatie voor en na en noteer de tijd. | 1 |
 | B. Je bindt het been met tape strak aan het andere been. | Scherm 6B | Niet de DRTC-werkwijze. DRTC gebruikt een vacuümspalk. En te strak vastzetten kan de doorbloeding afknellen. | 0 |
-| C. Je spalkt niet, want hij ligt toch stil. | Scherm 6 opnieuw | Niet goed. Ondersteunen of immobiliseren vermindert pijn en voorkomt verdere schade aan bloedvaten, zenuwen en weefsel. | 0 |
+| C. Je spalkt niet, want hij ligt toch stil tot de brancard er is. | Scherm 6 opnieuw | Niet goed. Ondersteunen of immobiliseren vermindert pijn en voorkomt verdere schade aan bloedvaten, zenuwen en weefsel. | 0 |
 
 ### Scherm 6B De vacuümspalk (alleen bij B)
 
@@ -109,8 +109,8 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je wacht af; dat komt door de kou in het ruim. | Scherm 7 opnieuw | Niet goed. Koude, blauwe tenen kunnen betekenen dat een bloedvat wordt afgekneld. Dat kan blijvende schade geven. | 0 |
-| B. Je pompt de spalk nog harder op, zodat het been beter vastzit. | Scherm 7 opnieuw | Niet goed. Dan knelt hij nog meer af. Maak de spalk juist losser. | 0 |
-| C. Je maakt de spalk losser en legt hem minder strak opnieuw aan. Helpt dat niet, dan raadpleeg je direct de Radio Medische Dienst. Je schrijft de controle op met de tijd. | Scherm 8 | Goed. De zwelling kan na het spalken nog toenemen. Is de circulatie slechter, maak de spalk dan losser en raadpleeg de arts als dat niet helpt. | 1 |
+| B. Spalk losser opnieuw aanleggen; helpt het niet, direct de RMD. | Scherm 8 | Goed. De zwelling kan na het spalken nog toenemen. Is de circulatie slechter, maak de spalk dan losser en raadpleeg de arts als dat niet helpt. | 1 |
+| C. Je pompt de spalk nog harder op, zodat het been beter vastzit. | Scherm 7 opnieuw | Niet goed. Dan knelt hij nog meer af. Maak de spalk juist losser. | 0 |
 
 ### Scherm 8 Naar de brancard
 
@@ -120,7 +120,7 @@ Vraag: hoe leg je hem op de brancard?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Met de log-roll: jij houdt het hoofd en stuurt aan, de anderen draaien hem op jouw teken, met hoofd, nek en romp in één lijn. | Scherm 9 | Goed. Met meerdere hulpverleners en de log-roll blijven hoofd, nek en romp in één lijn. Eén persoon aan het hoofd stuurt aan. | 1 |
+| A. Met de log-roll op jouw teken, hoofd, nek en romp in één lijn. | Scherm 9 | Goed. Met meerdere hulpverleners en de log-roll blijven hoofd, nek en romp in één lijn. Eén persoon aan het hoofd stuurt aan. | 1 |
 | B. Twee helpers tillen hem onder de armen en de knieën op de brancard. | Scherm 8 opnieuw | Niet goed. Zo buig je de wervelkolom. Gebruik de log-roll met hoofd, nek en romp in één lijn. | 0 |
 | C. Jesse rolt zelf op de brancard, dan doet hij wat hij kan. | Scherm 8 opnieuw | Niet goed. Hij mag niet zelf bewegen. Gebruik de log-roll met meerdere hulpverleners. | 0 |
 
@@ -132,9 +132,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat hem slapen; hij is moe van de val. | Scherm 9 opnieuw | Niet goed. Suffer worden na een klap op het hoofd kan een bloeding in de schedel zijn. Het verloop is belangrijker dan één beoordeling. | 0 |
-| B. Je bepaalt opnieuw de GCS en kijkt naar de pupillen, schrijft het op naast de eerste meting en raadpleegt direct de Radio Medische Dienst. Je beschrijft het ongeval en het verloop in de tijd. | Debriefing | Goed. Eerst helder en daarna suffer is een alarmsignaal. Meld het direct, met de metingen naast elkaar. | 1 |
-| C. Je wacht tot de volgende afgesproken controle. | Scherm 9 opnieuw | Niet goed. Een verslechtering van het bewustzijn meld je direct. | 0 |
+| A. Je laat hem slapen, want hij is moe van de val en de pijn. | Scherm 9 opnieuw | Niet goed. Suffer worden na een klap op het hoofd kan een bloeding in de schedel zijn. Het verloop is belangrijker dan één beoordeling. | 0 |
+| B. GCS en pupillen opnieuw, naast de eerste noteren en direct de RMD. | Debriefing | Goed. Eerst helder en daarna suffer is een alarmsignaal. Meld het direct, met de metingen naast elkaar. | 1 |
+| C. Je wacht tot de volgende afgesproken controle over een half uur. | Scherm 9 opnieuw | Niet goed. Een verslechtering van het bewustzijn meld je direct. | 0 |
 
 ### Debriefing
 

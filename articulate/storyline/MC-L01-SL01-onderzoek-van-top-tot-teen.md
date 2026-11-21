@@ -28,9 +28,9 @@ Vraag: wat doe je voordat je Joost onderzoekt?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je begint meteen, want hij komt zelf naar je toe. | Scherm 1B | Niet goed. Ook als iemand zelf komt, vraag je toestemming. Zwijgen of langskomen is geen toestemming. | 0 |
-| B. Je vertelt wat je wilt doen en waarom, beantwoordt zijn vragen en vraagt of hij het goedvindt. Je schrijft de datum, de tijd, je naam en zijn toestemming op het formulier. | Scherm 2 | Goed. Je onderzoekt niemand zonder toestemming. Je legt vast wanneer je begon en dat hij toestemming gaf. | 1 |
-| C. Je vraagt de kapitein of je hem mag onderzoeken. | Scherm 1 opnieuw | Niet goed. Toestemming komt van de patiënt zelf, niet van de kapitein. | 0 |
+| A. Je begint meteen met het onderzoek, want hij komt zelf naar je toe en wil hulp. | Scherm 1B | Niet goed. Ook als iemand zelf komt, vraag je toestemming. Zwijgen of langskomen is geen toestemming. | 0 |
+| B. Je legt uit wat je wilt doen en waarom, vraagt zijn toestemming en noteert die. | Scherm 2 | Goed. Je onderzoekt niemand zonder toestemming. Je legt vast wanneer je begon en dat hij toestemming gaf. | 1 |
+| C. Je vraagt eerst de kapitein of je hem mag onderzoeken, omdat hij de baas is. | Scherm 1 opnieuw | Niet goed. Toestemming komt van de patiënt zelf, niet van de kapitein. | 0 |
 
 ### Scherm 1B Alsnog toestemming (alleen bij A)
 
@@ -42,9 +42,9 @@ Vraag: hoe begin je het ziekteverhaal?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Je hebt griep, hè?" | Scherm 2 opnieuw | Niet goed. Dat is een sturende vraag, en je geeft er een diagnose mee. Jij stelt geen diagnose; dat doet de arts. | 0 |
-| B. "Heb je hoofdpijn of koorts?" | Scherm 2 opnieuw | Niet goed. Je vraagt twee dingen tegelijk, en het is geen open vraag. Laat hem eerst zelf vertellen. | 0 |
-| C. "Wanneer voelde je je voor het laatst helemaal goed? Wat merkte je als eerste, en wat gebeurde er daarna?" | Scherm 3 | Goed. Met open vragen laat je hem uitpraten. De volgorde waarin de klachten begonnen, helpt de arts vaak het meest. | 1 |
+| A. "Je hebt griep, hè? Dat heeft de halve bemanning nu." | Scherm 2 opnieuw | Niet goed. Dat is een sturende vraag, en je geeft er een diagnose mee. Jij stelt geen diagnose; dat doet de arts. | 0 |
+| B. "Heb je hoofdpijn, koorts of last van je keel?" | Scherm 2 opnieuw | Niet goed. Je vraagt twee dingen tegelijk, en het is geen open vraag. Laat hem eerst zelf vertellen. | 0 |
+| C. "Wanneer voelde je je voor het laatst goed, en wat merkte je eerst?" | Scherm 3 | Goed. Met open vragen laat je hem uitpraten. De volgorde waarin de klachten begonnen, helpt de arts vaak het meest. | 1 |
 
 ### Scherm 3 Moe en slap
 
@@ -54,9 +54,9 @@ Vraag: wat doe je met "moe" en "slap"?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je vraagt door: "Slaap je meer, of heb je nergens zin in? Wat lukt je nog wel en wat niet meer?" Je vraagt ook naar eetlust en waar de hoofdpijn zit. | Scherm 4 | Goed. Moe, slap en geen eetlust passen bij bijna iedere ziekte. Pas door door te vragen worden ze bruikbaar voor de arts. | 1 |
-| B. Je schrijft "moe en slap" op en gaat verder. | Scherm 3 opnieuw | Te weinig. Vage klachten diep je uit, anders heeft de arts er niets aan. | 0 |
-| C. Je zegt dat moe zijn normaal is op zee na een paar zware wachten. | Scherm 3 opnieuw | Niet goed. Je trekt zelf een conclusie. Vraag door en laat de arts oordelen. | 0 |
+| A. Je schrijft "moe en slap" op het formulier en gaat verder met meten. | Scherm 3 opnieuw | Te weinig. Vage klachten diep je uit, anders heeft de arts er niets aan. | 0 |
+| B. Je zegt dat moe zijn normaal is op zee na een paar zware wachten. | Scherm 3 opnieuw | Niet goed. Je trekt zelf een conclusie. Vraag door en laat de arts oordelen. | 0 |
+| C. Je vraagt door naar slapen, zin, eetlust en waar de hoofdpijn zit. | Scherm 4 | Goed. Moe, slap en geen eetlust passen bij bijna iedere ziekte. Pas door door te vragen worden ze bruikbaar voor de arts. | 1 |
 
 ### Scherm 4 De achtergrond
 
@@ -66,9 +66,9 @@ Vraag: wat vraag je nog?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Alleen of hij allergisch is, want dat is het belangrijkste. | Scherm 4 opnieuw | Te weinig. Allergieën zijn belangrijk, maar de arts wil de hele achtergrond weten. | 0 |
-| B. Niets: hij is een gezonde man en heeft nooit iets. | Scherm 4 opnieuw | Niet goed. Ook bij iemand die gezond lijkt, vraag je naar medicijnen, eerdere ziekten en leefstijl. Neem niets aan. | 0 |
-| C. Medicijnen, ook zonder recept, eerdere ziekten en operaties, allergieën, roken en alcohol, recente reizen en of andere opvarenden dezelfde klachten hebben. Je legt uit waarom je persoonlijke vragen stelt en dat het vertrouwelijk blijft. | Scherm 5 | Goed. De arts heeft de achtergrond nodig. Door uit te leggen waarom je het vraagt, krijg je eerlijker antwoorden. | 1 |
+| A. Medicijnen, ziekten, allergieën, roken en alcohol, reizen en zieke collega's, vertrouwelijk. | Scherm 5 | Goed. De arts heeft de achtergrond nodig. Door uit te leggen waarom je het vraagt, krijg je eerlijker antwoorden. | 1 |
+| B. Alleen of hij allergisch is, want dat is voor de arts het belangrijkste. | Scherm 4 opnieuw | Te weinig. Allergieën zijn belangrijk, maar de arts wil de hele achtergrond weten. | 0 |
+| C. Niets, want hij is een gezonde man die nooit iets heeft gehad. | Scherm 4 opnieuw | Niet goed. Ook bij iemand die gezond lijkt, vraag je naar medicijnen, eerdere ziekten en leefstijl. Neem niets aan. | 0 |
 
 ### Scherm 5 Het lichamelijk onderzoek
 
@@ -78,9 +78,9 @@ Vraag: hoe onderzoek je hem?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je onderzoekt van hoofd naar voeten: algemene indruk en huid, hoofd, ogen, mond en hals, borst en buik, armen, benen en rug, en zijn oriëntatie en lopen. Je vergelijkt links en rechts. | Scherm 6 | Goed. Door altijd van hoofd naar voeten te werken, sla je niets over, ook niet bij een klacht op één plek. | 1 |
-| B. Je onderzoekt alleen zijn hoofd, want daar zit de pijn. | Scherm 5 opnieuw | Te weinig. Bij vage klachten zoek je het hele lichaam af. Wat de arts nodig heeft, kan ergens anders zitten. | 0 |
-| C. Je meet alleen de temperatuur; als die normaal is, is onderzoek niet nodig. | Scherm 5 opnieuw | Niet goed. Eén meting vervangt het onderzoek niet. Werk van hoofd naar voeten. | 0 |
+| A. Je onderzoekt alleen zijn hoofd en hals, want daar zitten de klachten. | Scherm 5 opnieuw | Te weinig. Bij vage klachten zoek je het hele lichaam af. Wat de arts nodig heeft, kan ergens anders zitten. | 0 |
+| B. Je onderzoekt van hoofd tot voeten en vergelijkt steeds links en rechts. | Scherm 6 | Goed. Door altijd van hoofd naar voeten te werken, sla je niets over, ook niet bij een klacht op één plek. | 1 |
+| C. Je meet alleen de temperatuur; als die normaal is, is meer onderzoek niet nodig. | Scherm 5 opnieuw | Niet goed. Eén meting vervangt het onderzoek niet. Werk van hoofd naar voeten. | 0 |
 
 ### Scherm 6 Wat je vindt
 
@@ -90,9 +90,9 @@ Vraag: wat schrijf je op?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Keelontsteking." | Scherm 6 opnieuw | Niet goed. Dat is een diagnose. Schrijf op wat je zag en voelde, en laat de arts beoordelen wat het is. | 0 |
-| B. "Zit ineengedoken. Huid warm en droog, geen huiduitslag. Hals links enkele gezwollen, pijnlijke klieren. Keel rood. Goed georiënteerd." | Scherm 7 | Goed. Je beschrijft wat je zag en voelde, ook wat er niet was, zoals huiduitslag. | 1 |
-| C. "Geen bijzonderheden." | Scherm 6 opnieuw | Niet goed. De klieren en de rode keel zijn bevindingen. Ook de afwezigheid van huiduitslag schrijf je op. | 0 |
+| A. "Keelontsteking, waarschijnlijk door een virus. Verder geen bijzonderheden." | Scherm 6 opnieuw | Niet goed. Dat is een diagnose. Schrijf op wat je zag en voelde, en laat de arts beoordelen wat het is. | 0 |
+| B. "Huid warm en droog, keel rood, links gezwollen pijnlijke klieren, georiënteerd." | Scherm 7 | Goed. Je beschrijft wat je zag en voelde, ook wat er niet was, zoals huiduitslag. | 1 |
+| C. "Geen bijzonderheden gevonden bij het onderzoek van hoofd tot voeten." | Scherm 6 opnieuw | Niet goed. De klieren en de rode keel zijn bevindingen. Ook de afwezigheid van huiduitslag schrijf je op. | 0 |
 
 ### Scherm 7 Meten
 
@@ -102,9 +102,9 @@ Vraag: hoe leg je de metingen vast?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je schrijft alle metingen op met het tijdstip en spreekt af wanneer je ze herhaalt. | Scherm 8 | Goed. Eén meting zegt weinig, het verloop zegt veel. Met het tijdstip erbij kun je de metingen later naast elkaar zetten. | 1 |
-| B. Je onthoudt de waarden en schrijft ze straks op. | Scherm 7 opnieuw | Niet goed. Schrijf iedere meting direct op met het tijdstip. Uit je hoofd raak je details kwijt. | 0 |
-| C. Je meet één keer; dat is genoeg voor de arts. | Scherm 7 opnieuw | Te weinig. Herhaal de metingen, zodat je ziet of de toestand verandert. | 0 |
+| A. Je schrijft alle metingen op met de tijd en spreekt af wanneer je herhaalt. | Scherm 8 | Goed. Eén meting zegt weinig, het verloop zegt veel. Met het tijdstip erbij kun je de metingen later naast elkaar zetten. | 1 |
+| B. Je onthoudt de waarden en schrijft ze straks op als je weer in de ziekenboeg bent. | Scherm 7 opnieuw | Niet goed. Schrijf iedere meting direct op met het tijdstip. Uit je hoofd raak je details kwijt. | 0 |
+| C. Je meet één keer goed; dat is genoeg om de arts een beeld te geven. | Scherm 7 opnieuw | Te weinig. Herhaal de metingen, zodat je ziet of de toestand verandert. | 0 |
 
 ### Scherm 8 De kapitein vraagt
 
@@ -114,8 +114,8 @@ Vraag: wat zeg je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je vertelt alles wat Joost je heeft verteld, ook over zijn alcoholgebruik. | Scherm 8 opnieuw | Niet goed. Wat de patiënt je vertelt, is vertrouwelijk. De kapitein krijgt alleen wat hij nodig heeft voor zijn besluit. | 0 |
-| B. Je vertelt dat Joost ziek is, dat je met de arts overlegt en dat je daarna laat weten of hij kan werken. De details houd je voor jezelf. | Scherm 9 | Goed. De kapitein krijgt wat nodig is voor de veiligheid en de planning, zonder de medische details. | 1 |
+| A. Dat Joost ziek is, dat je met de arts overlegt en later laat weten of hij kan werken. | Scherm 9 | Goed. De kapitein krijgt wat nodig is voor de veiligheid en de planning, zonder de medische details. | 1 |
+| B. Je vertelt alles wat Joost je heeft verteld, ook over zijn alcoholgebruik en medicijnen. | Scherm 8 opnieuw | Niet goed. Wat de patiënt je vertelt, is vertrouwelijk. De kapitein krijgt alleen wat hij nodig heeft voor zijn besluit. | 0 |
 | C. Je zegt dat je niets mag vertellen, ook niet of hij kan werken. | Scherm 8 opnieuw | Niet goed. De kapitein mag weten wat nodig is voor de veiligheid en de planning aan boord. | 0 |
 
 ### Scherm 9 Het gesprek met de arts
@@ -126,11 +126,11 @@ Vraag: welke rapportage geef je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Hij heeft waarschijnlijk een keelontsteking. Wat moet ik geven?" | Scherm 9B | Onvoldoende. Je geeft een conclusie zonder de waarnemingen. De arts heeft je bevindingen nodig om zelf te beoordelen. | 0 |
-| B. "Hij voelt zich niet lekker en is moe." | Scherm 9B | Onvoldoende. Zonder verloop, bevindingen en metingen kan de arts weinig met deze melding. | 0 |
-| C. Leeftijd en functie; sinds twee dagen moe, slaapt meer, geen eetlust, sinds gisteren hoofdpijn voor in het hoofd; geen medicijnen, niet in de tropen geweest, niemand anders ziek; rode keel en links gezwollen pijnlijke halsklieren, geen huiduitslag, goed georiënteerd; de metingen met de tijd; nog niets gegeven. | Scherm 10 | Goed. De arts hoort de klacht en het verloop, de achtergrond, je bevindingen, ook wat er niet was, de metingen en wat je al hebt gedaan. | 1 |
+| A. Klachten en verloop, voorgeschiedenis en reizen, je bevindingen, de metingen met tijd, niets gegeven. | Scherm 10 | Goed. De arts hoort de klacht en het verloop, de achtergrond, je bevindingen, ook wat er niet was, de metingen en wat je al hebt gedaan. | 1 |
+| B. "Hij heeft waarschijnlijk een keelontsteking. Welk middel moet ik hem geven?" | Scherm 9B | Onvoldoende. Je geeft een conclusie zonder de waarnemingen. De arts heeft je bevindingen nodig om zelf te beoordelen. | 0 |
+| C. "Hij voelt zich sinds twee dagen niet lekker, is moe en heeft hoofdpijn." | Scherm 9B | Onvoldoende. Zonder verloop, bevindingen en metingen kan de arts weinig met deze melding. | 0 |
 
-### Scherm 9B Volledig rapporteren (alleen bij A of B)
+### Scherm 9B Volledig rapporteren (alleen bij B of C)
 
 Tekst: De arts vraagt door. Je pakt het formulier en geeft alsnog het verloop, de achtergrond, je bevindingen en de metingen met de tijd. Doorgaan naar scherm 10. `Omweg` plus 1.
 
@@ -142,9 +142,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je schrijft de metingen op en wacht tot het volgende afgesproken contact. | Scherm 10 opnieuw | Niet goed. De metingen naast elkaar laten een verslechtering zien. Meld dat direct en wacht niet op het afgesproken contact. | 0 |
-| B. Je zet de metingen naast die van vanochtend, schrijft op wat er is veranderd en laat direct contact leggen met de arts. | Debriefing | Goed. De temperatuur en de pols stijgen, hij is suffer en slikken doet meer pijn. Een verslechtering meld je direct, met de metingen naast elkaar. | 1 |
-| C. Je laat hem slapen, want hij is moe. | Scherm 10 opnieuw | Niet goed. Suffer worden is een verandering die je meldt. Meet en meld direct. | 0 |
+| A. Je vergelijkt met vanochtend, noteert wat veranderde en laat direct de arts bellen. | Debriefing | Goed. De temperatuur en de pols stijgen, hij is suffer en slikken doet meer pijn. Een verslechtering meld je direct, met de metingen naast elkaar. | 1 |
+| B. Je schrijft de metingen op en wacht tot het volgende afgesproken contact. | Scherm 10 opnieuw | Niet goed. De metingen naast elkaar laten een verslechtering zien. Meld dat direct en wacht niet op het afgesproken contact. | 0 |
+| C. Je laat hem slapen, want hij is moe en rust helpt hem het meest. | Scherm 10 opnieuw | Niet goed. Suffer worden is een verandering die je meldt. Meet en meld direct. | 0 |
 
 ### Debriefing
 

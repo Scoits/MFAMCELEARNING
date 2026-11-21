@@ -30,11 +30,11 @@ Vraag: welke vraag stel je als eerste?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Is je blindedarm ooit verwijderd?" | Scherm 2 | Goed. Pijn die rond de navel begint en na enkele uren naar rechtsonder trekt, past bij een blindedarmontsteking. Vraag altijd eerst of de blindedarm al is verwijderd. | 1 |
-| B. "Wil je iets tegen de pijn?" | Scherm 1B | Niet goed. Geef geen pijnstiller voordat je met de arts hebt overlegd. Een pijnstiller kan de klachten verbergen die de arts wil weten. | 0 |
+| A. "Wil je iets tegen de pijn?" | Scherm 1B | Niet goed. Geef geen pijnstiller voordat je met de arts hebt overlegd. Een pijnstiller kan de klachten verbergen die de arts wil weten. | 0 |
+| B. "Is je blindedarm ooit verwijderd?" | Scherm 2 | Goed. Pijn die rond de navel begint en na enkele uren naar rechtsonder trekt, past bij een blindedarmontsteking. Vraag altijd eerst of de blindedarm al is verwijderd. | 1 |
 | C. "Heb je iets verkeerds gegeten?" | Scherm 1 opnieuw | Dat kan later een vraag zijn, maar het verloop van de pijn wijst op iets anders. Vraag eerst of de blindedarm al is verwijderd. | 0 |
 
-### Scherm 1B Geen pijnstiller (alleen bij B)
+### Scherm 1B Geen pijnstiller (alleen bij A)
 
 Tekst: Je legt Daan uit dat hij eerst niets krijgt, omdat de arts moet kunnen zien hoe de pijn is. Doorgaan naar scherm 2. `Omweg` plus 1.
 
@@ -46,8 +46,8 @@ Vraag: welke soort pijn is dit het meest?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Een koliek: pijn in aanvallen met pauzes. | Scherm 2 opnieuw | Niet goed. Bij een koliek komt de pijn in aanvallen en is de patiënt onrustig. Daan heeft scherpe pijn die erger wordt bij hoesten. | 0 |
-| B. Pijn die past bij het buikvlies: scherp, op één plek, erger bij bewegen en hoesten. | Scherm 3 | Goed. Dat past bij prikkeling van het buikvlies. Dat is een reden om goed te onderzoeken en met de arts te overleggen. | 1 |
+| A. Pijn van het buikvlies: scherp, op één plek, erger bij bewegen. | Scherm 3 | Goed. Dat past bij prikkeling van het buikvlies. Dat is een reden om goed te onderzoeken en met de arts te overleggen. | 1 |
+| B. Een koliek: pijn in aanvallen met pauzes ertussen. | Scherm 2 opnieuw | Niet goed. Bij een koliek komt de pijn in aanvallen en is de patiënt onrustig. Daan heeft scherpe pijn die erger wordt bij hoesten. | 0 |
 | C. Zeurende pijn uit een orgaan, die meestal binnen een dag overgaat. | Scherm 2 opnieuw | Zo begon het gisteravond. Nu is de pijn scherp en zit hij op één plek. Dat is een andere soort pijn. | 0 |
 
 ### Scherm 3 Voorbereiden
@@ -56,9 +56,9 @@ Vraag: hoe bereid je het onderzoek van de buik voor?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Daan ligt plat op zijn rug in een warme, goed verlichte ruimte. De kleding is opgeschoven tot boven de tepels en de broek tot de knieën. | Scherm 4 | Goed. Zo zie je de hele buik en ook de liezen. | 1 |
-| B. Daan blijft zitten met zijn shirt aan; je voelt eronder. | Scherm 3 opnieuw | Niet goed. Je moet de hele buik en de liezen kunnen zien. Laat hem plat liggen en schuif de kleding op. | 0 |
-| C. Je onderzoekt hem op het dek, waar het licht beter is. | Scherm 3 opnieuw | Niet goed. Onderzoek hem in een warme, goed verlichte ruimte, waar hij kan liggen. | 0 |
+| A. Daan blijft zitten met zijn shirt aan; je voelt voorzichtig eronder. | Scherm 3 opnieuw | Niet goed. Je moet de hele buik en de liezen kunnen zien. Laat hem plat liggen en schuif de kleding op. | 0 |
+| B. Plat op zijn rug in een warme, lichte ruimte, de buik helemaal vrij. | Scherm 4 | Goed. Zo zie je de hele buik en ook de liezen. | 1 |
+| C. Je onderzoekt hem buiten op het dek, waar het daglicht beter is. | Scherm 3 opnieuw | Niet goed. Onderzoek hem in een warme, goed verlichte ruimte, waar hij kan liggen. | 0 |
 
 ### Scherm 4 Kijken en luisteren
 
@@ -68,9 +68,9 @@ Vraag: wat schrijf je op?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Buik beweegt weinig mee met ademen. Ligt stil. Darmgeluiden: enkele per minuut gehoord." | Scherm 5 | Goed. Je schrijft op wat je zag en hoorde, zonder er een diagnose van te maken. | 1 |
-| B. "Blindedarmontsteking." | Scherm 4 opnieuw | Niet goed. Dat stel je niet vast. Schrijf op wat je zag en hoorde. De arts beoordeelt het. | 0 |
-| C. "Buik normaal." | Scherm 4 opnieuw | Niet goed. De buik beweegt weinig mee en hij ligt stil. Dat schrijf je op. | 0 |
+| A. "Buik beweegt weinig mee, ligt stil, enkele darmgeluiden per minuut." | Scherm 5 | Goed. Je schrijft op wat je zag en hoorde, zonder er een diagnose van te maken. | 1 |
+| B. "Waarschijnlijk blindedarmontsteking, want de pijn zit rechtsonder." | Scherm 4 opnieuw | Niet goed. Dat stel je niet vast. Schrijf op wat je zag en hoorde. De arts beoordeelt het. | 0 |
+| C. "Buik normaal bij kijken en luisteren; geen bijzonderheden." | Scherm 4 opnieuw | Niet goed. De buik beweegt weinig mee en hij ligt stil. Dat schrijf je op. | 0 |
 
 ### Scherm 5 Voelen
 
@@ -78,9 +78,9 @@ Vraag: hoe voel je aan de buik?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je begint zo ver mogelijk van de pijnlijke plek, met je hand plat en gestrekte, gesloten vingers. De pijnlijkste plek bewaar je voor het laatst en je kijkt naar zijn gezicht. | Scherm 6 | Goed. Zo veroorzaak je zo weinig mogelijk pijn en zie je aan zijn gezicht waar het pijn doet. | 1 |
-| B. Je drukt met je vingertoppen meteen op de plek waar het pijn doet. | Scherm 5 opnieuw | Niet goed. Druk nooit met je vingertoppen en begin ver van de pijnlijke plek. | 0 |
-| C. Je laat Daan zelf drukken en vraagt waar het pijn doet. | Scherm 5 opnieuw | Niet goed. Jij onderzoekt, met de hand plat en ver van de pijnlijke plek beginnend. Kijk naar zijn gezicht. | 0 |
+| A. Je drukt met je vingertoppen meteen op de plek waar het pijn doet. | Scherm 5 opnieuw | Niet goed. Druk nooit met je vingertoppen en begin ver van de pijnlijke plek. | 0 |
+| B. Je laat Daan zelf op zijn buik drukken en vraagt waar het pijn doet. | Scherm 5 opnieuw | Niet goed. Jij onderzoekt, met de hand plat en ver van de pijnlijke plek beginnend. Kijk naar zijn gezicht. | 0 |
+| C. Je begint ver van de pijnlijke plek, met een vlakke hand, en kijkt naar zijn gezicht. | Scherm 6 | Goed. Zo veroorzaak je zo weinig mogelijk pijn en zie je aan zijn gezicht waar het pijn doet. | 1 |
 
 ### Scherm 6 Metingen en het formulier
 
@@ -90,11 +90,11 @@ Vraag: wat doe je nu?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je vult de vragen bij buikpijn van het patiëntevaluatieformulier in, meet ook bloeddruk en ademhaling, schrijft alles op met de tijd en laat de kapitein contact leggen met de arts. | Scherm 7 | Goed. Je overlegt bij iedere mogelijke blindedarmontsteking met de arts, met complete gegevens. | 1 |
-| B. Je laat hem een paar uur rusten en kijkt dan of het beter is. | Scherm 6B | Niet goed. Bij een mogelijke blindedarmontsteking overleg je met de arts. Wachten zonder overleg is hier niet goed. | 0 |
-| C. Je geeft hem een licht ontbijt, want hij heeft niets gegeten. | Scherm 6B | Niet goed. Geef niets te eten of te drinken voordat je met de arts hebt overlegd. | 0 |
+| A. Je laat hem een paar uur rusten en kijkt dan of het beter is. | Scherm 6B | Niet goed. Bij een mogelijke blindedarmontsteking overleg je met de arts. Wachten zonder overleg is hier niet goed. | 0 |
+| B. Je geeft hem een licht ontbijt, want hij heeft sinds gisteren niets gegeten. | Scherm 6B | Niet goed. Geef niets te eten of te drinken voordat je met de arts hebt overlegd. | 0 |
+| C. Formulier invullen, ook bloeddruk en ademhaling meten, noteren en de arts laten bellen. | Scherm 7 | Goed. Je overlegt bij iedere mogelijke blindedarmontsteking met de arts, met complete gegevens. | 1 |
 
-### Scherm 6B Toch overleggen (alleen bij B of C)
+### Scherm 6B Toch overleggen (alleen bij A of B)
 
 Tekst: Je laat de kapitein alsnog contact leggen met de arts en zorgt dat de gegevens klaarliggen. Doorgaan naar scherm 7. `Omweg` plus 1.
 
@@ -104,9 +104,9 @@ Vraag: hoe begin je het gesprek met de arts?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Het verloop sinds gisteravond, waar de pijn nu zit en hoe hij is, dat de blindedarm niet is verwijderd, wat je zag, hoorde en voelde, de metingen met de tijd, en dat hij niets heeft gekregen. | Scherm 8 | Goed. De arts krijgt het verloop en de feiten, en weet dat er niets is gegeven wat de klachten verbergt. | 1 |
-| B. "Ik denk dat het zijn blindedarm is. Moet hij van boord?" | Scherm 7 opnieuw | Te weinig. Geef eerst de feiten en het verloop. De arts beoordeelt wat het is en wat er moet gebeuren. | 0 |
-| C. Je geeft alleen de temperatuur en de pols. | Scherm 7 opnieuw | Te weinig. De arts heeft ook het verloop van de pijn en jouw onderzoek van de buik nodig. | 0 |
+| A. Verloop, pijn nu, blindedarm niet verwijderd, je bevindingen, metingen, niets gegeven. | Scherm 8 | Goed. De arts krijgt het verloop en de feiten, en weet dat er niets is gegeven wat de klachten verbergt. | 1 |
+| B. "Ik denk dat het zijn blindedarm is. Moet hij van boord, en wanneer?" | Scherm 7 opnieuw | Te weinig. Geef eerst de feiten en het verloop. De arts beoordeelt wat het is en wat er moet gebeuren. | 0 |
+| C. Je geeft alleen de temperatuur en de pols door, want die zeggen het meest. | Scherm 7 opnieuw | Te weinig. De arts heeft ook het verloop van de pijn en jouw onderzoek van de buik nodig. | 0 |
 
 ### Scherm 8 Het advies uitvoeren
 
@@ -116,9 +116,9 @@ Vraag: hoe regel je dit?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je leest het advies terug, schrijft het op, laat Daan in zijn kooi de houding met de minste pijn kiezen en spreekt met een collega af dat Daan niet alleen is. | Scherm 9 | Goed. Je voert het advies uit en laat de patiënt niet alleen. | 1 |
-| B. Je laat Daan alleen in zijn hut slapen en komt ieder uur langs. | Scherm 8 opnieuw | Niet goed. Laat de patiënt niet alleen. Hij kan snel zieker worden. | 0 |
-| C. Je geeft hem een slokje water, want dat kan geen kwaad. | Scherm 8 opnieuw | Niet goed. De arts heeft gezegd: niets eten of drinken. Je past een advies niet zelf aan. | 0 |
+| A. Advies teruglezen en noteren, een houding met minste pijn, iemand blijft bij hem. | Scherm 9 | Goed. Je voert het advies uit en laat de patiënt niet alleen. | 1 |
+| B. Je laat Daan alleen in zijn hut slapen en komt ieder uur even langs. | Scherm 8 opnieuw | Niet goed. Laat de patiënt niet alleen. Hij kan snel zieker worden. | 0 |
+| C. Je geeft hem een slokje water, want dat kan geen kwaad bij dorst. | Scherm 8 opnieuw | Niet goed. De arts heeft gezegd: niets eten of drinken. Je past een advies niet zelf aan. | 0 |
 
 ### Scherm 9 Twee uur later
 
@@ -128,8 +128,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je wacht tot 10.00 uur, zoals afgesproken. | Scherm 9B | Niet goed. Dit zijn alarmsignalen. Een plotseling veel zieker wordende patiënt met een plankharde buik meld je direct. | 0 |
-| B. Je meet direct bewustzijn, ademhaling, pols, bloeddruk en temperatuur, schrijft ze op en laat direct contact leggen met de arts. Je meldt wat er is veranderd en hoe laat. | Scherm 10 | Goed. Dit kan een buikvliesontsteking zijn. Je meldt het direct en houdt rekening met evacuatie. | 1 |
+| A. Je wacht tot 10.00 uur, zoals met de arts is afgesproken. | Scherm 9B | Niet goed. Dit zijn alarmsignalen. Een plotseling veel zieker wordende patiënt met een plankharde buik meld je direct. | 0 |
+| B. Je meet direct alles, noteert het en laat direct de arts bellen. | Scherm 10 | Goed. Dit kan een buikvliesontsteking zijn. Je meldt het direct en houdt rekening met evacuatie. | 1 |
 | C. Je geeft hem een pijnstiller, want de pijn is nu heel erg. | Scherm 9B | Niet goed. Geen pijnstillers zonder advies van de arts. Meld de verandering direct. | 0 |
 
 ### Scherm 9B Direct melden (alleen bij A of C)
@@ -144,9 +144,9 @@ Vraag: wat is nu jouw taak?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Bij Daan blijven, regelmatig meten en alles opschrijven met de tijd, en de gegevens klaarleggen om mee te geven bij de overdracht. | Debriefing | Goed. Je bewaakt de patiënt en zorgt dat de volgende hulpverlener weet wat er is gebeurd. | 1 |
-| B. Je gaat aan dek helpen met de voorbereiding van de evacuatie. | Scherm 10 opnieuw | Niet goed. Een patiënt die verslechtert, laat je niet alleen. Anderen bereiden het dek voor. | 0 |
-| C. Je laat Daan rustig slapen tot de helikopter er is. | Scherm 10 opnieuw | Niet goed. Blijf meten en opschrijven. Een verandering meld je direct. | 0 |
+| A. Je gaat aan dek helpen met de voorbereiding van de evacuatie. | Scherm 10 opnieuw | Niet goed. Een patiënt die verslechtert, laat je niet alleen. Anderen bereiden het dek voor. | 0 |
+| B. Bij Daan blijven, regelmatig meten en noteren en de overdracht klaarleggen. | Debriefing | Goed. Je bewaakt de patiënt en zorgt dat de volgende hulpverlener weet wat er is gebeurd. | 1 |
+| C. Je laat Daan rustig slapen tot de helikopter er is, dan heeft hij rust. | Scherm 10 opnieuw | Niet goed. Blijf meten en opschrijven. Een verandering meld je direct. | 0 |
 
 ### Debriefing
 

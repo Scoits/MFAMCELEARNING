@@ -30,11 +30,11 @@ Vraag: wat doe je eerst?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat hem in een gemakkelijke houding zitten, stelt hem gerust en vraagt sinds wanneer hij de pijn heeft en wat hij deed. | Scherm 2 | Goed. Een drukkende pijn die uitstraalt naar de arm, met zweten en bleek zien, kan van het hart komen. Je laat hem rusten en verzamelt de eerste gegevens. | 1 |
-| B. Je vraagt hem mee te lopen naar de ziekenboeg, want daar liggen de spullen. | Scherm 1B | Niet goed. Bij pijn op de borst laat je de patiënt niet lopen. Inspanning kan het hart verder belasten. | 0 |
+| A. Je vraagt hem mee te lopen naar de ziekenboeg, want daar liggen de spullen. | Scherm 1B | Niet goed. Bij pijn op de borst laat je de patiënt niet lopen. Inspanning kan het hart verder belasten. | 0 |
+| B. Gemakkelijk laten zitten, geruststellen en vragen sinds wanneer en wat hij deed. | Scherm 2 | Goed. Een drukkende pijn die uitstraalt naar de arm, met zweten en bleek zien, kan van het hart komen. Je laat hem rusten en verzamelt de eerste gegevens. | 1 |
 | C. Je geeft hem een glas water en zegt dat het vast door de warmte komt. | Scherm 1B | Niet goed. Je stelt niet zelf vast waar de pijn door komt. Deze klachten kunnen van het hart komen. | 0 |
 
-### Scherm 1B Niet lopen (alleen bij B of C)
+### Scherm 1B Niet lopen (alleen bij A of C)
 
 Tekst: "Peter staat op en grijpt naar de leuning. De pijn wordt erger." Je laat hem weer zitten en stelt hem gerust. Doorgaan naar scherm 2. `Omweg` plus 1.
 
@@ -46,8 +46,8 @@ Vraag: wat is nu het belangrijkste verschil dat je in de gaten houdt?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Of de pijn wegzakt in rust. | Scherm 3 | Goed. Bij angina pectoris zakt de pijn snel weg in rust. Bij een hartinfarct blijft hij, ook na een kwartier rust. | 1 |
-| B. Of de pijn links of rechts zit. | Scherm 2 opnieuw | Niet goed. De plaats helpt weinig. Het verschil tussen angina pectoris en een hartinfarct zit vooral in wanneer de pijn begint en of hij in rust wegzakt. | 0 |
+| A. Of de pijn links of rechts zit. | Scherm 2 opnieuw | Niet goed. De plaats helpt weinig. Het verschil tussen angina pectoris en een hartinfarct zit vooral in wanneer de pijn begint en of hij in rust wegzakt. | 0 |
+| B. Of de pijn wegzakt in rust. | Scherm 3 | Goed. Bij angina pectoris zakt de pijn snel weg in rust. Bij een hartinfarct blijft hij, ook na een kwartier rust. | 1 |
 | C. Of hij al eerder pijn op de borst heeft gehad. | Scherm 2 opnieuw | Dat is goed om te vragen voor de arts, maar het zegt niet wat er nu gebeurt. Let op of de pijn in rust wegzakt. | 0 |
 
 ### Scherm 3 Wie doet wat
@@ -58,8 +58,8 @@ Vraag: welke opdracht geef je Lisa?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Waarschuw de kapitein dat we met spoed medisch advies nodig hebben, en haal de AED, de zuurstof en het patiëntevaluatieformulier." | Scherm 4 | Goed. De arts moet snel worden ingeschakeld, en de AED ligt klaar voor het geval het hart stopt. | 1 |
-| B. "Haal een pijnstiller uit de medicijnkist." | Scherm 3B | Niet goed. Je geeft geen middel zonder advies van de arts. Vraag eerst hulp en laat de AED halen. | 0 |
+| A. "Waarschuw de kapitein voor spoedadvies en haal AED, zuurstof en formulier." | Scherm 4 | Goed. De arts moet snel worden ingeschakeld, en de AED ligt klaar voor het geval het hart stopt. | 1 |
+| B. "Haal een pijnstiller uit de medicijnkist, dan kijken we of het helpt." | Scherm 3B | Niet goed. Je geeft geen middel zonder advies van de arts. Vraag eerst hulp en laat de AED halen. | 0 |
 | C. "Blijf hier en kijk mee, dan bellen we straks als het niet beter gaat." | Scherm 3B | Niet goed. Bij pijn op de borst neem je met spoed contact op met de arts. Wachten kost tijd. | 0 |
 
 ### Scherm 3B De juiste opdracht (alleen bij B of C)
@@ -74,9 +74,9 @@ Vraag: wat meet je en wat doe je ermee?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Bewustzijn, ademhaling, pols en bloeddruk, en je schrijft ze op met de tijd erbij. | Scherm 5 | Goed. Met de metingen en de tijd kan de arts beoordelen hoe het gaat, en zie jij of het verandert. | 1 |
-| B. Alleen de pols, want die zegt het meest over het hart. | Scherm 4 opnieuw | Te weinig. Meet bewustzijn, ademhaling, pols en bloeddruk. Bij een hartinfarct kunnen de vitale functies uitvallen. | 0 |
-| C. Je meet alles, maar schrijft niets op; je onthoudt het wel. | Scherm 4 opnieuw | Niet goed. Schrijf de waarden op met de tijd. Anders kun je het verloop niet laten zien. | 0 |
+| A. Alleen de pols, want die zegt het meest over het hart. | Scherm 4 opnieuw | Te weinig. Meet bewustzijn, ademhaling, pols en bloeddruk. Bij een hartinfarct kunnen de vitale functies uitvallen. | 0 |
+| B. Je meet alles, maar schrijft niets op; je onthoudt het wel. | Scherm 4 opnieuw | Niet goed. Schrijf de waarden op met de tijd. Anders kun je het verloop niet laten zien. | 0 |
+| C. Bewustzijn, ademhaling, pols en bloeddruk, en je schrijft ze op met de tijd erbij. | Scherm 5 | Goed. Met de metingen en de tijd kan de arts beoordelen hoe het gaat, en zie jij of het verandert. | 1 |
 
 ### Scherm 5 Het contact met de arts
 
@@ -86,9 +86,9 @@ Vraag: wat geef je als eerste door?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Wat er gebeurde en wanneer, de klachten in Peters eigen woorden, dat de pijn na tien minuten rust niet minder is, de metingen met de tijd, dat hij rookt en een middel voor zijn bloeddruk gebruikt. | Scherm 6 | Goed. Je geeft feiten, het verloop en wat je nog niet weet. | 1 |
-| B. "De tweede machinist heeft een hartinfarct." | Scherm 5 opnieuw | Niet goed. Dat stel je niet zelf vast. Geef de feiten en laat de arts beoordelen. | 0 |
-| C. "Hij heeft pijn op de borst, wat moet ik geven?" | Scherm 5 opnieuw | Te weinig. Zonder het verloop en de metingen kan de arts niet goed adviseren. | 0 |
+| A. Wat gebeurde en wanneer, zijn klachten, pijn na rust, metingen, roken en medicijnen. | Scherm 6 | Goed. Je geeft feiten, het verloop en wat je nog niet weet. | 1 |
+| B. "De tweede machinist heeft een hartinfarct. Moet hij van boord?" | Scherm 5 opnieuw | Niet goed. Dat stel je niet zelf vast. Geef de feiten en laat de arts beoordelen. | 0 |
+| C. "Hij heeft pijn op de borst sinds een kwartier. Wat moet ik geven?" | Scherm 5 opnieuw | Te weinig. Zonder het verloop en de metingen kan de arts niet goed adviseren. | 0 |
 
 ### Scherm 6 Het advies
 
@@ -98,9 +98,9 @@ Vraag: wat doe je met dit advies?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je leest het advies terug, schrijft het op met de tijd, en zoekt het middel op in de medische gids: hoe je het geeft, waar je op let en welke bijwerkingen er zijn. | Scherm 7 | Goed. Je controleert of je het goed hebt begrepen en zoekt op hoe je het middel veilig geeft. | 1 |
-| B. Je geeft het middel direct, want de arts heeft het gezegd. | Scherm 6 opnieuw | Bijna. Lees het advies eerst terug en zoek in de gids op hoe je het middel geeft en waar je op let. | 0 |
-| C. Je geeft twee keer zoveel, omdat de pijn erg is. | Scherm 6 opnieuw | Niet goed. Je past een advies nooit zelf aan. | 0 |
+| A. Advies teruglezen, met tijd opschrijven en het middel opzoeken in de medische gids. | Scherm 7 | Goed. Je controleert of je het goed hebt begrepen en zoekt op hoe je het middel veilig geeft. | 1 |
+| B. Je geeft het middel direct, want de arts heeft het gezegd en het is dringend. | Scherm 6 opnieuw | Bijna. Lees het advies eerst terug en zoek in de gids op hoe je het middel geeft en waar je op let. | 0 |
+| C. Je geeft twee keer zoveel als geadviseerd, omdat de pijn erg is. | Scherm 6 opnieuw | Niet goed. Je past een advies nooit zelf aan. | 0 |
 
 ### Scherm 7 De gids en het advies
 
@@ -110,9 +110,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je belt de arts terug, noemt wat je las en de lagere bloeddruk, en vraagt of het advies blijft staan. | Scherm 8 | Goed. Twijfel je of wijkt wat je leest af, dan vraag je het de arts. Het advies van de arts, die jouw patiënt en jouw gegevens kent, gaat voor. | 1 |
-| B. Je laat het middel weg zonder iets te zeggen. | Scherm 7 opnieuw | Niet goed. Je past het advies niet zelf aan. Overleg met de arts. | 0 |
-| C. Je volgt wat in de gids staat in plaats van het advies. | Scherm 7 opnieuw | Niet goed. Het advies van de arts gaat voor. Overleg als je twijfelt. | 0 |
+| A. Je belt de arts terug, noemt wat je las en de lage bloeddruk. | Scherm 8 | Goed. Twijfel je of wijkt wat je leest af, dan vraag je het de arts. Het advies van de arts, die jouw patiënt en jouw gegevens kent, gaat voor. | 1 |
+| B. Je laat het middel weg zonder er iets over te zeggen tegen de arts. | Scherm 7 opnieuw | Niet goed. Je past het advies niet zelf aan. Overleg met de arts. | 0 |
+| C. Je volgt wat in de gids staat in plaats van het advies van de arts. | Scherm 7 opnieuw | Niet goed. Het advies van de arts gaat voor. Overleg als je twijfelt. | 0 |
 
 ### Scherm 8 Herbeoordelen
 
@@ -122,9 +122,9 @@ Vraag: wat doe je nu?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je meet opnieuw bewustzijn, ademhaling, pols en bloeddruk, vraagt hoe de pijn nu is, schrijft alles op en belt terug zoals afgesproken. | Scherm 9 | Goed. Na iedere behandeling beoordeel je de patiënt opnieuw en je houdt je aan de afspraak. | 1 |
-| B. Je laat Peter slapen; rust is het beste. | Scherm 8 opnieuw | Niet goed. Je hebt afgesproken om 03.40 uur te meten en terug te bellen. Houd hem in de gaten. | 0 |
-| C. Je belt terug zonder opnieuw te meten. | Scherm 8 opnieuw | Te weinig. De arts wil weten wat het middel heeft gedaan. Meet eerst opnieuw. | 0 |
+| A. Je laat Peter slapen, want rust is na een middel het beste voor hem. | Scherm 8 opnieuw | Niet goed. Je hebt afgesproken om 03.40 uur te meten en terug te bellen. Houd hem in de gaten. | 0 |
+| B. Je meet opnieuw, vraagt naar de pijn, noteert alles en belt terug. | Scherm 9 | Goed. Na iedere behandeling beoordeel je de patiënt opnieuw en je houdt je aan de afspraak. | 1 |
+| C. Je belt terug zonder opnieuw te meten, want de arts wacht al. | Scherm 8 opnieuw | Te weinig. De arts wil weten wat het middel heeft gedaan. Meet eerst opnieuw. | 0 |
 
 ### Scherm 9 De pijn blijft
 
@@ -134,8 +134,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je neemt direct opnieuw contact op met de arts, meldt wat er is veranderd en hoe laat, en houdt de AED binnen handbereik. | Scherm 10 | Goed. Pijn die aanhoudt of erger wordt, past bij een hartinfarct. Je meldt het direct en houdt er rekening mee dat het hart kan stoppen. | 1 |
-| B. Je wacht nog even; het middel heeft misschien tijd nodig. | Scherm 9B | Niet goed. Houdt de pijn aan of wordt hij erger, dan neem je opnieuw contact op. Wacht niet. | 0 |
+| A. Je neemt direct opnieuw contact op, meldt de verandering en houdt de AED bij de hand. | Scherm 10 | Goed. Pijn die aanhoudt of erger wordt, past bij een hartinfarct. Je meldt het direct en houdt er rekening mee dat het hart kan stoppen. | 1 |
+| B. Je wacht nog even, want het middel heeft misschien wat meer tijd nodig. | Scherm 9B | Niet goed. Houdt de pijn aan of wordt hij erger, dan neem je opnieuw contact op. Wacht niet. | 0 |
 | C. Je geeft het middel nog een keer, omdat het de eerste keer niet hielp. | Scherm 9B | Niet goed. Een nieuwe dosis geef je alleen op advies van de arts. Meld de verandering direct. | 0 |
 
 ### Scherm 9B Direct melden (alleen bij B of C)
@@ -150,9 +150,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat Lisa alarm slaan, legt Peter op een harde ondergrond, start reanimatie met 30 borstcompressies en 2 beademingen, en laat Lisa de AED aanzetten en de elektroden plakken. | Scherm 11 | Goed. Bij een hartstilstand start je direct reanimatie en gebruik je de AED. | 1 |
-| B. Je geeft hem zuurstof en wacht tot hij bijkomt. | Scherm 10 opnieuw | Niet goed. Hij reageert niet en ademt niet normaal. Start direct reanimatie en gebruik de AED. | 0 |
-| C. Je belt eerst de arts om te vragen wat je moet doen. | Scherm 10 opnieuw | Niet goed. Bij een hartstilstand start je direct met reanimatie en de AED. Laat een ander alarm slaan en de arts waarschuwen. | 0 |
+| A. Je geeft hem zuurstof met het masker en wacht tot hij weer bijkomt. | Scherm 10 opnieuw | Niet goed. Hij reageert niet en ademt niet normaal. Start direct reanimatie en gebruik de AED. | 0 |
+| B. Je belt eerst de arts om te vragen wat je nu precies moet doen. | Scherm 10 opnieuw | Niet goed. Bij een hartstilstand start je direct met reanimatie en de AED. Laat een ander alarm slaan en de arts waarschuwen. | 0 |
+| C. Alarm laten slaan, op een harde ondergrond reanimeren en de AED laten aansluiten. | Scherm 11 | Goed. Bij een hartstilstand start je direct reanimatie en gebruik je de AED. | 1 |
 
 ### Scherm 11 Na de schok
 
@@ -162,9 +162,9 @@ Vraag: wat doe je nu?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je legt hem in stabiele zijligging met de elektroden op zijn borst en de AED aan, je blijft bij hem, meet opnieuw en laat de kapitein de arts melden wat er is gebeurd, met de tijden. | Debriefing | Goed. Het hart kan opnieuw stoppen. De AED blijft aangesloten en de arts krijgt het hele verloop. | 1 |
-| B. Je haalt de elektroden eraf, want hij ademt weer. | Scherm 11 opnieuw | Niet goed. Laat de elektroden zitten en de AED aan. Het hart kan opnieuw stoppen. | 0 |
-| C. Je laat hem rechtop gaan zitten en wat drinken. | Scherm 11 opnieuw | Niet goed. Leg hem in stabiele zijligging met de AED aan, blijf bij hem en meet opnieuw. Meld het verloop aan de arts. | 0 |
+| A. Stabiele zijligging met de AED aan, bij hem blijven, meten en de arts laten informeren. | Debriefing | Goed. Het hart kan opnieuw stoppen. De AED blijft aangesloten en de arts krijgt het hele verloop. | 1 |
+| B. Je haalt de elektroden eraf en zet de AED uit, want hij ademt weer. | Scherm 11 opnieuw | Niet goed. Laat de elektroden zitten en de AED aan. Het hart kan opnieuw stoppen. | 0 |
+| C. Je laat hem rechtop gaan zitten en wat drinken, zodat hij bijkomt. | Scherm 11 opnieuw | Niet goed. Leg hem in stabiele zijligging met de AED aan, blijf bij hem en meet opnieuw. Meld het verloop aan de arts. | 0 |
 
 ### Debriefing
 
