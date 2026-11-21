@@ -273,6 +273,15 @@ Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 16 tot en met 1
 | R109 | MC-L06-S18, S20, S22, S26 | GH2 staat alcohol toe bij onttrekking, de Ships medical guide raadt het af; de les laat het aan de arts. Zit een tegenmiddel bij een overdosis opiaten in de uitrusting en moet de les het noemen? Wat moet de MC-zorgverlener weten over in bedwang houden en afzonderen van een agressieve patiënt (GH2 noemt isoleren, platspuiten en vastbinden)? |
 | R110 | MC-L06-S24, S28, S29, S30 | Klopt de aanpak bij gevaar voor zelfdoding (vragen naar plan, hoog en lager risico)? Hoort het terugzetten van een uitgeslagen tand bij MC (zie R102)? Klopt de vereenvoudigde zorg voor langdurig geredden (drinken en eten in overleg met de arts)? Welke stappen bij een onverklaard overlijden doet de MC-zorgverlener zelf, naast het RMD-protocol (R75)? |
 
+## Aanvulling bij MFA-L05 versie 0.4
+
+Versie 0.4 breidt de les uit met uitleg uit GH1 (S016) hoofdstuk 2 en 4 en de Ships medical guide (S025) hoofdstuk 11 en 28. Middelen en handelingen met dosering, zoals actieve kool, Norit, maagspoelen en de noodtracheotomie, zijn niet overgenomen. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R111 | MFA-L05-S05, S21 en S22 | GH1 adviseert bij een ingeslikte niet-bijtende stof zo snel mogelijk te laten braken en bij een bijtende stof direct twee glazen water te geven. De les zegt: geen braken opwekken en niets te drinken, tenzij het MFAG of de arts dat adviseert. Welke lijn volgt MFA? |
+| R112 | MFA-L05-S19, S20, S25 en S29 | Welke spoelduur noemt de les na blootstelling aan gas of damp (Ships medical guide 15 minuten douchen, GH1 30 minuten bij de huid), en hoe lang moet een geredde drenkeling of iemand die gas heeft ingeademd aan boord worden bewaakt (Ships medical guide tot 8 uur longschade, GH1 tot 2 dagen)? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |
