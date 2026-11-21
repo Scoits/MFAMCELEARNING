@@ -234,6 +234,20 @@ MFA-L05,MFA-L05-S10,MFA-08.02,"Kou, wind en vocht na de redding","Ook na de redd
 Breng de geredde persoon zo snel mogelijk uit de wind naar een warme, beschutte plek. Verwijder natte kleding, bij ernstige onderkoeling door die met een schaar los te knippen terwijl het slachtoffer horizontaal blijft. Pak in met isolatiedekens en wollen dekens.
 
 Let bij het opwarmen op afterdrop: de kerntemperatuur kan na de redding nog dalen. Hoe je lichte en ernstige onderkoeling behandelt, heb je geleerd in les 4.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S043;S009,"S043 dia8 (factoren onderkoeling), dia11 en 13 (eerste hulp bij onderkoeling), dia29 (afterdrop, horizontaal, kleding met schaar); S009 p1 item 9.2.",MFA-L05-M07,Rise tekst en afbeelding,1,medische_review_nodig,Mathanje,,0.4,
+MFA-L05,MFA-L05-S35,MFA-08.02;MFA-08.01,Casus: na twee uur in het vlot,"Een opvarende van een ander schip wordt na twee uur in een reddingsvlot aan boord gehaald. Het waait hard en het is koud. Hij is aanspreekbaar, rilt hevig en zijn kleding is doornat. Hij zegt dat hij zich wel redt.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K05-09: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Wat doe je eerst?
+K05-09-A: Hem op dek laten bijkomen met een deken over zijn natte kleding
+K05-09-B: Hem uit de wind naar een warme, beschutte ruimte brengen, de natte kleding uittrekken, afdrogen zonder te wrijven, droge kleding aantrekken en toedekken (juist)
+K05-09-C: Hem stevig droogwrijven en zijn armen en benen masseren om hem op te warmen
+K05-10: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Hij zit binnen, droog en toegedekt. Waarom blijf je hem controleren?
+K05-10-A: Dat hoeft niet meer; hij is aanspreekbaar en warm aangekleed
+K05-10-B: Omdat zijn kerntemperatuur na de redding nog kan dalen en er later nog ademhalingsproblemen kunnen ontstaan als hij water heeft binnengekregen (juist)
+K05-10-C: Omdat hij anders gaat slapen en dat altijd gevaarlijk is","K05-09-B: Juist. Weg uit de wind en weg met het natte, dan isoleren. Je wrijft en masseert niet. Iets warms drinken kan als hij goed aanspreekbaar en niet misselijk is.
+K05-10-B: Juist. Afterdrop kan de kerntemperatuur na de redding verder laten dalen. Blijf ademhaling en bewustzijn controleren en raadpleeg de Radio Medische Dienst.","K05-09-A: Onjuist. Natte kleding en wind blijven warmte onttrekken, ook met een deken erover.
+K05-09-C: Onjuist. Wrijven en masseren doe je niet. Droog hem af zonder te wrijven en trek droge kleding aan.
+K05-10-A: Onjuist. Ook na de redding kan zijn toestand nog verslechteren.
+K05-10-C: Onjuist. Slapen is niet het punt. Je let op afkoeling, ademhaling en bewustzijn.",S043;S016;S025,"S043 dia8, 11, 13 en 29 (onderkoeling, afterdrop, natte kleding); S016 GH1 boek p92 / PDF p95 (behandeling bij bewustzijn: uitkleden, afdrogen zonder wrijven, iets warms, bewaking); S025 IMGS boek p339-341 / PDF p360-362; de casus en de antwoordlogica zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van K05-09 en K05-10 (R145). Of de geredde persoon bij hevig rillen mag lopen of horizontaal moet blijven, staat niet in deze bronnen; Mathanje beslist of de casus dat moet noemen.",,Rise kennischeck,4,medische_review_nodig,Mathanje,,0.4,
 MFA-L05,MFA-L05-S11,MFA-08.03,"Zeeziekte, zon, water en voeding","Zeeziekte. In een reddingsvlot of reddingsboot worden veel mensen zeeziek. Je ziet duizeligheid, misselijkheid, een droge mond en braken. Door braken verliest iemand vocht. Neem bij uitdroging contact op met de Radio Medische Dienst.
 
 Zon. Wie lang in een open reddingsmiddel heeft gezeten, kan zonnebrand en verschijnselen van hitte hebben. Bescherm tegen verdere zon en kijk naar de verschijnselen van hitte uit les 4.

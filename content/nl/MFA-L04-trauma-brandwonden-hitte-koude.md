@@ -43,7 +43,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden wervell
 
 Bronstatus: S044 (4. MFA dag 2 middag, voettekst rev.002) is op 20 november 2026 als tekstexport gelezen; dia's met alleen een titel (onder meer 23, 27, 29 en 30) bevatten beeld dat niet is beoordeeld. S043 dia7 tot en met 14 en 29 zijn de bron voor onderkoeling. S045 (1. MFA dag 1 ochtend, 105 pagina's) is daarna gelezen voor deel B; veel traumadia's bevatten alleen beeld. De praktijkhandelingen PH6 tot en met PH10 (S054 tot en met S058) zijn daarna gelezen.
 
-De schermrecords staan in [MFA-L04-schermreview.csv](../../reviews/MFA-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S12, S13, S42, S14, S15, S16, S43, S44, S17, S45, S46, S18, S39, S19, S40, S41, S20, S21, S38, S22, S48, S01, S02, S23, S24, S25, S26, S03, S04, S27, S28, S05, S29, S30, S31, S32, S06, S47, S33, S34, S07, S08, S35, S36, S37, S09, S10, S11.
+De schermrecords staan in [MFA-L04-schermreview.csv](../../reviews/MFA-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S12, S13, S42, S14, S15, S16, S43, S44, S17, S45, S46, S18, S39, S19, S40, S41, S20, S49, S21, S38, S22, S48, S01, S02, S23, S24, S25, S26, S03, S04, S27, S28, S05, S29, S30, S31, S32, S06, S47, S33, S34, S07, S08, S35, S36, S37, S09, S10, S11.
 
 ## MFA-L04-S01 Hitte en kou aan boord
 
@@ -1331,6 +1331,49 @@ TE VERIFIËREN: Mathanje bevestigt de bekkenspalk met dekens als MFA-handeling e
 
 SC-MFA-02 of station MFA-P05: de cursist sluit het bekken met het team en bereidt vervoer voor.
 
+## MFA-L04-S49 Casus: val in het ruim met pijn in het bekken
+
+Leerdoelen: MFA-07.03; MFA-05.01. Bronplaats: S045 dia41 (eerst behandelen wat het eerst doodt, grote breuken zoals bekken), dia89 (bekkenletsel: ABCDE, beenlengte, urineverlies, RMA/TMAS), dia90-94 (bekkenspalk, vacuümmatras); S016 GH1 boek p61-62 / PDF p64-65 (wervelletsel na val van hoogte); S009 p1 item 8.5; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist herkent het risico van een bekkenbreuk en kiest passende ondersteuning, met aandacht voor wervelletsel.
+
+**Cursistentekst**
+
+Een matroos is bij het schoonmaken van een ruim ongeveer drie meter naar beneden gevallen en op zijn zij terechtgekomen. Hij is aanspreekbaar, ademt snel en heeft veel pijn in zijn onderbuik en heup. Zijn rechterbeen lijkt korter en de voet valt naar buiten. Hij is bleek en klam en zijn pols is snel. Zijn broek is nat van urine.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K04-14**
+
+Wat is op dit moment het grootste gevaar?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K04-14-A | De pijn in zijn heup | Onjuist. De pijn is hevig, maar niet het grootste gevaar. Kijk naar de tekenen van shock. |
+| K04-14-B | Inwendig bloedverlies door een bekkenbreuk, met tekenen van shock | Juist. Bleek en klam zijn met een snelle pols passen bij shock. Een bekkenbreuk kan veel inwendig bloedverlies geven. Het verschil in beenlengte, de naar buiten vallende voet en urineverlies passen bij bekkenletsel. |
+| K04-14-C | Een gebroken bovenbeen dat gespalkt moet worden voordat je verder kijkt | Onjuist. Je werkt volgens ABCDE en behandelt eerst wat het eerst doodt. Hier is dat het bloedverlies, niet het spalken van het been. |
+
+**Kennischeck K04-15**
+
+Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K04-15-A | Hem voorzichtig laten opstaan om te kijken of hij op het been kan staan | Onjuist. Na een val van hoogte denk je aan letsel van bekken en wervelkolom. Laat hem liggen en beweeg hem niet onnodig. |
+| K04-15-B | Hem laten liggen, ABCDE blijven controleren, de benen naar elkaar brengen, een bekkenspalk aanleggen zoals DRTC leert en de Radio Medische Dienst alle bevindingen geven | Juist. Je beperkt beweging, sluit het bekken om het bloedverlies te beperken en geeft de arts je bevindingen en metingen. Voor vervoer gaat hij in een vacuümmatras. |
+| K04-15-C | Zijn benen hoog leggen tegen de shock | Onjuist. Bij een mogelijke bekkenbreuk beweeg je de benen niet op die manier; dat kan de breuk en het bloedverlies verergeren. Breng de benen naar elkaar en sluit het bekken. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van K04-14 en K04-15 (R145). De feedback bij K04-15-C, dat je de benen niet hoog legt bij een mogelijke bekkenbreuk, is een eigen formulering.
+
+**Verbinding met de praktijkdag**
+
+Station MFA-P03 of het bekkenstation: de cursist legt een bekkenspalk aan met deken en reddingsdeken.
+
+
 ## MFA-L04-S21 Kneuzing en verstuiking
 
 Leerdoelen: MFA-07.04. Bronplaats: S045 dia102-105 (kneuzing en verstuiking, pols en enkel), dia103 (eerste hulp); S009 p1 item 8.6. Media: MFA-L04-M15. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -1439,7 +1482,7 @@ TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback 
 
 ## Bouw en test
 
-Gebruik 48 Rise-secties in de weergavevolgorde die bij de lesgegevens staat: eerst deel B vanaf S12, daarna deel A vanaf S01; S01 wordt dan de inleiding op het tweede deel. Bouw de les bij voorkeur als twee Rise-lessen, een per deel. Beelden van brandwonden en bevriezing zijn eigen illustraties of DRTC-grimering, geen foto's van echte patiënten zonder vastgelegd gebruiksrecht; zet een waarschuwing boven de beeldvergelijking in S02. Controleer op een staand telefoonscherm dat de drie dieptes van brandwonden naast of onder elkaar goed te vergelijken zijn. K04-01 tot en met K04-13 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 49 Rise-secties in de weergavevolgorde die bij de lesgegevens staat: eerst deel B vanaf S12, daarna deel A vanaf S01; S01 wordt dan de inleiding op het tweede deel. Bouw de les bij voorkeur als twee Rise-lessen, een per deel. Beelden van brandwonden en bevriezing zijn eigen illustraties of DRTC-grimering, geen foto's van echte patiënten zonder vastgelegd gebruiksrecht; zet een waarschuwing boven de beeldvergelijking in S02. Controleer op een staand telefoonscherm dat de drie dieptes van brandwonden naast of onder elkaar goed te vergelijken zijn. K04-01 tot en met K04-13 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

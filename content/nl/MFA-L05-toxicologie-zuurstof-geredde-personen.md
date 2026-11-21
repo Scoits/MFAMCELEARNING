@@ -33,7 +33,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden toxicol
 
 Bronstatus: S034 dia59 tot en met 64 (toxicologie en MFAG), S043 dia7 tot en met 35 (onderkoeling, verdrinking en zuurstof), S044 dia18 en 20 (zeeziekte en vergiftiging van de huid) en PH5 (S053) zijn als tekst gelezen. De LOTUS-kaarten (S027) zijn EHBO-casussen voor de wal; LOTUS 24 noemt dat de ruimte kort weer betreden kan worden, wat aan boord bij een besloten ruimte niet geldt. Die aanwijzing is niet overgenomen. Een actuele MFAG-editie en IMDG-vindplaats ontbreken in het register.
 
-De schermrecords staan in [MFA-L05-schermreview.csv](../../reviews/MFA-L05-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S14, S15, S02, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S23, S06, S24, S07, S08, S34, S09, S25, S26, S27, S28, S29, S30, S10, S11, S12, S31, S32, S33, S13.
+De schermrecords staan in [MFA-L05-schermreview.csv](../../reviews/MFA-L05-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S14, S15, S02, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S23, S06, S24, S07, S08, S34, S09, S25, S26, S27, S28, S29, S30, S10, S35, S11, S12, S31, S32, S33, S13.
 
 ## MFA-L05-S01 Gevaar uit de lading, gevaar uit het water
 
@@ -853,6 +853,49 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 SC-MFA-05: de cursist beschermt de geredde persoon tegen verdere afkoeling.
 
+## MFA-L05-S35 Casus: na twee uur in het vlot
+
+Leerdoelen: MFA-08.02; MFA-08.01. Bronplaats: S043 dia8, 11, 13 en 29 (onderkoeling, afterdrop, natte kleding); S016 GH1 boek p92 / PDF p95 (behandeling bij bewustzijn: uitkleden, afdrogen zonder wrijven, iets warms, bewaking); S025 IMGS boek p339-341 / PDF p360-362; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist past toe hoe hij een geredde persoon tegen verdere afkoeling beschermt en waarom hij blijft controleren.
+
+**Cursistentekst**
+
+Een opvarende van een ander schip wordt na twee uur in een reddingsvlot aan boord gehaald. Het waait hard en het is koud. Hij is aanspreekbaar, rilt hevig en zijn kleding is doornat. Hij zegt dat hij zich wel redt.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K05-09**
+
+Wat doe je eerst?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K05-09-A | Hem op dek laten bijkomen met een deken over zijn natte kleding | Onjuist. Natte kleding en wind blijven warmte onttrekken, ook met een deken erover. |
+| K05-09-B | Hem uit de wind naar een warme, beschutte ruimte brengen, de natte kleding uittrekken, afdrogen zonder te wrijven, droge kleding aantrekken en toedekken | Juist. Weg uit de wind en weg met het natte, dan isoleren. Je wrijft en masseert niet. Iets warms drinken kan als hij goed aanspreekbaar en niet misselijk is. |
+| K05-09-C | Hem stevig droogwrijven en zijn armen en benen masseren om hem op te warmen | Onjuist. Wrijven en masseren doe je niet. Droog hem af zonder te wrijven en trek droge kleding aan. |
+
+**Kennischeck K05-10**
+
+Hij zit binnen, droog en toegedekt. Waarom blijf je hem controleren?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K05-10-A | Dat hoeft niet meer; hij is aanspreekbaar en warm aangekleed | Onjuist. Ook na de redding kan zijn toestand nog verslechteren. |
+| K05-10-B | Omdat zijn kerntemperatuur na de redding nog kan dalen en er later nog ademhalingsproblemen kunnen ontstaan als hij water heeft binnengekregen | Juist. Afterdrop kan de kerntemperatuur na de redding verder laten dalen. Blijf ademhaling en bewustzijn controleren en raadpleeg de Radio Medische Dienst. |
+| K05-10-C | Omdat hij anders gaat slapen en dat altijd gevaarlijk is | Onjuist. Slapen is niet het punt. Je let op afkoeling, ademhaling en bewustzijn. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van K05-09 en K05-10 (R145). Of de geredde persoon bij hevig rillen mag lopen of horizontaal moet blijven, staat niet in deze bronnen; Mathanje beslist of de casus dat moet noemen.
+
+**Verbinding met de praktijkdag**
+
+Scenario man over boord of geredde persoon op de praktijkdag: de cursist beschermt het slachtoffer tegen kou en wind.
+
+
 ## MFA-L05-S11 Zeeziekte, zon, water en voeding
 
 Leerdoelen: MFA-08.03. Bronplaats: S044 dia18 (zeeziekte: verschijnselen, bij uitdroging RMD), dia34-37 (hitte); S009 p1 item 9.2; S003 Part C 9.2, gedrukte p15 / PDF p21. Media: MFA-L05-M08. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -1027,7 +1070,7 @@ SC-MFA-04, SC-MFA-05 en station MFA-P03 in docs/praktijkplanning-v001.md.
 
 ## Bouw en test
 
-Gebruik 34 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het MFAG wordt niet nagebouwd of gekopieerd; S04 toont een eigen schematisch voorbeeld met een fictieve stof en verwijst naar de MFAG-editie aan boord. Controleer op een staand telefoonscherm dat de tabel met blootstellingsroutes in S05 als tabbladen leesbaar blijft. K05-01 tot en met K05-04 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 35 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het MFAG wordt niet nagebouwd of gekopieerd; S04 toont een eigen schematisch voorbeeld met een fictieve stof en verwijst naar de MFAG-editie aan boord. Controleer op een staand telefoonscherm dat de tabel met blootstellingsroutes in S05 als tabbladen leesbaar blijft. K05-01 tot en met K05-04 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

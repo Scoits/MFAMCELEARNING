@@ -27,7 +27,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebied hartstils
 
 Bronstatus: S043 (2. MFA dag 1 middag, voettekst Rev. 002) en S034 (3. MFA dag 2 ochtend) zijn op 20 november 2026 als tekstexport gelezen. Voor reanimatie zijn S043 dia36 tot en met 53 de directe bron; de dia's met alleen een film of afbeelding (onder meer dia41, 42, 49 en 51) bevatten geen tekst en dus geen getallen. Voor ernstige bloeding is S044 (4. MFA dag 2 middag) dia3 tot en met 5 de directe bron; S045 (dag 1 ochtend) dia41 en 42 plaatsen de catastrofale bloeding vooraan in DRS-ABCDE.
 
-De schermrecords staan in [MFA-L03-schermreview.csv](../../reviews/MFA-L03-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S17, S18, S02, S03, S19, S04, S20, S05, S06, S07, S21, S22, S33, S32, S23, S08, S09, S34, S10, S11, S12, S24, S25, S26, S13, S14, S27, S28, S15, S29, S30, S31, S16.
+De schermrecords staan in [MFA-L03-schermreview.csv](../../reviews/MFA-L03-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S17, S18, S02, S03, S19, S04, S20, S05, S06, S07, S21, S22, S33, S32, S23, S08, S09, S34, S10, S11, S12, S24, S25, S26, S13, S14, S27, S28, S15, S29, S30, S31, S35, S16.
 
 ## MFA-L03-S01 Iedere seconde telt
 
@@ -1005,6 +1005,51 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 TE VERIFIËREN: GH1 noemt draaien om de drie uur en problemen na 12 uur, met een infuus, klysma of katheter als oplossing. De les noemt geen termijnen en laat de oplossingen aan de arts.
 
+## MFA-L03-S35 Casus: bewusteloos in de werkplaats
+
+Leerdoelen: MFA-05.02. Bronplaats: S016 GH1 boek p66-67 / PDF p69-70 (3.1 en 3.2: vaststellen, oorzaken, eerste hulp, kinlift, stabiele zijligging omdat de tong de luchtweg kan blokkeren, afkoeling voorkomen); boek p63-65 / PDF p66-68 (flauwte komt binnen enkele minuten bij); boek p71 / PDF p74 (verdere hulp); de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist past toe waarom een bewusteloze met normale ademhaling in de stabiele zijligging komt en wat er nodig is als hij bewusteloos blijft.
+
+**Cursistentekst**
+
+Een motordrijver ligt in de werkplaats naast de draaibank op de grond. De ruimte is veilig; er hangt geen gas en de machine staat uit. Hij reageert niet als je hem in beide oren aanspreekt en ook niet als je voorzichtig aan zijn schouders schudt. Hij ademt normaal, een beetje snurkend. Je ziet geen bloeding en geen teken van een val van hoogte.
+
+Je hebt hem in de stabiele zijligging gelegd en een deken over hem heen gedaan. Een collega heeft de brug gewaarschuwd.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K03-12**
+
+Waarom leg je hem in de stabiele zijligging en niet op zijn rug?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K03-12-A | Omdat hij zo makkelijker te vervoeren is | Onjuist. De zijligging is er niet voor het vervoer, maar om de ademweg vrij te houden. |
+| K03-12-B | Omdat bij een bewusteloze alle spieren verslappen, ook van de tong; op de rug kan de tong naar achteren zakken en de luchtweg blokkeren, en braaksel kan in de zijligging uit de mond lopen | Juist. Een bewusteloze kan zijn ademweg niet zelf vrijhouden. De zijligging houdt de ademweg vrij zolang hij normaal ademt. |
+| K03-12-C | Omdat hij in de zijligging sneller bijkomt | Onjuist. De zijligging maakt iemand niet sneller wakker; ze beschermt de ademweg. |
+
+**Kennischeck K03-13**
+
+Na twintig minuten is hij nog steeds niet bij. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K03-13-A | Afwachten; het is waarschijnlijk een flauwte | Onjuist. Een flauwte komt binnen enkele minuten bij als iemand ligt. Wie zo lang bewusteloos blijft, heeft een andere oorzaak en dat is levensbedreigend. |
+| K03-13-B | Bij hem blijven, de ademhaling blijven controleren, hem warm houden en direct de Radio Medische Dienst laten raadplegen | Juist. Je laat een bewusteloze nooit alleen, blijft de ademhaling controleren en voorkomt afkoeling. De arts bespreekt met de kapitein wat er nodig is. |
+| K03-13-C | Hem rechtop zetten en water laten drinken | Onjuist. Een bewusteloze kan niet slikken; water kan in de luchtweg komen. Hij blijft in de stabiele zijligging. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van K03-12 en K03-13 (R145). Dat braaksel in de zijligging uit de mond kan lopen, is een eigen aanvulling bij GH1 p67.
+
+**Verbinding met de praktijkdag**
+
+Station stabiele zijligging en controle van de ademhaling op de praktijkdag; de cursist legt uit waarom hij de zijligging kiest.
+
+
 ## MFA-L03-S16 Klaar voor de praktijkdag
 
 Leerdoelen: MFA-12.02; MFA-12.03; MFA-00.03. Bronplaats: S005 blok 14.45-15.45 BLS en AED; S009 p2 item 13.1-13.4; docs/praktijkplanning-v001.md MFA-P02, MFA-P04 en SC-MFA-01, 05 en 06. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -1035,7 +1080,7 @@ Station MFA-P02 en MFA-P04 en de scenario's SC-MFA-01, SC-MFA-05 en SC-MFA-06 in
 
 ## Bouw en test
 
-Gebruik 34 Rise-secties in de schermvolgorde bij de lesgegevens. S33 en S34 zijn de scenariopakketten MFA-L03-SL01 en SL02 in een Code Block. De films in S04 en S05 zijn DRTC-instructiefilms uit S026 of nieuw op te nemen; geen films van derden zonder vastgelegd gebruiksrecht (zie S043 dia44, 47 en 53). Iedere film krijgt ondertiteling en een tekstalternatief. Controleer op een staand telefoonscherm dat de procesblokken zonder horizontaal scrollen leesbaar zijn. K03-01 tot en met K03-11 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 35 Rise-secties in de schermvolgorde bij de lesgegevens. S33 en S34 zijn de scenariopakketten MFA-L03-SL01 en SL02 in een Code Block. De films in S04 en S05 zijn DRTC-instructiefilms uit S026 of nieuw op te nemen; geen films van derden zonder vastgelegd gebruiksrecht (zie S043 dia44, 47 en 53). Iedere film krijgt ondertiteling en een tekstalternatief. Controleer op een staand telefoonscherm dat de procesblokken zonder horizontaal scrollen leesbaar zijn. K03-01 tot en met K03-11 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 
