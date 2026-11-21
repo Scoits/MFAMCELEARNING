@@ -44,6 +44,10 @@ Bijgewerkt op 21 november 2026, ontwerpversie 0.6. Claude heeft het dossier van 
 | Medische detailgoedkeuring | Niet uitgevoerd voor enig scherm, doel of criterium | [Reviewregistratie](../reviews/README.md) |
 | Engelse versie | Nog niet gestart | [Vertaling](../content/en/README.md) |
 
+## Rise-opmaak per blok (21 november 2026)
+
+De Magic import van MFA-L01 zette de hele les in één tabs-blok met lange lappen tekst. Martijn: content goed, vormgeving onbruikbaar. Nieuwe route: `tools/maak_rise_word.py <LES>` maakt een bouwboek (Word) en een bouwlijst met per scherm het Rise-blok, korte alinea's, echte opsommingen, tabs, accordeon, proces en flashcards uit "Naam: tekst"-onderdelen, sorteeroefeningen uit de lestekst en doorgaan-knoppen met Complete block above na iedere oefening (navigatie Restricted). Lessen zijn verdeeld in delen van ongeveer 15 minuten, ieder deel een Rise-les. Klaar voor MFA-L01, MFA-L02, MFA-L04 en MC-L05; de rest volgt bij de uitbreiding. Zie [import- en bouwroute](../articulate/import-en-bouwroute.md).
+
 ## Open beslissingen
 
 | Nr | Beslissing | Wie | Gevolg als open |

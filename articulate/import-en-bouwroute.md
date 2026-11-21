@@ -40,6 +40,25 @@ Een promptset moet dus de exacte masterversie, scherm- en vraag-ID's, bloktype, 
 
 ## Hulpmiddelen
 
+## Bouw per blok (vanaf 21 november 2026)
+
+De proef met Magic Lesson Import van MFA-L01 gaf een onbruikbare vorm: Rise zette alle schermen als tabbladen in een tabs-blok en voegde alinea's samen tot lange lappen tekst. De inhoud was goed. Volgens de documentatie kiest de AI bij die import zelf de blokken. Een staffreactie op het Articulate-forum bevestigt dat die AI de tekst kan inkorten of herschrijven.
+
+Daarom is de standaardroute nu een bouw per blok. `tools/maak_rise_word.py <LES>` maakt een bouwboek in Word en een bouwlijst met blokken. Het bouwboek deelt een les op in delen van ongeveer 15 minuten, en ieder deel wordt in Rise een eigen les. Per scherm staat er welk Rise-blok elk inhoudsdeel wordt en waar dat blok in Rise te vinden is. De tekst eronder kan zo in het blok worden geplakt, of bij tabs, accordeon en proces via Magic text import worden ingevoerd. Die functie behoudt volgens de documentatie de oorspronkelijke tekst.
+
+Het script verandert geen woorden. Het voert alleen deze bewerkingen uit:
+- alinea's van meer dan vier zinnen opknippen;
+- opsommingen binnen een zin omzetten naar echte opsommingen;
+- onderdelen als "Naam: tekst" omzetten naar tabbladen, een accordeon of flashcards;
+- een kernboodschap aan het eind van een scherm in een Note zetten;
+- de aanloop van een kennischeck in de vraag zelf zetten.
+
+Twee dingen zijn wel nieuw:
+- Een sorteeroefening, waar een scherm met tabbladen of een accordeon opsommingen bevat. De categorieën en kaarten komen uit de lestekst.
+- Doorgaan-knoppen. Na ieder interactief blok en iedere kennischeck staat een knop met de instelling Complete block above, zoals Martijn op 21 november 2026 vroeg. Een scherm zonder oefening sluit af met een knop zonder voorwaarde. De cursusnavigatie moet daarvoor op Restricted staan.
+
+De werkwijze voor de bouwer staat per les in de projectmap, in `articulate-proef/prompts/rise-werkwijze.md`; het bouwboek en de bouwlijst staan in `articulate-proef/rise/<LES>/`.
+
 `tools/maak_importversie.py <LES>` maakt uit de schermreview een schone Word-les en een interactieconfiguratie met scherm-, vraag- en antwoord-ID's en feedback. Zonder `--productie` is het een proefversie met op iedere pagina de melding dat de inhoud niet medisch is vrijgegeven. Met `--productie` weigert het script zolang een scherm niet `medisch_goedgekeurd` met reviewdatum is. De [promptset](promptset-bouw.md) beschrijft de stappen in Rise en het [bouwlog](../templates/bouwlog.md) legt iedere bouw vast. De uitvoer staat in `build/` en wordt niet in de repository opgenomen.
 
 ## Acceptatie van het proefpakket
