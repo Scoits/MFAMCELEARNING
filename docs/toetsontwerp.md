@@ -103,4 +103,4 @@ De positieve reactie verandert de open status van afzonderlijke medische vraagin
 
 ## Eisen aan de vragenbank (afspraak 21 november 2026)
 
-DRTC is eigenaar van de vragenbank. Mathanje keurt de vragen medisch goed. Wij leveren voorstellen. Iedere vraag heeft een vraag-ID, een leerdoel-ID en een bronverwijzing met editie en pagina. De [toetsmatrijs](toetsmatrijs-v001.md) legt de verdeling over leerdoelen en moeilijkheidsniveaus vast. Echte toetsvragen staan niet in deze openbare repository.
+DRTC is eigenaar van de vragenbank. Mathanje keurt de vragen medisch goed. Wij leveren voorstellen. Iedere vraag heeft een vraag-ID, een leerdoel-ID en een bronverwijzing met editie en pagina. De [toetsblauwdruk](toetsblauwdruk-v001.md) legt de verdeling over leerdoelen en niveaus vast, op basis van de [toetsmatrijs](toetsmatrijs-v001.md). Echte toetsvragen staan niet in deze openbare repository.

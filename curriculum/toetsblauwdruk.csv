@@ -1,0 +1,121 @@
+cursus,categorie,leerdoel_id,niveau,online_toetsbaar,minimaal_bankitems,kandidaat_kritiek
+MFA,MFA-T00,MFA-00.01,toepassing,ja,3,Ja
+MFA,MFA-T00,MFA-00.02,toepassing,ja,3,Ja
+MFA,MFA-T00,MFA-00.03,toepassing,ja,3,Ja
+MFA,MFA-T00,MFA-00.04,toepassing,ja,3,Ja
+MFA,MFA-T01,MFA-01.01,kennis,ja,2,Nee
+MFA,MFA-T01,MFA-01.02,kennis,ja,2,Nee
+MFA,MFA-T01,MFA-01.03,kennis,ja,2,Nee
+MFA,MFA-T01,MFA-01.04,toepassing,voorbereiding,2,Nee
+MFA,MFA-T02,MFA-02.01,kennis,ja,2,Nee
+MFA,MFA-T02,MFA-02.02,kennis,ja,2,Nee
+MFA,MFA-T02,MFA-02.03,kennis,ja,2,Nee
+MFA,MFA-T02,MFA-02.04,kennis,ja,2,Nee
+MFA,MFA-T03,MFA-03.01,kennis,ja,2,Nee
+MFA,MFA-T03,MFA-03.02,toepassing,nog te bepalen,2,Nee
+MFA,MFA-T03,MFA-03.03,kennis,ja,2,Nee
+MFA,MFA-T03,MFA-03.04,toepassing,voorbereiding,2,Nee
+MFA,MFA-T04,MFA-04.01,kennis,ja,3,Nee
+MFA,MFA-T04,MFA-04.02,kennis,ja,3,Nee
+MFA,MFA-T04,MFA-04.03,toepassing,ja,3,Nee
+MFA,MFA-T04,MFA-04.04,kennis,ja,3,Nee
+MFA,MFA-T05,MFA-05.01,kennis,ja,2,Nee
+MFA,MFA-T05,MFA-05.02,kennis,ja,2,Nee
+MFA,MFA-T05,MFA-05.03,toepassing,voorbereiding,2,Nee
+MFA,MFA-T05,MFA-05.04,kennis,ja,2,Nee
+MFA,MFA-T06,MFA-06.01,kennis,ja,2,Nee
+MFA,MFA-T06,MFA-06.02,toepassing,voorbereiding,2,Nee
+MFA,MFA-T06,MFA-06.03,toepassing,voorbereiding,2,Nee
+MFA,MFA-T06,MFA-06.04,toepassing,ja,2,Nee
+MFA,MFA-T06,MFA-06.05,kennis,ja,2,Nee
+MFA,MFA-T06,MFA-06.06,toepassing,voorbereiding,2,Nee
+MFA,MFA-T07,MFA-07.01,kennis,ja,2,Nee
+MFA,MFA-T07,MFA-07.02,toepassing,ja,2,Nee
+MFA,MFA-T07,MFA-07.03,kennis,ja,2,Nee
+MFA,MFA-T07,MFA-07.04,kennis,ja,2,Nee
+MFA,MFA-T07,MFA-07.05,toepassing,voorbereiding,2,Nee
+MFA,MFA-T08,MFA-08.01,toepassing,ja,3,Nee
+MFA,MFA-T08,MFA-08.02,kennis,ja,3,Nee
+MFA,MFA-T08,MFA-08.03,kennis,ja,3,Nee
+MFA,MFA-T09,MFA-09.01,kennis,ja,3,"Ja, voor contact bij levensbedreiging"
+MFA,MFA-T09,MFA-09.02,kennis,ja,3,"Ja, voor contact bij levensbedreiging"
+MFA,MFA-T09,MFA-09.03,toepassing,ja,3,"Ja, voor contact bij levensbedreiging"
+MFA,MFA-T10,MFA-10.01,toepassing,nog te bepalen,2,Nee
+MFA,MFA-T10,MFA-10.02,kennis,ja,2,Nee
+MFA,MFA-T10,MFA-10.03,toepassing,ja,2,Nee
+MFA,MFA-T11,MFA-11.01,kennis,ja,3,Nee
+MFA,MFA-T11,MFA-11.02,toepassing,voorbereiding,3,Nee
+MFA,MFA-T12,MFA-12.01,toepassing,ja,2,Ja
+MFA,MFA-T12,MFA-12.02,toepassing,voorbereiding,2,Ja
+MFA,MFA-T12,MFA-12.03,toepassing,ja,2,Ja
+MFA,MFA-T12,MFA-12.04,kennis,ja,2,Ja
+MFA,MFA-T13,MFA-13.01,kennis,ja,2,Nee
+MFA,MFA-T13,MFA-13.02,toepassing,ja,2,Nee
+MC,MC-T1,MC-32.01,kennis,ja,4,Nee
+MC,MC-T1,MC-32.02,kennis,ja,4,Nee
+MC,MC-T2,MC-01.01,kennis,ja,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-01.02,toepassing,ja,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-02.01,kennis,ja,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-02.02,toepassing,voorbereiding,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-03.01,kennis,ja,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-03.02,toepassing,voorbereiding,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-04.01,toepassing,ja,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-04.02,toepassing,ja,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-05.01,kennis,ja,2,"Ja, voor ernstige bloeding"
+MC,MC-T2,MC-05.02,toepassing,voorbereiding,2,"Ja, voor ernstige bloeding"
+MC,MC-T3,MC-06.01,kennis,ja,2,Nee
+MC,MC-T3,MC-06.02,toepassing,ja,2,Nee
+MC,MC-T3,MC-07.01,kennis,ja,2,Nee
+MC,MC-T3,MC-07.02,toepassing,ja,2,Nee
+MC,MC-T3,MC-08.01,toepassing,voorbereiding,2,Nee
+MC,MC-T3,MC-08.02,toepassing,voorbereiding,2,Nee
+MC,MC-T3,MC-10.01,toepassing,voorbereiding,2,Nee
+MC,MC-T3,MC-10.02,toepassing,voorbereiding,2,Nee
+MC,MC-T3,MC-11.01,toepassing,ja,2,Nee
+MC,MC-T3,MC-11.02,toepassing,voorbereiding,2,Nee
+MC,MC-T3,MC-34.01,kennis,ja,2,Nee
+MC,MC-T3,MC-34.02,toepassing,voorbereiding,2,Nee
+MC,MC-T4,MC-12.01,kennis,ja,4,"Ja, voor herkennen van verslechtering"
+MC,MC-T4,MC-12.02,toepassing,ja,4,"Ja, voor herkennen van verslechtering"
+MC,MC-T4,MC-13.01,kennis,ja,4,"Ja, voor herkennen van verslechtering"
+MC,MC-T4,MC-13.02,toepassing,voorbereiding,4,"Ja, voor herkennen van verslechtering"
+MC,MC-T5,MC-09.01,kennis,ja,3,Nee
+MC,MC-T5,MC-09.02,toepassing,ja,3,Nee
+MC,MC-T5,MC-14.01,kennis,ja,3,Nee
+MC,MC-T5,MC-14.02,toepassing,voorbereiding,3,Nee
+MC,MC-T5,MC-15.01,kennis,ja,3,Nee
+MC,MC-T5,MC-15.02,kennis,ja,3,Nee
+MC,MC-T5,MC-16.01,kennis,ja,3,Nee
+MC,MC-T5,MC-16.02,toepassing,ja,3,Nee
+MC,MC-T5,MC-17.01,kennis,ja,3,Nee
+MC,MC-T5,MC-17.02,toepassing,voorbereiding,3,Nee
+MC,MC-T6,MC-18.01,kennis,ja,2,Nee
+MC,MC-T6,MC-18.02,toepassing,ja,2,Nee
+MC,MC-T6,MC-19.01,kennis,ja,2,Nee
+MC,MC-T6,MC-19.02,toepassing,voorbereiding,2,Nee
+MC,MC-T6,MC-20.01,kennis,ja,2,Nee
+MC,MC-T6,MC-20.02,kennis,ja,2,Nee
+MC,MC-T6,MC-21.01,kennis,ja,2,Nee
+MC,MC-T6,MC-21.02,toepassing,ja,2,Nee
+MC,MC-T6,MC-22.01,toepassing,ja,2,Nee
+MC,MC-T6,MC-22.02,toepassing,voorbereiding,2,Nee
+MC,MC-T7,MC-23.01,toepassing,ja,2,Nee
+MC,MC-T7,MC-23.02,kennis,ja,2,Nee
+MC,MC-T7,MC-24.01,kennis,ja,2,Nee
+MC,MC-T7,MC-24.02,kennis,ja,2,Nee
+MC,MC-T7,MC-25.01,toepassing,voorbereiding,2,Nee
+MC,MC-T7,MC-25.02,kennis,ja,2,Nee
+MC,MC-T8,MC-26.01,kennis,ja,2,Nee
+MC,MC-T8,MC-26.02,kennis,ja,2,Nee
+MC,MC-T8,MC-27.01,toepassing,voorbereiding,2,Nee
+MC,MC-T8,MC-27.02,toepassing,voorbereiding,2,Nee
+MC,MC-T8,MC-33.01,kennis,ja,2,Nee
+MC,MC-T8,MC-33.02,toepassing,voorbereiding,2,Nee
+MC,MC-T9,MC-28.01,kennis,ja,2,"Ja, voor medisch advies en evacuatie"
+MC,MC-T9,MC-28.02,toepassing,voorbereiding,2,"Ja, voor medisch advies en evacuatie"
+MC,MC-T9,MC-29.01,toepassing,ja,2,"Ja, voor medisch advies en evacuatie"
+MC,MC-T9,MC-29.02,toepassing,voorbereiding,2,"Ja, voor medisch advies en evacuatie"
+MC,MC-T9,MC-30.01,toepassing,ja,2,"Ja, voor medisch advies en evacuatie"
+MC,MC-T9,MC-30.02,kennis,ja,2,"Ja, voor medisch advies en evacuatie"
+MC,MC-T9,MC-31.01,kennis,ja,2,"Ja, voor medisch advies en evacuatie"
+MC,MC-T9,MC-31.02,toepassing,voorbereiding,2,"Ja, voor medisch advies en evacuatie"
