@@ -11,13 +11,14 @@ Deze repository ondersteunt de ontwikkeling van de hybride STCW-opleidingen Medi
 | Aanbod | Zelfstandig te volgen onderdelen en een gecombineerd traject |
 | Taal | Nederlandse master; gelijkwaardige Engelse vertaling daarna |
 | Bouw en levering | Articulate 360 en zelf gehost Moodle |
+| Visuele stijl | Bestaande DRTC-stijl en templates in Articulate hergebruiken |
 | Medische eindgoedkeuring | Mathanje |
 
 DRTC is volgens Martijn erkend en heeft deze ontwikkeling met ILT besproken. Beschrijf die context correct; presenteer het gesprek niet als een al verleende formele erkenning van de nieuwe hybride uitvoering. Maak bestaande erkenningsbesluiten niet tot voorwaarde om het ontwerpwerk te starten.
 
 ## Begin met de bestaande projectdocumenten
 
-Lees `README.md`, `docs/ontwerpkader.md`, `docs/status.md`, `sources/README.md` en `sources/register.csv`. Gebruik de starters in `curriculum/` als werkschema, niet als bewijs dat de volledige mapping al is afgerond. Voor Claude staat de overdracht in `CLAUDE.md` en de eerste opdracht in `prompts/claude-start.md`.
+Lees `README.md`, `docs/ontwerpkader.md`, `docs/status.md`, `sources/README.md` en `sources/register.csv`. Gebruik de uitgewerkte matrices in `curriculum/` als ontwerp met traceerbare bronstatus; zij zijn nog geen bewijs van medisch vastgestelde en daadwerkelijk uitgevoerde dekking. Voor Claude staat de overdracht in `CLAUDE.md` en de eerste opdracht in `prompts/claude-start.md`.
 
 ## Bronnen en inhoud
 
@@ -36,3 +37,21 @@ Werk met korte, herkenbare bestandsnamen, stabiele leerdoelcodes en gerichte wij
 De repository is bij aanvang openbaar. Sla originele boeken, presentaties, video's en andere beschermde bronbestanden op de daarvoor bestemde bronlocatie op; verwijs ernaar vanuit het bronregister. Houd echte summatieve vragen, antwoordmodellen en cursistgegevens buiten deze openbare repository. Openbare voorbeelden zijn herkenbaar oefenmateriaal.
 
 Schrijf professioneel, concreet en in helder Nederlands. Gebruik geen decoratieve streepjes of icoontjes. Gebruik tabellen voor vergelijkbare gegevens en gewone alinea's voor uitleg. Meld wat daadwerkelijk is opgeleverd en gecontroleerd, met beperkingen die voor de volgende stap van belang zijn.
+
+## Aanvullingen na projectcontrole
+
+Dit project blijft STCW MFA/MC. Tender-, NOGEPA-, Security Awareness- en GWO-materiaal is geen automatisch toepasselijk curriculum. Hergebruik hoogstens de onderbouwde werkwijze. Stel reeds beantwoorde scope-, taal-, platform- en reviewvragen niet opnieuw.
+
+Lees `docs/projectcontrole-v003.md`, `articulate/stijlgids.md`, `articulate/import-en-bouwroute.md` en `moodle/chainwise-keten.md`. Gebruik vaste scherm-ID's en het schema `templates/schermreview.csv`. Houd reviewmaster en schone Articulate-importinhoud gescheiden. Interne onzekerheden horen niet als cursistentekst in de import.
+
+De eerder bevestigde architectuur is website en ChainWise gekoppeld aan Moodle, met Moodle gehost bij Hetzner. De concrete werking is nog niet gecontroleerd. S035 en S036 voegen eerder aangeleverde uitvoerings- en kwalificatiebronnen toe. De Covid-termijn uit S035 is geen vastgesteld huidig interval. Bouw geen zelfbedachte API's, toetsnormen of medische technieken om open velden te vullen.
+
+Martijn heeft bevestigd dat de Articulate-stijl al bestaat. Gebruik die bestaande stijl voor MFA, MC en de Engelse opvolgers. De stijlgids vult schrijfwijze, schermstructuur en review aan binnen die vormgeving. Neem concrete thema-instellingen bij de bouw over uit de bestaande Articulate-bron; de exacte cursus- of templatelink is nog niet in dit dossier vastgelegd.
+
+Alle online lessen, interacties, scenario's en toetsen moeten bruikbaar zijn op mobiel, tablet en computer. Dit is door Martijn bevestigd. Gebruik `docs/cursusopbouw-voor-medische-review.md` voor de bespreekversie en mobiele acceptatiecriteria. Ontwerp voor touch en een staand telefoonscherm en verifieer de hele leerroute inclusief toetsing en hervatten. De werking is nog niet getest.
+
+Mathanjes via Martijn ontvangen reactie is vastgelegd in `reviews/2026-11-20-mathanje-hoofdlijnen.md`. Behoud het onderscheid tussen positieve hoofdlijnenfeedback, praktijkvoorstellen en medische detailvrijgave. De MFA-indeling en beide MC-alternatieven staan in `docs/praktijkindeling.md`. Verzin geen gekozen MC-variant of slagingspercentage. Conceptuitwerking kan doorgaan met deze keuzes zichtbaar open.
+
+## Vaste afspraken
+
+Lees eerst `docs/afspraken.md`: de vaste afspraken met Martijn. Bij verschil met andere documenten gaan die afspraken voor.

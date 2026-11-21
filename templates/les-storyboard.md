@@ -30,7 +30,7 @@ Beschrijf wat de cursist na deze les aantoonbaar weet of kan beslissen. Leg fysi
 
 ## Lesverloop
 
-Herhaal dit blok per scherm of samenhangend Rise-blok.
+Herhaal dit blok per scherm of samenhangend Rise-blok. Gebruik stabiele ID's zoals `MFA-L07-S01` en dezelfde velden als [schermreview.csv](schermreview.csv). Leg per scherm Mathanjes status en opmerking vast; een leeg veld is geen akkoord. Maak uit de vastgestelde master later een afzonderlijke schone importversie.
 
 ### Scherm of blok [ID en titel]
 

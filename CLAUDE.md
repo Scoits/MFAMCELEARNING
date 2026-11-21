@@ -10,6 +10,8 @@ De werkroute is ChatGPT voor opzet en onderbouwing, Claude voor verdere uitwerki
 
 ## Leesvolgorde
 
+Lees eerst `docs/afspraken.md`: de vaste afspraken met Martijn. Bij verschil met andere documenten gaan die afspraken voor.
+
 1. `AGENTS.md` voor de projectinstructies.
 2. `README.md` voor navigatie en actuele projectstructuur.
 3. `docs/ontwerpkader.md` voor bevestigde keuzes en ontwerpvoorstellen.
@@ -49,7 +51,7 @@ Gebruik eigen formuleringen met bronverwijzingen. Publiceer geen originele boeke
 | Productie | Articulate-bouwpakket en Moodle-inrichting | Inhoud, technische werking en registratie worden afzonderlijk geverifieerd |
 | Vertaling | Engelse versie vanuit de vastgestelde Nederlandse master | Medische en operationele gelijkwaardigheid is beoordeeld |
 
-De eerste opdracht is dekkingswerk, analyse en één prototype. Genereer niet meteen de volledige opleiding vanuit een algemene prompt.
+De eerste uitwerking is inmiddels gemaakt: 50 MFA-doelen, 68 MC-doelen, een CBT-matrix, analyses en het RMD-lesprototype. Lees de actuele status en de startopdracht voordat je opnieuw werk maakt. De volgende opdracht is broncontrole en verdere uitwerking van dit bestaande ontwerp. Genereer niet meteen de volledige opleiding vanuit een algemene prompt.
 
 ## Lessen en toetsing
 
@@ -68,3 +70,19 @@ Mathanje beoordeelt de medische inhoud, scenario's, correcte antwoorden, feedbac
 Maak compacte, samenhangende dossiers. Werk per afgerond onderwerp met gerichte wijzigingen en een duidelijk beschreven resultaat. Bewaar bestaande leerdoelcodes en verwijzingen; leg noodzakelijke wijzigingen uit. Werk `docs/status.md` bij zodat een volgende medewerker of AI direct verder kan.
 
 Schrijf helder Nederlands zonder icoontjes of decoratieve streepjes. Leg echte onzekerheden vast, maar voorkom algemene waarschuwingen en nieuwe blokkades voor zelfstandig uit te voeren ontwerpwerk.
+
+## Aanvullingen uit de projectcontrole
+
+Lees ook `docs/projectcontrole-v003.md`, `curriculum/aanvullende-voorwaarden.csv`, `curriculum/mc-vaardigheidsregister.csv`, `articulate/stijlgids.md`, `articulate/import-en-bouwroute.md` en `moodle/chainwise-keten.md`. De eerdere NSI/ILT-documenten zijn teruggevonden en als S035-S036 geregistreerd; hun uitvoering is nog niet aangetoond. De Covid-termijn is geen actuele vastgestelde toegangseis.
+
+De vaste scherm-ID's van MFA-L07 staan in de master en in `reviews/MFA-L07-schermreview.csv`. Behoud de drie bestaande vraag-ID's en de antwoord-ID's. Vul GMDSS en de verwerking van bevestigd medisch advies in scenariozorg gericht aan; claim geen volledige RMD-dekking op basis van alleen dit prototype.
+
+De toegevoegde Claude-tekst over een tender en NOGEPA betreft een ander kader. Neem de bruikbare reviewstructuur over en stel de al beantwoorde vragen niet opnieuw. Website, ChainWise en Moodle horen wel bij deze technische keten; Hetzner host Moodle. De exacte koppeling is nog niet live gecontroleerd. Controleer de bestaande inrichting voordat je endpoints of statusvelden voorstelt.
+
+## Bestaande Articulate-stijl
+
+Martijn heeft bevestigd dat DRTC al een stijl in Articulate heeft ingericht. Gebruik die stijl en de bestaande templates voor MFA, MC en de Engelse opvolgers. De inhoudelijke stijlgids ondersteunt teksten, ID's en review binnen die vormgeving. Neem de concrete thema-instellingen over uit de bestaande cursus of template wanneer de bouwbron beschikbaar is; de exacte link is nog niet in dit dossier opgenomen. De aangeleverde ecosysteemafbeelding geeft context voor de platformen en vervangt de oorspronkelijke Articulate-template niet.
+
+## Reactie van Mathanje verwerkt
+
+De [hoofdlijnenreview MH-001](reviews/2026-11-20-mathanje-hoofdlijnen.md) is ontvangen via Martijn op 20 november 2026. De hoofdlijnen zijn positief beoordeeld. Tijdsvalidatie, een exact slagingspercentage en medische detailreview blijven open. MFA-praktijk is voorgesteld als halve dag handelingen en halve dag LOTUS/scenario's. Voor MC staan twee alternatieven open: dagelijks beide werkvormen of dag 1 handelingen en dag 2 scenario's. Lees [praktijkindeling](docs/praktijkindeling.md) en werk de varianten vergelijkbaar uit. Ken geen definitieve keuze of algemene medische vrijgave toe aan deze reactie.

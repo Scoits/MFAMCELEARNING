@@ -15,6 +15,8 @@ De plaats van de afsluitende toets is een voorstel en nog geen bevestigd project
 
 Voor gewone Moodle-SCORM-activiteiten is SCORM 1.2 een voorlopig uitgangspunt. Native ondersteuning voor SCORM 2004 mag niet worden verondersteld. Controleer de werkelijke installatie voordat een definitieve exportinstelling wordt vastgelegd.
 
+Bij ingebedde Storyline-scenario's worden afronding, totaalscore en afzonderlijke antwoorden apart beoordeeld. Ga niet uit van volledige registratie van alle scenariokeuzes. Zie [het integratieplan](../articulate/integratieplan.md) voor de voorgestelde routes en technische proef.
+
 ## Technische proef
 
 | Proef | Te controleren resultaat |
@@ -28,10 +30,14 @@ Voor gewone Moodle-SCORM-activiteiten is SCORM 1.2 een voorlopig uitgangspunt. N
 | Ondersteuning | Cursist kan technisch en inhoudelijk hulp vragen |
 | Overdracht naar praktijk | Instructeur kan vooraf zien welke theorie is afgerond en waar begeleiding nodig is |
 
-De identificatieprocedure wordt afzonderlijk uitgewerkt voor de in IaT 4 genoemde momenten. Een account of login bewijst op zichzelf niet dat alle controles zijn uitgevoerd. Exacte slagingsnormen, pogingen en toegangseisen worden later vastgesteld.
+De identificatieprocedure voor de in IaT 4 genoemde momenten staat als voorstel in [identificatieplan](../docs/identificatieplan-v001.md). Een account of login bewijst op zichzelf niet dat alle controles zijn uitgevoerd. Exacte slagingsnormen, pogingen en toegangseisen worden later vastgesteld.
 
 Gebruik testaccounts en fictieve gegevens voor de proef. Bewaar echte cursistgegevens, configuratiegeheimen en examenvragen in de daarvoor bestemde afgeschermde omgeving.
 
 ## Technische bronnen
 
 [Moodle SCORM FAQ](https://docs.moodle.org/en/SCORM_FAQ), [Moodle Building Quiz](https://docs.moodle.org/en/Building_Quiz) en [Moodle Question banks](https://docs.moodle.org/en/Question_bank). Deze productdocumentatie vervangt geen test op de concrete DRTC-installatie.
+
+## Bestaande keten en acceptatie
+
+Volgens Martijn is ChainWise gekoppeld aan Moodle en koppelt de DRTC-website aan Moodle voor inschrijvingen. Hetzner host Moodle. Deze gebruikersbevestigde architectuur is opgenomen in [website, ChainWise en Moodle](chainwise-keten.md), met voorgestelde gegevensverantwoordelijkheid en acht acceptatieproeven. API's, authenticatie, velden en actuele synchronisatie zijn nog niet geïnspecteerd. Er wordt geen nieuwe koppeling uitgerold op basis van deze ontwerptekst.

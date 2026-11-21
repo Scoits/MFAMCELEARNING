@@ -9,6 +9,7 @@ sources/local/
 *.story
 *.zip
 articulate/exports/
+build/
 moodle/backups/
 
 # Persoonlijke gegevens en geheimen

@@ -1,0 +1,150 @@
+lesson_id,screen_id,learning_goal_ids,title,learner_text,voice_over,interaction,feedback_correct,feedback_incorrect,source_ids,source_location,media_ids,platform_block,minutes_estimate,review_status,medical_reviewer,mathanje_comment,version,review_date
+MFA-L07,MFA-L07-S01,MFA-09.01;MFA-09.02,De situatie aan boord,"Tijdens dekwerk is een opvarende gewond geraakt. De eerste hulp en het inschakelen van hulp zijn in deze oefening al georganiseerd. Jij helpt de contactpersoon door de beschikbare gegevens overzichtelijk klaar te zetten. Welke informatie is zeker, wat ontbreekt nog en wat moet de arts kunnen terugvinden?
+
+Je werkt uitsluitend met fictieve gegevens. Verstuur tijdens de cursus niets naar een echte hulpdienst.",Niet van toepassing; geen voice-over geselecteerd in dit prototype,Begin oefening en Open officiële bron; bronknop S030; geen verzendactie,Niet van toepassing,Niet van toepassing,S003,"S003 Part C10.1-10.2, gedrukte p16 / PDF22; fictieve DRTC-scène",MFA-L07-M01,Rise tekst en afbeelding; knoppen,2,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S02,MFA-09.01,Eerst de passende contactprocedure,"Bij een levensbedreigende situatie beschrijft de KNRM-procedure direct contact met de Nederlandse Kustwacht. Het volledig invullen van een formulier is dan geen reden om dat contact uit te stellen. De beschikbare communicatiemiddelen en positie van het schip bepalen mede hoe contact wordt gelegd.
+
+In deze les oefen je het voorbereiden en overdragen van informatie. De actuele contactprocedure staat bij de officiële bron. De praktische uitvoering oefen je met de instructeur.
+
+Plaats ieder label bij de passende kaart: Hulp inschakelen of Gegevens voorbereiden.
+Labels: Urgente hulpvraag; Informatie ordenen.
+Kaarten: Hulp inschakelen; Gegevens voorbereiden.",Niet van toepassing; geen voice-over geselecteerd in dit prototype,I07-01 sorteeropdracht. I07-01-A Urgente hulpvraag -> I07-01-T1 Hulp inschakelen. I07-01-B Informatie ordenen -> I07-01-T2 Gegevens voorbereiden. Toon directe feedback per plaatsing; geen formeel examencijfer.,Hulp inschakelen hoort bij de urgente hulpvraag. Informatie ordenen hoort bij gegevens voorbereiden. Voorbereiding is een hulpmiddel en geen verplichte wachtrij vóór hulp.,Bekijk welke kaart over hulp inschakelen gaat en welke over informatie ordenen. Het volledig invullen van een formulier is geen reden om urgente hulp uit te stellen.,S032,"S032 gedruktep7, Communicatie met de artsen; medische urgentieformulering te beoordelen",,Rise tekst en sorteerinteractie,3,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S03,MFA-09.01;MFA-09.02,Werk met de officiële vragenlijst,"Open de officiële KNRM-vragenlijst. Zoek waar je informatie over het schip, de patiënt, het incident of de klachten en je vraag aan de arts vastlegt. Het actuele formulier vraagt ook naar nationaliteit. Gebruik de rubrieken om gestructureerd te werken; maak er geen eigen vervangende medische checklist van.
+
+Open de officiële vragenlijst. Noteer voor ieder van de drie labels de bijbehorende rubriek of pagina: scheepsinformatie, patiëntinformatie en inhoud van de hulpvraag. Vergelijk jouw indeling daarna met de officiële bron.
+Labels: Scheepsinformatie; Patiëntinformatie; Inhoud van de hulpvraag.
+Knop: Bekijk zelfcontrole.",Niet van toepassing; geen voice-over geselecteerd in dit prototype,Open zelfcontrole I07-02. I07-02-A Scheepsinformatie; I07-02-B Patiëntinformatie; I07-02-C Inhoud van de hulpvraag. Cursist vergelijkt eigen rubriek of paginavindplaats met S031. Knop I07-02-CHECK toont: Het formulier helpt gegevens terugvindbaar te ordenen. In een echte hulpvraag zijn de officiële werkwijze en de aanwijzingen van de betrokken hulpverleners leidend. Geen automatische score. Geen nagebouwd formulier. Opslag van eventueel tekstveld nog te testen.,Niet van toepassing; open zelfcontrole zonder automatische beoordeling,Niet van toepassing; open zelfcontrole zonder automatische beoordeling,S030;S031,S031 p1-4; S030 standaardvragenlijst,MFA-L07-M02,Rise tekst bronlink en oefenlabels,4,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S04,MFA-09.02,Feiten en ontbrekende informatie,"| Gegeven | Beschikbaar in het scenario |
+| --- | --- |
+| Schip | OEFENSCHIP A |
+| Tijdstip incident | 15.40 UTC |
+| Gebeurtenis | De opvarende heeft de rechterhand gestoten tijdens dekwerk |
+| Letterlijke klacht | De opvarende zegt dat de rechterhand pijn doet |
+| Verloop | Voor dit deel van de oefening nog geen nieuwe waarneming beschikbaar |
+| Ademfrequentie | Nog niet gemeten |
+| Medicatie | Niet bevestigd; de contactpersoon laat dit controleren |
+| Nationaliteit | Nog niet op de oefenkaart vermeld |
+
+Je weet de ademfrequentie niet. Wat noteer je?
+K07-01-A: Ik vul een gebruikelijke waarde in, zodat het formulier compleet lijkt
+K07-01-C: Ik laat het vak zonder toelichting leeg en ga verder met het volgende
+K07-01-B: Ik noteer dat de waarde nog niet bekend is en laat die aanvullen",Niet van toepassing; geen voice-over geselecteerd in dit prototype,K07-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden,K07-01-B: Juist voor deze communicatieoefening. Maak zichtbaar wat bekend en nog onbekend is; laat noodzakelijke hulp niet wachten op een volledig formulier.,"K07-01-A: Onjuist. Daarmee presenteer je een aanname als gemeten feit.
+K07-01-C: Onvoldoende duidelijk. De ontvanger kan niet zien of het gegeven ontbreekt of is vergeten.",S003;S031,"S003 Part C10.2, gedrukte p16 / PDF22; S031 p1-4 voor gegevensvelden; fictieve oefendata en DRTC-communicatiekeuzes",,Rise tekst tabel en kennischeck,4,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S05,MFA-09.02,Orden de melding,"Maak met de oefengegevens een korte opening voor het gesprek. Gebruik de gegevens die werkelijk beschikbaar zijn. Vermeld wat er is gebeurd, wanneer dat was en welke informatie nog wordt aangevuld. Formuleer de vraag aan de arts zonder zelf een onbevestigde diagnose toe te voegen.
+
+Dit is een oefenmelding van OEFENSCHIP A. Om 15.40 UTC heeft een opvarende tijdens dekwerk de rechterhand gestoten. De opvarende meldt pijn aan die hand. We verzamelen de overige gegevens voor het medisch overleg. Enkele gegevens, waaronder de ademfrequentie en het medicatieoverzicht, zijn nog niet bevestigd.
+
+Dit voorbeeld is bewust onvolledig als echte hulpaanvraag en wordt alleen beoordeeld op ordening en het onderscheiden van feiten en onzekerheden. Het vervangt de officiële vragenlijst of contactprocedure niet.
+
+Welke formulering past bij de gegeven informatie?
+K07-02-B: De opvarende meldt pijn na het stoten van de hand
+K07-02-A: De opvarende heeft zeker een botbreuk in de hand",Niet van toepassing; geen voice-over geselecteerd in dit prototype,"Eigen korte oefenmelding formuleren; voorbeeldrespons ter vergelijking, geen automatisch opgeslagen competentiebewijs
+
+K07-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden",K07-02-B: Juist voor deze communicatieoefening. Dit geeft de beschikbare feiten weer.,K07-02-A: Onjuist. Je voegt een niet-bevestigde diagnose toe aan de beschikbare feiten.,S003;S031,"S003 Part C10.2, gedrukte p16 / PDF22; S031 p1-4; nieuwe DRTC-oefenrespons",,Rise tekst voorbeeldrespons en kennischeck,3,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S06,MFA-09.03,Begrip controleren,"Een gesprek is pas bruikbaar als de betrokkenen hetzelfde begrijpen. Vat belangrijke aanwijzingen in je eigen woorden samen en laat onduidelijkheden verduidelijken. Noteer wat is afgesproken en wie de vervolgstap uitvoert. De precieze werkwijze en formulering worden tijdens de praktijkoefening beoordeeld.
+
+Je ontvangt dit fictieve bericht: Geef de volgende statusupdate om 16.10 UTC. Welke reactie maakt duidelijk dat je de tijdafspraak controleert?
+A: Ik neem zonder terugkoppeling aan dat lokale tijd wordt bedoeld.
+B: Ik antwoord: De volgende statusupdate is om 16.10 UTC, klopt dat?",Niet van toepassing; geen voice-over geselecteerd in dit prototype,Keuzeoefening I07-03; één keuze. I07-03-A is onjuist; I07-03-B is juist voor deze administratieve communicatieoefening. Geen behandelvraag.,De genoemde UTC-tijd expliciet terugmelden toont in deze oefening dat de afspraak is begrepen.,Stilzwijgend aannemen dat UTC lokale tijd is toont geen gecontroleerd begrip van de afspraak.,S003,"S003 Part C10.3, gedrukte p16 / PDF22; alleen voorbereidende DRTC-communicatieoefening",,Rise tekst en keuzeoefening,3,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S07,MFA-09.02;MFA-09.03,Leg het verloop vast,"Maak een korte oefennotitie met het moment van contact, beschikbare gegevens, onzekerheden, teruggekoppelde afspraak en uitvoerder. Als later nieuwe informatie beschikbaar komt, voeg je die met het bijbehorende tijdstip toe. Verander een eerdere onbekende waarde niet stilzwijgend in een toen al gemeten waarde.
+
+Je ontvangt na het gesprek een aanvullende waarneming. Hoe houd je het verloop zichtbaar?
+K07-03-A: Ik overschrijf de oorspronkelijke notitie zonder het nieuwe tijdstip
+K07-03-B: Ik voeg de waarneming met het bijbehorende tijdstip toe
+
+Gebruik uitsluitend de fictieve oefenkaart. Er worden in dit prototype geen echte persoonsgegevens gevraagd of bewaard.",Niet van toepassing; geen voice-over geselecteerd in dit prototype,"Korte oefennotitie maken met tijd onzekerheden teruggekoppelde afspraak en uitvoerder; opslagroute nog te testen
+
+K07-03: enkele keuze met directe formatieve feedback; antwoord-ID's behouden",K07-03-B: Juist voor deze oefening. Zo blijft het verloop zichtbaar.,K07-03-A: Onjuist voor deze oefening. Het verschil tussen de eerdere informatie en de aanvulling wordt onduidelijk.,S003,"S003 Part C10.2-10.3, gedrukte p16 / PDF22; registratievoorstel DRTC",,Rise tekst en kennischeck,3,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S09,MFA-09.01,GMDSS en de weg naar medisch advies,"Medisch advies op afstand loopt via de communicatiemiddelen van het schip. Het Global Maritime Distress and Safety System, kortweg GMDSS, is het internationale systeem voor nood-, spoed- en veiligheidscommunicatie op zee. Het verbindt schepen via radio en satelliet met reddingscoördinatiecentra aan wal. Langs deze weg kan een schip ook medische hulp of medisch advies vragen.
+
+De radiocommunicatie wordt normaal gevoerd door een opvarende met een passend GMDSS-certificaat. Jouw taak als eerstehulpverlener is de medische gegevens zo klaar te zetten dat het contact snel en doelmatig verloopt. Bij een levensbedreigende situatie beschrijft de KNRM-procedure direct contact met de Nederlandse Kustwacht.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K07-04: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Wat is jouw rol als eerstehulpverlener wanneer via GMDSS medisch advies wordt gevraagd?
+K07-04-A: Ik neem de radiocommunicatie over van de radio-operator
+K07-04-B: Ik zet de medische gegevens klaar en werk samen met de radio-operator (juist)
+K07-04-C: Ik begin pas met voorbereiden als de verbinding er is",K07-04-B: Juist. Zo verloopt het contact snel en krijgt de arts de informatie die nodig is.,"K07-04-A: Onjuist. De radiocommunicatie wordt normaal gevoerd door een opvarende met een passend GMDSS-certificaat. Jij levert de medische informatie aan.
+K07-04-C: Onjuist. Door de gegevens al klaar te zetten terwijl contact wordt gelegd, win je tijd.",S001;S003;S032;S039,"S001 tabel A-VI/4-1, gedrukte/PDF p201, kennisgebied radiomedisch advies; S003 Part C 10.1, gedrukte p16 / PDF p22; S032 gedrukte p7, Communicatie met de artsen. TE VERIFIËREN: Bevestig de beschrijving van GMDSS en de rol van de certificaathouder in SOLAS hoofdstuk IV (S039, niet gelezen). Mathanje en DRTC bevestigen dat deze les geen radioprocedure of berichtformulering onderwijst; dat blijft bij de GMDSS-opleiding.",,Rise tekst en kennischeck,4,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S10,MFA-09.03,Ontvangen advies uitvoeren,"Na het overleg heb je een advies dat moet worden uitgevoerd. Werk in vaste stappen:
+
+Lees het advies terug en laat bevestigen dat je het goed hebt begrepen.
+
+Schrijf het advies op met het tijdstip en de naam of functie van de adviseur.
+
+Spreek af wie wat uitvoert en wanneer.
+
+Voer alleen uit wat is afgesproken en wat je hebt geleerd. Vraag verduidelijking als een opdracht onduidelijk is of buiten je vaardigheden valt.
+
+Houd het afgesproken moment van terugmelden aan.
+
+Fictief oefenadvies, ontvangen om 16.05 UTC: Laat de patiënt rustig liggen. Meet om 16.20 UTC opnieuw pols en ademfrequentie. Neem om 16.30 UTC opnieuw contact op. Geef geen medicatie zonder overleg.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K07-05: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Welke notitie legt het ontvangen oefenadvies het best vast?
+K07-05-B: 16.05 UTC: de arts zegt dat het meevalt; we bellen later nog een keer terug als het nodig is
+K07-05-A: 16.05 UTC RMD: rustig laten liggen; 16.20 pols en ademfrequentie; 16.30 terugmelden; geen medicatie zonder overleg; teruggelezen (juist)
+K07-05-C: Pols meten en terugbellen; geen medicatie; de patiënt ligt rustig en de arts weet ervan","K07-05-A: Juist. De notitie bevat tijd, adviseur, alle afspraken, de bevestiging en wie uitvoert.","K07-05-B: Onjuist. Dit is een interpretatie. De afspraken, tijden en uitvoerder ontbreken.
+K07-05-C: Onvoldoende. Tijdstippen, adviseur, de afspraak over medicatie en de uitvoerder ontbreken.",S003;S032,"S003 Part C 10.3, gedrukte p16 / PDF p22; S032 gedrukte p7; het fictieve advies en de notitie zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt of het fictieve oefenadvies medisch passend is als oefencontext zonder dat het een behandelinstructie wordt. Controleer of S032 iets voorschrijft over teruglezen of vastleggen van advies; in de eerder gelezen passage is dat niet vastgesteld.",,Rise procesblok en kennischeck,4,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S11,MFA-09.03,Als de situatie verandert,"Een advies is gebaseerd op de informatie die de arts op dat moment had. Verandert de toestand van de patiënt, of zie je iets wat niet is besproken? Wacht dan niet tot het afgesproken moment. Neem opnieuw contact op en meld wat er is veranderd.
+
+Pas het advies niet zelf aan. Bij een levensbedreigende verslechtering zorg je eerst dat hulp en levensreddende handelingen op gang komen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K07-06: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Om 16.15 UTC reageert de patiënt minder goed op aanspreken dan eerder. Het afgesproken terugmeldmoment is 16.30 UTC. Wat doe je?
+K07-06-A: Ik wacht tot 16.30 UTC, zoals afgesproken
+K07-06-B: Ik meld de verandering direct en volg de nieuwe aanwijzingen (juist)
+K07-06-C: Ik geef zelf iets uit de medicijnkist om de patiënt te helpen",K07-06-B: Juist. De arts moet de nieuwe informatie hebben om het advies te kunnen herzien.,"K07-06-A: Onjuist. De afspraak ging uit van de toestand van 16.05 UTC. Een verandering meld je direct.
+K07-06-C: Onjuist. Je hebt afgesproken geen medicatie te geven zonder overleg. Pas het advies niet zelf aan.",S003,"S003 Part C 10.3, gedrukte p16 / PDF p22; herbeoordeling volgens MFA-04.04; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt of 'minder goed reageren op aanspreken' een passend en eenduidig voorbeeld van verslechtering is voor MFA-niveau.",,Rise tekst en kennischeck,3,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S14,MFA-09.02,Oefening: feit of eigen oordeel,"Een arts op afstand kan de patiënt niet zien. Hij moet het doen met wat jij vertelt. Geef daarom feiten: wat je ziet, wat je meet, en wat de patiënt letterlijk zegt. Een eigen oordeel, zoals een diagnose, kan de arts op het verkeerde spoor zetten.
+
+Sleep iedere kaart naar de juiste stapel.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"I07-05: sorteeroefening, Rise Sorting activity. Twee stapels: Feit of letterlijke klacht (I07-05-T1) en Eigen oordeel (I07-05-T2).
+I07-05-A: Om 15.40 UTC gevallen van een ladder, ongeveer twee meter -> T1
+I07-05-B: Hij zegt: ""Mijn pols doet pijn."" -> T1
+I07-05-C: Ademfrequentie nog niet gemeten -> T1
+I07-05-D: Pols 15.50 UTC: 88 per minuut (oefenwaarde) -> T1
+I07-05-E: Hij heeft zijn pols gebroken -> T2
+I07-05-F: Het is vast een hersenschudding -> T2
+I07-05-G: Hij stelt zich aan -> T2
+I07-05-H: Het valt wel mee -> T2
+Feedback bij een kaart op de verkeerde stapel: Een feit kun je zien, meten of letterlijk horen. Een oordeel is jouw uitleg ervan. Geef de arts de feiten en laat het oordeel aan de arts.",Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003;S032,Uitwerking van MFA-L07-S04 en S05 (feiten zonder eigen diagnose; onbekende waarden als onbekend); S032 gedrukte p7; de kaarten zijn DRTC-ontwerp.,,Rise sorteeroefening,4,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S15,MFA-09.02,Wat zeg je als je het niet weet?,De arts stelt vaak vragen waarop je het antwoord nog niet hebt. Dat is normaal.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K07-07: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: De arts vraagt of de patiënt allergisch is voor medicijnen. Je weet het niet. Wat zeg je?
+K07-07-A: ""Nee, dat denk ik niet. Hij heeft er in ieder geval nooit iets over gezegd.""
+K07-07-C: Je zegt niets en wacht op de volgende vraag, om het gesprek niet op te houden.
+K07-07-B: ""Dat weet ik niet. Ik laat het nu nagaan en meld het zodra ik het weet."" (juist)","K07-07-B: Juist. Je bent eerlijk, en je zorgt dat het ontbrekende gegeven zo snel mogelijk bekend wordt.","K07-07-A: Onjuist. Een gok kan de arts op een verkeerd idee brengen. Zeg dat je het niet weet en laat het nagaan.
+K07-07-C: Onjuist. Dan weet de arts niet of je de vraag hebt gehoord. Zeg dat je het niet weet en laat het nagaan.",S003;S031,Uitwerking van MFA-L07-S04 (onbekende waarden als onbekend noteren en gericht laten aanvullen); S031 vraagt naar medicijngebruik en allergieën; de vraag is DRTC-ontwerp. TE VERIFIËREN: Bevestig dat de actuele KNRM-vragenlijst (S031) een rubriek voor allergieën heeft.,,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S13,MFA-09.02;MFA-09.03,Casus: de brandwond in de kombuis melden,"Nog een situatie, nu in de kombuis. Jij zet de gegevens klaar en verwerkt het advies van de arts. Kies steeds wat je doet. Bij een verkeerde keuze krijg je uitleg en probeer je het opnieuw.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"I07-04: casus met keuzes, Rise Scenario-blok. Personages: Fatima (kok), Kees (kapitein) en Sanne (tweede stuurman met GMDSS-certificaat); fictief.
+Scène 1: Om 09.20 UTC morst Fatima hete olie over haar linkeronderarm. Een collega geeft de eerste hulp zoals in les 4. Kees wil medisch advies en vraagt jou de gegevens klaar te zetten. Wat doe je eerst?
+I07-04-1A: Je schrijft op wat er is gebeurd en hoe laat, wat er al is gedaan en sinds wanneer, en wat Fatima letterlijk zegt (juist). Feedback: Goed. Dit zijn de feiten die de arts als eerste nodig heeft. Wat je nog niet weet, schrijf je op als onbekend.
+I07-04-1B: Je wacht met opschrijven tot de arts aan de lijn is (onjuist). Feedback: Dan moet de arts alles vragen wat jij al weet, en dat kost tijd. Zet de gegevens klaar terwijl Sanne contact legt. Terug naar scène 1.
+I07-04-1C: Je zoekt eerst op internet wat de beste behandeling is (onjuist). Feedback: Jij stelt geen behandeling vast. Je verzamelt de feiten, zodat de arts kan beoordelen wat nodig is. Terug naar scène 1.
+Scène 2: De arts vraagt hoe groot de brandwond is. Je hebt het niet gemeten. Wat zeg je?
+I07-04-2A: ""Het is een tweedegraads brandwond van ongeveer vijf procent."" (onjuist) Feedback: Dat is een eigen oordeel dat je niet hebt geleerd vast te stellen. Beschrijf wat je ziet en zeg wat je niet weet. Terug naar scène 2.
+I07-04-2B: ""Het valt wel mee."" (onjuist) Feedback: Daar heeft de arts niets aan. Beschrijf waar de wond zit en hoe groot hij er ongeveer uitziet. Terug naar scène 2.
+I07-04-2C: ""De rode plek loopt van haar pols tot halverwege haar onderarm, aan de bovenkant. Ik heb het niet gemeten."" (juist) Feedback: Goed. Je beschrijft wat je ziet in gewone woorden en zegt eerlijk wat je niet hebt gemeten.
+Scène 3: Fictief oefenadvies om 09.35 UTC: ""Ga door met wat jullie nu doen. Meet om 09.50 UTC de pols en vraag haar hoeveel pijn ze heeft. Neem om 10.00 UTC opnieuw contact op."" Wat zeg je terug?
+I07-04-3A: ""Ik lees terug: doorgaan met wat we doen, om 09.50 UTC pols meten en naar de pijn vragen, om 10.00 UTC opnieuw contact. Klopt dat?"" (juist) Feedback: Goed. Je leest alle afspraken terug, met de tijden in UTC.
+I07-04-3B: ""Begrepen, we bellen straks terug."" (onjuist) Feedback: Met ""straks"" is niet duidelijk wanneer. Lees de afspraken en de tijden terug. Terug naar scène 3.
+I07-04-3C: ""Om tien uur."" (onjuist) Feedback: Tien uur in welke tijd? En de andere afspraken ontbreken. Terug naar scène 3.
+Scène 4: Een collega heeft een crème bij zich en wil die op de wond doen. Dat is niet afgesproken. Wat doe je?
+I07-04-4A: Je laat het hem doen; het is goed bedoeld (onjuist). Feedback: Voer alleen uit wat met de arts is afgesproken. Pas een advies niet zelf aan. Terug naar scène 4.
+I07-04-4B: Je zegt dat jullie alleen doen wat is afgesproken. Je noteert de vraag en legt die om 10.00 UTC aan de arts voor (juist). Feedback: Goed. Je houdt je aan het advies, en de arts kan zelf beslissen over de vraag.
+I07-04-4C: Je belt meteen een andere arts voor een tweede mening (onjuist). Feedback: Je werkt met één adviseur en houdt je aan de afspraken. Leg de vraag bij het volgende contact voor. Terug naar scène 4.
+Einde: Het advies is teruggelezen, vastgelegd en uitgevoerd. Afronding van het blok bij het bereiken van het einde.",Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003;S031;S032,"Keuzes en feedback komen uit MFA-L07-S04, S05, S06, S10 en S11 van deze les; de eerste hulp bij brandwonden zelf staat in MFA-L04 en wordt hier niet behandeld; de casus is DRTC-ontwerp. TE VERIFIËREN: De casus en het oefenadvies zijn fictief. Mathanje beoordeelt of de keuzes en de feedback passen, en of het oefenadvies niet op een echt behandeladvies lijkt (R123).",,Rise Scenario-blok,9,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S16,MFA-09.03,Tijd in het logboek,"Aan boord, bij de Kustwacht en bij de arts kan een andere klok gelden. Daarom spreek je tijden af en noteer je ze in UTC, zoals in deze les.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K07-08: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Je schip vaart in een andere tijdzone dan de arts. Hoe noteer je het moment dat je het advies kreeg?
+K07-08-A: 16.05 UTC (juist)
+K07-08-B: Kwart over vier
+K07-08-C: Net na de lunch",K07-08-A: Juist. Met UTC erbij weet iedereen welk moment je bedoelt.,"K07-08-B: Onjuist. Dat kan in iedere tijdzone een ander moment zijn. Noteer de tijd met UTC erbij.
+K07-08-C: Onjuist. Zo kan niemand het verloop later terugvinden. Noteer de tijd met UTC erbij.",S003,"Uitwerking van MFA-L07-S06, S07 en S10 (tijdafspraken terugkoppelen en vastleggen in UTC); de vraag is DRTC-ontwerp. TE VERIFIËREN: DRTC bevestigt dat de cursus overal UTC gebruikt voor tijden in het logboek en bij het RMD-contact.",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S12,MFA-09.01;MFA-09.02;MFA-09.03,Scenario: het RMD-gesprek,"Joost is in het ruim van een ladder gevallen. De kapitein wil medisch advies. Sanne, de tweede stuurman, legt contact. Jij zet de gegevens klaar, voert het gesprek met de arts, leest het advies terug en legt alles vast. Ondertussen verandert er iets.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg en een omweg. Het scenario duurt ongeveer tien minuten. Het telt niet mee voor de toets, en je kunt het opnieuw doen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"Scenario-pakket MFA-L07-SL01, als HTML-pakket in een Rise Code Block; terugval Storyline-blok met Require completion.
+Script: articulate/storyline/MFA-L07-SL01-rmd-gesprek.md
+Bouwlijst: articulate/storyline/MFA-L07-SL01-bouwlijst.csv
+Afronding bij het bereiken van de debriefing; punten formatief, niet in Moodle",Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003;S016;S031;S032,"Zie het script; keuzes en feedback komen uit MFA-L07-S02, S04, S05, S06, S07, S09, S10 en S11; S016 GH1 boek p106-107 / PDF p109-110; de casus is DRTC-ontwerp. TE VERIFIËREN: De casus, het oefenadvies en het teken van verslechtering zijn fictief. Mathanje beoordeelt het script, de juiste keuzes en de feedback (R122).",,Rise Storyline-blok,12,medische_review_nodig,Mathanje,,0.4,
+MFA-L07,MFA-L07-S08,MFA-09.02;MFA-09.03,Naar de praktijkdag,"Op de praktijkdag bereid je een nieuwe fictieve hulpvraag voor en voer je een gesprek met de instructeur in de rol van medisch contactpersoon. Je gebruikt de beschikbare gegevens en de officiële bron, maakt onzekerheden herkenbaar en legt de afspraak vast. Daarna ontvang je een fictief advies: je leest het terug, legt het vast, voert de afgesproken observatie uit en meldt op tijd terug. De instructeur geeft feedback op wat je daadwerkelijk laat zien.",Niet van toepassing; geen voice-over geselecteerd in dit prototype,"Praktijkoverdracht en voorgestelde observatiecriteria: | Criterium | Individueel bewijs |
+| --- | --- |
+| Informatie ordenen | De instructeur kan de gegevens op de oefenkaart terugvinden in de voorbereiding |
+| Feiten scheiden van aannames | Ontbrekende gegevens blijven herkenbaar en er wordt geen diagnose verzonnen |
+| Begrip controleren | De cursist koppelt de oefenafspraak correct terug en vraagt verduidelijking bij onduidelijkheid |
+| Verloop vastleggen | De oefennotitie maakt de tijd, onzekerheden en vervolgafspraak zichtbaar |
+| Advies verwerken | De cursist leest het fictieve advies terug, legt tijd, adviseur en afspraken vast en voert de afgesproken observatie uit |
+| Verandering melden | Bij een ingebrachte verandering neemt de cursist opnieuw contact op in plaats van te wachten of het advies zelf aan te passen |
+| Eigen taakgrenzen bewaken | De cursist volgt de trainingsopdracht en voegt geen medische behandeling toe |
+
+Dit zijn DRTC-ontwerpcriteria, nog geen vastgestelde cesuur of definitief praktijkassessment. De koppeling naar de overige praktische competenties wordt via de matrix geborgd.",Niet van toepassing,Niet van toepassing,S003,"S003 Part C10.2-10.3, gedrukte p16 / PDF22; individuele DRTC-observatiecriteria als voorstel",,Rise tekst en praktijkoverdracht,3,medische_review_nodig,Mathanje,,0.4,

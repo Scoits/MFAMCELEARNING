@@ -1,16 +1,23 @@
 # Cursusstructuur en dekkingsmatrices
 
-De twee CSV-bestanden zijn starters op het niveau van de twaalf MFA-kennisgebieden en de bestaande MC-assessmentonderwerpen. Dit zijn nog geen volledige leerdoelenmatrices. De onderwerpomschrijvingen moeten vóór definitieve vaststelling tegen de toepasselijke STCW-tekst en model courses worden gecontroleerd.
+De twee inhoudelijke CSV-bestanden zijn uitgewerkt naar concrete leerdoelen: 50 voor MFA en 68 voor MC. Normpassages en gerichte model-courseonderdelen zijn gelezen; verwijzingen naar onderliggende DRTC-dia's zijn veelal nog indirect via de bestaande verwijsoverzichten. De matrices zijn inhoudelijke ontwerpen met medische review open, geen afgerond bewijs van volledige en actuele lesdekking.
 
 | Bestand | Inhoud |
 | --- | --- |
-| [mfa-dekkingsmatrix.csv](mfa-dekkingsmatrix.csv) | MFA-onderwerpen, A-VI/4-1 en Model Course 1.14 |
-| [mc-dekkingsmatrix.csv](mc-dekkingsmatrix.csv) | MC-onderwerpen, A-VI/4-2 en Model Course 1.15 |
+| [mfa-dekkingsmatrix.csv](mfa-dekkingsmatrix.csv) | 52 doelen, A-VI/4-1 en Model Course 1.14; MFA-00.03 en 00.04 toegevoegd op 20 november 2026 |
+| [mc-dekkingsmatrix.csv](mc-dekkingsmatrix.csv) | 68 doelen, A-VI/4-2 en Model Course 1.15 |
+| [iat-cbt-matrix.csv](iat-cbt-matrix.csv) | 23 voorwaarden voor CBT en uitvoering met ontwerpmaatregelen |
+| [aanvullende-voorwaarden.csv](aanvullende-voorwaarden.csv) | 12 controlepunten uit eerdere e-learning- en kwalificatiebronnen |
+| [mc-vaardigheidsregister.csv](mc-vaardigheidsregister.csv) | Vier afzonderlijk herleidbare vaardigheden met scopebesluit en assessment-ID |
+| [mfa-analyse.md](mfa-analyse.md) | Bronstatus, criteriacodes en MFA-hiaten |
+| [mc-analyse.md](mc-analyse.md) | Bronstatus, criteriacodes en MC-hiaten |
 
-Splits iedere onderwerprij tijdens de uitwerking in afzonderlijke observeerbare leerdoelen. Behoud de oorspronkelijke ID als bovenliggende verwijzing, bijvoorbeeld `MFA-01.01`. Vul de exacte normtekst, model-courseplaats, bronpagina of dia en bronversie in. Raadpleeg de bronnen zelf; de starter bevat nog geen claim op volledige dekking.
+De oorspronkelijke onderwerp-ID is behouden als `parent_id`, met afzonderlijke doelen zoals `MFA-01.01`. Nieuwe modelonderdelen zijn expliciet onderscheiden. De matrices gebruiken compacte eigen parafrases en bronplaatsen; de originele normtekst en actuele medische bronnen blijven bepalend. Inhoudelijke analyse en precieze passagecontrole moeten de complete dekking verder bevestigen.
 
 De kolommen voor wijze van aantonen en beoordelingscriteria corresponderen met STCW-kolommen 3 en 4. Vul ze met de toepasselijke norm en vervolgens de concrete DRTC-uitwerking. Een oefenvraag of online examen dekt niet vanzelf een praktische vaardigheid.
 
-Laat tijdsbesteding leeg zolang deze nog niet is onderbouwd. De onderwijsblokken uit het ontwerpkader kunnen meerdere matrixrijen omvatten; voeg een afzonderlijke les-ID toe zodra de structuur is vastgesteld. Controleer alle referenties opnieuw na herschikking.
+De 28 kolommen zijn bij MFA en MC gelijk. `module_id` koppelt naar de begroting in [leerroute en uren](../docs/leerroute-en-uren.md). `drtc_criterium_voorstel` bevat concreet voorgesteld gedrag voor de assessor. `normstatus`, `bronstatus` en `medische_review` houden verschillende controles gescheiden. De legenda voor de eigen criteriacodes staat in de bijbehorende analyse.
 
-De bestanden worden als UTF-8 CSV met komma als scheidingsteken beheerd. Houd bron-ID's consistent met `sources/register.csv`. Status `te_verifieren` betekent dat het onderwerp is opgenomen maar de rij nog niet inhoudelijk is uitgewerkt. Alleen expliciete reviewregistratie kan een medische goedkeuringsstatus onderbouwen.
+De tijdsvelden per doel blijven leeg. Meerdere doelen kunnen in één activiteit worden behandeld en mogen niet door eenvoudige optelling dubbel worden begroot. De moduleminuten zijn voorlopige ramingen; activiteitstijd en pilotmeting volgen. Controleer alle verwijzingen opnieuw na herschikking.
+
+De bestanden worden als UTF-8 CSV met komma als scheidingsteken beheerd. Bron-ID's sluiten aan op `sources/register.csv`. Alleen expliciete reviewregistratie voor een bepaalde versie kan een medische goedkeuringsstatus onderbouwen. Alle huidige doelrijen vragen nog medische review.
