@@ -132,9 +132,9 @@ Je collega bij de ingang van de pompkamer wil direct naar binnen. Wat doe je als
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
+| K00-01-B | Je houdt je collega tegen, geeft alarm en zorgt dat de brug het weet | Juist. Eerst voorkom je extra slachtoffers en organiseer je hulp. Een besloten ruimte wordt alleen betreden volgens de procedure van het schip, met de daarvoor bestemde middelen en mensen. |
 | K00-01-A | Je gaat samen naar binnen om de collega zo snel mogelijk naar buiten te halen | Onjuist. Zonder beoordeling van de ruimte loop je hetzelfde risico als het slachtoffer. Dan zijn er mogelijk twee of drie slachtoffers. |
-| K00-01-B | Je houdt je collega tegen, geeft alarm volgens de boordprocedure en zorgt dat de brug weet wat er aan de hand is | Juist. Eerst voorkom je extra slachtoffers en organiseer je hulp. Een besloten ruimte wordt alleen betreden volgens de procedure van het schip, met de daarvoor bestemde middelen en mensen. |
-| K00-01-C | Je wacht bij de ingang af of de collega vanzelf bijkomt | Onjuist. Wachten zonder alarm te geven vertraagt de hulp die de collega nodig heeft. |
+| K00-01-C | Je wacht bij de ingang af of de collega binnen vanzelf weer bijkomt | Onjuist. Wachten zonder alarm te geven vertraagt de hulp die de collega nodig heeft. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -227,9 +227,9 @@ Wie heeft als eerste jouw aandacht nodig?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K00-02-A | Collega A, omdat je bloed ziet | Onjuist. Een zichtbare wond trekt de aandacht, maar collega A praat en is aanspreekbaar. Wie niet reageert en niet normaal ademt, heeft direct levensreddende hulp nodig. |
 | K00-02-B | Collega B, omdat hij niet reageert en niet normaal ademt | Juist. Niet reageren en geen normale ademhaling wijzen op een levensbedreigende situatie. Laat hulp en de AED komen en start de handelingen die je in les 3 en op de praktijkdag oefent. Vraag een collega om bij collega A te blijven. |
-| K00-02-C | Eerst allebei naar een veilige plek brengen | Onjuist. Verplaatsen kost tijd en kan na een val extra letsel veroorzaken. Verplaats een slachtoffer alleen als de omgeving onveilig is. |
+| K00-02-A | Collega A, omdat je bloed ziet en een bloeding snel gevaarlijk wordt | Onjuist. Een zichtbare wond trekt de aandacht, maar collega A praat en is aanspreekbaar. Wie niet reageert en niet normaal ademt, heeft direct levensreddende hulp nodig. |
+| K00-02-C | Eerst allebei naar een veilige plek brengen en dan pas kijken | Onjuist. Verplaatsen kost tijd en kan na een val extra letsel veroorzaken. Verplaats een slachtoffer alleen als de omgeving onveilig is. |
 
 **Te verifiëren door Mathanje of DRTC**
 

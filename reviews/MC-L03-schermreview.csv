@@ -40,9 +40,9 @@ MC-K03-04-B: Een dekverband met een steriel gaas of snelverband (juist)
 MC-K03-04-C: Geen verband; een schaafwond moet aan de lucht drogen
 MC-K03-05: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Welk verband krijgt de matroos, en wat controleer je daarna?
-MC-K03-05-A: Een dekverband, en je controleert niets meer
-MC-K03-05-B: Een wonddrukverband: dekverband, watten en een stevige zwachtel; daarna controleer je kleur, warmte en gevoel van de hand en vraag je of het knelt (juist)
-MC-K03-05-C: Een snelverband zo strak mogelijk, zodat er zeker geen bloed meer uitkomt","MC-K03-04-B: Juist. Een dekverband beschermt een wond die niet meer bloedt tegen vuil en infectie.
+MC-K03-05-A: Een dekverband, en daarna hoef je niets meer te controleren tot het verband vies is
+MC-K03-05-C: Een snelverband zo strak mogelijk, zodat er zeker geen bloed meer uit de wond komt
+MC-K03-05-B: Een wonddrukverband, en daarna kleur, warmte en gevoel van de hand controleren (juist)","MC-K03-04-B: Juist. Een dekverband beschermt een wond die niet meer bloedt tegen vuil en infectie.
 MC-K03-05-B: Juist. Het wonddrukverband stelpt de bloeding. Daarna controleer je of de doorbloeding voorbij het verband in orde is.","MC-K03-04-A: Onjuist. De wond bloedt niet meer; druk is niet nodig en kan de doorbloeding hinderen.
 MC-K03-04-C: Onjuist. Dek de wond af om vuil en infectie te voorkomen.
 MC-K03-05-A: Onjuist. Een wond die blijft bloeden vraagt druk. En na ieder verband controleer je de doorbloeding.
@@ -56,15 +56,15 @@ Controleer de instructie van de arts. Welk middel, welke sterkte, welke vorm, ho
 Noteer in het medisch logboek wat je hebt gegeven, wanneer en op wiens advies, en kijk of de pijn afneemt en of er bijwerkingen optreden.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S045;S062;S063;S046,"S045 dia53 (medicatie op voorschrift van RMA/TMAS), dia55-58 (pijnstillers; doseringen niet overgenomen); S062 dia93 (pijnmedicatie bij kiespijn); S063 dia22 (verkeerde medicijn, verkeerde dosis, overgevoeligheid, bijwerkingen), dia37 (noteer gegeven medicatie en observeer); S046 p1 (AMPLE); MFA-L06-S03. TE VERIFIËREN: De niet-medicamenteuze maatregelen zijn een eigen formulering; S004 Part C 2.7 noemt pijnbestrijding zonder deze uitwerking. Mathanje beoordeelt. Doseringen van pijnstillers staan niet in de les (OB-08, R41).",,Rise tabbladen,4,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S15,MC-07.01;MC-07.02,Casus: pijn zonder pillen,Een matroos is op zijn pols gevallen. De pols is gezwollen en erg pijnlijk. Je hebt hem onderzocht en de pols gespalkt. De Radio Medische Dienst is pas over een half uur bereikbaar. De matroos is angstig en vraagt om iets tegen de pijn.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-06: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je tot de arts bereikbaar is?
-MC-K03-06-A: Een pijnstiller uit de kast geven; een lichte pijnstiller mag altijd
-MC-K03-06-B: De pols rust geven in de spalk en een mitella, hem een houding laten kiezen die minder pijn doet, uitleggen wat er gebeurt en bij hem blijven (juist)
-MC-K03-06-C: Hem de pols laten bewegen, zodat hij niet stijf wordt","MC-K03-06-B: Juist. Rust, ondersteunen en een goede houding verlichten pijn. Uitleg en aanwezigheid verminderen angst, en angst maakt pijn erger.","MC-K03-06-A: Onjuist. Pijnstillers geef je alleen op advies van de arts. Tot dan zijn er andere manieren om pijn te verlichten.
+MC-K03-06-A: Een pijnstiller uit de kast geven, omdat een lichte pijnstiller zonder advies altijd mag
+MC-K03-06-B: Rust geven in spalk en mitella, een houding met minder pijn zoeken, uitleggen en erbij blijven (juist)
+MC-K03-06-C: Hem de pols voorzichtig laten bewegen, zodat het gewricht niet stijf wordt tot de arts belt","MC-K03-06-B: Juist. Rust, ondersteunen en een goede houding verlichten pijn. Uitleg en aanwezigheid verminderen angst, en angst maakt pijn erger.","MC-K03-06-A: Onjuist. Pijnstillers geef je alleen op advies van de arts. Tot dan zijn er andere manieren om pijn te verlichten.
 MC-K03-06-C: Onjuist. Een mogelijk gebroken pols beweeg je niet. Rust en ondersteuning verlichten de pijn.",S045;S063,S045 dia53 en dia55; S063 dia22; de inhoud komt uit MC-L03-S06; de casus en de antwoordlogica zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K03-06 (R146). De mitella is een eigen aanvulling bij het ondersteunen uit S06.,,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S07,MC-07.02,Een onvolledige instructie,"De arts adviseert via de radio: geef de patiënt een pijnstiller uit de scheepsapotheek, twee tabletten. Je weet niet welke pijnstiller bedoeld is; er zijn er drie aan boord. De patiënt heeft een allergie voor een van de middelen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je?
-MC-K03-02-A: Je geeft twee tabletten van het middel dat het meest gebruikt wordt
-MC-K03-02-B: Je vraagt de arts welk middel en welke sterkte bedoeld zijn, meldt de allergie en herhaalt daarna de instructie hardop (juist)
-MC-K03-02-C: Je geeft niets en zegt niets tegen de arts","MC-K03-02-B: Juist. Je geeft pas iets als middel, sterkte en hoeveelheid duidelijk zijn en de arts van de allergie weet.","MC-K03-02-A: Onjuist. Je weet niet welk middel bedoeld is, en de patiënt is voor een van de middelen allergisch.
+MC-K03-02-B: Je vraagt welk middel en welke sterkte, meldt de allergie en herhaalt de instructie (juist)
+MC-K03-02-A: Je geeft twee tabletten van het middel dat aan boord het meest gebruikt wordt
+MC-K03-02-C: Je geeft niets en zegt daar niets over tegen de arts, om hem niet op te houden","MC-K03-02-B: Juist. Je geeft pas iets als middel, sterkte en hoeveelheid duidelijk zijn en de arts van de allergie weet.","MC-K03-02-A: Onjuist. Je weet niet welk middel bedoeld is, en de patiënt is voor een van de middelen allergisch.
 MC-K03-02-C: Onjuist. De patiënt heeft pijn en de arts verwacht dat je de instructie uitvoert. Vraag na wat onduidelijk is.",S045;S063,S045 dia53; S063 dia22; MFA-L06-S03 en S05; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback.,,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S08,MC-08.01,Hechten of niet?,"Je hecht een wond alleen na overleg met de arts. Vertel de arts hoe de wond is ontstaan, hoe oud hij is, waar hij zit, hoe groot en diep hij is en of er vuil in zit.
 
@@ -75,9 +75,9 @@ Tetanus. Vraag of de patiënt is ingeënt tegen tetanus, en meld het antwoord aa
 Een open breuk of ontwrichting met een wond hecht je niet. Overleg met de arts over afdekken, immobiliseren en evacuatie.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S064;S050,"S064 dia20 (welke wonden niet hechten), dia21 (open ontwrichting, en nu?), dia33 (is het slachtoffer ingeënt tegen tetanus?); S050 p1-2 (PH2 aandacht: tetanus). TE VERIFIËREN: S064 dia21 stelt alleen de vraag 'open ontwrichting, en nu?'. Het antwoord in de vierde alinea is een eigen formulering. Mathanje beoordeelt. Dat hechten altijd na overleg met de arts gebeurt, is een eigen formulering in lijn met de medicatieregel; S064 zegt het niet letterlijk.",,Rise tabbladen,3,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S09,MC-08.01,Een wond van gisteravond,Een matroos meldt zich om acht uur 's ochtends met een gapende snijwond in zijn onderarm. Hij heeft zich gisteravond om tien uur gesneden aan een vismes en heeft er een doek om gedaan.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-03: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Mag je deze wond hechten?
-MC-K03-03-A: Ja, de wond gaapt en moet dicht
-MC-K03-03-B: Nee, de wond is ouder dan 6 uur en door een vismes ontstaan; je reinigt, dekt af en overlegt met de arts (juist)
-MC-K03-03-C: Ja, als je de wond eerst goed desinfecteert",MC-K03-03-B: Juist. Hechten sluit vuil en bacteriën in. Je verzorgt de wond en volgt het advies van de arts.,"MC-K03-03-A: Onjuist. De wond is ouder dan 6 uur en ontstaan door een vismes. Die hecht je niet.
+MC-K03-03-A: Ja, want de wond gaapt en moet zo snel mogelijk dicht om infectie te voorkomen
+MC-K03-03-C: Ja, als je de wond eerst goed desinfecteert en daarna met steriel materiaal werkt
+MC-K03-03-B: Nee, de wond is ouder dan 6 uur en komt van een vismes; reinigen, afdekken, overleggen (juist)",MC-K03-03-B: Juist. Hechten sluit vuil en bacteriën in. Je verzorgt de wond en volgt het advies van de arts.,"MC-K03-03-A: Onjuist. De wond is ouder dan 6 uur en ontstaan door een vismes. Die hecht je niet.
 MC-K03-03-C: Onjuist. Desinfecteren maakt een oude wond of een wond door een vismes niet geschikt om te hechten.",S064,"S064 dia20; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback, en of reinigen hier de juiste eerste handeling is.",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S10,MC-10.01;MC-34.01;MC-34.02,Steriel werken en instrumenten,"De steriele hechtset bevat een schaar, een pincet, een chirurgisch pincet, een naaldvoerder en een scalpel. Daarnaast heb je steriele handschoenen, steriele gazen, een steriele doek en een gatdoek, steriele hechtdraad, desinfectans, een naaldcontainer en verbandmateriaal nodig.
 
@@ -97,18 +97,18 @@ Hechten. Zet de naald op twee derde van de punt in de naaldvoerder. Steek een ha
 Afronden. Maak de wond schoon en dek af met een steriele pleister of gaas. Gooi naalden direct in de naaldcontainer. Noteer de behandeling in het medisch logboek.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S064;S050;S063,"S064 dia22-26 (fasen: verdoving en hechten; veldblokkade; Oberst-anesthesie; hechten van vinger), dia34-44 (verdoven), dia45-57 (hechten), dia58 (matrassteek); S050 (PH2); S063 dia35 (controleren op bloedvat). TE VERIFIËREN: De hoeveelheden lidocaïne uit S064 dia23 zijn niet opgenomen. Mathanje beslist of MC-cursisten die moeten kennen of alleen uitvoeren op advies van de arts (R56). De plaats aan de basis van de vinger bij de Oberst-verdoving is een eigen toelichting; S064 dia25 is alleen beeld. S064 dia42 noemt geen handeling als er bloed in de spuit komt; de les volgt S063 dia35 (injecteren). Mathanje bevestigt. Desinfectiemiddel en aantal slagen bij de eerste knoop verschillen tussen PH2 en S064 (BC-35, R55). De les noemt daarom geen middel en geen aantal slagen. S064 dia28 noemt hechtdraadsoorten en de matrassteek bij loze ruimte. Die zijn niet in de cursistentekst opgenomen; de praktijkinstructie behandelt ze.",MC-L03-M05,Rise stappenreeks met foto's,5,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S16,MC-08.02;MC-34.02;MC-10.02,Casus: hechten in de ziekenboeg,De arts van de Radio Medische Dienst adviseert je om een snijwond in de onderarm van een kok te hechten. Je legt alles klaar in de ziekenboeg.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-07: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Bij het openen van de hechtset raakt je mouw de steriele doek. Wat doe je?
-MC-K03-07-A: Doorgaan; het was maar heel even
-MC-K03-07-B: De doek en wat erop ligt als niet steriel beschouwen en opnieuw beginnen met steriel materiaal (juist)
-MC-K03-07-C: De doek desinfecteren met alcohol en dan doorgaan
+MC-K03-07-B: De doek en wat erop ligt als niet steriel beschouwen en opnieuw beginnen (juist)
+MC-K03-07-A: Doorgaan, want het was maar heel even en de mouw was schoon
+MC-K03-07-C: De plek op de doek desinfecteren met alcohol en dan gewoon doorgaan
 MC-K03-08: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Bij het verdoven trek je de zuiger iets terug en zie je bloed in de spuit. Wat doe je?
-MC-K03-08-A: Inspuiten; een beetje bloed is normaal
 MC-K03-08-B: De naald verplaatsen en opnieuw controleren voordat je inspuit (juist)
+MC-K03-08-A: Inspuiten; een beetje bloed is normaal
 MC-K03-08-C: Stoppen met verdoven en zonder verdoving hechten
 MC-K03-09: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Bij het inspecteren zie je zand en vuil diep in de wond dat je er niet uit krijgt. Wat doe je?
-MC-K03-09-A: Hechten; het vuil komt er later vanzelf uit
 MC-K03-09-B: Niet hechten, de wond afdekken en opnieuw overleggen met de arts (juist)
+MC-K03-09-A: Hechten; het vuil komt er later vanzelf uit
 MC-K03-09-C: De wond hechten en een extra ontsmettingsmiddel over de hechtingen doen","MC-K03-07-B: Juist. Wat niet-steriel is aangeraakt, is niet meer steriel. Begin opnieuw.
 MC-K03-08-B: Juist. Je spuit de verdoving niet in een bloedvat. Verplaats de naald en controleer opnieuw.
 MC-K03-09-B: Juist. Lukt het niet om het vuil te verwijderen, dan hecht je niet. De arts beslist wat er dan gebeurt.","MC-K03-07-A: Onjuist. Twijfel je of iets steriel is, dan is het niet steriel.

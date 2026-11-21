@@ -146,9 +146,9 @@ Wat kan dit betekenen?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
+| K02-08-B | Het is oorsmeer dat door de klap is losgekomen en nu naar buiten loopt | Onjuist. Helder vocht met bloed na een klap op het hoofd moet je zien als een teken van ernstig hoofdletsel. |
+| K02-08-C | Het trommelvlies is gescheurd door het harde lawaai van de val zelf | Onjuist. Een val maakt niet zoveel lawaai. Helder vocht na een klap op het hoofd wijst op mogelijk letsel van de schedelbasis. |
 | K02-08-A | Er kan een breuk in de schedelbasis zijn, met hersenvocht dat naar buiten loopt | Juist. Bij een breuk van de schedelbasis kan hersenvocht, soms met bloed, uit oor, neus of mond lopen. Dat is een ernstig teken: vraag direct medisch advies en blijf het bewustzijn controleren. |
-| K02-08-B | Het is oorsmeer dat door de klap is losgekomen | Onjuist. Helder vocht met bloed na een klap op het hoofd moet je zien als een teken van ernstig hoofdletsel. |
-| K02-08-C | Het trommelvlies is gescheurd door het lawaai van de val | Onjuist. Een val maakt niet zoveel lawaai. Helder vocht na een klap op het hoofd wijst op mogelijk letsel van de schedelbasis. |
 
 ## MFA-L02-S02 Skelet, spieren en gewrichten
 
@@ -204,8 +204,8 @@ Wat is de beste conclusie uit je waarnemingen?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-01-A | Er is mogelijk bot- of gewrichtsletsel; ik laat de arm in de houding die het minst pijn doet en onderzoek verder | Juist. Zwelling en een afwijkende stand ten opzichte van de andere kant wijzen op mogelijk bot- of gewrichtsletsel. Je stelt geen diagnose, je beschrijft wat je ziet en onderzoekt verder. |
-| K02-01-B | Het is een spierpijn; ik laat hem de arm bewegen om te zien of het meevalt | Onjuist. Een afwijkende stand en zwelling passen niet bij gewone spierpijn. Laat de arm niet bewegen om het uit te proberen. |
+| K02-01-B | Het is spierpijn; ik laat hem de arm bewegen om te zien of het meevalt | Onjuist. Een afwijkende stand en zwelling passen niet bij gewone spierpijn. Laat de arm niet bewegen om het uit te proberen. |
+| K02-01-A | Mogelijk bot- of gewrichtsletsel; de arm in de minst pijnlijke houding laten | Juist. Zwelling en een afwijkende stand ten opzichte van de andere kant wijzen op mogelijk bot- of gewrichtsletsel. Je stelt geen diagnose, je beschrijft wat je ziet en onderzoekt verder. |
 | K02-01-C | Zolang hij praat, hoeft de arm niet verder bekeken te worden | Onjuist. Dat hij praat zegt iets over ademweg en bewustzijn, maar het letsel aan de arm moet je wel beoordelen en vastleggen. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -296,8 +296,8 @@ Hoe verklaar je dat je collega bleek en klam wordt?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-09-A | Er is veel bloed verloren in het been, rond de breuk | Juist. Bloedvaten in bot knijpen bij een breuk niet samen. Het bloed hoopt zich op in het been. Bij meer dan een liter bloedverlies ontstaat shock, ook zonder zichtbare bloeding. |
 | K02-09-B | Dat komt alleen door de schrik; zonder wond is er geen bloedverlies | Onjuist. Schrik kan bleek maken, maar bij een breuk van het bovenbeen kan veel bloed in het been verdwijnen zonder dat je het ziet. |
+| K02-09-A | Er is veel bloed verloren in het been, rond de breuk | Juist. Bloedvaten in bot knijpen bij een breuk niet samen. Het bloed hoopt zich op in het been. Bij meer dan een liter bloedverlies ontstaat shock, ook zonder zichtbare bloeding. |
 | K02-09-C | Je collega heeft het koud omdat hij stil ligt | Onjuist. Kou kan meespelen, maar bleek, klam en onrustig na een grote breuk zijn tekenen van shock door bloedverlies. |
 
 ## MFA-L02-S04 Hart en bloedsomloop
@@ -394,8 +394,8 @@ Wat voor bloeding is dit, en waarom is dat belangrijk?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-10-A | Een slagaderlijke bloeding; daarbij kan iemand snel veel bloed verliezen | Juist. Helderrood bloed dat stootsgewijs spuit, komt uit een slagader. Stop de bloeding direct met druk op de wond; dat leer je in les 3. |
 | K02-10-B | Een aderlijke bloeding; die stopt meestal vanzelf | Onjuist. Bloed uit een ader is donkerrood en stroomt gelijkmatig. Spuiten in stoten past bij een slagader. |
+| K02-10-A | Een slagaderlijke bloeding; daarbij kan iemand snel veel bloed verliezen | Juist. Helderrood bloed dat stootsgewijs spuit, komt uit een slagader. Stop de bloeding direct met druk op de wond; dat leer je in les 3. |
 | K02-10-C | Een bloeding uit haarvaten; die is niet gevaarlijk | Onjuist. Uit haarvaten sijpelt het bloed, zoals bij een schaafwond. Spuitend bloed komt uit een slagader. |
 
 ## MFA-L02-S05 Ademhaling en gaswisseling
@@ -666,9 +666,9 @@ Waarom geef je dit direct door aan de arts?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-12-A | Weinig plassen kan betekenen dat je collega uitdroogt en dat de nieren te weinig bloed krijgen | Juist. Door braken en diarree verliest je collega veel vocht. De nieren maken dan weinig urine. Dat is een teken van uitdroging en kan leiden tot shock. |
-| K02-12-B | Het is normaal dat je minder plast als je ziek bent | Onjuist. Iemand moet minstens een halve liter urine per dag maken om afvalstoffen kwijt te raken. Zo weinig plassen bij braken en diarree is een alarmsignaal. |
-| K02-12-C | Het betekent dat de diarree bijna over is | Onjuist. Weinig plassen zegt niets over het einde van de diarree. Het wijst op een tekort aan vocht. |
+| K02-12-B | Het is normaal dat je minder plast als je ziek bent en weinig eet | Onjuist. Iemand moet minstens een halve liter urine per dag maken om afvalstoffen kwijt te raken. Zo weinig plassen bij braken en diarree is een alarmsignaal. |
+| K02-12-C | Het betekent dat de diarree bijna over is en het lichaam herstelt | Onjuist. Weinig plassen zegt niets over het einde van de diarree. Het wijst op een tekort aan vocht. |
+| K02-12-A | Weinig plassen kan wijzen op uitdroging en te weinig bloed naar de nieren | Juist. Door braken en diarree verliest je collega veel vocht. De nieren maken dan weinig urine. Dat is een teken van uitdroging en kan leiden tot shock. |
 
 ## MFA-L02-S40 Ogen, oren en evenwicht
 
@@ -832,8 +832,8 @@ Waar begin je mee?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-04-A | De snijwond aan de hand verbinden, omdat je die ziet bloeden | Onjuist als eerste stap. Een gewone bloeding van een snijwond is belangrijk, maar het snurkende geluid wijst op een probleem met de ademweg. Dat komt eerst; een ernstige bloeding stop je wel direct. |
-| K02-04-B | De ademweg vrijmaken en controleren, omdat het snurken op een probleem met de ademweg wijst | Juist. Volgens ABCDE komt de ademweg eerst. Daarna beoordeel je de ademhaling, de circulatie met de bloeding, het bewustzijn en de rest van het lichaam. |
+| K02-04-B | De ademweg vrijmaken en controleren, omdat snurken op een ademwegprobleem wijst | Juist. Volgens ABCDE komt de ademweg eerst. Daarna beoordeel je de ademhaling, de circulatie met de bloeding, het bewustzijn en de rest van het lichaam. |
+| K02-04-A | De snijwond aan de hand verbinden, omdat je die duidelijk ziet bloeden | Onjuist als eerste stap. Een gewone bloeding van een snijwond is belangrijk, maar het snurkende geluid wijst op een probleem met de ademweg. Dat komt eerst; een ernstige bloeding stop je wel direct. |
 | K02-04-C | Vragen wat hij vandaag heeft gegeten en welke medicijnen hij gebruikt | Onjuist als eerste stap. De anamnese is belangrijk, maar komt na het beoordelen en behandelen van de vitale functies. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -892,9 +892,9 @@ Wat concludeer je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-13-A | Het bewustzijn is niet normaal; hij opent zijn ogen pas na aanspreken en geeft geen normaal antwoord | Juist. Alleen wie de ogen uit zichzelf opent en normaal antwoord geeft, heeft een normaal bewustzijn. Blijf het bewustzijn volgen, onderzoek verder en vraag advies. |
-| K02-13-B | Het bewustzijn is normaal, want hij doet zijn ogen open | Onjuist. Hij opent zijn ogen pas na luid aanspreken en zijn antwoord klopt niet. Dat is geen normaal bewustzijn. |
-| K02-13-C | Hij is moe; laat hem slapen en kom later terug | Onjuist. Een verward antwoord kan wijzen op een probleem met een van de vitale functies. Laat hem niet alleen en onderzoek verder. |
+| K02-13-A | Het bewustzijn is niet normaal, want hij geeft geen normaal antwoord | Juist. Alleen wie de ogen uit zichzelf opent en normaal antwoord geeft, heeft een normaal bewustzijn. Blijf het bewustzijn volgen, onderzoek verder en vraag advies. |
+| K02-13-B | Het bewustzijn is normaal, want hij doet zijn ogen open als je praat | Onjuist. Hij opent zijn ogen pas na luid aanspreken en zijn antwoord klopt niet. Dat is geen normaal bewustzijn. |
+| K02-13-C | Hij is moe van de dienst; laat hem slapen en kom later terug | Onjuist. Een verward antwoord kan wijzen op een probleem met een van de vitale functies. Laat hem niet alleen en onderzoek verder. |
 
 ## MFA-L02-S44 Een slachtoffer van buik naar rug draaien
 
@@ -960,8 +960,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-14-A | Je laat hem liggen zoals hij ligt en onderzoekt verder | Juist. Je kunt de vitale functies beoordelen en er is geen gevaar. Draaien kan rugletsel erger maken. Laat hem liggen, onderzoek verder en vraag advies. |
 | K02-14-B | Je draait hem op de rug, want zo kun je hem beter onderzoeken | Onjuist. Je draait alleen als je de vitale functies anders niet goed kunt beoordelen of behandelen. Bij rugpijn na een val kan draaien schade doen. |
+| K02-14-A | Je laat hem liggen zoals hij ligt en onderzoekt verder | Juist. Je kunt de vitale functies beoordelen en er is geen gevaar. Draaien kan rugletsel erger maken. Laat hem liggen, onderzoek verder en vraag advies. |
 | K02-14-C | Je laat hem opstaan en naar zijn hut lopen | Onjuist. Na een val met rugpijn laat je iemand niet onnodig bewegen. Er kan letsel aan de wervelkolom zijn. |
 
 ## MFA-L02-S12 Vragen stellen: de anamnese
@@ -1020,9 +1020,9 @@ Welke vervolgvraag levert de arts de meest bruikbare informatie op?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-05-A | Waar zit de pijn precies, straalt die uit en hoe voelt de pijn? | Juist. Plaats, uitstraling en soort pijn zijn vragen uit de vragenlijst bij pijn op de borst. Vraag daarna door naar benauwdheid, zweten, misselijkheid en voorgeschiedenis. |
 | K02-05-B | Heb je dit eerder ook gehad of is het de eerste keer? | Dit is een goede vraag, maar nog niet de eerste. Vraag eerst naar plaats, uitstraling en soort pijn; daarna naar de voorgeschiedenis. |
 | K02-05-C | Zal ik een pijnstiller voor je halen? | Onjuist. Je geeft geen geneesmiddelen zonder overleg met de arts. Eerst verzamel je informatie die de arts nodig heeft. |
+| K02-05-A | Waar zit de pijn precies, straalt die uit en hoe voelt de pijn? | Juist. Plaats, uitstraling en soort pijn zijn vragen uit de vragenlijst bij pijn op de borst. Vraag daarna door naar benauwdheid, zweten, misselijkheid en voorgeschiedenis. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1086,9 +1086,9 @@ Wat is de beste reactie op deze metingen?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-06-A | De pols is gestegen en hij ziet er slechter uit; ik doe opnieuw ABCDE, leg de metingen met tijd vast en meld de verandering aan de arts | Juist. De combinatie van een stijgende pols, bleekheid en zweten wijst op een verslechtering. Je beoordeelt opnieuw volgens ABCDE en meldt het. |
-| K02-06-B | Een andere collega heeft gemeten, dus de tweede meting telt niet | Onjuist. Iedere meting met tijdstip is bruikbaar. Twijfel je aan de meting, meet dan zelf opnieuw, maar negeer de verandering niet. |
-| K02-06-C | Ik wacht op de volgende meting, omdat één verandering nog niets zegt | Onjuist. Een stijgende pols samen met bleekheid en zweten is een signaal om nu opnieuw te beoordelen en het te melden. |
+| K02-06-B | Een andere collega heeft gemeten, dus de tweede meting telt niet echt mee | Onjuist. Iedere meting met tijdstip is bruikbaar. Twijfel je aan de meting, meet dan zelf opnieuw, maar negeer de verandering niet. |
+| K02-06-A | De pols stijgt en hij ziet er slechter uit: opnieuw ABCDE, vastleggen en melden | Juist. De combinatie van een stijgende pols, bleekheid en zweten wijst op een verslechtering. Je beoordeelt opnieuw volgens ABCDE en meldt het. |
+| K02-06-C | Ik wacht op de volgende meting, omdat één verandering nog niets zegt over de trend | Onjuist. Een stijgende pols samen met bleekheid en zweten is een signaal om nu opnieuw te beoordelen en het te melden. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1150,9 +1150,9 @@ Wat geef je door aan de officier van de wacht en de arts?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-07-A | Dat hij nu rustig ligt en slaapt | Onjuist. Alleen reageren op hard aanspreken is geen slaap maar een daling van het bewustzijn. Dat is een verslechtering die je direct meldt. |
-| K02-07-B | Dat zijn bewustzijn is gedaald en zijn ademhaling sneller is dan om 14.10, met de tijden en wat je hebt gedaan | Juist. Je meldt wat er is veranderd ten opzichte van de vorige beoordeling, met tijden en je eigen handelingen. Zo kan de arts het advies aanpassen. |
-| K02-07-C | Alleen de laatste meting, omdat de eerste niet meer van belang is | Onjuist. Juist het verschil met de eerste beoordeling laat zien dat de toestand verslechtert. Geef beide door met tijden. |
+| K02-07-A | Dat hij nu rustig ligt en slaapt, en dat het beter lijkt te gaan | Onjuist. Alleen reageren op hard aanspreken is geen slaap maar een daling van het bewustzijn. Dat is een verslechtering die je direct meldt. |
+| K02-07-B | Dat zijn bewustzijn is gedaald en hij sneller ademt dan om 14.10, met tijden en acties | Juist. Je meldt wat er is veranderd ten opzichte van de vorige beoordeling, met tijden en je eigen handelingen. Zo kan de arts het advies aanpassen. |
+| K02-07-C | Alleen de laatste meting, omdat de eerste meting niet meer van belang is | Onjuist. Juist het verschil met de eerste beoordeling laat zien dat de toestand verslechtert. Geef beide door met tijden. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1200,9 +1200,9 @@ Welke bevinding geef je als eerste door aan de arts?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-15-A | Pijn op de borst sinds tien minuten, met een snelle, onregelmatige pols, snelle ademhaling, bleek en zweterig | Juist. Dit is de kern: een klacht die op het hart kan wijzen, met afwijkende metingen. Daarna geef je de rest van ABCDE en AMPLE door. |
-| K02-15-B | Dat er olie op de vloer van de werkplaats ligt | Onjuist. De olie is belangrijk voor de veiligheid, maar is geen medische bevinding voor de arts. |
-| K02-15-C | Dat hij twee uur geleden heeft gegeten | Onjuist. De laatste maaltijd hoort bij AMPLE, maar de belangrijkste bevinding is de pijn op de borst met de afwijkende metingen. |
+| K02-15-B | Dat er olie op de vloer van de werkplaats ligt waarop hij kan zijn uitgegleden | Onjuist. De olie is belangrijk voor de veiligheid, maar is geen medische bevinding voor de arts. |
+| K02-15-A | Pijn op de borst sinds tien minuten, snelle onregelmatige pols, bleek en zweterig | Juist. Dit is de kern: een klacht die op het hart kan wijzen, met afwijkende metingen. Daarna geef je de rest van ABCDE en AMPLE door. |
+| K02-15-C | Dat hij twee uur geleden heeft gegeten en daarna koffie heeft gedronken | Onjuist. De laatste maaltijd hoort bij AMPLE, maar de belangrijkste bevinding is de pijn op de borst met de afwijkende metingen. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1236,9 +1236,9 @@ Wat doe je om 14.40?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K02-16-A | Je meldt direct een verslechtering aan de arts en de officier van de wacht, met alle metingen en tijden | Juist. Hij wordt suffer, ademt sneller, de pols wordt sneller en zwakker en de huid grauw en klam. Dat is een duidelijke verslechtering, die je direct meldt. |
 | K02-16-B | Je wacht tot de volgende meting om 14.55 om zeker te zijn | Onjuist. Het verloop laat al een duidelijke verslechtering zien. Wachten kost kostbare tijd. |
 | K02-16-C | Je noteert de waarden en doet verder niets, want de arts heeft al instructies gegeven | Onjuist. Bij een verandering meld je die direct; de arts moet de instructies kunnen aanpassen. |
+| K02-16-A | Je meldt direct een verslechtering aan de arts en de officier van de wacht, met alle metingen en tijden | Juist. Hij wordt suffer, ademt sneller, de pols wordt sneller en zwakker en de huid grauw en klam. Dat is een duidelijke verslechtering, die je direct meldt. |
 
 ## MFA-L02-S18 Klaar voor de praktijkdag
 

@@ -220,8 +220,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-05-A | Je laat hem zijn roes uitslapen; morgen is hij weer de oude | Onjuist. Hij is nauwelijks aanspreekbaar en heeft gebraakt. Hij kan stikken in zijn braaksel of te veel alcohol binnen hebben. Laat hem niet alleen. |
-| MC-K06-05-B | Je maakt de mond vrij, legt hem in stabiele zijligging, controleert de ademhaling en zoekt naar letsel; iemand blijft bij hem en je overlegt met de Radio Medische Dienst | Juist. Bij een dronken persoon die niet goed aanspreekbaar is, bescherm je de ademweg, bewaak je hem en denk je aan letsel of ziekte. |
+| MC-K06-05-B | Mond vrij, stabiele zijligging, ademhaling controleren, iemand erbij en overleg met de RMD | Juist. Bij een dronken persoon die niet goed aanspreekbaar is, bescherm je de ademweg, bewaak je hem en denk je aan letsel of ziekte. |
+| MC-K06-05-A | Je laat hem zijn roes uitslapen in zijn hut; morgen is hij weer de oude | Onjuist. Hij is nauwelijks aanspreekbaar en heeft gebraakt. Hij kan stikken in zijn braaksel of te veel alcohol binnen hebben. Laat hem niet alleen. |
 | MC-K06-05-C | Je laat hem koffie drinken en onder de koude douche gaan om hem wakker te krijgen | Onjuist. Iemand die nauwelijks aanspreekbaar is, kan niet veilig drinken of douchen. Bescherm de ademweg en bewaak hem. |
 
 ## MC-L06-S04 Drugs aan boord
@@ -460,9 +460,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-06-A | Je verandert van onderwerp, want doorvragen kan hem op het idee brengen | Onjuist. Vragen naar gedachten aan zelfdoding brengt niemand op het idee. Het helpt je het risico in te schatten. |
+| MC-K06-06-A | Je verandert van onderwerp, want doorvragen kan hem juist op het idee brengen | Onjuist. Vragen naar gedachten aan zelfdoding brengt niemand op het idee. Het helpt je het risico in te schatten. |
+| MC-K06-06-C | Rechtstreeks vragen of hij een plan heeft, hem niet alleen laten en kapitein en RMD inschakelen | Juist. Zo schat je het risico in en zorg je voor zijn veiligheid. Bij een plan en de middelen om het uit te voeren is het risico hoog. |
 | MC-K06-06-B | Je zegt dat het wel goed komt en dat hij morgen gewoon weer aan het werk kan | Onjuist. Geruststellen zonder door te vragen kan een groot risico missen. Vraag door en neem het serieus. |
-| MC-K06-06-C | Je vraagt rechtstreeks of hij eraan denkt zichzelf iets aan te doen en of hij een plan heeft, je laat hem niet alleen en je overlegt met de kapitein en de Radio Medische Dienst | Juist. Zo schat je het risico in en zorg je voor zijn veiligheid. Bij een plan en de middelen om het uit te voeren is het risico hoog. |
 
 ## MC-L06-S26 Agressief of dreigend gedrag
 
@@ -540,8 +540,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-01-A | Hem laten uitslapen in zijn hut; het trekt vanzelf weg | Onjuist. Dit kan een delirium tremens zijn. Onbehandeld kan dat dodelijk zijn. |
-| MC-K06-01-B | Vitale functies controleren, hem afzonderen in een prikkelarme ruimte met gedimd licht, hem niet alleen laten en direct de arts raadplegen | Juist. Je herkent een mogelijk delirium bij onttrekking en schakelt direct de arts in. |
+| MC-K06-01-B | Vitale functies, prikkelarme ruimte, hem niet alleen laten en direct de arts raadplegen | Juist. Je herkent een mogelijk delirium bij onttrekking en schakelt direct de arts in. |
+| MC-K06-01-A | Hem laten uitslapen in zijn hut, omdat het trillen meestal vanzelf wegtrekt | Onjuist. Dit kan een delirium tremens zijn. Onbehandeld kan dat dodelijk zijn. |
 | MC-K06-01-C | Hem op eigen initiatief een glas alcohol geven om de onttrekking te stoppen | Onjuist. Medicatie of alcohol geef je alleen op advies van de arts. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -744,9 +744,9 @@ Wat denk je en wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-08-A | Waarschijnlijk menstruatiepijn; laat haar rusten en kijk morgen verder | Onjuist. Hevige eenzijdige buikpijn met bloedverlies bij een mogelijke zwangerschap en tekenen van shock is een alarmsignaal. |
-| MC-K06-08-B | Mogelijk een zwangerschap buiten de baarmoeder met een inwendige bloeding: direct contact met de arts, laten liggen, warm houden en pols en bloeddruk bewaken | Juist. Een zwangerschap buiten de baarmoeder kan een ernstige inwendige bloeding geven. Neem direct contact op met de arts en behandel de tekenen van shock. |
+| MC-K06-08-A | Waarschijnlijk menstruatiepijn; laat haar met een kruik rusten en kijk morgen verder | Onjuist. Hevige eenzijdige buikpijn met bloedverlies bij een mogelijke zwangerschap en tekenen van shock is een alarmsignaal. |
 | MC-K06-08-C | Waarschijnlijk een blindedarmontsteking; in de volgende haven laten nakijken | Onjuist. Je stelt zelf geen diagnose. Met deze alarmsignalen wacht je niet tot de haven, maar neem je direct contact op met de arts. |
+| MC-K06-08-B | Mogelijk een zwangerschap buiten de baarmoeder: direct de arts en behandelen als shock | Juist. Een zwangerschap buiten de baarmoeder kan een ernstige inwendige bloeding geven. Neem direct contact op met de arts en behandel de tekenen van shock. |
 
 **Kennischeck MC-K06-09**
 
@@ -754,9 +754,9 @@ Een andere keer redt je schip een hoogzwangere vrouw uit een bootje. Ze krijgt r
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-09-A | Wachten tot het kind komt en dan de arts bellen | Onjuist. Neem bij de eerste tekenen van een bevalling contact op met de arts. De arts begeleidt je. |
-| MC-K06-09-B | Direct contact met de arts, een schone, warme en rustige ruimte voorbereiden en het materiaal klaarleggen volgens de medische gids en het advies van de arts | Juist. De arts begeleidt de bevalling op afstand. Jij zorgt voor de ruimte en het materiaal en meldt problemen direct. |
-| MC-K06-09-C | Haar laten persen zodra ze dat wil, zodat het snel voorbij is | Onjuist. Je volgt de aanwijzingen van de arts. Zelf sturen zonder advies doe je niet. |
+| MC-K06-09-A | Wachten tot het kind echt komt en dan pas de arts bellen voor advies | Onjuist. Neem bij de eerste tekenen van een bevalling contact op met de arts. De arts begeleidt je. |
+| MC-K06-09-B | Direct de arts bellen, een schone, warme ruimte voorbereiden en materiaal klaarleggen | Juist. De arts begeleidt de bevalling op afstand. Jij zorgt voor de ruimte en het materiaal en meldt problemen direct. |
+| MC-K06-09-C | Haar laten persen zodra ze dat wil, zodat het zo snel mogelijk voorbij is | Onjuist. Je volgt de aanwijzingen van de arts. Zelf sturen zonder advies doe je niet. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -854,8 +854,8 @@ Over wie overleg je als eerste met de arts?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K06-10-A | De vrouw met de enkel, want zij heeft de meeste pijn | Onjuist. Wie het hardst klaagt, is niet altijd het ernstigst eraan toe. |
-| MC-K06-10-B | De oudere man die slecht aanspreekbaar is en niet meer rilt | Juist. Slecht aanspreekbaar, ijskoud en niet meer rillen past bij ernstige onderkoeling. Hij krijgt voorrang: horizontaal houden, voorzichtig inpakken en direct overleg met de arts. |
 | MC-K06-10-C | De twee mannen met olie, want olie op de huid is gevaarlijk | Onjuist. Zij zijn helder en warm. De olie verwijder je later. |
+| MC-K06-10-B | De oudere man die slecht aanspreekbaar is en niet meer rilt | Juist. Slecht aanspreekbaar, ijskoud en niet meer rillen past bij ernstige onderkoeling. Hij krijgt voorrang: horizontaal houden, voorzichtig inpakken en direct overleg met de arts. |
 
 **Kennischeck MC-K06-11**
 
@@ -864,8 +864,8 @@ De jongen heeft drie dagen bijna niets gedronken en vraagt om veel water. Wat do
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K06-11-A | Hem zoveel laten drinken als hij wil | Onjuist. Wie langer dan twee dagen te weinig heeft gedronken, kan ziek worden van snel veel drinken. |
-| MC-K06-11-B | Met de arts overleggen hoeveel hij per dag mag drinken en dat bijhouden | Juist. Bij meer dan twee dagen te weinig drinken bepaal je samen met de arts hoeveel hij krijgt. Zeeziekte maakt de uitdroging erger. |
 | MC-K06-11-C | Hem pas laten drinken als hij in de haven is | Onjuist. Hij is uitgedroogd en heeft vocht nodig, in de hoeveelheid die de arts adviseert. |
+| MC-K06-11-B | Met de arts overleggen hoeveel hij per dag mag drinken en dat bijhouden | Juist. Bij meer dan twee dagen te weinig drinken bepaal je samen met de arts hoeveel hij krijgt. Zeeziekte maakt de uitdroging erger. |
 
 **Kennischeck MC-K06-12**
 
@@ -873,9 +873,9 @@ Hoe verwijder je de olie bij de twee mannen?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-12-A | Met een doek met wat thinner of petroleum, dat werkt het snelst | Onjuist. Gebruik geen oplosmiddelen, petroleum of schuurmiddelen; die beschadigen de huid. |
-| MC-K06-12-B | Onder een warme douche alle kleding uit, de olie afvegen met een zachte doek en papier, niet rond mond en ogen, en daarna wassen met shampoo en zeep | Juist. Zo verwijder je de olie zonder de huid te beschadigen. Wees voorzichtig bij wonden en brandwonden. |
-| MC-K06-12-C | De olie laten zitten tot de haven | Onjuist. Als iemand warm is en zich goed voelt, verwijder je de olie aan boord. |
+| MC-K06-12-A | Met een doek met wat thinner of petroleum, omdat dat de olie het snelst oplost | Onjuist. Gebruik geen oplosmiddelen, petroleum of schuurmiddelen; die beschadigen de huid. |
+| MC-K06-12-B | Warme douche, olie afvegen met zachte doek, niet rond mond en ogen, dan zeep | Juist. Zo verwijder je de olie zonder de huid te beschadigen. Wees voorzichtig bij wonden en brandwonden. |
+| MC-K06-12-C | De olie laten zitten tot de haven, omdat afvegen de huid kan beschadigen | Onjuist. Als iemand warm is en zich goed voelt, verwijder je de olie aan boord. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -907,8 +907,8 @@ Wat doe je?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K06-03-A | Je laat hem weer aan het werk gaan, want hij voelt zich goed | Onjuist. Water in de longen kan later nog benauwdheid geven. |
-| MC-K06-03-B | Je overlegt met de arts, laat hem rusten en bewaakt zijn ademhaling en temperatuur | Juist. Na bijna-verdrinking kan de ademhaling later verslechteren. De arts bepaalt hoe lang je bewaakt. |
 | MC-K06-03-C | Je geeft hem een warme grog om op te warmen | Onjuist. Geef geen alcohol. Warme, zoete dranken zonder alcohol mogen bij lichte onderkoeling. |
+| MC-K06-03-B | Je overlegt met de arts, laat hem rusten en bewaakt zijn ademhaling en temperatuur | Juist. Na bijna-verdrinking kan de ademhaling later verslechteren. De arts bepaalt hoe lang je bewaakt. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1030,9 +1030,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-04-A | Je waarnemingen met tijdstip noteren, de Radio Medische Dienst en de kapitein informeren, de hut ongemoeid laten en het protocol van de RMD volgen | Juist. De tekenen wijzen erop dat de dood langer geleden is ingetreden. De arts stelt de dood vast en de RMD begeleidt de vervolgstappen. |
+| MC-K06-04-A | Waarnemingen met tijd noteren, RMD en kapitein informeren, de hut ongemoeid laten | Juist. De tekenen wijzen erop dat de dood langer geleden is ingetreden. De arts stelt de dood vast en de RMD begeleidt de vervolgstappen. |
 | MC-K06-04-B | De hut direct opruimen en het lichaam naar de koelruimte brengen | Onjuist. Eerst overleg je met de RMD. Er kan onderzoek nodig zijn, en de hut en het lichaam worden eerst vastgelegd. |
-| MC-K06-04-C | Een overlijdensakte invullen en ondertekenen | Onjuist. Een voorlopige overlijdensakte wordt opgemaakt volgens het protocol, niet zelfstandig door jou. |
+| MC-K06-04-C | Zelf een overlijdensakte invullen en laten ondertekenen door de kapitein | Onjuist. Een voorlopige overlijdensakte wordt opgemaakt volgens het protocol, niet zelfstandig door jou. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1059,8 +1059,8 @@ Wat doe je eerst met het lichaam en de plek?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K06-07-A | Je wast het lichaam en kleedt het netjes aan, uit respect voor de overledene | Onjuist. Bij een onverklaarde dood kan onderzoek nodig zijn. Wassen kan sporen vernietigen. Was het lichaam niet zonder advies. |
-| MC-K06-07-B | Je maakt foto's van het lichaam waar het ligt en van de plek, je beschrijft wat je ziet met een getuige erbij en je laat de plek zoveel mogelijk ongemoeid | Juist. Zo blijft vastgelegd hoe de situatie was. Dat is belangrijk voor het onderzoek naar de oorzaak. |
 | MC-K06-07-C | Je ruimt de trap op en maakt hem schoon, zodat niemand anders uitglijdt | Onjuist. Zet de plek af in plaats van op te ruimen. Sporen op de plek kunnen laten zien wat er is gebeurd. |
+| MC-K06-07-B | Foto's maken, met een getuige beschrijven wat je ziet en de plek ongemoeid laten | Juist. Zo blijft vastgelegd hoe de situatie was. Dat is belangrijk voor het onderzoek naar de oorzaak. |
 
 ## MC-L06-S33 Scenario: een collega gevonden
 

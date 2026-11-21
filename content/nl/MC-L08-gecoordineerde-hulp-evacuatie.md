@@ -122,9 +122,9 @@ Welke gegevens heeft de arts daarnaast nodig?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K08-01-A | De positie, koers en snelheid van het schip, de afstand tot de dichtstbijzijnde haven en welke medische uitrusting aan boord is | Juist. Met deze gegevens kan de arts afwegen of de zorg aan boord voldoende is tot de haven, of dat evacuatie nodig is. |
-| MC-K08-01-B | De naam van de rederij en het type lading | Onvoldoende. De lading kan van belang zijn bij een blootstelling, maar voor het evacuatiebesluit heeft de arts de positie, de afstand tot een haven en de uitrusting nodig. |
-| MC-K08-01-C | Niets meer; de arts beslist op basis van de medische gegevens | Onjuist. Zonder positie en afstand tot een haven kan de arts niet beoordelen of en hoe snel evacuatie nodig is. |
+| MC-K08-01-B | De naam van de rederij, de vlag van het schip en het type lading | Onvoldoende. De lading kan van belang zijn bij een blootstelling, maar voor het evacuatiebesluit heeft de arts de positie, de afstand tot een haven en de uitrusting nodig. |
+| MC-K08-01-A | Positie, koers en snelheid, afstand tot de dichtstbijzijnde haven en de uitrusting | Juist. Met deze gegevens kan de arts afwegen of de zorg aan boord voldoende is tot de haven, of dat evacuatie nodig is. |
+| MC-K08-01-C | Niets meer, want de arts beslist alleen op basis van de medische gegevens | Onjuist. Zonder positie en afstand tot een haven kan de arts niet beoordelen of en hoe snel evacuatie nodig is. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -211,8 +211,8 @@ Welke twee vragen moet je nog beantwoorden?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K08-05-A | Welke hobby's hij heeft en of er ziekten in de familie voorkomen | Onjuist. Die vragen horen bij een uitgebreide anamnese bij ziekte. Bij dit letsel zijn andere gegevens belangrijker. |
-| MC-K08-05-B | Of hij even buiten bewustzijn was en of hij alles nog weet, en wanneer hij voor het laatst heeft gegeten of gedronken | Juist. Bewustzijnsverlies en geheugen zeggen iets over hersenletsel. Het laatste eten en drinken is belangrijk als behandeling onder verdoving nodig kan zijn. |
-| MC-K08-05-C | Hoe lang hij al bij de rederij werkt en wat zijn rang is | Onjuist. Zijn rang staat al bij de persoonlijke gegevens. Diensttijd helpt de arts niet. |
+| MC-K08-05-C | Hoe lang hij al bij de rederij werkt en wat zijn rang aan boord is | Onjuist. Zijn rang staat al bij de persoonlijke gegevens. Diensttijd helpt de arts niet. |
+| MC-K08-05-B | Of hij buiten bewustzijn was en alles nog weet, en wanneer hij at | Juist. Bewustzijnsverlies en geheugen zeggen iets over hersenletsel. Het laatste eten en drinken is belangrijk als behandeling onder verdoving nodig kan zijn. |
 
 ## MC-L08-S04 Advies dat een MC-handeling vraagt
 
@@ -268,9 +268,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K08-02-A | Ik kies zelf een pijnstiller uit de medicijnkist die ik ken | Onjuist. Het advies is niet volledig. Je kiest niet zelf een middel of hoeveelheid. |
-| MC-K08-02-B | Ik vraag welk middel, hoeveel, op welke manier en wanneer, lees het antwoord terug en leg het vast | Juist. Zo weet je zeker wat de arts bedoelt, ook bij een slechte verbinding, en is het advies herleidbaar. |
-| MC-K08-02-C | Ik wacht tot de arts over een uur terugbelt | Onjuist. De patiënt heeft nu pijn. Vraag direct door zolang de verbinding er is. |
+| MC-K08-02-A | Ik kies zelf een pijnstiller uit de medicijnkist die ik goed ken | Onjuist. Het advies is niet volledig. Je kiest niet zelf een middel of hoeveelheid. |
+| MC-K08-02-C | Ik wacht tot de arts over een uur terugbelt en geef tot dan niets | Onjuist. De patiënt heeft nu pijn. Vraag direct door zolang de verbinding er is. |
+| MC-K08-02-B | Ik vraag welk middel, hoeveel, hoe en wanneer, en lees het terug | Juist. Zo weet je zeker wat de arts bedoelt, ook bij een slechte verbinding, en is het advies herleidbaar. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -531,8 +531,8 @@ Wat is juist?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K08-03-A | De lijn aan de reling vastmaken, dan blijft de brancard stil hangen | Onjuist. Een vastgemaakte lijn kan de helikopter naar het schip trekken. De lijn wordt nooit vastgebonden. |
-| MC-K08-03-B | De lijn vrij opschieten en met de hand de brancard begeleiden zoals de bemanning aangeeft | Juist. Je houdt de lijn vrij, begeleidt de brancard en volgt de aanwijzingen van de helikopterbemanning. |
 | MC-K08-03-C | De lijn loslaten zodat hij overboord hangt | Onjuist. Zonder begeleiding kan de brancard gaan draaien of slingeren. De lijn wordt vrij opgeschoten en begeleid. |
+| MC-K08-03-B | De lijn vrij opschieten en met de hand de brancard begeleiden zoals de bemanning aangeeft | Juist. Je houdt de lijn vrij, begeleidt de brancard en volgt de aanwijzingen van de helikopterbemanning. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -559,8 +559,8 @@ Wat zeg je tegen hem?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K08-06-A | Goed zo, pak hem zo snel mogelijk, dan kan de helikopter sneller weg | Onjuist. De lijn kan statisch geladen zijn. Wie hem met leren handschoenen grijpt voordat hij het water of het dek heeft geraakt, kan een schok krijgen. |
-| MC-K08-06-B | Laat de lijn eerst het water of het dek raken, pak hem alleen met rubberen handschoenen en rubberen zolen, en maak hem nooit vast aan het schip | Juist. Zo voorkom je een schok door statische elektriciteit en blijft de helikopter vrij als het schip beweegt. |
-| MC-K08-06-C | Maak de lijn meteen vast aan de reling, dan kan hij niet wegwaaien | Onjuist. Maak een geleidelijn nooit vast aan het schip. Als het schip beweegt, kan dat de helikopter in gevaar brengen. |
+| MC-K08-06-B | Laat hem eerst het water of dek raken, pak hem met rubberen handschoenen en maak hem nooit vast | Juist. Zo voorkom je een schok door statische elektriciteit en blijft de helikopter vrij als het schip beweegt. |
+| MC-K08-06-C | Maak de lijn meteen vast aan de reling, dan kan hij niet wegwaaien in de wind | Onjuist. Maak een geleidelijn nooit vast aan het schip. Als het schip beweegt, kan dat de helikopter in gevaar brengen. |
 
 ## MC-L08-S12 Overdracht in de haven
 
@@ -685,8 +685,8 @@ Hoe draag je de patiënt het beste over?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K08-04-A | Ik vertel alles snel in het Engels; de arts begrijpt de medische woorden wel | Onjuist. Je weet niet of de arts je begrijpt. Snelle uitleg met vaktaal vergroot de kans op misverstanden. |
-| MC-K08-04-B | Ik geef de ingevulde kaart en de meetwaarden schriftelijk mee, vraag met toestemming van de patiënt de collega om te tolken en laat de arts de afspraken herhalen | Juist. Je gebruikt schrift en een tolk, je respecteert de vertrouwelijkheid en je controleert of de arts het goed heeft begrepen. |
-| MC-K08-04-C | Ik laat de collega de overdracht helemaal doen, want hij spreekt de taal | Onvoldoende. De collega kan tolken, maar jij blijft verantwoordelijk voor de inhoud van de overdracht en de patiënt moet toestemming geven. |
+| MC-K08-04-B | Kaart en meetwaarden schriftelijk mee, met toestemming laten tolken, afspraken laten herhalen | Juist. Je gebruikt schrift en een tolk, je respecteert de vertrouwelijkheid en je controleert of de arts het goed heeft begrepen. |
+| MC-K08-04-C | Ik laat de collega de overdracht helemaal doen, want hij spreekt de taal goed | Onvoldoende. De collega kan tolken, maar jij blijft verantwoordelijk voor de inhoud van de overdracht en de patiënt moet toestemming geven. |
 
 **Te verifiëren door Mathanje of DRTC**
 

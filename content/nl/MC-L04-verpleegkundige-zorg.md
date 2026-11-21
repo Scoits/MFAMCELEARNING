@@ -296,9 +296,9 @@ Wat doe je eerst?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K04-04-A | Je geeft hem de boterham en de tabletten; hij is weer helder | Onjuist. Na een periode van verminderd bewustzijn kan het slikken nog niet goed gaan. Test eerst of hij veilig kan slikken. |
-| MC-K04-04-B | Je laat hem eerst een slok schoon water drinken en kijkt of hij hoest of proest; gaat dat goed, dan mag hij eten en zijn tabletten nemen | Juist. Met een slok water test je veilig of hij kan slikken, voordat je eten of medicijnen geeft. |
-| MC-K04-04-C | Je geeft hem de komende 24 uur helemaal niets via de mond | Onjuist. Als de slikproef goed gaat, mag hij eten en drinken. Zonder reden niets geven kan uitdroging geven. |
+| MC-K04-04-B | Eerst een slok water en kijken of hij hoest of proest; gaat dat goed, dan eten en tabletten | Juist. Met een slok water test je veilig of hij kan slikken, voordat je eten of medicijnen geeft. |
+| MC-K04-04-A | Je geeft hem de boterham en de tabletten, omdat hij weer helder is en honger heeft | Onjuist. Na een periode van verminderd bewustzijn kan het slikken nog niet goed gaan. Test eerst of hij veilig kan slikken. |
+| MC-K04-04-C | Je geeft hem de komende 24 uur helemaal niets via de mond, ook geen water of tabletten | Onjuist. Als de slikproef goed gaat, mag hij eten en drinken. Zonder reden niets geven kan uitdroging geven. |
 
 ## MC-L04-S03 Wat je observeert en noteert
 
@@ -385,8 +385,8 @@ Wat doe je om 02.00 uur?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K04-01-A | Je geeft de patiënt extra te drinken en meldt het om 08.00 uur | Onjuist. De patiënt is in korte tijd duidelijk verslechterd. Daar wacht je niet mee. |
-| MC-K04-01-B | Je neemt direct contact op met de arts en blijft de patiënt bewaken | Juist. Hogere koorts, snellere pols en ademhaling en verwardheid samen zijn een verslechtering die direct overleg vraagt. |
 | MC-K04-01-C | Je meet over een uur opnieuw om zeker te zijn | Onjuist. De verandering is duidelijk genoeg. Overleg nu, en blijf meten. |
+| MC-K04-01-B | Je neemt direct contact op met de arts en blijft de patiënt bewaken | Juist. Hogere koorts, snellere pols en ademhaling en verwardheid samen zijn een verslechtering die direct overleg vraagt. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -498,9 +498,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K04-05-A | Je laat hem meer drinken, verspreid over de dag, en volgt de kleur en hoeveelheid van zijn urine | Juist. Dorst met geconcentreerde urine wijst op te weinig vocht. Meer drinken is hier de oplossing. |
-| MC-K04-05-B | Je beperkt het drinken, want donkere urine wijst op een nierprobleem | Onjuist. Donkere urine met dorst wijst bij een verder gezonde patiënt op te weinig vocht. Beperk het drinken nooit zonder advies van de arts. |
-| MC-K04-05-C | Je doet niets; dorst hoort bij griep | Onjuist. Uitdroging kan zijn herstel vertragen. Laat hem meer drinken en volg de urine. |
+| MC-K04-05-B | Je beperkt het drinken, want donkere urine wijst op een probleem met de nieren | Onjuist. Donkere urine met dorst wijst bij een verder gezonde patiënt op te weinig vocht. Beperk het drinken nooit zonder advies van de arts. |
+| MC-K04-05-C | Je doet niets bijzonders, want dorst en donkere urine horen gewoon bij griep | Onjuist. Uitdroging kan zijn herstel vertragen. Laat hem meer drinken en volg de urine. |
+| MC-K04-05-A | Je laat hem meer drinken, verspreid over de dag, en volgt de kleur van zijn urine | Juist. Dorst met geconcentreerde urine wijst op te weinig vocht. Meer drinken is hier de oplossing. |
 
 ## MC-L04-S26 Scenario: verslechtering in de nacht
 
@@ -732,8 +732,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K04-02-A | Doorgaan met inspuiten; een beetje bloed is normaal | Onjuist. Bloed in de spuit betekent dat je in een bloedvat zit. Spuit dan niet in. |
 | MC-K04-02-B | De naald terugtrekken en opnieuw beginnen | Juist. Zo voorkom je dat het middel in een bloedvat komt. |
+| MC-K04-02-A | Doorgaan met inspuiten; een beetje bloed is normaal | Onjuist. Bloed in de spuit betekent dat je in een bloedvat zit. Spuit dan niet in. |
 | MC-K04-02-C | De naald terugtrekken en terugsteken in het hulsje voor later gebruik | Onjuist. Je spuit niet in een bloedvat, maar je steekt een gebruikte naald ook nooit terug in het hulsje. Gooi hem direct in de naaldcontainer. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -832,9 +832,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K04-03-A | Hard doorduwen; de katheter moet langs de prostaat | Onjuist. Met kracht kun je de plasbuis beschadigen. Geef alleen geleidelijke druk. |
-| MC-K04-03-B | De katheter een stukje terugtrekken, een beetje draaien en opnieuw proberen met geleidelijke druk | Juist. Dat is de DRTC-werkwijze bij opkrullen. Lukt het niet, overleg dan met de arts. |
-| MC-K04-03-C | De katheter loslaten en de patiënt laten rusten | Onjuist. Laat de katheter niet los. Trek hem een stukje terug, draai en probeer opnieuw, of overleg met de arts. |
+| MC-K04-03-B | Een stukje terugtrekken, iets draaien en opnieuw met geleidelijke druk | Juist. Dat is de DRTC-werkwijze bij opkrullen. Lukt het niet, overleg dan met de arts. |
+| MC-K04-03-A | Hard doordrukken, omdat de katheter langs de prostaat moet | Onjuist. Met kracht kun je de plasbuis beschadigen. Geef alleen geleidelijke druk. |
+| MC-K04-03-C | De katheter loslaten en de patiënt een uur laten rusten | Onjuist. Laat de katheter niet los. Trek hem een stukje terug, draai en probeer opnieuw, of overleg met de arts. |
 
 **Te verifiëren door Mathanje of DRTC**
 

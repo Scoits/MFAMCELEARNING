@@ -20,21 +20,21 @@ MC-L00,MC-L00-S04,MC-32.01,Instapcheck: de vaste volgorde,"Met drie korte vragen
 
 Een kok heeft zich in de kombuis diep in zijn onderarm gesneden. Het bloed spuit eruit. Hij is aanspreekbaar en de kombuis is veilig.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K00-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je nadat je hulp hebt laten halen?
-MC-K00-01-A: Eerst de luchtweg controleren, zoals bij A
-MC-K00-01-B: Direct de ernstige bloeding stoppen, daarna A tot en met E (juist)
-MC-K00-01-C: Eerst pols en bloeddruk meten","MC-K00-01-B: Juist. Na Danger, Response en Send stop je eerst de ernstige bloeding. Daarna volg je A, B, C, D en E.","MC-K00-01-A: Onjuist. In de DRTC-volgorde stop je een ernstige bloeding direct na Danger, Response en Send, nog voor A.
+MC-K00-01-B: Direct de ernstige bloeding stoppen en daarna A tot en met E (juist)
+MC-K00-01-A: Eerst de luchtweg vrijmaken en controleren, omdat A altijd vooraan staat
+MC-K00-01-C: Eerst pols en bloeddruk meten om te zien hoe ernstig het is","MC-K00-01-B: Juist. Na Danger, Response en Send stop je eerst de ernstige bloeding. Daarna volg je A, B, C, D en E.","MC-K00-01-A: Onjuist. In de DRTC-volgorde stop je een ernstige bloeding direct na Danger, Response en Send, nog voor A.
 MC-K00-01-C: Onjuist. Metingen komen later. Een ernstige bloeding stop je direct.",S045,S045 dia42 (DRS-ABCDE met ernstige bloeding voor A); antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback.,,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.1,
 MC-L00,MC-L00-S05,MC-32.01,Instapcheck: contact met de arts,Een matroos heeft sinds een uur hevige pijn op de borst. Je wilt de Radio Medische Dienst bellen.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K00-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat heb je klaar voordat je belt?
-MC-K00-02-A: Alleen de naam van de patiënt en de klacht
-MC-K00-02-B: Het ingevulde patiëntevaluatieformulier met metingen, AMPLE, bevindingen en de gegevens van het schip (juist)
-MC-K00-02-C: Een voorstel welke medicijnen je wilt geven","MC-K00-02-B: Juist. Met het formulier heb je de gegevens van de patiënt, de metingen en de positie en bestemming van het schip bij de hand.","MC-K00-02-A: Onvoldoende. De arts heeft ook de gegevens van het schip en jouw bevindingen nodig om te kunnen adviseren.
+MC-K00-02-A: De naam van de patiënt, zijn klacht en hoe lang die al bestaat
+MC-K00-02-C: Een voorstel welke medicijnen je wilt geven, zodat de arts snel kan beslissen
+MC-K00-02-B: Het ingevulde patiëntevaluatieformulier met metingen, AMPLE en de gegevens van het schip (juist)","MC-K00-02-B: Juist. Met het formulier heb je de gegevens van de patiënt, de metingen en de positie en bestemming van het schip bij de hand.","MC-K00-02-A: Onvoldoende. De arts heeft ook de gegevens van het schip en jouw bevindingen nodig om te kunnen adviseren.
 MC-K00-02-C: Onjuist. De arts beslist over medicatie. Jij zorgt voor de waarnemingen waarop de arts beslist.",S046;S062;S045,"S046 p1 (AMPLE, contactblok RMD met naam schip, positie, ETA); antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback.",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
 MC-L00,MC-L00-S06,MC-32.01,Instapcheck: informatie opzoeken,De arts adviseert een middel uit de scheepsapotheek. Je weet niet precies hoe je het moet geven.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K00-03: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Waar zoek je dat op?
-MC-K00-03-A: In de medische gids of het medisch handboek aan boord, of via de digitale bron die DRTC noemt (juist)
-MC-K00-03-B: Op de bijsluiter van een vergelijkbaar middel uit je eigen tas
-MC-K00-03-C: Je onthoudt de dosering uit de cursus","MC-K00-03-A: Juist. Daar staan gebruik, dosering en bijwerkingen. Controleer middel, sterkte en datum voor gebruik, en vraag de arts bij twijfel.","MC-K00-03-B: Onjuist. Gebruik alleen de middelen en informatie van de scheepsapotheek en het advies van de arts.
+MC-K00-03-B: Op de bijsluiter van een vergelijkbaar middel uit je eigen tas of hut
+MC-K00-03-A: In de medische gids aan boord of de digitale bron die DRTC noemt (juist)
+MC-K00-03-C: Je gebruikt de dosering die je in de cursus hebt geleerd en onthouden","MC-K00-03-A: Juist. Daar staan gebruik, dosering en bijwerkingen. Controleer middel, sterkte en datum voor gebruik, en vraag de arts bij twijfel.","MC-K00-03-B: Onjuist. Gebruik alleen de middelen en informatie van de scheepsapotheek en het advies van de arts.
 MC-K00-03-C: Onjuist. Zoek gebruik en dosering iedere keer op. Je geheugen is geen veilige bron.",S062;S045,"S062 dia5 en S045 dia6 (informatie via DRTC-link, medisch handboek, Mariners Medico Guide); antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: DRTC bevestigt welke medische gids en digitale bron worden genoemd (R40).",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
 MC-L00,MC-L00-S07,MC-32.01,Hoe je verder gaat,"Had je een of meer instapvragen onjuist? Bekijk dan eerst het herhaalmateriaal over dat onderwerp. Je kunt de lessen van Medical Care ook zonder herhaling volgen, maar ze gaan ervan uit dat je de kern van MFA beheerst.
 

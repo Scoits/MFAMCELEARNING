@@ -45,6 +45,18 @@ Maak een mediaregister met ID, vindplaats, maker, gebruiksrecht, gekoppeld scher
 
 Rise is geschikt voor samenhangende uitleg en kennischecks. Gebruik Storyline wanneer beslissingen een betekenisvol verschillend vervolg opleveren. Het aantal beslispunten volgt uit het leerdoel; vijf keuzes is geen vaste eis. Medische gevolgen en feedback vragen inhoudelijke onderbouwing. Vermijd decoratieve animatie, onnodige verplichte audio en aanwijzingen die uitsluitend van kleur afhangen. Controleer leesbaarheid, toetsenbordbediening, ondertiteling en de beoogde schermformaten in de proef.
 
+## Antwoordopties van kennischecks
+
+Een oefenvraag meet kennis, geen toetsslimheid. Daarom gelden sinds 21 november 2026 drie regels, na het onderzoek naar wat e-learning goed maakt (voorstel 1).
+
+1. De opties zijn ongeveer even lang. Het juiste antwoord is niet meer dan 1,3 keer zo lang als de langste afleider, in woorden. Het juiste antwoord is een korte kern; de volledige uitleg staat in de feedback.
+2. Iedere afleider is geloofwaardig, met een reden die een leek zou kunnen aanhouden.
+3. De plek van het juiste antwoord is gelijk verdeeld over A, B en C. Vragen met een natuurlijke volgorde, zoals oplopende percentages of tijden, houden die volgorde.
+
+De volgorde van de optieregels in de schermreview en van de rijen in de master is de weergavevolgorde. De antwoord-ID's blijven aan hun tekst gekoppeld; K06-05-B kan dus op de derde plek staan. De bouwscripts nummeren de opties in Rise naar hun plek.
+
+Controle: `python3 tools/controleer_antwoordopties.py` telt de vragen waarin het juiste antwoord duidelijk het langste is en de verdeling over de plekken. Stand 21 november 2026: 167 vragen, 0 met het juiste antwoord duidelijk het langste, plek A 56, B 58, C 53.
+
 ## Reviewmaster en schone importversie
 
 Bewaar twee afzonderlijke producten per les. De reviewmaster bevat alle bronplaatsen, ID's, opmerkingen, open punten en versiegegevens. De schone importversie bevat uitsluitend vastgestelde cursistentekst, geschikte bloklabels en helder gescheiden interactieconfiguratie. Interne opmerkingen, medische twijfels en akkoordvelden mogen niet als leerstof in Articulate verschijnen.

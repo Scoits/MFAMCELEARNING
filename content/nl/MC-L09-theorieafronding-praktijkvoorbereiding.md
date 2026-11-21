@@ -99,9 +99,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K09-01-A | Ik blijf meten en meld het over veertig minuten, zoals afgesproken | Onjuist. De afspraak ging uit van de toestand van toen. Tekenen van verslechtering, hier mogelijk van shock, meld je direct. |
-| MC-K09-01-B | Ik beoordeel de patiënt opnieuw volgens ABCDE, behandel wat levensbedreigend is en meld de verandering direct aan de arts | Juist. Je herkent verslechtering, handelt volgens de vaste volgorde en geeft de arts de nieuwe gegevens om het advies te herzien. |
-| MC-K09-01-C | Ik geef iets tegen de pijn zodat hij rustiger wordt | Onjuist. Je geeft geen geneesmiddel zonder overleg, en onrust kan een teken van verslechtering zijn die de arts moet weten. |
+| MC-K09-01-B | Opnieuw ABCDE, behandelen wat levensbedreigend is en de verandering direct melden | Juist. Je herkent verslechtering, handelt volgens de vaste volgorde en geeft de arts de nieuwe gegevens om het advies te herzien. |
+| MC-K09-01-A | Ik blijf meten en meld het over veertig minuten, zoals met de arts afgesproken | Onjuist. De afspraak ging uit van de toestand van toen. Tekenen van verslechtering, hier mogelijk van shock, meld je direct. |
+| MC-K09-01-C | Ik geef hem iets tegen de pijn, zodat hij rustiger wordt en beter ademt | Onjuist. Je geeft geen geneesmiddel zonder overleg, en onrust kan een teken van verslechtering zijn die de arts moet weten. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -241,9 +241,9 @@ Wat klopt?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K09-02-A | Ja, met een voldoende voor de online toets ben je klaar | Onjuist. De online toets laat alleen zien dat je de theorie beheerst. Het certificaat volgt pas na de praktijkdagen. |
-| MC-K09-02-B | Nee, je krijgt het certificaat pas als je op de praktijkdagen ook de handelingen en de scenario's voldoende hebt laten zien | Juist. Je hebt de theorie en de individuele praktijkbeoordeling allebei nodig. |
-| MC-K09-02-C | Nee, je moet de online toets eerst nog een keer maken | Onjuist. Een voldoende hoef je niet te herhalen. Wat nog ontbreekt, is de praktijkbeoordeling op locatie. |
+| MC-K09-02-B | Nee, je moet op de praktijkdagen ook de handelingen en scenario's laten zien | Juist. Je hebt de theorie en de individuele praktijkbeoordeling allebei nodig. |
+| MC-K09-02-A | Ja, met een voldoende voor de online toets ben je klaar en krijg je het certificaat | Onjuist. De online toets laat alleen zien dat je de theorie beheerst. Het certificaat volgt pas na de praktijkdagen. |
+| MC-K09-02-C | Nee, je moet de online toets eerst nog een tweede keer maken en halen | Onjuist. Een voldoende hoef je niet te herhalen. Wat nog ontbreekt, is de praktijkbeoordeling op locatie. |
 
 **Verbinding met de praktijkdag**
 

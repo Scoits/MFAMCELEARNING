@@ -137,9 +137,9 @@ Wat doe je nadat je hulp hebt laten halen?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K00-01-A | Eerst de luchtweg controleren, zoals bij A | Onjuist. In de DRTC-volgorde stop je een ernstige bloeding direct na Danger, Response en Send, nog voor A. |
-| MC-K00-01-B | Direct de ernstige bloeding stoppen, daarna A tot en met E | Juist. Na Danger, Response en Send stop je eerst de ernstige bloeding. Daarna volg je A, B, C, D en E. |
-| MC-K00-01-C | Eerst pols en bloeddruk meten | Onjuist. Metingen komen later. Een ernstige bloeding stop je direct. |
+| MC-K00-01-B | Direct de ernstige bloeding stoppen en daarna A tot en met E | Juist. Na Danger, Response en Send stop je eerst de ernstige bloeding. Daarna volg je A, B, C, D en E. |
+| MC-K00-01-A | Eerst de luchtweg vrijmaken en controleren, omdat A altijd vooraan staat | Onjuist. In de DRTC-volgorde stop je een ernstige bloeding direct na Danger, Response en Send, nog voor A. |
+| MC-K00-01-C | Eerst pols en bloeddruk meten om te zien hoe ernstig het is | Onjuist. Metingen komen later. Een ernstige bloeding stop je direct. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -169,9 +169,9 @@ Wat heb je klaar voordat je belt?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K00-02-A | Alleen de naam van de patiënt en de klacht | Onvoldoende. De arts heeft ook de gegevens van het schip en jouw bevindingen nodig om te kunnen adviseren. |
-| MC-K00-02-B | Het ingevulde patiëntevaluatieformulier met metingen, AMPLE, bevindingen en de gegevens van het schip | Juist. Met het formulier heb je de gegevens van de patiënt, de metingen en de positie en bestemming van het schip bij de hand. |
-| MC-K00-02-C | Een voorstel welke medicijnen je wilt geven | Onjuist. De arts beslist over medicatie. Jij zorgt voor de waarnemingen waarop de arts beslist. |
+| MC-K00-02-A | De naam van de patiënt, zijn klacht en hoe lang die al bestaat | Onvoldoende. De arts heeft ook de gegevens van het schip en jouw bevindingen nodig om te kunnen adviseren. |
+| MC-K00-02-C | Een voorstel welke medicijnen je wilt geven, zodat de arts snel kan beslissen | Onjuist. De arts beslist over medicatie. Jij zorgt voor de waarnemingen waarop de arts beslist. |
+| MC-K00-02-B | Het ingevulde patiëntevaluatieformulier met metingen, AMPLE en de gegevens van het schip | Juist. Met het formulier heb je de gegevens van de patiënt, de metingen en de positie en bestemming van het schip bij de hand. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -201,9 +201,9 @@ Waar zoek je dat op?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K00-03-A | In de medische gids of het medisch handboek aan boord, of via de digitale bron die DRTC noemt | Juist. Daar staan gebruik, dosering en bijwerkingen. Controleer middel, sterkte en datum voor gebruik, en vraag de arts bij twijfel. |
-| MC-K00-03-B | Op de bijsluiter van een vergelijkbaar middel uit je eigen tas | Onjuist. Gebruik alleen de middelen en informatie van de scheepsapotheek en het advies van de arts. |
-| MC-K00-03-C | Je onthoudt de dosering uit de cursus | Onjuist. Zoek gebruik en dosering iedere keer op. Je geheugen is geen veilige bron. |
+| MC-K00-03-B | Op de bijsluiter van een vergelijkbaar middel uit je eigen tas of hut | Onjuist. Gebruik alleen de middelen en informatie van de scheepsapotheek en het advies van de arts. |
+| MC-K00-03-A | In de medische gids aan boord of de digitale bron die DRTC noemt | Juist. Daar staan gebruik, dosering en bijwerkingen. Controleer middel, sterkte en datum voor gebruik, en vraag de arts bij twijfel. |
+| MC-K00-03-C | Je gebruikt de dosering die je in de cursus hebt geleerd en onthouden | Onjuist. Zoek gebruik en dosering iedere keer op. Je geheugen is geen veilige bron. |
 
 **Te verifiëren door Mathanje of DRTC**
 

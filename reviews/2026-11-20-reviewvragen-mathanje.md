@@ -353,6 +353,14 @@ Op 21 november 2026 kregen veertien MC-leerdoelen die alleen uitleg hadden een c
 | R146 | MC-L02-S37 tot en met S39 en MC-L03-S14 tot en met S16 | Kloppen de casussen en de antwoorden van MC-K02-07 tot en met MC-K02-12 en MC-K03-04 tot en met MC-K03-09? Passen de fictieve oefenwaarden in MC-K02-10? Is de koelduur van twintig minuten in MC-L02-S39 gelijk aan de richtlijn die DRTC gebruikt? Klopt het afdekken en opnieuw overleggen als een wond niet gehecht kan worden? |
 | R147 | MC-L06-S34 en S35 en MC-L07-S37 en S38 | Kloppen de casussen en de antwoorden van MC-K06-08 tot en met MC-K06-12 en MC-K07-10 tot en met MC-K07-14? Welke actuele bron voor vaccinaties noemt de les? Hoort MC-K06-09 over de bevalling erin voor het scopebesluit (R74)? |
 
+## Aanvulling: antwoordopties gelijk van lengte
+
+Op 21 november 2026 zijn de antwoordopties van alle 167 kennischecks herschreven, zodat het juiste antwoord niet meer het langste is, en is de plek van het juiste antwoord verdeeld over A, B en C. De antwoord-ID's en de feedback zijn ongewijzigd. Het juiste antwoord is soms ingekort tot de kern; de volledige uitleg staat in de feedback.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R148 | Alle kennischecks in MFA en MC | Is ieder ingekort juist antwoord nog volledig juist, en is geen afleider door de nieuwe toelichting per ongeluk ook juist geworden? |
+
 ## Aanvulling bij het scenario RMD-gesprek
 
 | Nr | Scherm | Vraag |

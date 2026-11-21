@@ -214,9 +214,9 @@ Welk verband krijgt de matroos, en wat controleer je daarna?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K03-05-A | Een dekverband, en je controleert niets meer | Onjuist. Een wond die blijft bloeden vraagt druk. En na ieder verband controleer je de doorbloeding. |
-| MC-K03-05-B | Een wonddrukverband: dekverband, watten en een stevige zwachtel; daarna controleer je kleur, warmte en gevoel van de hand en vraag je of het knelt | Juist. Het wonddrukverband stelpt de bloeding. Daarna controleer je of de doorbloeding voorbij het verband in orde is. |
-| MC-K03-05-C | Een snelverband zo strak mogelijk, zodat er zeker geen bloed meer uitkomt | Onjuist. Te strak kan de doorbloeding afknellen. Je legt een wonddrukverband aan en controleert de doorbloeding. |
+| MC-K03-05-A | Een dekverband, en daarna hoef je niets meer te controleren tot het verband vies is | Onjuist. Een wond die blijft bloeden vraagt druk. En na ieder verband controleer je de doorbloeding. |
+| MC-K03-05-C | Een snelverband zo strak mogelijk, zodat er zeker geen bloed meer uit de wond komt | Onjuist. Te strak kan de doorbloeding afknellen. Je legt een wonddrukverband aan en controleert de doorbloeding. |
+| MC-K03-05-B | Een wonddrukverband, en daarna kleur, warmte en gevoel van de hand controleren | Juist. Het wonddrukverband stelpt de bloeding. Daarna controleer je of de doorbloeding voorbij het verband in orde is. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -281,9 +281,9 @@ Wat doe je tot de arts bereikbaar is?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K03-06-A | Een pijnstiller uit de kast geven; een lichte pijnstiller mag altijd | Onjuist. Pijnstillers geef je alleen op advies van de arts. Tot dan zijn er andere manieren om pijn te verlichten. |
-| MC-K03-06-B | De pols rust geven in de spalk en een mitella, hem een houding laten kiezen die minder pijn doet, uitleggen wat er gebeurt en bij hem blijven | Juist. Rust, ondersteunen en een goede houding verlichten pijn. Uitleg en aanwezigheid verminderen angst, en angst maakt pijn erger. |
-| MC-K03-06-C | Hem de pols laten bewegen, zodat hij niet stijf wordt | Onjuist. Een mogelijk gebroken pols beweeg je niet. Rust en ondersteuning verlichten de pijn. |
+| MC-K03-06-A | Een pijnstiller uit de kast geven, omdat een lichte pijnstiller zonder advies altijd mag | Onjuist. Pijnstillers geef je alleen op advies van de arts. Tot dan zijn er andere manieren om pijn te verlichten. |
+| MC-K03-06-B | Rust geven in spalk en mitella, een houding met minder pijn zoeken, uitleggen en erbij blijven | Juist. Rust, ondersteunen en een goede houding verlichten pijn. Uitleg en aanwezigheid verminderen angst, en angst maakt pijn erger. |
+| MC-K03-06-C | Hem de pols voorzichtig laten bewegen, zodat het gewricht niet stijf wordt tot de arts belt | Onjuist. Een mogelijk gebroken pols beweeg je niet. Rust en ondersteuning verlichten de pijn. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -314,9 +314,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K03-02-A | Je geeft twee tabletten van het middel dat het meest gebruikt wordt | Onjuist. Je weet niet welk middel bedoeld is, en de patiënt is voor een van de middelen allergisch. |
-| MC-K03-02-B | Je vraagt de arts welk middel en welke sterkte bedoeld zijn, meldt de allergie en herhaalt daarna de instructie hardop | Juist. Je geeft pas iets als middel, sterkte en hoeveelheid duidelijk zijn en de arts van de allergie weet. |
-| MC-K03-02-C | Je geeft niets en zegt niets tegen de arts | Onjuist. De patiënt heeft pijn en de arts verwacht dat je de instructie uitvoert. Vraag na wat onduidelijk is. |
+| MC-K03-02-B | Je vraagt welk middel en welke sterkte, meldt de allergie en herhaalt de instructie | Juist. Je geeft pas iets als middel, sterkte en hoeveelheid duidelijk zijn en de arts van de allergie weet. |
+| MC-K03-02-A | Je geeft twee tabletten van het middel dat aan boord het meest gebruikt wordt | Onjuist. Je weet niet welk middel bedoeld is, en de patiënt is voor een van de middelen allergisch. |
+| MC-K03-02-C | Je geeft niets en zegt daar niets over tegen de arts, om hem niet op te houden | Onjuist. De patiënt heeft pijn en de arts verwacht dat je de instructie uitvoert. Vraag na wat onduidelijk is. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -376,9 +376,9 @@ Mag je deze wond hechten?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K03-03-A | Ja, de wond gaapt en moet dicht | Onjuist. De wond is ouder dan 6 uur en ontstaan door een vismes. Die hecht je niet. |
-| MC-K03-03-B | Nee, de wond is ouder dan 6 uur en door een vismes ontstaan; je reinigt, dekt af en overlegt met de arts | Juist. Hechten sluit vuil en bacteriën in. Je verzorgt de wond en volgt het advies van de arts. |
-| MC-K03-03-C | Ja, als je de wond eerst goed desinfecteert | Onjuist. Desinfecteren maakt een oude wond of een wond door een vismes niet geschikt om te hechten. |
+| MC-K03-03-A | Ja, want de wond gaapt en moet zo snel mogelijk dicht om infectie te voorkomen | Onjuist. De wond is ouder dan 6 uur en ontstaan door een vismes. Die hecht je niet. |
+| MC-K03-03-C | Ja, als je de wond eerst goed desinfecteert en daarna met steriel materiaal werkt | Onjuist. Desinfecteren maakt een oude wond of een wond door een vismes niet geschikt om te hechten. |
+| MC-K03-03-B | Nee, de wond is ouder dan 6 uur en komt van een vismes; reinigen, afdekken, overleggen | Juist. Hechten sluit vuil en bacteriën in. Je verzorgt de wond en volgt het advies van de arts. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -480,9 +480,9 @@ Bij het openen van de hechtset raakt je mouw de steriele doek. Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K03-07-A | Doorgaan; het was maar heel even | Onjuist. Twijfel je of iets steriel is, dan is het niet steriel. |
-| MC-K03-07-B | De doek en wat erop ligt als niet steriel beschouwen en opnieuw beginnen met steriel materiaal | Juist. Wat niet-steriel is aangeraakt, is niet meer steriel. Begin opnieuw. |
-| MC-K03-07-C | De doek desinfecteren met alcohol en dan doorgaan | Onjuist. Desinfecteren maakt iets niet steriel. Gebruik nieuw steriel materiaal. |
+| MC-K03-07-B | De doek en wat erop ligt als niet steriel beschouwen en opnieuw beginnen | Juist. Wat niet-steriel is aangeraakt, is niet meer steriel. Begin opnieuw. |
+| MC-K03-07-A | Doorgaan, want het was maar heel even en de mouw was schoon | Onjuist. Twijfel je of iets steriel is, dan is het niet steriel. |
+| MC-K03-07-C | De plek op de doek desinfecteren met alcohol en dan gewoon doorgaan | Onjuist. Desinfecteren maakt iets niet steriel. Gebruik nieuw steriel materiaal. |
 
 **Kennischeck MC-K03-08**
 
@@ -490,8 +490,8 @@ Bij het verdoven trek je de zuiger iets terug en zie je bloed in de spuit. Wat d
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K03-08-A | Inspuiten; een beetje bloed is normaal | Onjuist. Bloed in de spuit betekent dat de naald in een bloedvat zit. |
 | MC-K03-08-B | De naald verplaatsen en opnieuw controleren voordat je inspuit | Juist. Je spuit de verdoving niet in een bloedvat. Verplaats de naald en controleer opnieuw. |
+| MC-K03-08-A | Inspuiten; een beetje bloed is normaal | Onjuist. Bloed in de spuit betekent dat de naald in een bloedvat zit. |
 | MC-K03-08-C | Stoppen met verdoven en zonder verdoving hechten | Onjuist. Je verplaatst de naald en gaat dan verder met verdoven. |
 
 **Kennischeck MC-K03-09**
@@ -500,8 +500,8 @@ Bij het inspecteren zie je zand en vuil diep in de wond dat je er niet uit krijg
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K03-09-A | Hechten; het vuil komt er later vanzelf uit | Onjuist. Vuil dat je niet kunt verwijderen, sluit je in als je hecht. Dat geeft een grote kans op infectie. |
 | MC-K03-09-B | Niet hechten, de wond afdekken en opnieuw overleggen met de arts | Juist. Lukt het niet om het vuil te verwijderen, dan hecht je niet. De arts beslist wat er dan gebeurt. |
+| MC-K03-09-A | Hechten; het vuil komt er later vanzelf uit | Onjuist. Vuil dat je niet kunt verwijderen, sluit je in als je hecht. Dat geeft een grote kans op infectie. |
 | MC-K03-09-C | De wond hechten en een extra ontsmettingsmiddel over de hechtingen doen | Onjuist. Een ontsmettingsmiddel over de hechtingen haalt het vuil in de wond niet weg. |
 
 **Te verifiëren door Mathanje of DRTC**

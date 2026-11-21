@@ -158,8 +158,8 @@ Je collega heeft een bloedende snijwond in de hand. Wat neem je als eerste mee u
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-01-A | Handschoenen en wond- en verbandmateriaal | Juist. Je beschermt jezelf en kunt de wond afdekken en de bloeding behandelen. |
 | K01-01-B | Een spalk en een driekante doek | Onjuist voor deze situatie. Die middelen gebruik je vooral bij vermoedelijk bot- of gewrichtsletsel. |
+| K01-01-A | Handschoenen en wond- en verbandmateriaal | Juist. Je beschermt jezelf en kunt de wond afdekken en de bloeding behandelen. |
 | K01-01-C | Een thermometer en een registratieformulier | Onjuist als eerste keuze. Vastleggen is belangrijk, maar eerst moet je de bloeding kunnen behandelen en jezelf beschermen. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -222,9 +222,9 @@ Op het doosje staat achter de code de afkorting RMA. Wat betekent dat?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-04-A | Je geeft het middel in principe alleen op advies van de Radio Medische Dienst of een arts | Juist. Bij een middel met de code RMA beslis je niet zelf. Je vraagt eerst medisch advies en volgt dat op. |
-| K01-04-B | Het middel is alleen bedoeld voor de kist van een reddingsmiddel | Onjuist. Voor de kist van een reddingsmiddel is er een aparte kolom R. De code RMA gaat over wie beslist dat het middel wordt gegeven. |
-| K01-04-C | Je mag het middel geven zodra de collega erom vraagt | Onjuist. Juist bij een middel met de code RMA vraag je eerst advies aan de Radio Medische Dienst of een arts. |
+| K01-04-B | Het middel is alleen bedoeld voor de kist van een reddingsboot of reddingsvlot | Onjuist. Voor de kist van een reddingsmiddel is er een aparte kolom R. De code RMA gaat over wie beslist dat het middel wordt gegeven. |
+| K01-04-A | Je geeft het middel in principe alleen op advies van de RMD of een arts | Juist. Bij een middel met de code RMA beslis je niet zelf. Je vraagt eerst medisch advies en volgt dat op. |
+| K01-04-C | Je mag het middel geven zodra de collega erom vraagt en het nodig lijkt | Onjuist. Juist bij een middel met de code RMA vraag je eerst advies aan de Radio Medische Dienst of een arts. |
 
 ## MFA-L01-S04 Vinden en beschikbaar maken
 
@@ -335,9 +335,9 @@ Bij welke regels moet er iets gebeuren?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-05-A | Bij de handschoenen en de zwaluwstaartpleisters | Juist. Er zijn 8 paar handschoenen te weinig en de zwaluwstaartpleisters zijn sinds januari 2027 over de datum. Je meldt beide, zodat de handschoenen worden aangevuld en de pleisters vervangen. |
 | K01-05-B | Alleen bij de handschoenen | Bijna. De handschoenen moeten worden aangevuld, maar kijk ook naar de houdbaarheidsdatum: de zwaluwstaartpleisters zijn over de datum en moeten worden vervangen. |
 | K01-05-C | Nergens, want van ieder middel is iets aanwezig | Onjuist. Er zijn maar 4 van de 12 paar handschoenen en de zwaluwstaartpleisters zijn over de datum. |
+| K01-05-A | Bij de handschoenen en de zwaluwstaartpleisters | Juist. Er zijn 8 paar handschoenen te weinig en de zwaluwstaartpleisters zijn sinds januari 2027 over de datum. Je meldt beide, zodat de handschoenen worden aangevuld en de pleisters vervangen. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -421,8 +421,8 @@ Waarin verschilt de eerstehulpuitrusting van een reddingsvlot van de medische ui
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-02-A | Hij is kleiner en bedoeld om zelf te gebruiken totdat redding komt | Juist. De uitrusting is beperkt en bedoeld voor zelfstandig gebruik met de gebruiksaanwijzing, zonder de middelen van het schip. |
 | K01-02-B | Hij bevat dezelfde middelen als de uitrusting van het schip | Onjuist. De uitrusting in een reddingsmiddel is kleiner en beperkter. |
+| K01-02-A | Hij is kleiner en bedoeld om zelf te gebruiken totdat redding komt | Juist. De uitrusting is beperkt en bedoeld voor zelfstandig gebruik met de gebruiksaanwijzing, zonder de middelen van het schip. |
 | K01-02-C | Hij mag alleen door een arts worden gebruikt | Onjuist. De uitrusting is bedoeld voor de opvarenden in het reddingsmiddel en heeft daarom een gebruiksaanwijzing. |
 
 ## MFA-L01-S07 Materiaal veilig en hygiënisch gebruiken
@@ -525,9 +525,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-07-A | Je schuift het gaasje voorzichtig over de wond | Onjuist. Door het gaasje te verschuiven kunnen vuil en ziektekiemen van de huid in de wond komen. |
-| K01-07-B | Je legt een tweede steriel gaasje over het eerste, zodat de wond helemaal bedekt is | Juist. Een gaasje dat op de wond ligt, verschuif of verwijder je niet meer. Met een tweede gaasje is de wond alsnog helemaal bedekt. |
-| K01-07-C | Je haalt het gaasje weg en legt het opnieuw neer | Onjuist. Het gaasje is niet meer steriel en door het weg te halen kan vuil in de wond komen. |
+| K01-07-B | Je legt een tweede steriel gaasje over het eerste, zodat alles bedekt is | Juist. Een gaasje dat op de wond ligt, verschuif of verwijder je niet meer. Met een tweede gaasje is de wond alsnog helemaal bedekt. |
+| K01-07-A | Je schuift het gaasje voorzichtig over de wond, zodat die bedekt is | Onjuist. Door het gaasje te verschuiven kunnen vuil en ziektekiemen van de huid in de wond komen. |
+| K01-07-C | Je haalt het gaasje weg en legt het opnieuw, nu precies over de wond | Onjuist. Het gaasje is niet meer steriel en door het weg te halen kan vuil in de wond komen. |
 
 ## MFA-L01-S16 Het juiste materiaal bij een wond
 
@@ -591,9 +591,9 @@ Welk materiaal pak je uit de uitrusting?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-06-A | Handschoenen, steriele gaasjes en een tunnelverband voor vingers, en water om te spoelen | Juist. Je beschermt jezelf, spoelt de wondjes schoon met lauw, schoon stromend water en dekt ze steriel af. Leg je een verband om twee vingers tegelijk, leg dan een gaasje tussen de vingers. |
 | K01-06-B | Synthetische watten en een stevige zwachtel voor een wonddrukverband | Onjuist. Een wonddrukverband is voor een bloeding die door een dekverband heen blijft bloeden. Deze kleine wondjes kun je schoonmaken en afdekken. |
-| K01-06-C | Een vervormbare spalk voor de vingers | Onjuist. Een spalk gebruik je bij een vermoedelijke breuk of ontwrichting. Hier is alleen de huid beschadigd. |
+| K01-06-A | Handschoenen, steriele gaasjes, een tunnelverband en water om te spoelen | Juist. Je beschermt jezelf, spoelt de wondjes schoon met lauw, schoon stromend water en dekt ze steriel af. Leg je een verband om twee vingers tegelijk, leg dan een gaasje tussen de vingers. |
+| K01-06-C | Een vervormbare spalk voor de vingers en een driekante doek | Onjuist. Een spalk gebruik je bij een vermoedelijke breuk of ontwrichting. Hier is alleen de huid beschadigd. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -619,9 +619,9 @@ Je pakt een steriel kompres en ziet dat de verpakking aan één kant open is. Wa
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-03-A | Je gebruikt het, want het kompres ziet er schoon uit | Onjuist. Je kunt niet zien of het kompres nog steriel is. |
-| K01-03-B | Je legt het apart, neemt een kompres met een onbeschadigde verpakking en meldt het beschadigde exemplaar | Juist. Zo gebruik je alleen materiaal waarvan je zeker bent en wordt de voorraad aangevuld. |
-| K01-03-C | Je desinfecteert het kompres eerst met alcohol | Onjuist. Daarmee maak je het kompres niet opnieuw steriel. |
+| K01-03-B | Je legt het apart, pakt een onbeschadigd kompres en meldt het | Juist. Zo gebruik je alleen materiaal waarvan je zeker bent en wordt de voorraad aangevuld. |
+| K01-03-A | Je gebruikt het, want het kompres zelf ziet er schoon en droog uit | Onjuist. Je kunt niet zien of het kompres nog steriel is. |
+| K01-03-C | Je desinfecteert het kompres eerst met alcohol en gebruikt het dan | Onjuist. Daarmee maak je het kompres niet opnieuw steriel. |
 
 **Te verifiëren door Mathanje of DRTC**
 

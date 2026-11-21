@@ -46,21 +46,21 @@ MFA-L06,MFA-L06-S14,MFA-10.02;MFA-10.03,Casus: het advies van de arts uitvoeren,
 
 Je herhaalt het advies hardop en schrijft het op. Daarna loop je naar de medicijnkist, pakt het middel en controleert het etiket: juist middel, juiste sterkte, juiste vorm en niet over de datum. Alles klopt.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K06-05: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je voordat je de tablet aan de matroos geeft?
-K06-05-A: Niets meer; de arts heeft het middel al gekozen
-K06-05-B: Vragen of hij al andere geneesmiddelen gebruikt en of hij ergens allergisch voor is, en dat aan de arts melden als dat zo is (juist)
-K06-05-C: Een extra tablet meegeven voor als de pijn later terugkomt",K06-05-B: Juist. Andere middelen kunnen op elkaar inwerken en een allergie kan een ernstige reactie geven. Meld het aan de arts voordat je het middel geeft.,"K06-05-A: Onjuist. De arts weet niet alles wat jij aan boord kunt vragen. Controleer bij de patiënt of er iets is dat de arts moet weten.
+K06-05-A: Niets meer, want de arts heeft het middel en de hoeveelheid al gekozen
+K06-05-C: Een extra tablet meegeven voor als de pijn vannacht terugkomt
+K06-05-B: Vragen naar andere geneesmiddelen en allergie, en dat aan de arts melden (juist)",K06-05-B: Juist. Andere middelen kunnen op elkaar inwerken en een allergie kan een ernstige reactie geven. Meld het aan de arts voordat je het middel geeft.,"K06-05-A: Onjuist. De arts weet niet alles wat jij aan boord kunt vragen. Controleer bij de patiënt of er iets is dat de arts moet weten.
 K06-05-C: Onjuist. Je geeft alleen wat de arts heeft geadviseerd. Komt de pijn terug, dan overleg je opnieuw.",S025;S045;S034,"S045 dia53 (handelen in opdracht van arts); S025 hoofdstuk 33, gedrukte p423-424 / PDF p444-445 (logboek, etiket, zwangerschap en wisselwerking); S034 dia20 (medisch logboek); de casus en de antwoordlogica zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van K06-05 (R143).",,Rise kennischeck,4,medische_review_nodig,Mathanje,,0.2,
 MFA-L06,MFA-L06-S15,MFA-10.02,Casus: vastleggen en nazorg,De matroos heeft geen andere medicijnen en geen bekende allergie. Hij neemt de tablet in. Het is 14.10 uur.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K06-06: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat leg je vast?
-K06-06-A: Alleen dat hij een pijnstiller heeft gekregen
-K06-06-B: Welk middel, hoeveel, hoe laat, op advies van welke arts, en hoe de matroos daarna reageert; en je werkt de voorraadlijst bij (juist)
-K06-06-C: Niets; een gewone pijnstiller hoef je niet te noteren","K06-06-B: Juist. Middel en hoeveelheid horen in het logboek van het schip. Door ook tijd, advies en reactie te noteren, kan de arts bij een volgend contact verder. De voorraadlijst houdt bij wat er nog is.","K06-06-A: Onjuist. Daarmee weet een volgende hulpverlener of arts niet wat, hoeveel en wanneer.
+K06-06-B: Middel, hoeveelheid, tijd, advies van welke arts en zijn reactie (juist)
+K06-06-A: Alleen dat hij een pijnstiller heeft gekregen en dat het goed ging
+K06-06-C: Niets, want een gewone pijnstiller hoef je niet in het logboek te noteren","K06-06-B: Juist. Middel en hoeveelheid horen in het logboek van het schip. Door ook tijd, advies en reactie te noteren, kan de arts bij een volgend contact verder. De voorraadlijst houdt bij wat er nog is.","K06-06-A: Onjuist. Daarmee weet een volgende hulpverlener of arts niet wat, hoeveel en wanneer.
 K06-06-C: Onjuist. Iedere behandeling met een geneesmiddel leg je vast, ook een gewone pijnstiller.",S025;S034,"S025 hoofdstuk 33, gedrukte p423 / PDF p444 (behandeling, middel en hoeveelheid in het logboek; lijst bijwerken); S034 dia20 (medisch logboek); antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Het noteren van de reactie van de patiënt is een eigen aanvulling bij S025 p423; Mathanje beoordeelt de antwoorden (R143).",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.2,
 MFA-L06,MFA-L06-S05,MFA-10.03,Het advies van gisteren,Gisteren adviseerde de arts een pijnstiller voor een collega met rugpijn. Vandaag is die collega benauwd en heeft hij buikpijn. Hij vraagt om dezelfde pijnstiller.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K06-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je?
 K06-01-A: Dezelfde pijnstiller geven, want de arts heeft die gisteren geadviseerd
-K06-01-B: Eerst opnieuw beoordelen en contact opnemen met de Radio Medische Dienst voordat je iets geeft (juist)
-K06-01-C: Een andere pijnstiller uit de kast kiezen",K06-01-B: Juist. Een oude instructie bij een veranderde toestand verifieer je eerst. Je beoordeelt opnieuw en overlegt met de arts.,"K06-01-A: Onjuist. Het advies gold voor de situatie van gisteren. Nu zijn er nieuwe klachten en moet de arts opnieuw beslissen.
+K06-01-C: Een andere pijnstiller uit de kast kiezen die beter past
+K06-01-B: Eerst opnieuw beoordelen en contact opnemen met de RMD (juist)",K06-01-B: Juist. Een oude instructie bij een veranderde toestand verifieer je eerst. Je beoordeelt opnieuw en overlegt met de arts.,"K06-01-A: Onjuist. Het advies gold voor de situatie van gisteren. Nu zijn er nieuwe klachten en moet de arts opnieuw beslissen.
 K06-01-C: Onjuist. Je kiest niet zelf een geneesmiddel. Overleg eerst met de arts.",S045,S045 dia53; antwoordlogica is DRTC-ontwerp.,,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.2,
 MFA-L06,MFA-L06-S06,MFA-11.01;MFA-11.02,"Reinigen, desinfecteren en steriliseren","Reinigen is het verwijderen van zichtbaar vuil, bloed en lichaamsvocht met water en zeep of een reinigingsmiddel. Zonder reinigen werkt desinfecteren niet goed.
 
@@ -78,20 +78,20 @@ Instrumenten reinig je altijd eerst met water en zeep voordat je ze desinfecteer
 Wegwerpmateriaal van een patiënt met een besmettelijke ziekte stop je in een zak die je stevig dichtplakt, en die zak in een tweede gesloten zak. Bewaar besmet materiaal en materiaal met bloed of lichaamsvocht veilig, totdat het aan wal kan worden afgevoerd of aan boord wordt verbrand.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S025,"S025 hoofdstuk 26, gedrukte p330-331 / PDF p351-352 (infectiepreventie, handen wassen, besmet materiaal) en tabel 26.5 (desinfectie en sterilisatie). TE VERIFIËREN: S025 tabel 26.5 noemt middelen, concentraties en inwerktijden voor instrumenten, oppervlakken en thermometers. Die zijn niet overgenomen, omdat de middelen aan boord en bij DRTC kunnen verschillen. DRTC bevestigt welk middel en welke inwerktijd in de les en in MFA-P04 worden gebruikt (R42). TE VERIFIËREN: Afvoer aan wal of verbranden aan boord volgt S025; DRTC bevestigt of de les naar de afvalregels van het schip verwijst.",,Rise procesblok,4,medische_review_nodig,Mathanje,,0.2,
 MFA-L06,MFA-L06-S07,MFA-11.01,"Schoon, gedesinfecteerd of steriel?",Je hebt met een schaar uit de uitrusting een verband op maat geknipt bij een bloedende wond. Er zit bloed op de schaar.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K06-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je met de schaar voordat je hem terugdoet in de uitrusting?
-K06-02-A: Afvegen met een gaasje en terugleggen
 K06-02-B: Reinigen, laten drogen en desinfecteren volgens de gebruiksaanwijzing (juist)
+K06-02-A: Afvegen met een gaasje en terugleggen
 K06-02-C: Direct in het desinfectiemiddel leggen zonder te reinigen","K06-02-B: Juist. Eerst reinig je het bloed eraf, daarna desinfecteer je. Zonder reinigen werkt het desinfectiemiddel niet goed.","K06-02-A: Onjuist. Afvegen verwijdert niet alle ziekteverwekkers.
 K06-02-C: Onjuist. Bloed en vuil verminderen de werking van het desinfectiemiddel. Reinig eerst.",S003,"S003 Part C 12, gedrukte p16 / PDF p22; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de antwoorden (R42).",,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.2,
 MFA-L06,MFA-L06-S17,MFA-11.01;MFA-11.02,Wat doe je met dit materiaal?,"Je hebt een collega met koorts en diarree verzorgd in zijn hut. Bij het opruimen van de verbandtrommel vind je ook een gebruikte injectienaald, achtergelaten na een behandeling door een collega met de opleiding Medical Care.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K06-07: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je met een gebruikte injectienaald?
 K06-07-A: Reinigen, desinfecteren en terugleggen voor een volgende keer
-K06-07-B: Direct, zonder het dopje terug te zetten, in de container voor scherp afval (juist)
-K06-07-C: In de gewone vuilniszak, goed ingepakt in gaas
+K06-07-B: Direct in de container voor scherp afval, zonder het dopje terug (juist)
+K06-07-C: In de gewone vuilniszak, goed ingepakt in een paar gaasjes
 K06-08: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je met de gebruikte handschoenen en gaasjes uit de hut van de collega met diarree?
-K06-08-A: Bij het gewone afval in de mess
-K06-08-B: In een stevig dichtgeplakte zak, die zak in een tweede gesloten zak, en apart bewaren tot afvoer; daarna je handen wassen (juist)
-K06-08-C: Uitspoelen en drogen, zodat het minder ruikt","K06-07-B: Juist. Een naald gebruik je één keer en gaat direct in de container voor scherp afval.
+K06-08-A: Bij het gewone afval in de mess, in een gesloten vuilniszak
+K06-08-C: Uitspoelen en laten drogen, zodat het minder ruikt in de hut
+K06-08-B: Dubbel verpakt in gesloten zakken apart bewaren en handen wassen (juist)","K06-07-B: Juist. Een naald gebruik je één keer en gaat direct in de container voor scherp afval.
 K06-08-B: Juist. Dubbel verpakken voorkomt verspreiding. Na het opruimen was je je handen.","K06-07-A: Onjuist. Materiaal dat door de huid gaat, is voor eenmalig gebruik.
 K06-07-C: Onjuist. Een naald hoort in de container voor scherp afval; anders kan iemand zich prikken.
 K06-08-A: Onjuist. Materiaal van een patiënt met een mogelijk besmettelijke ziekte hou je apart.
@@ -130,21 +130,21 @@ Iemand die gepest wordt, is vaak stil, teruggetrokken of somber, doet niet meer 
 Wat kun jij doen? Kijk niet weg. Spreek elkaar aan op het gedrag. Meld het bij de leidinggevende of een vertrouwenspersoon. Zo maak je het bespreekbaar en wordt het voor anderen makkelijker om hulp te vragen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S043,"S043 dia5 (vormen van pesten, signalen), dia6 (rol van collega's, omstanderseffect, aanpak).",MFA-L06-M06,Rise tekst en afbeelding,3,medische_review_nodig,Mathanje,,0.2,
 MFA-L06,MFA-L06-S10,MFA-13.02,Een collega die zich terugtrekt,"Een collega is sinds een paar weken stil, slaapt slecht en eet nauwelijks. Hij zegt dat het allemaal geen zin meer heeft.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K06-03: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat is de beste eerste reactie?
-K06-03-A: Het laten rusten; iedereen heeft weleens een slechte periode
-K06-03-B: Rustig met hem praten, luisteren zonder oordeel, hem niet alleen laten en de kapitein en de Radio Medische Dienst inschakelen (juist)
-K06-03-C: Hem aanspreken op zijn werkhouding","K06-03-B: Juist. Je biedt basale steun, neemt zijn uitspraak serieus en zorgt dat er professionele hulp komt.","K06-03-A: Onjuist. Deze signalen samen, en zeker de uitspraak dat het geen zin meer heeft, neem je serieus.
+K06-03-A: Het laten rusten, want iedereen heeft weleens een slechte periode
+K06-03-C: Hem aanspreken op zijn werkhouding en vragen of hij zich herpakt
+K06-03-B: Rustig praten, luisteren, hem niet alleen laten en hulp inschakelen (juist)","K06-03-B: Juist. Je biedt basale steun, neemt zijn uitspraak serieus en zorgt dat er professionele hulp komt.","K06-03-A: Onjuist. Deze signalen samen, en zeker de uitspraak dat het geen zin meer heeft, neem je serieus.
 K06-03-C: Onjuist. Hij heeft steun nodig, geen terechtwijzing. Luister en schakel hulp in.",S043,S043 dia3-4; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback.,,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.2,
 MFA-L06,MFA-L06-S20,MFA-13.01;MFA-13.02,Casus: drie weken na het ongeval,"Drie weken geleden raakte een collega van de machinekamer zwaar gewond bij een ongeval. Monteur Daan was erbij en hielp. Sindsdien slaapt hij slecht, schrikt hij van harde geluiden en is hij snel geïrriteerd. Hij ruilt diensten om niet in de machinekamer te hoeven zijn. Je ziet hem 's avonds vaker met een paar blikjes bier.
 
 Tijdens een gesprek op dek zegt hij: soms denk ik dat het voor iedereen beter is als ik er niet meer ben.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K06-09: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Welke signalen wijzen erop dat Daan meer nodig heeft dan tijd?
+K06-09-B: Slapen, schrikken, vermijden, meer drinken en zijn uitspraak samen (juist)
 K06-09-A: Alleen het slechte slapen; de rest is normaal na een ongeval
-K06-09-B: Slecht slapen, schrikken, prikkelbaar zijn, de machinekamer vermijden, meer drinken en zijn uitspraak over er niet meer zijn (juist)
-K06-09-C: Geen; Daan doet zijn werk nog en is dus in orde
+K06-09-C: Geen, want Daan doet zijn werk nog en is dus in orde
 K06-10: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je na zijn uitspraak?
-K06-10-A: Hem geruststellen dat het wel overgaat en het gesprek op iets anders brengen
-K06-10-B: Rustig doorvragen of hij eraan denkt zichzelf iets aan te doen en of hij een plan heeft, hem niet alleen laten en de kapitein inschakelen voor medisch advies (juist)
+K06-10-B: Doorvragen of hij een plan heeft, hem niet alleen laten en de kapitein inschakelen (juist)
+K06-10-A: Hem geruststellen dat het wel overgaat en over iets anders beginnen
 K06-10-C: Hem een slaapmiddel uit de medicijnkist geven, zodat hij beter slaapt","K06-09-B: Juist. Deze signalen samen passen bij klachten die blijven na een schokkende gebeurtenis. Zijn uitspraak vraagt direct om doorvragen.
 K06-10-B: Juist. Rechtstreeks vragen is veilig en nodig om het risico in te schatten. Je laat hem niet alleen en zorgt dat er via de kapitein medisch advies komt.","K06-09-A: Onjuist. Nare dromen zijn kort na een ongeval normaal, maar samen met vermijden, schrikken, prikkelbaarheid en meer drinken na drie weken zijn het signalen om serieus te nemen.
 K06-09-C: Onjuist. Iemand kan werken en toch ernstige klachten hebben. Diensten ruilen om plekken te vermijden is juist een signaal.

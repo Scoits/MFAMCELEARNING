@@ -189,8 +189,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-07-A | Je legt hem in stabiele zijligging, want hij ademt nog en heeft een aanval | Onjuist. Snakkende bewegingen zijn geen normale ademhaling en trekkingen kunnen direct na een hartstilstand voorkomen. |
 | K03-07-B | Je laat alarmeren, laat de AED halen en start reanimatie | Juist. Hij reageert niet en ademt niet normaal. Snakken en trekkingen zijn geen tekenen van leven. |
+| K03-07-A | Je legt hem in stabiele zijligging, want hij ademt nog en heeft een aanval | Onjuist. Snakkende bewegingen zijn geen normale ademhaling en trekkingen kunnen direct na een hartstilstand voorkomen. |
 | K03-07-C | Je wacht tot de trekkingen over zijn en kijkt dan opnieuw | Onjuist. Wachten kost hersencellen. Start direct met reanimatie. |
 
 ## MFA-L03-S04 Reanimeren met borstcompressies en beademing
@@ -411,9 +411,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-08-A | Je drukt op de maag om de lucht eruit te krijgen | Onjuist. Druk nooit op een opgezette maag. Dan komt nog meer maaginhoud omhoog, die in de longen kan komen. |
-| K03-08-B | Je stopt met reanimeren, want het slachtoffer reageert | Onjuist. Braken is geen teken van herstel. Het komt door lucht in de maag. |
-| K03-08-C | Je draait het slachtoffer snel op de zij, maakt de mond leeg, draait terug en gaat verder; je blaast daarna rustiger in | Juist. Mond leegmaken en direct verder. Rustig inblazen voorkomt nieuwe lucht in de maag. |
+| K03-08-C | Op de zij draaien, mond leegmaken, terugdraaien en doorgaan | Juist. Mond leegmaken en direct verder. Rustig inblazen voorkomt nieuwe lucht in de maag. |
+| K03-08-A | Je drukt op de maag om de lucht eruit te krijgen en gaat dan door | Onjuist. Druk nooit op een opgezette maag. Dan komt nog meer maaginhoud omhoog, die in de longen kan komen. |
+| K03-08-B | Je stopt met reanimeren, want het slachtoffer reageert en braakt | Onjuist. Braken is geen teken van herstel. Het komt door lucht in de maag. |
 
 ## MFA-L03-S33 Scenario: reanimatie in de machinekamer
 
@@ -549,8 +549,8 @@ Wat is de volgende stap?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-03-A | Hem water laten drinken om het weg te spoelen | Onjuist. Drinken kan de belemmering niet opheffen en kan de situatie verslechteren. |
 | K03-03-B | Vijf buikstoten geven | Juist. Hebben de slagen tussen de schouderbladen geen effect, dan geef je vijf buikstoten. Daarna wissel je af tot de belemmering is opgeheven of hij het bewustzijn verliest. |
+| K03-03-A | Hem water laten drinken om het weg te spoelen | Onjuist. Drinken kan de belemmering niet opheffen en kan de situatie verslechteren. |
 | K03-03-C | Direct beginnen met reanimeren | Onjuist zolang hij bij bewustzijn is. Je start reanimatie als hij bewusteloos raakt. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -635,9 +635,9 @@ Wat is de beste reactie?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-04-A | Hem laten gaan, omdat hij bij bewustzijn is en ademt | Onjuist. Na een verdrinkingsincident kan later nog benauwdheid ontstaan door water in de longen. Hij heeft medisch advies en toezicht nodig. |
-| K03-04-B | Hem warm en onder toezicht houden en medisch advies vragen, omdat er later nog benauwdheid kan ontstaan | Juist. Ook als het goed lijkt te gaan, vraag je medisch advies en blijf je de ademhaling en het bewustzijn volgen. Voorkom verdere afkoeling. |
+| K03-04-A | Hem laten gaan, omdat hij bij bewustzijn is en normaal ademt | Onjuist. Na een verdrinkingsincident kan later nog benauwdheid ontstaan door water in de longen. Hij heeft medisch advies en toezicht nodig. |
 | K03-04-C | Hem een warme douche laten nemen en daarna laten slapen | Onjuist. Hij moet onder toezicht blijven en de arts moet worden geraadpleegd. Hoe je een onderkoeld slachtoffer opwarmt, leer je in les 4. |
+| K03-04-B | Warm en onder toezicht houden en medisch advies vragen | Juist. Ook als het goed lijkt te gaan, vraag je medisch advies en blijf je de ademhaling en het bewustzijn volgen. Voorkom verdere afkoeling. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -765,9 +765,9 @@ Wat doe je nu?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-09-A | Je duwt een opgerold gaasje in het neusgat | Onjuist. Een gaasje of tampon zwelt op en komt vast te zitten. Stop niets in de neus. |
-| K03-09-B | Je laat hem met het hoofd achterover liggen | Onjuist. Dan loopt het bloed in de keel. Laat hem rechtop zitten met het hoofd iets voorover. |
-| K03-09-C | Je knijpt nog eens tien minuten, en bloedt het daarna nog, dan nog een keer; daarna raadpleeg je de Radio Medische Dienst | Juist. Je knijpt maximaal drie keer tien minuten. Stopt het dan niet, overleg met de arts. |
+| K03-09-C | Nog tien minuten knijpen, zo nodig nog eens, en daarna de RMD raadplegen | Juist. Je knijpt maximaal drie keer tien minuten. Stopt het dan niet, overleg met de arts. |
+| K03-09-A | Je duwt een opgerold gaasje stevig in het bloedende neusgat | Onjuist. Een gaasje of tampon zwelt op en komt vast te zitten. Stop niets in de neus. |
+| K03-09-B | Je laat hem met het hoofd achterover liggen tot het stopt | Onjuist. Dan loopt het bloed in de keel. Laat hem rechtop zitten met het hoofd iets voorover. |
 
 ## MFA-L03-S13 Het bloedt hevig
 
@@ -923,8 +923,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-06-A | Hem een glas water geven, omdat hij dorst heeft | Onjuist. Bij verschijnselen van shock geef je niets te drinken, ook niet als het slachtoffer dorst heeft. |
-| K03-06-B | Hem laten liggen, warm houden, geruststellen, de metingen herhalen en direct de Radio Medische Dienst informeren | Juist. Onrust, een bleke klamme huid, dorst en een snellere pols wijzen op shock. Je neemt de eerste maatregelen en meldt de verandering direct. |
+| K03-06-A | Hem een glas water geven, omdat hij dorst heeft en bloed verloor | Onjuist. Bij verschijnselen van shock geef je niets te drinken, ook niet als het slachtoffer dorst heeft. |
+| K03-06-B | Laten liggen, warm houden, metingen herhalen en direct de RMD informeren | Juist. Onrust, een bleke klamme huid, dorst en een snellere pols wijzen op shock. Je neemt de eerste maatregelen en meldt de verandering direct. |
 | K03-06-C | Hem laten opstaan en rondlopen, zodat hij rustiger wordt | Onjuist. Een slachtoffer met verschijnselen van shock laat je liggen. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -977,9 +977,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-10-A | Je laat hem nog ongeveer tien minuten liggen en laat hem eerst zittend wat drinken voordat hij opstaat | Juist. Dit past bij een flauwte: snel weer bij en een rustige, goed voelbare pols. Te snel opstaan kan een nieuwe flauwte geven. |
-| K03-10-B | Je behandelt hem als shock en raadpleegt direct de Radio Medische Dienst | Onjuist. Bij shock is de pols snel en zwak en knapt het slachtoffer niet snel op. Dit past bij een flauwte. |
-| K03-10-C | Je laat hem direct opstaan zodat hij verder kan helpen | Onjuist. Na een flauwte laat je iemand eerst nog een tijd liggen. |
+| K03-10-B | Je behandelt hem als shock en raadpleegt direct de RMD | Onjuist. Bij shock is de pols snel en zwak en knapt het slachtoffer niet snel op. Dit past bij een flauwte. |
+| K03-10-A | Nog tien minuten laten liggen en eerst zittend laten drinken | Juist. Dit past bij een flauwte: snel weer bij en een rustige, goed voelbare pols. Te snel opstaan kan een nieuwe flauwte geven. |
+| K03-10-C | Je laat hem direct opstaan, zodat hij verder kan helpen | Onjuist. Na een flauwte laat je iemand eerst nog een tijd liggen. |
 
 ## MFA-L03-S31 Als iemand bewusteloos blijft
 
@@ -1027,9 +1027,9 @@ Waarom leg je hem in de stabiele zijligging en niet op zijn rug?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-12-A | Omdat hij zo makkelijker te vervoeren is | Onjuist. De zijligging is er niet voor het vervoer, maar om de ademweg vrij te houden. |
-| K03-12-B | Omdat bij een bewusteloze alle spieren verslappen, ook van de tong; op de rug kan de tong naar achteren zakken en de luchtweg blokkeren, en braaksel kan in de zijligging uit de mond lopen | Juist. Een bewusteloze kan zijn ademweg niet zelf vrijhouden. De zijligging houdt de ademweg vrij zolang hij normaal ademt. |
-| K03-12-C | Omdat hij in de zijligging sneller bijkomt | Onjuist. De zijligging maakt iemand niet sneller wakker; ze beschermt de ademweg. |
+| K03-12-A | Omdat hij zo makkelijker te vervoeren is naar de ziekenboeg | Onjuist. De zijligging is er niet voor het vervoer, maar om de ademweg vrij te houden. |
+| K03-12-C | Omdat hij in de zijligging sneller bijkomt en minder pijn heeft | Onjuist. De zijligging maakt iemand niet sneller wakker; ze beschermt de ademweg. |
+| K03-12-B | Omdat de tong op de rug naar achteren kan zakken en de luchtweg blokkeert | Juist. Een bewusteloze kan zijn ademweg niet zelf vrijhouden. De zijligging houdt de ademweg vrij zolang hij normaal ademt. |
 
 **Kennischeck K03-13**
 
@@ -1037,9 +1037,9 @@ Na twintig minuten is hij nog steeds niet bij. Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K03-13-A | Afwachten; het is waarschijnlijk een flauwte | Onjuist. Een flauwte komt binnen enkele minuten bij als iemand ligt. Wie zo lang bewusteloos blijft, heeft een andere oorzaak en dat is levensbedreigend. |
-| K03-13-B | Bij hem blijven, de ademhaling blijven controleren, hem warm houden en direct de Radio Medische Dienst laten raadplegen | Juist. Je laat een bewusteloze nooit alleen, blijft de ademhaling controleren en voorkomt afkoeling. De arts bespreekt met de kapitein wat er nodig is. |
-| K03-13-C | Hem rechtop zetten en water laten drinken | Onjuist. Een bewusteloze kan niet slikken; water kan in de luchtweg komen. Hij blijft in de stabiele zijligging. |
+| K03-13-A | Afwachten, want het is waarschijnlijk een gewone flauwte | Onjuist. Een flauwte komt binnen enkele minuten bij als iemand ligt. Wie zo lang bewusteloos blijft, heeft een andere oorzaak en dat is levensbedreigend. |
+| K03-13-B | Bij hem blijven, ademhaling controleren, warm houden en de RMD laten raadplegen | Juist. Je laat een bewusteloze nooit alleen, blijft de ademhaling controleren en voorkomt afkoeling. De arts bespreekt met de kapitein wat er nodig is. |
+| K03-13-C | Hem rechtop zetten en water laten drinken om bij te komen | Onjuist. Een bewusteloze kan niet slikken; water kan in de luchtweg komen. Hij blijft in de stabiele zijligging. |
 
 **Te verifiëren door Mathanje of DRTC**
 

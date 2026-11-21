@@ -280,9 +280,9 @@ Wat doe je voordat je de tablet aan de matroos geeft?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K06-05-A | Niets meer; de arts heeft het middel al gekozen | Onjuist. De arts weet niet alles wat jij aan boord kunt vragen. Controleer bij de patiënt of er iets is dat de arts moet weten. |
-| K06-05-B | Vragen of hij al andere geneesmiddelen gebruikt en of hij ergens allergisch voor is, en dat aan de arts melden als dat zo is | Juist. Andere middelen kunnen op elkaar inwerken en een allergie kan een ernstige reactie geven. Meld het aan de arts voordat je het middel geeft. |
-| K06-05-C | Een extra tablet meegeven voor als de pijn later terugkomt | Onjuist. Je geeft alleen wat de arts heeft geadviseerd. Komt de pijn terug, dan overleg je opnieuw. |
+| K06-05-A | Niets meer, want de arts heeft het middel en de hoeveelheid al gekozen | Onjuist. De arts weet niet alles wat jij aan boord kunt vragen. Controleer bij de patiënt of er iets is dat de arts moet weten. |
+| K06-05-C | Een extra tablet meegeven voor als de pijn vannacht terugkomt | Onjuist. Je geeft alleen wat de arts heeft geadviseerd. Komt de pijn terug, dan overleg je opnieuw. |
+| K06-05-B | Vragen naar andere geneesmiddelen en allergie, en dat aan de arts melden | Juist. Andere middelen kunnen op elkaar inwerken en een allergie kan een ernstige reactie geven. Meld het aan de arts voordat je het middel geeft. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -313,9 +313,9 @@ Wat leg je vast?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K06-06-A | Alleen dat hij een pijnstiller heeft gekregen | Onjuist. Daarmee weet een volgende hulpverlener of arts niet wat, hoeveel en wanneer. |
-| K06-06-B | Welk middel, hoeveel, hoe laat, op advies van welke arts, en hoe de matroos daarna reageert; en je werkt de voorraadlijst bij | Juist. Middel en hoeveelheid horen in het logboek van het schip. Door ook tijd, advies en reactie te noteren, kan de arts bij een volgend contact verder. De voorraadlijst houdt bij wat er nog is. |
-| K06-06-C | Niets; een gewone pijnstiller hoef je niet te noteren | Onjuist. Iedere behandeling met een geneesmiddel leg je vast, ook een gewone pijnstiller. |
+| K06-06-B | Middel, hoeveelheid, tijd, advies van welke arts en zijn reactie | Juist. Middel en hoeveelheid horen in het logboek van het schip. Door ook tijd, advies en reactie te noteren, kan de arts bij een volgend contact verder. De voorraadlijst houdt bij wat er nog is. |
+| K06-06-A | Alleen dat hij een pijnstiller heeft gekregen en dat het goed ging | Onjuist. Daarmee weet een volgende hulpverlener of arts niet wat, hoeveel en wanneer. |
+| K06-06-C | Niets, want een gewone pijnstiller hoef je niet in het logboek te noteren | Onjuist. Iedere behandeling met een geneesmiddel leg je vast, ook een gewone pijnstiller. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -347,8 +347,8 @@ Wat doe je?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | K06-01-A | Dezelfde pijnstiller geven, want de arts heeft die gisteren geadviseerd | Onjuist. Het advies gold voor de situatie van gisteren. Nu zijn er nieuwe klachten en moet de arts opnieuw beslissen. |
-| K06-01-B | Eerst opnieuw beoordelen en contact opnemen met de Radio Medische Dienst voordat je iets geeft | Juist. Een oude instructie bij een veranderde toestand verifieer je eerst. Je beoordeelt opnieuw en overlegt met de arts. |
-| K06-01-C | Een andere pijnstiller uit de kast kiezen | Onjuist. Je kiest niet zelf een geneesmiddel. Overleg eerst met de arts. |
+| K06-01-C | Een andere pijnstiller uit de kast kiezen die beter past | Onjuist. Je kiest niet zelf een geneesmiddel. Overleg eerst met de arts. |
+| K06-01-B | Eerst opnieuw beoordelen en contact opnemen met de RMD | Juist. Een oude instructie bij een veranderde toestand verifieer je eerst. Je beoordeelt opnieuw en overlegt met de arts. |
 
 ## MFA-L06-S06 Reinigen, desinfecteren en steriliseren
 
@@ -441,8 +441,8 @@ Wat doe je met de schaar voordat je hem terugdoet in de uitrusting?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K06-02-A | Afvegen met een gaasje en terugleggen | Onjuist. Afvegen verwijdert niet alle ziekteverwekkers. |
 | K06-02-B | Reinigen, laten drogen en desinfecteren volgens de gebruiksaanwijzing | Juist. Eerst reinig je het bloed eraf, daarna desinfecteer je. Zonder reinigen werkt het desinfectiemiddel niet goed. |
+| K06-02-A | Afvegen met een gaasje en terugleggen | Onjuist. Afvegen verwijdert niet alle ziekteverwekkers. |
 | K06-02-C | Direct in het desinfectiemiddel leggen zonder te reinigen | Onjuist. Bloed en vuil verminderen de werking van het desinfectiemiddel. Reinig eerst. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -470,8 +470,8 @@ Wat doe je met een gebruikte injectienaald?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | K06-07-A | Reinigen, desinfecteren en terugleggen voor een volgende keer | Onjuist. Materiaal dat door de huid gaat, is voor eenmalig gebruik. |
-| K06-07-B | Direct, zonder het dopje terug te zetten, in de container voor scherp afval | Juist. Een naald gebruik je één keer en gaat direct in de container voor scherp afval. |
-| K06-07-C | In de gewone vuilniszak, goed ingepakt in gaas | Onjuist. Een naald hoort in de container voor scherp afval; anders kan iemand zich prikken. |
+| K06-07-B | Direct in de container voor scherp afval, zonder het dopje terug | Juist. Een naald gebruik je één keer en gaat direct in de container voor scherp afval. |
+| K06-07-C | In de gewone vuilniszak, goed ingepakt in een paar gaasjes | Onjuist. Een naald hoort in de container voor scherp afval; anders kan iemand zich prikken. |
 
 **Kennischeck K06-08**
 
@@ -479,9 +479,9 @@ Wat doe je met de gebruikte handschoenen en gaasjes uit de hut van de collega me
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K06-08-A | Bij het gewone afval in de mess | Onjuist. Materiaal van een patiënt met een mogelijk besmettelijke ziekte hou je apart. |
-| K06-08-B | In een stevig dichtgeplakte zak, die zak in een tweede gesloten zak, en apart bewaren tot afvoer; daarna je handen wassen | Juist. Dubbel verpakken voorkomt verspreiding. Na het opruimen was je je handen. |
-| K06-08-C | Uitspoelen en drogen, zodat het minder ruikt | Onjuist. Wegwerpmateriaal gooi je weg; uitspoelen verspreidt ziekteverwekkers. |
+| K06-08-A | Bij het gewone afval in de mess, in een gesloten vuilniszak | Onjuist. Materiaal van een patiënt met een mogelijk besmettelijke ziekte hou je apart. |
+| K06-08-C | Uitspoelen en laten drogen, zodat het minder ruikt in de hut | Onjuist. Wegwerpmateriaal gooi je weg; uitspoelen verspreidt ziekteverwekkers. |
+| K06-08-B | Dubbel verpakt in gesloten zakken apart bewaren en handen wassen | Juist. Dubbel verpakken voorkomt verspreiding. Na het opruimen was je je handen. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -644,9 +644,9 @@ Wat is de beste eerste reactie?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K06-03-A | Het laten rusten; iedereen heeft weleens een slechte periode | Onjuist. Deze signalen samen, en zeker de uitspraak dat het geen zin meer heeft, neem je serieus. |
-| K06-03-B | Rustig met hem praten, luisteren zonder oordeel, hem niet alleen laten en de kapitein en de Radio Medische Dienst inschakelen | Juist. Je biedt basale steun, neemt zijn uitspraak serieus en zorgt dat er professionele hulp komt. |
-| K06-03-C | Hem aanspreken op zijn werkhouding | Onjuist. Hij heeft steun nodig, geen terechtwijzing. Luister en schakel hulp in. |
+| K06-03-A | Het laten rusten, want iedereen heeft weleens een slechte periode | Onjuist. Deze signalen samen, en zeker de uitspraak dat het geen zin meer heeft, neem je serieus. |
+| K06-03-C | Hem aanspreken op zijn werkhouding en vragen of hij zich herpakt | Onjuist. Hij heeft steun nodig, geen terechtwijzing. Luister en schakel hulp in. |
+| K06-03-B | Rustig praten, luisteren, hem niet alleen laten en hulp inschakelen | Juist. Je biedt basale steun, neemt zijn uitspraak serieus en zorgt dat er professionele hulp komt. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -674,9 +674,9 @@ Welke signalen wijzen erop dat Daan meer nodig heeft dan tijd?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
+| K06-09-B | Slapen, schrikken, vermijden, meer drinken en zijn uitspraak samen | Juist. Deze signalen samen passen bij klachten die blijven na een schokkende gebeurtenis. Zijn uitspraak vraagt direct om doorvragen. |
 | K06-09-A | Alleen het slechte slapen; de rest is normaal na een ongeval | Onjuist. Nare dromen zijn kort na een ongeval normaal, maar samen met vermijden, schrikken, prikkelbaarheid en meer drinken na drie weken zijn het signalen om serieus te nemen. |
-| K06-09-B | Slecht slapen, schrikken, prikkelbaar zijn, de machinekamer vermijden, meer drinken en zijn uitspraak over er niet meer zijn | Juist. Deze signalen samen passen bij klachten die blijven na een schokkende gebeurtenis. Zijn uitspraak vraagt direct om doorvragen. |
-| K06-09-C | Geen; Daan doet zijn werk nog en is dus in orde | Onjuist. Iemand kan werken en toch ernstige klachten hebben. Diensten ruilen om plekken te vermijden is juist een signaal. |
+| K06-09-C | Geen, want Daan doet zijn werk nog en is dus in orde | Onjuist. Iemand kan werken en toch ernstige klachten hebben. Diensten ruilen om plekken te vermijden is juist een signaal. |
 
 **Kennischeck K06-10**
 
@@ -684,8 +684,8 @@ Wat doe je na zijn uitspraak?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K06-10-A | Hem geruststellen dat het wel overgaat en het gesprek op iets anders brengen | Onjuist. Zo laat je hem alleen met zijn gedachten. Neem zijn uitspraak serieus en vraag door. |
-| K06-10-B | Rustig doorvragen of hij eraan denkt zichzelf iets aan te doen en of hij een plan heeft, hem niet alleen laten en de kapitein inschakelen voor medisch advies | Juist. Rechtstreeks vragen is veilig en nodig om het risico in te schatten. Je laat hem niet alleen en zorgt dat er via de kapitein medisch advies komt. |
+| K06-10-B | Doorvragen of hij een plan heeft, hem niet alleen laten en de kapitein inschakelen | Juist. Rechtstreeks vragen is veilig en nodig om het risico in te schatten. Je laat hem niet alleen en zorgt dat er via de kapitein medisch advies komt. |
+| K06-10-A | Hem geruststellen dat het wel overgaat en over iets anders beginnen | Onjuist. Zo laat je hem alleen met zijn gedachten. Neem zijn uitspraak serieus en vraag door. |
 | K06-10-C | Hem een slaapmiddel uit de medicijnkist geven, zodat hij beter slaapt | Onjuist. Je geeft geen geneesmiddelen zonder advies van de arts, en zeker niet bij iemand die aan zelfdoding denkt. |
 
 **Te verifiëren door Mathanje of DRTC**
