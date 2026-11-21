@@ -264,6 +264,15 @@ Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 19 en de Ships 
 | R107 | MC-L07-S18, S22, S23 | GH2 noemt minstens 63 °C voor verhitten en warmhouden, de Ships medical guide 65 °C in de kern van vlees; de les zegt 'door en door verhitten'. Moet er een getal bij? Welke maatregelen tegen legionella gelden aan boord, en noemt de les bij ontsmetten van drinkwater genoeg (filteren, inwerktijd, eigen veiligheid)? |
 | R108 | MC-L07-S28 tot en met S34 | Klopt het vaccinatieadvies voor zeevarenden (difterie en tetanus, herhaling, hepatitis A en B voor wie zorg geeft)? Moeten toestemming en vertrouwelijkheid naar Nederlands recht (WGBO, beroepsgeheim) apart worden genoemd? Welke Nederlandse eisen gelden voor het register van middelen onder de Opiumwet en de bewaartermijn? |
 
+## Aanvulling bij MC-L06 versie 0.2
+
+Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 16 tot en met 18 en de Ships medical guide (S025, WHO 2007) hoofdstuk 13, 22, 24, 27 en 28. Geneesmiddelen met dosering, rekenregels voor vocht en voedsel en de verzorging van het lichaam zijn niet overgenomen. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R109 | MC-L06-S18, S20, S22, S26 | GH2 staat alcohol toe bij onttrekking, de Ships medical guide raadt het af; de les laat het aan de arts. Zit een tegenmiddel bij een overdosis opiaten in de uitrusting en moet de les het noemen? Wat moet de MC-zorgverlener weten over in bedwang houden en afzonderen van een agressieve patiënt (GH2 noemt isoleren, platspuiten en vastbinden)? |
+| R110 | MC-L06-S24, S28, S29, S30 | Klopt de aanpak bij gevaar voor zelfdoding (vragen naar plan, hoog en lager risico)? Hoort het terugzetten van een uitgeslagen tand bij MC (zie R102)? Klopt de vereenvoudigde zorg voor langdurig geredden (drinken en eten in overleg met de arts)? Welke stappen bij een onverklaard overlijden doet de MC-zorgverlener zelf, naast het RMD-protocol (R75)? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

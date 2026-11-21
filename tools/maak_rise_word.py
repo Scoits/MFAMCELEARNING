@@ -130,6 +130,8 @@ def soort_items(platform, items):
         return "Tabbladen"
     if "accordeon" in p:
         return "Accordeon"
+    if "tijdlijn" in p:
+        return "Tijdlijn"
     if all(len(t.split()) <= 30 for _, t in items) and len(items) <= 8:
         return "Flashcards"
     return "Accordeon"
@@ -253,6 +255,7 @@ RISE = {
     "Opvallend kader": ("Note", "Text > Note"),
     "Tabbladen": ("Tabs", "Magic text import > Tabs; plak de koppen en hun tekst"),
     "Accordeon": ("Accordion", "Magic text import > Accordion; plak de koppen en hun tekst"),
+    "Tijdlijn": ("Timeline", "Interactive > Timeline; iedere kop is een moment, de tekst eronder de beschrijving"),
     "Flashcards": ("Flashcard grid", "Interactive > Flashcard grid; kop op de voorkant, tekst op de achterkant"),
     "Proces": ("Process", "Magic text import > Process; plak de inleiding en de stappen"),
     "Sorteeroefening": ("Sorting activity", "Interactive > Sorting activity; categorieen en kaarten zoals hieronder"),
@@ -263,7 +266,7 @@ RISE = {
     "Kennischeck": ("Multiple choice", "Knowledge check > Multiple choice; juist antwoord en feedback per keuze zoals hieronder"),
     "Interactie": ("zie interactieconfiguratie", "bouwen volgens de interactieconfiguratie"),
 }
-INTERACTIEF = {"Tabbladen", "Accordeon", "Flashcards", "Proces", "Sorteeroefening",
+INTERACTIEF = {"Tabbladen", "Accordeon", "Tijdlijn", "Flashcards", "Proces", "Sorteeroefening",
                "Gelabelde afbeelding", "Kennischeck", "Interactie"}
 
 
@@ -356,7 +359,7 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt):
         doc.add_paragraph(b["inleiding"])
         for item in b["items"]:
             doc.add_paragraph(item, style="List Bullet")
-    elif t in ("Tabbladen", "Accordeon", "Flashcards"):
+    elif t in ("Tabbladen", "Accordeon", "Tijdlijn", "Flashcards"):
         for kop, tekst in b["items"]:
             doc.add_heading(kop, level=4)
             zet_delen(doc, alinea_blokken(tekst))
@@ -415,7 +418,7 @@ def samenvatting(b):
         lijsten = sum(1 for d in b["delen"] if d[0] == "lijst")
         extra = f" en {lijsten} opsomming" if lijsten else ""
         return f"{len(b['delen'])} korte alinea's{extra}: {tekst[:70]}"
-    if t in ("Tabbladen", "Accordeon", "Flashcards"):
+    if t in ("Tabbladen", "Accordeon", "Tijdlijn", "Flashcards"):
         return f"{len(b['items'])} onderdelen: " + "; ".join(k for k, _ in b["items"])
     if t == "Proces":
         return f"inleiding en {len(b['stappen'])} stappen"
