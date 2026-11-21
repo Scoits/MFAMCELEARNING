@@ -1,0 +1,39 @@
+# Plan leeractiviteit per les
+
+Werkversie 0.1, 21 november 2026. Met de herziene rekenregel uit [studietijd-rekenregel](studietijd-rekenregel.md) komt de e-learning op ongeveer 766 minuten. Dat is ongeveer 195 minuten onder de 16 uur, waarvan ongeveer 130 bij MFA. Martijn mist daarnaast interactie. Dit plan vult het tekort aan met activiteiten waarin de cursist herkent, beslist of iets doet. Het voegt geen extra tekst toe. Iedere activiteit gebruikt de bestaande lesinhoud en de leerdoelen uit [leerdoel-gedrag](../curriculum/leerdoel-gedrag.csv). Casussen gebruiken bij voorkeur situaties uit de LOTUS-kaarten (S027, S076, S077), zodat de cursist ze op de praktijkdag herkent.
+
+## Activiteiten
+
+| Les | Activiteit | Soort | Minuten |
+| --- | --- | --- | --- |
+| MFA-L01 | Snijwond bij het lossen: wat haal je, wat neem je mee, wat controleer je | Rise Scenario-blok | 7 |
+| MFA-L02 | Slachtofferonderzoek bij een gevallen collega, stap voor stap beslissen wat je eerst doet | Rise Scenario-blok | 8 |
+| MFA-L02 | Lichaamsdelen en organen aanwijzen | Gelabelde afbeelding | 3 |
+| MFA-L03 | Bewusteloze collega in de machinekamer: veiligheid, ademhaling, hulp, reanimatie | Rise Scenario-blok | 8 |
+| MFA-L04 | Brandwond in de kombuis en een val in het ruim | Twee Rise Scenario-blokken | 12 |
+| MFA-L05 | Collega na gasblootstelling uit een tank gehaald | Rise Scenario-blok | 7 |
+| MFA-L06 | Medicijn op advies van de arts klaarzetten en vastleggen, collega die zich terugtrekt | Rise Scenario-blok en doe-opdracht met antwoord | 12 |
+| MFA-L07 | RMD-gesprek (MFA-L07-SL01) | Storyline | 12 |
+| MFA-L07 | RMD-formulier invullen bij een casus | Doe-opdracht met antwoord | 6 |
+| MFA | Kijkopdrachten bij films uit map 025 (S026), een per les waar een passende film is | Kijkopdracht | ongeveer 40 |
+| MC-L01 | Onderzoek van top tot teen bij een zieke collega, bevindingen kiezen voor het RMD-gesprek | Rise Scenario-blok | 8 |
+| MC-L02 | Bekkenletsel en hoofdletsel bewaken | Rise Scenario-blok | 8 |
+| MC-L03 | Wond sluiten of niet: drie wonden beoordelen | Rise Scenario-blok | 7 |
+| MC-L05 | Pijn op de borst in de nacht | Rise Scenario-blok | 8 |
+| MC-L06 | Collega met alcoholontwenning of met suïcidale uitspraken | Rise Scenario-blok | 8 |
+| MC-L07 | Inspectie van de medicijnkist met fouten | Doe-opdracht met antwoord | 6 |
+| MC | Kijkopdrachten bij films uit map 025 (S026) | Kijkopdracht | ongeveer 30 |
+
+Samen is dat ongeveer 105 minuten casus en opdracht en 70 minuten kijkopdracht. Daarnaast komen MFA-L06, MFA-L07 en MC-L03 nog op hun begroting (ongeveer 60 minuten). Dan komt het totaal volgens de herziene regel op ongeveer 1000 minuten.
+
+## Regels voor een casus
+
+- De situatie, de personen en de dialoog zijn fictief. De keuzes en de feedback komen uit de lesinhoud.
+- Iedere casus heeft drie of vier beslismomenten met feedback die uitlegt waarom een keuze gevolgen heeft.
+- Foute keuzes zijn echte denkfouten, geen onzin.
+- De casus komt in de schermreview met een vraag-ID, zodat Mathanje hem kan beoordelen.
+
+## Nodig van DRTC
+
+- Een lijst van de films in map 025 (S026), met titel en duur. Daarmee wordt per les een kijkopdracht gekozen.
+- Het besluit of de online kennistoetsen meetellen voor de 16 uur.

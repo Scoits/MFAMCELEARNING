@@ -67,6 +67,26 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 
 Stand 21 november 2026 volgens de rekenregel, zonder de toetsreserveringen: MFA 441 minuten, MC 527 minuten, samen 968 minuten. Daarmee is de ondergrens van 16 uur (960 minuten) voor het geheel gehaald. MFA zit nog 39 minuten onder de 480; MFA-L06 en MFA-L07 met het RMD-scenario worden als volgende uitgewerkt. Daarna volgt MC-L03.
 
+## Herziening 21 november 2026 (voorstel)
+
+Martijn deed op 21 november 2026 MFA-L01 deel 1 als proefimport in Rise. Dat deel heeft ongeveer 1600 woorden, 2 kennischecks en een sorteeroefening. Volgens de regel hierboven duurt het 18 à 19 minuten. Hij schatte zelf dat het minder is, en dat is waarschijnlijk juist. Tekst in korte Rise-blokken leest sneller dan 100 woorden per minuut. Een doe-opdracht zonder controle in Rise kan de cursist bovendien overslaan. De regel hierboven geeft dus een te hoge tijd.
+
+Voorgestelde regel, totdat de pilotmeting (OB-06) er is:
+
+| Onderdeel | Tijd |
+| --- | --- |
+| Cursistentekst | 1 minuut per 150 woorden |
+| Kennischeck met feedback | 1,5 minuut per vraag |
+| Casus met keuzes (Rise Scenario-blok, drie of vier beslismomenten) | 6 tot 8 minuten |
+| Storyline-scenario | 10 tot 15 minuten, na de proef te meten |
+| Kijkopdracht | werkelijke duur van de film plus 2 minuten voor de vragen |
+| Doe-opdracht | 5 minuten, alleen als de cursist in Rise een antwoord geeft dat wordt gecontroleerd of afgerond; anders 0 |
+| Sorteeroefening of gelabelde afbeelding | 2 tot 3 minuten |
+
+Met alleen de lagere leessnelheid komt het totaal op ongeveer 766 minuten in plaats van 968: MFA 351 en MC 415. Dat is bijna 13 uur. De doe-opdrachten zijn daarin nog meegeteld. De ondergrens van 16 uur is met de herziene regel dus niet gehaald. Het tekort is ongeveer 195 minuten, waarvan ongeveer 130 bij MFA.
+
+Het tekort wordt aangevuld met leeractiviteit, niet met meer tekst. Zie [leeractiviteiten-plan](leeractiviteiten-plan.md). De werkelijke tijd volgt uit de meting met testcursisten in de proefles. Die meting is ook de basis voor de urenonderbouwing (CBT-02). Of de online kennistoetsen in MFA-L08 en MC-L09 meetellen voor de 16 uur, is een vraag voor DRTC; ze zijn hier niet meegeteld.
+
 ## Volgorde
 
 De lessen worden uitgewerkt in volgorde van het grootste tekort: MFA-L02, MC-L05, MFA-L04, MFA-L03, MC-L07, MC-L06, MFA-L05, MC-L02, MC-L01, MC-L04, MC-L08, MC-L03, MFA-L06 en dan de kleine lessen. Voor MFA is GH1 (S016) de eerste bron die nodig is, voor MC is dat GH2 (S017). Beide zijn sinds 21 november 2026 als tekst beschikbaar in de projectbestanden. GH1 beschrijft de medische uitrusting zelf niet; daarvoor blijft S066 de bron.
