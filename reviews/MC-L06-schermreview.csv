@@ -195,6 +195,20 @@ MC-L06,MC-L06-S10,MC-20.02,Een bevalling aan boord: oriëntatie,"Een bevalling a
 Een bevalling verloopt in drie fasen: de ontsluiting met weeën, de eigenlijke geboorte, en de nageboorte. Daarna volgt de nazorg voor moeder en kind.
 
 Bereid een schone, warme en rustige ruimte voor en leg het materiaal klaar volgens de medische gids en het advies van de arts. Let op problemen tijdens en na de geboorte, zoals een afwijkende ligging van het kind, een baby die moeilijk op gang komt, of veel bloedverlies bij de moeder, en meld die direct.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S062,"S062 dia74 (de geboorte: fase 1 ontsluiting en weeën, fase 2 de echte geboorte, fase 3 nageboorte; nazorg; voorbereidingen; problemen tijdens en na de geboorte: ligging, baby heeft moeilijke start). TE VERIFIËREN: Het scopebesluit over de bevalling (MC-20.02, OB-08) is open. Dit scherm geeft alleen een oriëntatie. Mathanje beslist of en uit welke actuele bron een handelingsinstructie volgt (R74). De eerste alinea, de ruimte en het bloedverlies bij de moeder zijn een eigen aanvulling.",,Rise tekst,1,medische_review_nodig,Mathanje,,0.2,
+MC-L06,MC-L06-S34,MC-20.01;MC-20.02,Casus: buikpijn en een bevalling aan boord,"Een stewardess heeft sinds vanochtend hevige pijn aan één kant van haar onderbuik. Ze vertelt, als je haar apart spreekt, dat ze zes weken geleden voor het laatst ongesteld was. Ze verliest wat bloed uit de vagina. Ze is bleek en haar pols is snel.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K06-08: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Wat denk je en wat doe je?
+MC-K06-08-A: Waarschijnlijk menstruatiepijn; laat haar rusten en kijk morgen verder
+MC-K06-08-B: Mogelijk een zwangerschap buiten de baarmoeder met een inwendige bloeding: direct contact met de arts, laten liggen, warm houden en pols en bloeddruk bewaken (juist)
+MC-K06-08-C: Waarschijnlijk een blindedarmontsteking; in de volgende haven laten nakijken
+MC-K06-09: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Een andere keer redt je schip een hoogzwangere vrouw uit een bootje. Ze krijgt regelmatige weeën. Wat doe je eerst?
+MC-K06-09-A: Wachten tot het kind komt en dan de arts bellen
+MC-K06-09-B: Direct contact met de arts, een schone, warme en rustige ruimte voorbereiden en het materiaal klaarleggen volgens de medische gids en het advies van de arts (juist)
+MC-K06-09-C: Haar laten persen zodra ze dat wil, zodat het snel voorbij is","MC-K06-08-B: Juist. Een zwangerschap buiten de baarmoeder kan een ernstige inwendige bloeding geven. Neem direct contact op met de arts en behandel de tekenen van shock.
+MC-K06-09-B: Juist. De arts begeleidt de bevalling op afstand. Jij zorgt voor de ruimte en het materiaal en meldt problemen direct.","MC-K06-08-A: Onjuist. Hevige eenzijdige buikpijn met bloedverlies bij een mogelijke zwangerschap en tekenen van shock is een alarmsignaal.
+MC-K06-08-C: Onjuist. Je stelt zelf geen diagnose. Met deze alarmsignalen wacht je niet tot de haven, maar neem je direct contact op met de arts.
+MC-K06-09-A: Onjuist. Neem bij de eerste tekenen van een bevalling contact op met de arts. De arts begeleidt je.
+MC-K06-09-C: Onjuist. Je volgt de aanwijzingen van de arts. Zelf sturen zonder advies doe je niet.",S062,"S062 dia65, dia73 en dia74; de inhoud komt uit MC-L06-S09 en S10; de casus en de antwoordlogica zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K06-08 en MC-K06-09 (R147). MC-K06-09 wacht net als S10 op het scopebesluit over de bevalling (R74).",,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.2,
 MC-L06,MC-L06-S11,MC-21.01;MC-21.02,Geredde personen: verdere zorg,"Bij MFA leerde je geredde personen horizontaal uit het water halen, warm houden en de vitale functies controleren. Als MC-zorgverlener zorg je daarna verder voor hen, soms voor meerdere tegelijk.
 
 Prioriteren. Kijk eerst wie bewusteloos is, slecht ademt, ernstig onderkoeld is of een ernstig letsel heeft. Zij krijgen voorrang, en over hen overleg je als eerste met de arts.
@@ -215,6 +229,28 @@ Zonverbranding: op open zee verbrandt de huid snel, op iedere breedtegraad. Een 
 Zeeziekte: geredden zijn vaak zeeziek: ze hebben geen eetlust, zijn misselijk, duizelig en braken. Dat maakt de uitdroging erger.
 
 Olie op de huid: is de geredde warm en voelt hij zich goed, verwijder dan de olie. Laat hem onder een warme douche alle kleding uittrekken. Veeg de olie af met een zachte doek en papier, maar niet rond de mond en de ogen en voorzichtig bij wonden en brandwonden. Was daarna met shampoo en zeep. Gebruik geen oplosmiddelen, petroleum of schuurmiddelen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S025;S043,"S025 IMGS boek p347-349 / PDF p368-370 (zeeziekte, zonverbranding, uitdroging: water belangrijker dan voedsel, onder en boven 48 uur, contamination with oil, food and water for rescued survivors: ondervoeding, langzaam opbouwen); S043 dia25-29. TE VERIFIËREN: GH2 dateert van 2013 en de Ships medical guide (S025, WHO, 3e druk) van 2007. Mathanje bevestigt of deze uitleg nog actueel is. De Ships medical guide geeft rekenregels voor de hoeveelheid vocht en voedsel bij langdurig tekort. De les noemt die niet en laat de hoeveelheid aan de arts.",,Rise accordeon,2,medische_review_nodig,Mathanje,,0.2,
+MC-L06,MC-L06-S35,MC-21.02;MC-21.01,Casus: vijf geredden uit een vlot,"Je schip neemt vijf mensen op uit een reddingsvlot dat drie dagen heeft gedreven. Een vrouw klaagt luid over pijn in haar enkel. Een jongen zit stil en is zeeziek. Een oudere man is slecht aanspreekbaar, voelt ijskoud aan en rilt niet meer. Twee mannen zitten onder de olie, maar zijn helder en hebben het warm.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K06-10: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Over wie overleg je als eerste met de arts?
+MC-K06-10-A: De vrouw met de enkel, want zij heeft de meeste pijn
+MC-K06-10-B: De oudere man die slecht aanspreekbaar is en niet meer rilt (juist)
+MC-K06-10-C: De twee mannen met olie, want olie op de huid is gevaarlijk
+MC-K06-11: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: De jongen heeft drie dagen bijna niets gedronken en vraagt om veel water. Wat doe je?
+MC-K06-11-A: Hem zoveel laten drinken als hij wil
+MC-K06-11-B: Met de arts overleggen hoeveel hij per dag mag drinken en dat bijhouden (juist)
+MC-K06-11-C: Hem pas laten drinken als hij in de haven is
+MC-K06-12: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Hoe verwijder je de olie bij de twee mannen?
+MC-K06-12-A: Met een doek met wat thinner of petroleum, dat werkt het snelst
+MC-K06-12-B: Onder een warme douche alle kleding uit, de olie afvegen met een zachte doek en papier, niet rond mond en ogen, en daarna wassen met shampoo en zeep (juist)
+MC-K06-12-C: De olie laten zitten tot de haven","MC-K06-10-B: Juist. Slecht aanspreekbaar, ijskoud en niet meer rillen past bij ernstige onderkoeling. Hij krijgt voorrang: horizontaal houden, voorzichtig inpakken en direct overleg met de arts.
+MC-K06-11-B: Juist. Bij meer dan twee dagen te weinig drinken bepaal je samen met de arts hoeveel hij krijgt. Zeeziekte maakt de uitdroging erger.
+MC-K06-12-B: Juist. Zo verwijder je de olie zonder de huid te beschadigen. Wees voorzichtig bij wonden en brandwonden.","MC-K06-10-A: Onjuist. Wie het hardst klaagt, is niet altijd het ernstigst eraan toe.
+MC-K06-10-C: Onjuist. Zij zijn helder en warm. De olie verwijder je later.
+MC-K06-11-A: Onjuist. Wie langer dan twee dagen te weinig heeft gedronken, kan ziek worden van snel veel drinken.
+MC-K06-11-C: Onjuist. Hij is uitgedroogd en heeft vocht nodig, in de hoeveelheid die de arts adviseert.
+MC-K06-12-A: Onjuist. Gebruik geen oplosmiddelen, petroleum of schuurmiddelen; die beschadigen de huid.
+MC-K06-12-C: Onjuist. Als iemand warm is en zich goed voelt, verwijder je de olie aan boord.",S025;S043,"S043 dia9-13 en dia25-29; S025 IMGS boek p347-349 / PDF p368-370 (uitdroging, olie op de huid); de inhoud komt uit MC-L06-S11 en S29; de casus en de antwoordlogica zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K06-10 tot en met MC-K06-12 (R147).",,Rise kennischeck,4,medische_review_nodig,Mathanje,,0.2,
 MC-L06,MC-L06-S12,MC-21.01,Hij voelt zich weer goed,Een opvarende is na een val overboord binnen vijf minuten gered. Hij heeft water binnengekregen en gehoest. Na een uur zegt hij dat hij zich weer goed voelt en wil terug naar zijn werk.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K06-03: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je?
 MC-K06-03-A: Je laat hem weer aan het werk gaan, want hij voelt zich goed

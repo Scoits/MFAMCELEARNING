@@ -344,6 +344,15 @@ Op 21 november 2026 kregen drie MFA-leerdoelen die alleen uitleg hadden een casu
 | --- | --- | --- |
 | R145 | MFA-L03-S35, MFA-L04-S49 en MFA-L05-S35 | Kloppen de casussen en de antwoorden van K03-12, K03-13, K04-14, K04-15, K05-09 en K05-10? Klopt de feedback dat je bij een mogelijke bekkenbreuk de benen niet hoog legt? Moet de casus na twee uur in het vlot iets zeggen over lopen of horizontaal houden? |
 
+## Aanvulling: oefeningen bij MC-leerdoelen met alleen uitleg
+
+Op 21 november 2026 kregen veertien MC-leerdoelen die alleen uitleg hadden een casus of doe-opdracht met kennischecks: MC-L02-S37 tot en met S39, MC-L03-S14 tot en met S16, MC-L06-S34 en S35 en MC-L07-S37 en S38. De keuzes en de feedback komen uit de schermen van die lessen.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R146 | MC-L02-S37 tot en met S39 en MC-L03-S14 tot en met S16 | Kloppen de casussen en de antwoorden van MC-K02-07 tot en met MC-K02-12 en MC-K03-04 tot en met MC-K03-09? Passen de fictieve oefenwaarden in MC-K02-10? Is de koelduur van twintig minuten in MC-L02-S39 gelijk aan de richtlijn die DRTC gebruikt? Klopt het afdekken en opnieuw overleggen als een wond niet gehecht kan worden? |
+| R147 | MC-L06-S34 en S35 en MC-L07-S37 en S38 | Kloppen de casussen en de antwoorden van MC-K06-08 tot en met MC-K06-12 en MC-K07-10 tot en met MC-K07-14? Welke actuele bron voor vaccinaties noemt de les? Hoort MC-K06-09 over de bevalling erin voor het scopebesluit (R74)? |
+
 ## Aanvulling bij het scenario RMD-gesprek
 
 | Nr | Scherm | Vraag |

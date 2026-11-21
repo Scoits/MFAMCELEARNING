@@ -33,6 +33,20 @@ Na het hechten. Maak de wond schoon en dek af met een steriele pleister of gaas.
 Vingers en tenen. Verbind ze apart, bijvoorbeeld bij brandwonden of bevriezing.
 
 Controleer na het aanleggen of het verband goed zit en de doorbloeding voorbij het verband in orde is: kleur, warmte en gevoel. Vraag de patiënt of het verband knelt. Vervang een nat of vuil verband.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S058;S044;S064,"S058 (PH10 dekverband en wonddrukverband); S044 dia4-5 (dekverband, wonddrukverband: dekverband, watten, stevige zwachtel), dia31 (vingers apart verbinden); S064 dia57 (na hechten verbinden met steriele pleister of gaas). TE VERIFIËREN: Het vervangen van een nat of vuil verband en de vraag of het verband knelt zijn een eigen aanvulling.",MC-L03-M03,Rise tabbladen,4,medische_review_nodig,Mathanje,,0.1,
+MC-L03,MC-L03-S14,MC-11.01;MC-11.02,Welk verband past?,"Je hebt twee patiënten. De kok heeft een schaafwond op zijn knie die niet meer bloedt. Een matroos heeft een snijwond in zijn onderarm die blijft bloeden, ook nadat je er even op hebt gedrukt.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-04: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Welk verband krijgt de kok?
+MC-K03-04-A: Een wonddrukverband met een stevige zwachtel
+MC-K03-04-B: Een dekverband met een steriel gaas of snelverband (juist)
+MC-K03-04-C: Geen verband; een schaafwond moet aan de lucht drogen
+MC-K03-05: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Welk verband krijgt de matroos, en wat controleer je daarna?
+MC-K03-05-A: Een dekverband, en je controleert niets meer
+MC-K03-05-B: Een wonddrukverband: dekverband, watten en een stevige zwachtel; daarna controleer je kleur, warmte en gevoel van de hand en vraag je of het knelt (juist)
+MC-K03-05-C: Een snelverband zo strak mogelijk, zodat er zeker geen bloed meer uitkomt","MC-K03-04-B: Juist. Een dekverband beschermt een wond die niet meer bloedt tegen vuil en infectie.
+MC-K03-05-B: Juist. Het wonddrukverband stelpt de bloeding. Daarna controleer je of de doorbloeding voorbij het verband in orde is.","MC-K03-04-A: Onjuist. De wond bloedt niet meer; druk is niet nodig en kan de doorbloeding hinderen.
+MC-K03-04-C: Onjuist. Dek de wond af om vuil en infectie te voorkomen.
+MC-K03-05-A: Onjuist. Een wond die blijft bloeden vraagt druk. En na ieder verband controleer je de doorbloeding.
+MC-K03-05-C: Onjuist. Te strak kan de doorbloeding afknellen. Je legt een wonddrukverband aan en controleert de doorbloeding.",S058;S044,S058 (PH10 dekverband en wonddrukverband); S044 dia4-5 en dia31; antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de antwoorden van MC-K03-04 en MC-K03-05 (R146).,,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S06,MC-07.01;MC-07.02,Pijn verlichten,"Zonder medicijnen. Geef het pijnlijke lichaamsdeel rust en ondersteun of spalk het. Help de patiënt in een houding die minder pijn doet. Koel waar dat past, zoals bij een brandwond. Leg uit wat je doet en blijf bij de patiënt; angst maakt pijn erger.
 
 Met medicijnen. Pijnstillers geef je alleen op advies van de arts. Vraag eerst naar allergieën en medicijngebruik (AMPLE).
@@ -40,6 +54,12 @@ Met medicijnen. Pijnstillers geef je alleen op advies van de arts. Vraag eerst n
 Controleer de instructie van de arts. Welk middel, welke sterkte, welke vorm, hoe toe te dienen, hoeveel en hoe vaak? Herhaal de instructie hardop. Klopt iets niet of ontbreekt er iets, vraag het dan na voordat je iets geeft.
 
 Noteer in het medisch logboek wat je hebt gegeven, wanneer en op wiens advies, en kijk of de pijn afneemt en of er bijwerkingen optreden.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S045;S062;S063;S046,"S045 dia53 (medicatie op voorschrift van RMA/TMAS), dia55-58 (pijnstillers; doseringen niet overgenomen); S062 dia93 (pijnmedicatie bij kiespijn); S063 dia22 (verkeerde medicijn, verkeerde dosis, overgevoeligheid, bijwerkingen), dia37 (noteer gegeven medicatie en observeer); S046 p1 (AMPLE); MFA-L06-S03. TE VERIFIËREN: De niet-medicamenteuze maatregelen zijn een eigen formulering; S004 Part C 2.7 noemt pijnbestrijding zonder deze uitwerking. Mathanje beoordeelt. Doseringen van pijnstillers staan niet in de les (OB-08, R41).",,Rise tabbladen,4,medische_review_nodig,Mathanje,,0.1,
+MC-L03,MC-L03-S15,MC-07.01;MC-07.02,Casus: pijn zonder pillen,Een matroos is op zijn pols gevallen. De pols is gezwollen en erg pijnlijk. Je hebt hem onderzocht en de pols gespalkt. De Radio Medische Dienst is pas over een half uur bereikbaar. De matroos is angstig en vraagt om iets tegen de pijn.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-06: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Wat doe je tot de arts bereikbaar is?
+MC-K03-06-A: Een pijnstiller uit de kast geven; een lichte pijnstiller mag altijd
+MC-K03-06-B: De pols rust geven in de spalk en een mitella, hem een houding laten kiezen die minder pijn doet, uitleggen wat er gebeurt en bij hem blijven (juist)
+MC-K03-06-C: Hem de pols laten bewegen, zodat hij niet stijf wordt","MC-K03-06-B: Juist. Rust, ondersteunen en een goede houding verlichten pijn. Uitleg en aanwezigheid verminderen angst, en angst maakt pijn erger.","MC-K03-06-A: Onjuist. Pijnstillers geef je alleen op advies van de arts. Tot dan zijn er andere manieren om pijn te verlichten.
+MC-K03-06-C: Onjuist. Een mogelijk gebroken pols beweeg je niet. Rust en ondersteuning verlichten de pijn.",S045;S063,S045 dia53 en dia55; S063 dia22; de inhoud komt uit MC-L03-S06; de casus en de antwoordlogica zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K03-06 (R146). De mitella is een eigen aanvulling bij het ondersteunen uit S06.,,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S07,MC-07.02,Een onvolledige instructie,"De arts adviseert via de radio: geef de patiënt een pijnstiller uit de scheepsapotheek, twee tabletten. Je weet niet welke pijnstiller bedoeld is; er zijn er drie aan boord. De patiënt heeft een allergie voor een van de middelen.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je?
 MC-K03-02-A: Je geeft twee tabletten van het middel dat het meest gebruikt wordt
@@ -75,6 +95,28 @@ Voorbereiden. Desinfecteer de wond ruim. Open de hechtset steriel, trek steriele
 Hechten. Zet de naald op twee derde van de punt in de naaldvoerder. Steek een halve centimeter van de wondrand in en aan de andere kant een halve centimeter van de wondrand weer uit. Leg drie chirurgische knopen en knip de draad af op ongeveer een centimeter. Leg de volgende hechting een centimeter verder, tot de wond gesloten is. Bij een vinger leg je de hechtingen dichter bij elkaar.
 
 Afronden. Maak de wond schoon en dek af met een steriele pleister of gaas. Gooi naalden direct in de naaldcontainer. Noteer de behandeling in het medisch logboek.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S064;S050;S063,"S064 dia22-26 (fasen: verdoving en hechten; veldblokkade; Oberst-anesthesie; hechten van vinger), dia34-44 (verdoven), dia45-57 (hechten), dia58 (matrassteek); S050 (PH2); S063 dia35 (controleren op bloedvat). TE VERIFIËREN: De hoeveelheden lidocaïne uit S064 dia23 zijn niet opgenomen. Mathanje beslist of MC-cursisten die moeten kennen of alleen uitvoeren op advies van de arts (R56). De plaats aan de basis van de vinger bij de Oberst-verdoving is een eigen toelichting; S064 dia25 is alleen beeld. S064 dia42 noemt geen handeling als er bloed in de spuit komt; de les volgt S063 dia35 (injecteren). Mathanje bevestigt. Desinfectiemiddel en aantal slagen bij de eerste knoop verschillen tussen PH2 en S064 (BC-35, R55). De les noemt daarom geen middel en geen aantal slagen. S064 dia28 noemt hechtdraadsoorten en de matrassteek bij loze ruimte. Die zijn niet in de cursistentekst opgenomen; de praktijkinstructie behandelt ze.",MC-L03-M05,Rise stappenreeks met foto's,5,medische_review_nodig,Mathanje,,0.1,
+MC-L03,MC-L03-S16,MC-08.02;MC-34.02;MC-10.02,Casus: hechten in de ziekenboeg,De arts van de Radio Medische Dienst adviseert je om een snijwond in de onderarm van een kok te hechten. Je legt alles klaar in de ziekenboeg.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"MC-K03-07: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Bij het openen van de hechtset raakt je mouw de steriele doek. Wat doe je?
+MC-K03-07-A: Doorgaan; het was maar heel even
+MC-K03-07-B: De doek en wat erop ligt als niet steriel beschouwen en opnieuw beginnen met steriel materiaal (juist)
+MC-K03-07-C: De doek desinfecteren met alcohol en dan doorgaan
+MC-K03-08: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Bij het verdoven trek je de zuiger iets terug en zie je bloed in de spuit. Wat doe je?
+MC-K03-08-A: Inspuiten; een beetje bloed is normaal
+MC-K03-08-B: De naald verplaatsen en opnieuw controleren voordat je inspuit (juist)
+MC-K03-08-C: Stoppen met verdoven en zonder verdoving hechten
+MC-K03-09: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
+Vraag: Bij het inspecteren zie je zand en vuil diep in de wond dat je er niet uit krijgt. Wat doe je?
+MC-K03-09-A: Hechten; het vuil komt er later vanzelf uit
+MC-K03-09-B: Niet hechten, de wond afdekken en opnieuw overleggen met de arts (juist)
+MC-K03-09-C: De wond hechten en een extra ontsmettingsmiddel over de hechtingen doen","MC-K03-07-B: Juist. Wat niet-steriel is aangeraakt, is niet meer steriel. Begin opnieuw.
+MC-K03-08-B: Juist. Je spuit de verdoving niet in een bloedvat. Verplaats de naald en controleer opnieuw.
+MC-K03-09-B: Juist. Lukt het niet om het vuil te verwijderen, dan hecht je niet. De arts beslist wat er dan gebeurt.","MC-K03-07-A: Onjuist. Twijfel je of iets steriel is, dan is het niet steriel.
+MC-K03-07-C: Onjuist. Desinfecteren maakt iets niet steriel. Gebruik nieuw steriel materiaal.
+MC-K03-08-A: Onjuist. Bloed in de spuit betekent dat de naald in een bloedvat zit.
+MC-K03-08-C: Onjuist. Je verplaatst de naald en gaat dan verder met verdoven.
+MC-K03-09-A: Onjuist. Vuil dat je niet kunt verwijderen, sluit je in als je hecht. Dat geeft een grote kans op infectie.
+MC-K03-09-C: Onjuist. Een ontsmettingsmiddel over de hechtingen haalt het vuil in de wond niet weg.",S064;S050;S063,"S064 dia32 en dia45-57 (steriel werken, wond inspecteren, hechten); S050 (PH2); S063 dia35 (controleren op bloedvat); de inhoud komt uit MC-L03-S10 en S11; de casus en de antwoordlogica zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K03-07 tot en met MC-K03-09 (R146). Of de wond na niet hechten wordt afgedekt en opnieuw overlegd, is een eigen formulering bij S064.",,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.1,
 MC-L03,MC-L03-S12,MC-06.02;MC-10.02,Nazorg en hechtingen verwijderen,"Controleer de wond iedere dag op ontstekingsverschijnselen. Zie je roodheid, zwelling, warmte, pus of koorts, verwijder dan direct de hechtingen en raadpleeg de arts.
 
 Is de wond rustig, dan verwijder je de hechtingen na gemiddeld acht dagen, op aanwijzing van de arts. Op het hoofd gebeurt dat eerder, elders later. Oplosbare hechtingen verwijder je niet.

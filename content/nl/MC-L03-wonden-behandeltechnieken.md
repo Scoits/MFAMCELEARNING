@@ -184,6 +184,49 @@ TE VERIFIËREN: Het vervangen van een nat of vuil verband en de vraag of het ver
 
 In MC-H4 legt de cursist een dekverband en een wonddrukverband aan en controleert de doorbloeding.
 
+## MC-L03-S14 Welk verband past?
+
+Leerdoelen: MC-11.01; MC-11.02. Bronplaats: S058 (PH10 dekverband en wonddrukverband); S044 dia4-5 en dia31; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 2 minuten. Leerfunctie: de cursist kiest het verband op grond van doel en letsel.
+
+**Cursistentekst**
+
+Je hebt twee patiënten. De kok heeft een schaafwond op zijn knie die niet meer bloedt. Een matroos heeft een snijwond in zijn onderarm die blijft bloeden, ook nadat je er even op hebt gedrukt.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K03-04**
+
+Welk verband krijgt de kok?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K03-04-A | Een wonddrukverband met een stevige zwachtel | Onjuist. De wond bloedt niet meer; druk is niet nodig en kan de doorbloeding hinderen. |
+| MC-K03-04-B | Een dekverband met een steriel gaas of snelverband | Juist. Een dekverband beschermt een wond die niet meer bloedt tegen vuil en infectie. |
+| MC-K03-04-C | Geen verband; een schaafwond moet aan de lucht drogen | Onjuist. Dek de wond af om vuil en infectie te voorkomen. |
+
+**Kennischeck MC-K03-05**
+
+Welk verband krijgt de matroos, en wat controleer je daarna?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K03-05-A | Een dekverband, en je controleert niets meer | Onjuist. Een wond die blijft bloeden vraagt druk. En na ieder verband controleer je de doorbloeding. |
+| MC-K03-05-B | Een wonddrukverband: dekverband, watten en een stevige zwachtel; daarna controleer je kleur, warmte en gevoel van de hand en vraag je of het knelt | Juist. Het wonddrukverband stelpt de bloeding. Daarna controleer je of de doorbloeding voorbij het verband in orde is. |
+| MC-K03-05-C | Een snelverband zo strak mogelijk, zodat er zeker geen bloed meer uitkomt | Onjuist. Te strak kan de doorbloeding afknellen. Je legt een wonddrukverband aan en controleert de doorbloeding. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de antwoorden van MC-K03-04 en MC-K03-05 (R146).
+
+**Verbinding met de praktijkdag**
+
+Station verbinden op de praktijkdag: de cursist kiest en legt een dekverband en een wonddrukverband aan.
+
+
 ## MC-L03-S06 Pijn verlichten
 
 Leerdoelen: MC-07.01; MC-07.02. Bronplaats: S045 dia53 (medicatie op voorschrift van RMA/TMAS), dia55-58 (pijnstillers; doseringen niet overgenomen); S062 dia93 (pijnmedicatie bij kiespijn); S063 dia22 (verkeerde medicijn, verkeerde dosis, overgevoeligheid, bijwerkingen), dia37 (noteer gegeven medicatie en observeer); S046 p1 (AMPLE); MFA-L06-S03. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -217,6 +260,39 @@ TE VERIFIËREN: Doseringen van pijnstillers staan niet in de les (OB-08, R41).
 **Verbinding met de praktijkdag**
 
 In een scenario controleert de cursist een fictieve instructie van de arts en herhaalt die hardop.
+
+## MC-L03-S15 Casus: pijn zonder pillen
+
+Leerdoelen: MC-07.01; MC-07.02. Bronplaats: S045 dia53 en dia55; S063 dia22; de inhoud komt uit MC-L03-S06; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 2 minuten. Leerfunctie: de cursist vergelijkt mogelijkheden om pijn te verlichten zonder medicijnen.
+
+**Cursistentekst**
+
+Een matroos is op zijn pols gevallen. De pols is gezwollen en erg pijnlijk. Je hebt hem onderzocht en de pols gespalkt. De Radio Medische Dienst is pas over een half uur bereikbaar. De matroos is angstig en vraagt om iets tegen de pijn.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K03-06**
+
+Wat doe je tot de arts bereikbaar is?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K03-06-A | Een pijnstiller uit de kast geven; een lichte pijnstiller mag altijd | Onjuist. Pijnstillers geef je alleen op advies van de arts. Tot dan zijn er andere manieren om pijn te verlichten. |
+| MC-K03-06-B | De pols rust geven in de spalk en een mitella, hem een houding laten kiezen die minder pijn doet, uitleggen wat er gebeurt en bij hem blijven | Juist. Rust, ondersteunen en een goede houding verlichten pijn. Uitleg en aanwezigheid verminderen angst, en angst maakt pijn erger. |
+| MC-K03-06-C | Hem de pols laten bewegen, zodat hij niet stijf wordt | Onjuist. Een mogelijk gebroken pols beweeg je niet. Rust en ondersteuning verlichten de pijn. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K03-06 (R146). De mitella is een eigen aanvulling bij het ondersteunen uit S06.
+
+**Verbinding met de praktijkdag**
+
+Zorgscenario op de praktijkdag: de cursist ondersteunt een patiënt met pijn en bespreekt de mogelijkheden zonder medicijnen.
+
 
 ## MC-L03-S07 Een onvolledige instructie
 
@@ -384,6 +460,59 @@ TE VERIFIËREN: S064 dia28 noemt hechtdraadsoorten en de matrassteek bij loze ru
 
 In MC-H3 verdooft de cursist op een oefenmodel en hecht een wond op oefenhuid volgens deze stappen.
 
+## MC-L03-S16 Casus: hechten in de ziekenboeg
+
+Leerdoelen: MC-08.02; MC-34.02; MC-10.02. Bronplaats: S064 dia32 en dia45-57 (steriel werken, wond inspecteren, hechten); S050 (PH2); S063 dia35 (controleren op bloedvat); de inhoud komt uit MC-L03-S10 en S11; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist past de regels voor steriel werken, verdoven en de wondinspectie toe.
+
+**Cursistentekst**
+
+De arts van de Radio Medische Dienst adviseert je om een snijwond in de onderarm van een kok te hechten. Je legt alles klaar in de ziekenboeg.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K03-07**
+
+Bij het openen van de hechtset raakt je mouw de steriele doek. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K03-07-A | Doorgaan; het was maar heel even | Onjuist. Twijfel je of iets steriel is, dan is het niet steriel. |
+| MC-K03-07-B | De doek en wat erop ligt als niet steriel beschouwen en opnieuw beginnen met steriel materiaal | Juist. Wat niet-steriel is aangeraakt, is niet meer steriel. Begin opnieuw. |
+| MC-K03-07-C | De doek desinfecteren met alcohol en dan doorgaan | Onjuist. Desinfecteren maakt iets niet steriel. Gebruik nieuw steriel materiaal. |
+
+**Kennischeck MC-K03-08**
+
+Bij het verdoven trek je de zuiger iets terug en zie je bloed in de spuit. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K03-08-A | Inspuiten; een beetje bloed is normaal | Onjuist. Bloed in de spuit betekent dat de naald in een bloedvat zit. |
+| MC-K03-08-B | De naald verplaatsen en opnieuw controleren voordat je inspuit | Juist. Je spuit de verdoving niet in een bloedvat. Verplaats de naald en controleer opnieuw. |
+| MC-K03-08-C | Stoppen met verdoven en zonder verdoving hechten | Onjuist. Je verplaatst de naald en gaat dan verder met verdoven. |
+
+**Kennischeck MC-K03-09**
+
+Bij het inspecteren zie je zand en vuil diep in de wond dat je er niet uit krijgt. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K03-09-A | Hechten; het vuil komt er later vanzelf uit | Onjuist. Vuil dat je niet kunt verwijderen, sluit je in als je hecht. Dat geeft een grote kans op infectie. |
+| MC-K03-09-B | Niet hechten, de wond afdekken en opnieuw overleggen met de arts | Juist. Lukt het niet om het vuil te verwijderen, dan hecht je niet. De arts beslist wat er dan gebeurt. |
+| MC-K03-09-C | De wond hechten en een extra ontsmettingsmiddel over de hechtingen doen | Onjuist. Een ontsmettingsmiddel over de hechtingen haalt het vuil in de wond niet weg. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K03-07 tot en met MC-K03-09 (R146). Of de wond na niet hechten wordt afgedekt en opnieuw overlegd, is een eigen formulering bij S064.
+
+**Verbinding met de praktijkdag**
+
+Station hechten op oefenhuid op de praktijkdag: steriel werken, verdoven op een oefenmodel en hechten.
+
+
 ## MC-L03-S12 Nazorg en hechtingen verwijderen
 
 Leerdoelen: MC-06.02; MC-10.02. Bronplaats: S064 dia29 (hechtingen verwijderen: bij infectie direct; hoofd 5 dagen, liezen 7 dagen, elders 10 dagen; gemiddeld 8 dagen; bij vicryl niet van toepassing), dia59 (dagelijks controleren); S050 (PH2 aandacht). Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -432,7 +561,7 @@ TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback 
 
 ## Bouw en test
 
-Gebruik twaalf Rise-secties in de volgorde S01 tot en met S12. Toon in S02 wondfoto's alleen na een waarschuwing vooraf en met een knop om ze over te slaan. Gebruik in S11 foto's of video van hechten op oefenhuid, geen patiëntbeelden. MC-K03-01 tot en met MC-K03-03 zijn oefenvragen en tellen niet mee.
+Gebruik 16 Rise-secties in de weergavevolgorde S01, S02, S03, S04, S05, S14, S06, S15, S07, S08, S09, S10, S11, S16, S12, S13. Toon in S02 wondfoto's alleen na een waarschuwing vooraf en met een knop om ze over te slaan. Gebruik in S11 foto's of video van hechten op oefenhuid, geen patiëntbeelden. MC-K03-01 tot en met MC-K03-09 zijn oefenvragen en tellen niet mee.
 
 ## Open punten voor Mathanje en DRTC
 

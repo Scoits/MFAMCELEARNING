@@ -38,7 +38,7 @@ STCW-kolommen: competentie C1 (kolom 1); kennisgebieden alcohol- en drugsmisbrui
 
 Bronstatus: alle genoemde dia's zijn als tekst gelezen. S063 dia4 (symptomen alcoholonttrekking) en S062 dia96 (letsel mond en tanden) bestaan alleen uit beeld. Over gynaecologie, zwangerschap en bevalling heeft S062 alleen twee opsommingsdia's; S09 en S10 zijn daarom grotendeels eigen tekst. S063 dia11 tot en met 13 beschrijven de Nederlandse regels voor overlijden aan boord; of die nog actueel zijn, is niet gecontroleerd (R75).
 
-De schermrecords staan in [MC-L06-schermreview.csv](../../reviews/MC-L06-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S03, S18, S19, S04, S20, S05, S21, S22, S23, S24, S25, S26, S27, S06, S07, S28, S08, S09, S10, S11, S29, S12, S13, S14, S30, S15, S31.
+De schermrecords staan in [MC-L06-schermreview.csv](../../reviews/MC-L06-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S03, S18, S19, S04, S20, S05, S21, S22, S23, S24, S25, S26, S27, S06, S32, S07, S28, S08, S09, S10, S34, S11, S29, S35, S12, S13, S14, S30, S15, S31, S33.
 
 ## MC-L06-S01 Bijzondere situaties aan boord
 
@@ -724,6 +724,49 @@ TE VERIFIËREN: Het scopebesluit over de bevalling (MC-20.02, OB-08) is open. Di
 
 TE VERIFIËREN: De eerste alinea, de ruimte en het bloedverlies bij de moeder zijn een eigen aanvulling.
 
+## MC-L06-S34 Casus: buikpijn en een bevalling aan boord
+
+Leerdoelen: MC-20.01; MC-20.02. Bronplaats: S062 dia65, dia73 en dia74; de inhoud komt uit MC-L06-S09 en S10; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist herkent alarmsignalen bij een mogelijke zwangerschap en kiest de eerste stappen bij een bevalling.
+
+**Cursistentekst**
+
+Een stewardess heeft sinds vanochtend hevige pijn aan één kant van haar onderbuik. Ze vertelt, als je haar apart spreekt, dat ze zes weken geleden voor het laatst ongesteld was. Ze verliest wat bloed uit de vagina. Ze is bleek en haar pols is snel.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K06-08**
+
+Wat denk je en wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-08-A | Waarschijnlijk menstruatiepijn; laat haar rusten en kijk morgen verder | Onjuist. Hevige eenzijdige buikpijn met bloedverlies bij een mogelijke zwangerschap en tekenen van shock is een alarmsignaal. |
+| MC-K06-08-B | Mogelijk een zwangerschap buiten de baarmoeder met een inwendige bloeding: direct contact met de arts, laten liggen, warm houden en pols en bloeddruk bewaken | Juist. Een zwangerschap buiten de baarmoeder kan een ernstige inwendige bloeding geven. Neem direct contact op met de arts en behandel de tekenen van shock. |
+| MC-K06-08-C | Waarschijnlijk een blindedarmontsteking; in de volgende haven laten nakijken | Onjuist. Je stelt zelf geen diagnose. Met deze alarmsignalen wacht je niet tot de haven, maar neem je direct contact op met de arts. |
+
+**Kennischeck MC-K06-09**
+
+Een andere keer redt je schip een hoogzwangere vrouw uit een bootje. Ze krijgt regelmatige weeën. Wat doe je eerst?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-09-A | Wachten tot het kind komt en dan de arts bellen | Onjuist. Neem bij de eerste tekenen van een bevalling contact op met de arts. De arts begeleidt je. |
+| MC-K06-09-B | Direct contact met de arts, een schone, warme en rustige ruimte voorbereiden en het materiaal klaarleggen volgens de medische gids en het advies van de arts | Juist. De arts begeleidt de bevalling op afstand. Jij zorgt voor de ruimte en het materiaal en meldt problemen direct. |
+| MC-K06-09-C | Haar laten persen zodra ze dat wil, zodat het snel voorbij is | Onjuist. Je volgt de aanwijzingen van de arts. Zelf sturen zonder advies doe je niet. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K06-08 en MC-K06-09 (R147). MC-K06-09 wacht net als S10 op het scopebesluit over de bevalling (R74).
+
+**Verbinding met de praktijkdag**
+
+Geen eigen praktijkstation; bespreking in een zorgscenario op de praktijkdag.
+
+
 ## MC-L06-S11 Geredde personen: verdere zorg
 
 Leerdoelen: MC-21.01; MC-21.02. Bronplaats: S043 dia9-13 (fasen en eerste hulp bij onderkoeling), dia25 (complicaties na bijna-verdrinking: longoedeem, secundaire verdrinking met toenemende benauwdheid en schuimend sputum, braaksel in de longen, verwondingen, longinfectie), dia27-28 (horizontaal, eerste hulp, RMD in verband met tweede verdrinking), dia29 (afterdrop); MFA-L05-S09 tot en met S11. Media: MC-L06-M01. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -789,6 +832,59 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 TE VERIFIËREN: GH2 dateert van 2013 en de Ships medical guide (S025, WHO, 3e druk) van 2007. Mathanje bevestigt of deze uitleg nog actueel is.
 
 TE VERIFIËREN: De Ships medical guide geeft rekenregels voor de hoeveelheid vocht en voedsel bij langdurig tekort. De les noemt die niet en laat de hoeveelheid aan de arts.
+
+## MC-L06-S35 Casus: vijf geredden uit een vlot
+
+Leerdoelen: MC-21.02; MC-21.01. Bronplaats: S043 dia9-13 en dia25-29; S025 IMGS boek p347-349 / PDF p368-370 (uitdroging, olie op de huid); de inhoud komt uit MC-L06-S11 en S29; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist organiseert opvang en verdere zorg voor meerdere geredden.
+
+**Cursistentekst**
+
+Je schip neemt vijf mensen op uit een reddingsvlot dat drie dagen heeft gedreven. Een vrouw klaagt luid over pijn in haar enkel. Een jongen zit stil en is zeeziek. Een oudere man is slecht aanspreekbaar, voelt ijskoud aan en rilt niet meer. Twee mannen zitten onder de olie, maar zijn helder en hebben het warm.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K06-10**
+
+Over wie overleg je als eerste met de arts?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-10-A | De vrouw met de enkel, want zij heeft de meeste pijn | Onjuist. Wie het hardst klaagt, is niet altijd het ernstigst eraan toe. |
+| MC-K06-10-B | De oudere man die slecht aanspreekbaar is en niet meer rilt | Juist. Slecht aanspreekbaar, ijskoud en niet meer rillen past bij ernstige onderkoeling. Hij krijgt voorrang: horizontaal houden, voorzichtig inpakken en direct overleg met de arts. |
+| MC-K06-10-C | De twee mannen met olie, want olie op de huid is gevaarlijk | Onjuist. Zij zijn helder en warm. De olie verwijder je later. |
+
+**Kennischeck MC-K06-11**
+
+De jongen heeft drie dagen bijna niets gedronken en vraagt om veel water. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-11-A | Hem zoveel laten drinken als hij wil | Onjuist. Wie langer dan twee dagen te weinig heeft gedronken, kan ziek worden van snel veel drinken. |
+| MC-K06-11-B | Met de arts overleggen hoeveel hij per dag mag drinken en dat bijhouden | Juist. Bij meer dan twee dagen te weinig drinken bepaal je samen met de arts hoeveel hij krijgt. Zeeziekte maakt de uitdroging erger. |
+| MC-K06-11-C | Hem pas laten drinken als hij in de haven is | Onjuist. Hij is uitgedroogd en heeft vocht nodig, in de hoeveelheid die de arts adviseert. |
+
+**Kennischeck MC-K06-12**
+
+Hoe verwijder je de olie bij de twee mannen?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-12-A | Met een doek met wat thinner of petroleum, dat werkt het snelst | Onjuist. Gebruik geen oplosmiddelen, petroleum of schuurmiddelen; die beschadigen de huid. |
+| MC-K06-12-B | Onder een warme douche alle kleding uit, de olie afvegen met een zachte doek en papier, niet rond mond en ogen, en daarna wassen met shampoo en zeep | Juist. Zo verwijder je de olie zonder de huid te beschadigen. Wees voorzichtig bij wonden en brandwonden. |
+| MC-K06-12-C | De olie laten zitten tot de haven | Onjuist. Als iemand warm is en zich goed voelt, verwijder je de olie aan boord. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K06-10 tot en met MC-K06-12 (R147).
+
+**Verbinding met de praktijkdag**
+
+Scenario geredde personen op de praktijkdag: prioriteren, onderkoeling behandelen en de gegevens van iedere geredde vastleggen.
+
 
 ## MC-L06-S12 Hij voelt zich weer goed
 
@@ -988,7 +1084,7 @@ TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback 
 
 ## Bouw en test
 
-Gebruik vijftien Rise-secties in de volgorde S01 tot en met S15. Het hoofdstuk over overlijden krijgt een rustige vormgeving zonder foto's van overledenen. Bouw S10 pas na het scopebesluit over de bevalling; tot dan alleen de oriëntatietekst. MC-K06-01 tot en met MC-K06-07 zijn oefenvragen en tellen niet mee.
+Gebruik 35 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het hoofdstuk over overlijden krijgt een rustige vormgeving zonder foto's van overledenen. Bouw S10 pas na het scopebesluit over de bevalling; tot dan alleen de oriëntatietekst. MC-K06-01 tot en met MC-K06-12 zijn oefenvragen en tellen niet mee.
 
 ## Open punten voor Mathanje en DRTC
 

@@ -42,7 +42,7 @@ Bronstatus: S066 en S067 zijn als tekst gelezen; S067 bevat dezelfde tabellen al
 
 S066 beantwoordt enkele eerdere vragen gedeeltelijk (BC-37): de uitrusting bevat urineteststrips (R47), een urinekatheter Thieman nr 16 en 12 en katheterglijmiddel onder II.5.06 en II.5.07, de codes waar PH14 naar verwijst (R63), herbruikbare RVS-instrumenten (R58), en het Geneeskundig Handboek voor de Scheepvaart en, op schepen met gevaarlijke stoffen, de MFAG (R36, R40).
 
-De schermrecords staan in [MC-L07-schermreview.csv](../../reviews/MC-L07-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S18, S19, S20, S21, S22, S23, S24, S03, S04, S05, S25, S26, S27, S06, S07, S28, S08, S09, S29, S30, S31, S10, S11, S12, S32, S33, S34, S13, S14, S15.
+De schermrecords staan in [MC-L07-schermreview.csv](../../reviews/MC-L07-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S18, S19, S20, S21, S22, S23, S24, S03, S04, S05, S25, S26, S27, S06, S35, S07, S28, S37, S08, S09, S29, S30, S31, S10, S11, S38, S12, S32, S33, S34, S36, S13, S14, S15.
 
 ## MC-L07-S01 Gezond blijven aan boord
 
@@ -644,6 +644,55 @@ TE VERIFIËREN: GH2 dateert van 2013 en de Ships medical guide (S025, WHO, 3e dr
 
 TE VERIFIËREN: De Ships medical guide (2007) noemt voor gele koorts een herhaling om de tien jaar. De les noemt geen termijn, omdat die eis sindsdien kan zijn veranderd. De actuele vaccinatiebron voor zeevarenden is nog open (R77).
 
+## MC-L07-S37 Doe-opdracht: vaccinaties voor een reis
+
+Leerdoelen: MC-25.02; MC-25.01. Bronplaats: S025 IMGS boek p367 / PDF p388 (difterie en tetanus, herhaling om de tien jaar, hepatitis, route, bestemming en lading) en boek p417-419 / PDF p438-440 (internationaal vaccinatiebewijs, gele koorts); S062 dia27-29; de opdracht en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 6 minuten. Leerfunctie: de cursist zoekt actuele vaccinatie-informatie voor een vaargebied en legt de vervolgstap vast.
+
+**Cursistentekst**
+
+Opdracht. Kies een vaargebied waar je schip binnenkort naartoe gaat, of een gebied waar je eerder voer. Zoek in een actuele bron op welke vaccinaties daar verplicht zijn en welke worden aangeraden. Noteer of een land bij aankomst een bewijs van inenting tegen gele koorts eist, en welke andere risico's er zijn, zoals malaria. Kijk ook in je eigen internationale vaccinatiebewijs wanneer je je laatste prik tegen tetanus en difterie kreeg.
+
+Gebruik altijd een actuele bron. Eisen veranderen in de tijd, bijvoorbeeld bij een uitbraak.
+
+Daarna twee situaties uit de voorbereiding van een reis.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K07-10**
+
+Een land op de route eist bij aankomst een bewijs van inenting tegen gele koorts. Een matroos heeft dat niet. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-10-A | Niets; in de haven regelt de agent het wel | Onjuist. Het bewijs moet er bij aankomst zijn. Regel het voor vertrek. |
+| MC-K07-10-B | Vastleggen dat het bewijs ontbreekt, de kapitein informeren en zorgen dat hij voor vertrek wordt ingeënt en het bewijs in zijn internationale vaccinatiebewijs krijgt | Juist. Je legt het vast en regelt de inenting voor vertrek, met een geldig bewijs. |
+| MC-K07-10-C | Hem aan boord inenten met een vaccin uit de medische kist | Onjuist. Inenting tegen gele koorts gebeurt aan wal door een bevoegde instantie, met een officieel bewijs. |
+
+**Kennischeck MC-K07-11**
+
+Een kok kreeg veertien jaar geleden zijn laatste prik tegen tetanus en difterie. Wat leg je vast?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-11-A | Niets; hij is als kind ingeënt en dat is genoeg | Onjuist. De Ships medical guide adviseert volwassenen om de tien jaar een herhalingsprik. |
+| MC-K07-11-B | Dat een herhalingsprik nodig is, en dat die bij de volgende gelegenheid aan wal wordt gegeven | Juist. Na meer dan tien jaar is een herhaling aan te raden. Leg vast wat nodig is en wanneer het geregeld wordt. |
+| MC-K07-11-C | Dat hij pas een prik krijgt als hij een vuile wond oploopt | Onjuist. Na een vuile wond kan een prik op advies van de arts nodig zijn, maar de herhalingsprik regel je vooraf. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Welke actuele bron de cursist gebruikt, staat niet in het bronregister. DRTC bevestigt welke bron in de les wordt genoemd (R147).
+
+TE VERIFIËREN: De feedback bij MC-K07-10-C, dat inenting tegen gele koorts aan wal gebeurt door een bevoegde instantie, is een eigen formulering. Mathanje beoordeelt de antwoorden (R147).
+
+**Verbinding met de praktijkdag**
+
+Geen eigen praktijkstation; de cursist neemt zijn aantekeningen mee naar de praktijkdag voor de bespreking van gezondheidszorg aan boord.
+
+
 ## MC-L07-S08 Een vuile wond en onbekende tetanus
 
 Leerdoelen: MC-25.01. Bronplaats: S064 dia33 (is het slachtoffer ingeënt tegen tetanus?); S066 tabel 1, 7.6.01 en 7.6.02 (RMA); antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -849,6 +898,59 @@ TE VERIFIËREN: De omschrijving van de STCW-functies is een eigen samenvatting.
 **Verbinding met de praktijkdag**
 
 Opzoekopdracht: de cursist bepaalt voor een fictief schip welke kolom van de uitrustingslijst geldt.
+
+## MC-L07-S38 Welke regel, welke gids?
+
+Leerdoelen: MC-27.01; MC-27.02. Bronplaats: S001 tabel A-VI/4-1 en A-VI/4-2, PDF p199-203; S066 artikel 1 en 2, code RMA, tabel 2 II.9.10; de inhoud komt uit MC-L07-S11; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist vindt bij een concrete situatie de toepasselijke regel of gids.
+
+**Cursistentekst**
+
+Je bent op een Nederlands zeeschip verantwoordelijk voor de medische zorg. Bij de voorbereiding van een reis loop je drie vragen na.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K07-12**
+
+Waar staat welke medische uitrusting je schip verplicht aan boord moet hebben?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-12-A | In STCW-tabel A-VI/4-2 | Onjuist. STCW regelt wat de zorgverlener moet kunnen, niet welke uitrusting aan boord is. |
+| MC-K07-12-B | In Bijlage 5 van de Regeling veiligheid zeeschepen, in de kolom die bij het soort schip en het vaargebied hoort | Juist. Bijlage 5 bepaalt de verplichte uitrusting. De kolom hangt af van het soort schip en het vaargebied, en de hoeveelheden gaan omhoog bij meer dan 15 bemanningsleden. |
+| MC-K07-12-C | In het Geneeskundig Handboek voor de Scheepvaart | Onjuist. Het handboek is de gids die aan boord moet zijn, niet de regeling voor de uitrusting. |
+
+**Kennischeck MC-K07-13**
+
+Je schip gaat gevaarlijke stoffen vervoeren. Welke gids moet dan ook aan boord zijn?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-13-A | Alleen het Geneeskundig Handboek voor de Scheepvaart | Onjuist. Bij gevaarlijke stoffen hoort er nog een gids bij. |
+| MC-K07-13-B | De MFAG, naast het Geneeskundig Handboek, in de actuele editie | Juist. Op schepen met gevaarlijke stoffen hoort de MFAG aan boord. Controleer of je de actuele editie hebt. |
+| MC-K07-13-C | Het veiligheidsinformatieblad van de rederij | Onjuist. Veiligheidsinformatiebladen zijn nuttig, maar vervangen de MFAG niet. |
+
+**Kennischeck MC-K07-14**
+
+Een middel in de uitrusting heeft de code RMA. Wat betekent dat voor jou?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-14-A | Dat je het zelf mag geven als je de bijsluiter hebt gelezen | Onjuist. Een middel met code RMA geef je in beginsel alleen op advies van de Radio Medische Dienst of een arts. |
+| MC-K07-14-B | Dat je het in beginsel alleen geeft op advies van de Radio Medische Dienst of een arts | Juist. Leg het advies en de toediening vast in het medisch logboek. |
+| MC-K07-14-C | Dat het middel alleen in de haven mag worden gebruikt | Onjuist. De code zegt iets over wie het advies geeft, niet over waar. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de antwoorden van MC-K07-12 tot en met MC-K07-14 (R147). Voor een schip onder een andere vlag gelden andere regels; dat valt buiten deze kennischeck.
+
+**Verbinding met de praktijkdag**
+
+Geen eigen praktijkstation; toepassing in de bespreking van de medische uitrusting op de praktijkdag.
+
 
 ## MC-L07-S12 De medische uitrusting beheren
 
@@ -1090,7 +1192,7 @@ TE VERIFIËREN: Middel X en hoeveelheid Y zijn bewust plaatshouders; de les noem
 
 ## Bouw en test
 
-Bouw de les met het Rise-bouwboek in de schermvolgorde hierboven. Toon in S10 een eigen nagebouwde, lege versie van de medische kaart met de drie delen, of het origineel als de rechten dat toelaten. Toon in S11 en S12 geen volledige geneesmiddelentabel. MC-K07-01 tot en met MC-K07-09 zijn oefenvragen en tellen niet mee.
+Bouw de les met het Rise-bouwboek in de schermvolgorde hierboven, 38 Rise-secties. Toon in S10 een eigen nagebouwde, lege versie van de medische kaart met de drie delen, of het origineel als de rechten dat toelaten. Toon in S11 en S12 geen volledige geneesmiddelentabel. MC-K07-01 tot en met MC-K07-14 zijn oefenvragen en tellen niet mee.
 
 ## Open punten voor Mathanje en DRTC
 
