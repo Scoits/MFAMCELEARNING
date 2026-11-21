@@ -548,6 +548,26 @@ Wat doe je?
 
 TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback.
 
+## MC-L06-S32 Scenario: de motorman die beestjes ziet
+
+Leerdoelen: MC-18.01; MC-18.02. Bronplaats: zie het script [MC-L06-SL01](../../articulate/storyline/MC-L06-SL01-alcoholonttrekking.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Kevin, een motorman, is gestopt met drinken nu hij aan boord is. Jij volgt hem drie dagen lang. Je herkent wat er gebeurt, overlegt met de arts en zorgt voor hem en voor de anderen.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg, en soms een omweg. Het scenario telt niet mee voor de toets, en je kunt het opnieuw doen.
+
+**Interactie**
+
+Scenario-pakket MC-L06-SL01 in een Rise Code Block met afrondingseis. Script: [MC-L06-SL01](../../articulate/storyline/MC-L06-SL01-alcoholonttrekking.md), bouwlijst: [MC-L06-SL01-bouwlijst.csv](../../articulate/storyline/MC-L06-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R126).
+
 ## MC-L06-S07 Mond en gebit
 
 Leerdoelen: MC-19.01; MC-19.02. Bronplaats: S062 dia93 (kiespijn: spoelen met lauw licht zout water of chloorhexidine, pijnmedicatie), dia94 (ontstoken kies: abces, RMD voor antibiotica, mogelijk aanprikken, pijnbestrijding), dia95 (tandvleesontsteking: chloorhexidine, poetsen, flossen), dia96 (letsel mond en tanden, alleen beeld); S027 LOTUS 13 (tanden door de lip: gaasje, losse tanden naar de tandarts). Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -945,6 +965,26 @@ Wat doe je eerst met het lichaam en de plek?
 | MC-K06-07-A | Je wast het lichaam en kleedt het netjes aan, uit respect voor de overledene | Onjuist. Bij een onverklaarde dood kan onderzoek nodig zijn. Wassen kan sporen vernietigen. Was het lichaam niet zonder advies. |
 | MC-K06-07-B | Je maakt foto's van het lichaam waar het ligt en van de plek, je beschrijft wat je ziet met een getuige erbij en je laat de plek zoveel mogelijk ongemoeid | Juist. Zo blijft vastgelegd hoe de situatie was. Dat is belangrijk voor het onderzoek naar de oorzaak. |
 | MC-K06-07-C | Je ruimt de trap op en maakt hem schoon, zodat niemand anders uitglijdt | Onjuist. Zet de plek af in plaats van op te ruimen. Sporen op de plek kunnen laten zien wat er is gebeurd. |
+
+## MC-L06-S33 Scenario: een collega gevonden
+
+Leerdoelen: MC-22.01; MC-22.02. Bronplaats: zie het script [MC-L06-SL02](../../articulate/storyline/MC-L06-SL02-overlijden-aan-boord.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een collega wordt 's ochtends gevonden onderaan een trap in de machinekamer. Niemand heeft gezien wat er gebeurde. Jij doet wat nodig is, met de arts en de kapitein, en let op de bemanning.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg, en soms een omweg. Het scenario telt niet mee voor de toets, en je kunt het opnieuw doen.
+
+**Interactie**
+
+Scenario-pakket MC-L06-SL02 in een Rise Code Block met afrondingseis. Script: [MC-L06-SL02](../../articulate/storyline/MC-L06-SL02-overlijden-aan-boord.md), bouwlijst: [MC-L06-SL02-bouwlijst.csv](../../articulate/storyline/MC-L06-SL02-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R127).
 
 ## Bouw en test
 

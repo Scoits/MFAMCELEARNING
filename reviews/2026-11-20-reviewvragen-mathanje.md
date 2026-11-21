@@ -340,6 +340,9 @@ Vanaf 21 november 2026 krijgt MC 40 procent en MFA 20 procent van de studietijd 
 | Nr | Scherm | Vraag |
 | --- | --- | --- |
 | R124 | MC-L05-S47 en articulate/storyline/MC-L05-SL01-pijn-op-de-borst.md | Kloppen de casus, de keuzes en de feedback in het scenario pijn op de borst? Is het fictieve advies met zuurstof en een middel onder de tong zonder naam of dosis passend als oefening? Klopt het verloop na de schok met de DRTC-werkwijze? Moet er een versie komen met de afwijkende klachten bij vrouwen? |
+| R125 | MC-L05-S48 en articulate/storyline/MC-L05-SL02-acute-buikpijn.md | Kloppen de casus, de keuzes en de feedback in het scenario buikpijn die erger wordt? Passen de oefenwaarden en het verloop zonder dat ze grenswaarden lijken? Is het fictieve advies passend? Is het juist dat de cursist de verandering meldt zonder zelf te kiezen tussen blindedarmontsteking en buikvliesontsteking? |
+| R126 | MC-L06-S32 en articulate/storyline/MC-L06-SL01-alcoholonttrekking.md | Kloppen de casus, de keuzes en de feedback in het scenario alcoholonttrekking? Is het verloop over drie dagen passend als oefening? Is het fictieve advies passend? Is de combinatie van delirium en een uitspraak over zelfdoding niet te zwaar voor één scenario? |
+| R127 | MC-L06-S33 en articulate/storyline/MC-L06-SL02-overlijden-aan-boord.md | Kloppen de casus, de keuzes en de feedback in het scenario een collega gevonden? Is de volgorde van reanimeren bij twijfel en stoppen in overleg met de arts juist? Kloppen de bewaartermijnen nog met de actuele wet? Maakt de cursist zelf de foto's of de kapitein? |
 
 ## Antwoorden van Martijn op 20 november 2026
 

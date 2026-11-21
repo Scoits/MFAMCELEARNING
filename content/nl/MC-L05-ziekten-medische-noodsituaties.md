@@ -443,6 +443,26 @@ TE VERIFIËREN: Mathanje beoordeelt de casus en de meetwaarden.
 
 In SC-MC-01 meldt de cursist zijn bevindingen in deze volgorde aan de rol van de RMD-arts.
 
+## MC-L05-S48 Scenario: buikpijn die erger wordt
+
+Leerdoelen: MC-09.01; MC-09.02. Bronplaats: zie het script [MC-L05-SL02](../../articulate/storyline/MC-L05-SL02-acute-buikpijn.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Daan, een matroos van 23, heeft sinds gisteravond buikpijn. Het schip is twee dagen varen van de haven. Jij onderzoekt hem, overlegt met de arts en houdt hem in de gaten.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg, en soms een omweg. Het scenario telt niet mee voor de toets, en je kunt het opnieuw doen.
+
+**Interactie**
+
+Scenario-pakket MC-L05-SL02 in een Rise Code Block met afrondingseis. Script: [MC-L05-SL02](../../articulate/storyline/MC-L05-SL02-acute-buikpijn.md), bouwlijst: [MC-L05-SL02-bouwlijst.csv](../../articulate/storyline/MC-L05-SL02-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R125).
+
 ## MC-L05-S05 Pijn op de borst
 
 Leerdoelen: MC-14.01. Bronplaats: S062 dia49 (pijn op de borst: hartinfarct, hartritmestoornis, angina pectoris, gekneusde ribben), dia51 (angina pectoris tegenover hartinfarct), dia53 (wat moet je doen: pols en bloeddruk, spoedoverleg RMD, in overleg evt. middel onder de tong, in de gaten houden, zuurstof, verder beleid i.o.m. RMD-arts, bij hartstilstand reanimatie), dia54 (hartinfarct bij vrouwen, alleen titel); S027 LOTUS 10 hartinfarct (misselijk, pijn bovenbuik, bleek, moeite met ademen; AED klaarleggen; zitten). Media: MC-L05-M02. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
