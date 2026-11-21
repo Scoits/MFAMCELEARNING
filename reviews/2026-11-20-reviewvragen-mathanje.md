@@ -350,6 +350,7 @@ Vanaf 21 november 2026 krijgt MC 40 procent en MFA 20 procent van de studietijd 
 | R132 | MC-L02-S36 en articulate/storyline/MC-L02-SL01-val-in-het-ruim.md | Kloppen de casus, de oefenwaarden, de keuzes en de feedback in het scenario val in het ruim? Past het dat de benen bij shock niet omhoog gaan wegens bekken- en wervelletsel? Hoort zuurstof in de juiste keuze (R38)? |
 | R133 | MC-L03-S13 en articulate/storyline/MC-L03-SL01-de-wond-in-de-onderarm.md | Kloppen de casus, de keuzes en de feedback in het scenario de wond in de onderarm? Eerst hechtingen verwijderen of eerst overleggen bij ontsteking? Is de dagelijkse controle juist? |
 | R134 | MC-L04-S28 en articulate/storyline/MC-L04-SL02-een-week-in-de-ziekenboeg.md | Kloppen de casus, de keuzes en de feedback in het scenario een week in de ziekenboeg? Past de fictieve injectie onder de huid? Hoe draai je een patiënt met een gespalkt been? Blijft het originele dossier aan boord? |
+| R135 | MC-L08-S26 en articulate/storyline/MC-L08-SL02-overdracht-in-de-haven.md | Kloppen de casus, de keuzes en de feedback in het scenario overdracht in de haven? Klopt het vooraf melden via kapitein, agent en havenautoriteit (R85)? Is de brief apart van de medische kaart? |
 
 ## Antwoorden van Martijn op 20 november 2026
 

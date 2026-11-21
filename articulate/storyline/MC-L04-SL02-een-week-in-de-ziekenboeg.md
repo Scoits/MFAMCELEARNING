@@ -10,7 +10,7 @@ Volgens de afspraken wordt dit scenario een HTML-pakket voor een Code Block in R
 | --- | --- |
 | Leerdoelen | MC-12.01: observaties doen en vastleggen in een zorgperiode. MC-12.02: observaties vergelijken en bepalen wanneer de arts terugkoppeling nodig heeft. MC-13.01: eenvoudige verpleegkundige zorg plannen. MC-13.02: een injectie op advies voorbereiden en geven |
 | Duur | Kortste volledige pad volgens `tools/studietijd.py`; met omwegen langer |
-| Bronnen | MC-L04-S12 (de ziekenboeg klaarmaken, uitkleden bij beenletsel); S13 (dossier en medicatielijst); S14 (iedere dag in de ziekenboeg, aflossing); S15 (doorliggen voorkomen); S16 (wassen en het bed verschonen); S17 (benauwd in bed); S04 (verandering herkennen en melden); S23 (medicijnen veilig geven); S24 (het schema over de dag verdelen); S07 (een injectie geven in stappen); MC-L01-S12 (kopie van de medische gegevens bij vertrek); S025 IMGS, S017 GH2, S063 en S049, zie de bronverwijzingen bij die schermen |
+| Bronnen | MC-L04-S12 (de ziekenboeg klaarmaken, uitkleden bij beenletsel); S13 (dossier en medicatielijst); S14 (iedere dag in de ziekenboeg, aflossing); S15 (doorliggen voorkomen); S16 (wassen en het bed verschonen); S17 (benauwd in bed); S04 (verandering herkennen en melden); S23 (medicijnen veilig geven); S24 (het schema over de dag verdelen); S07 (een injectie geven in stappen); MC-L08-S12 en S23 (overdracht in de haven en de brief die meegaat); S025 IMGS, S017 GH2, S063 en S049, zie de bronverwijzingen bij die schermen |
 | Afronding | Bereiken van het scherm Debriefing. Het pakket meldt dan aan Rise dat het is voltooid |
 | Variabelen | `Punten` (0 tot 10, één punt per hoofdscherm met een keuze, alleen bij de eerste poging), `Omweg` |
 | Personages | Jij, de opvarende met Medical Care; Henk, eerste machinist, 54 jaar, fictief; Fatima, derde stuurman, fictief; de kapitein; de arts van de Radio Medische Dienst (alleen als tekst) |
@@ -141,8 +141,8 @@ Vraag: wat geef je mee?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Niets; het ziekenhuis onderzoekt hem toch opnieuw. | Scherm 10 opnieuw | Niet goed. Het verloop aan boord is belangrijk voor het ziekenhuis. De patiënt krijgt een kopie van zijn medische gegevens mee. | 0 |
-| B. Een kopie van zijn dossier en medicatielijst, met de adviezen van de arts, alle metingen met de tijd, de gegeven middelen en de rode plek op de hiel. Het origineel blijft aan boord. | Debriefing | Goed. Met de kopie weet de volgende zorgverlener wat er is gebeurd. Het dossier aan boord bewaar je. | 1 |
-| C. Het originele dossier, zodat het ziekenhuis alles heeft. | Scherm 10 opnieuw | Niet goed. Het dossier blijft aan boord; het is verplicht en laat zien welke zorg je hebt gegeven. Henk krijgt een kopie mee. | 0 |
+| B. De ingevulde medische kaart of een brief met het letsel, de metingen met de tijd, alles wat hij kreeg met tijd en hoeveelheid, de adviezen van de arts en de rode plek op de hiel. Daarbij het evaluatieformulier, de logboekregels, zijn documenten en zijn eigen medicijnen. Een kopie bewaar je in het dossier aan boord. | Debriefing | Goed. De arts aan de wal kent Henk niet. Met deze gegevens weet hij wat er aan boord is gebeurd. Het dossier aan boord bewaar je. | 1 |
+| C. Alleen een mondelinge overdracht aan de ambulance. | Scherm 10 opnieuw | Te weinig. Geef altijd een kaart of brief mee. Een vreemde arts moet het zonder uitleg kunnen begrijpen, ook in een andere taal. | 0 |
 
 ### Debriefing
 
@@ -165,6 +165,6 @@ Knop: "Opnieuw" (zet de variabelen terug en begint bij de situatie). Het pakket 
 - Het advies "middel A onder de huid" is fictief en noemt geen middel. Is een injectie onder de huid in deze casus een passende oefening, of kiest Mathanje een ander voorbeeld?
 - Hoe draai je een patiënt met een gespalkt onderbeen veilig? Het scenario laat de cursist dit aan de arts vragen.
 - Benauwdheid bij een bedlegerige patiënt met een beenbreuk kan om meer vragen dan direct melden. Is de juiste keuze in scherm 8 volledig?
-- Klopt het dat het origineel van het dossier aan boord blijft en de patiënt een kopie meekrijgt, volgens de afspraken van DRTC en de rederij?
+- Sluit de overdracht in scherm 10 aan bij MC-L08-S12 en S23 en bij de afspraken van DRTC over de medische kaart en de brief (R85)?
 
 Reviewvraag: R134.

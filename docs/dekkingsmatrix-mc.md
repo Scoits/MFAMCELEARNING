@@ -6,51 +6,51 @@ De matrix laat per leerdoel zien welke STCW-competentie en welk kennisgebied het
 
 ## Stand
 
-- 68 leerdoelen, samen 395 geplande minuten in de lessen. Inleidende en afsluitende schermen zonder leerdoel tellen hier niet mee, wel in `tools/studietijd.py`.
+- 68 leerdoelen, samen 487 geplande minuten in de lessen. Inleidende en afsluitende schermen zonder leerdoel tellen hier niet mee, wel in `tools/studietijd.py`.
 - Medische vrijgave: geen enkel leerdoel is vrijgegeven. Mathanje keurt per lesversie.
 
 Gesignaleerde gaten:
 
-- alleen uitleg, geen activiteit: 21 leerdoelen
-- geen online oefening met feedback: 21 leerdoelen
+- alleen uitleg, geen activiteit: 14 leerdoelen
+- geen online oefening met feedback: 14 leerdoelen
 
 ## Per leerdoel
 
 | Leerdoel | Kennisgebied | Les en schermen | Activiteiten | Minuten | Eindtoets | Gat |
 | --- | --- | --- | --- | --- | --- | --- |
-| MC-01.01 | Zorg slachtoffers .1 | MC-L02 v0.2: 7 schermen | kennischeck 1; uitleg 6 | 7.3 | MC-T2 | geen |
-| MC-01.02 | Zorg slachtoffers .1 | MC-L02 v0.2: 4 schermen | kennischeck 1; uitleg 3 | 3.4 | MC-T2 | geen |
+| MC-01.01 | Zorg slachtoffers .1 | MC-L02 v0.2: 8 schermen | kennischeck 1; uitleg 6; vertakt scenario 1 | 10.3 | MC-T2 | geen |
+| MC-01.02 | Zorg slachtoffers .1 | MC-L02 v0.2: 5 schermen | kennischeck 1; uitleg 3; vertakt scenario 1 | 6.4 | MC-T2 | geen |
 | MC-02.01 | Zorg slachtoffers .2 | MC-L02 v0.2: 7 schermen | kennischeck 1; uitleg 6 | 6.3 | MC-T2 | geen |
 | MC-02.02 | Zorg slachtoffers .2 | MC-L02 v0.2: 4 schermen | uitleg 4 | 2.5 | MC-T2 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-03.01 | Zorg slachtoffers .3 | MC-L02 v0.2: 10 schermen | kennischeck 2; uitleg 8 | 8.8 | MC-T2 | geen |
+| MC-03.01 | Zorg slachtoffers .3 | MC-L02 v0.2: 11 schermen | kennischeck 2; uitleg 8; vertakt scenario 1 | 11.8 | MC-T2 | geen |
 | MC-03.02 | Zorg slachtoffers .3 | MC-L02 v0.2: 4 schermen | uitleg 4 | 2.6 | MC-T2 | alleen uitleg, geen activiteit; geen online oefening met feedback |
 | MC-04.01 | Zorg slachtoffers .4 | MC-L02 v0.2: 2 schermen | uitleg 2 | 2.1 | MC-T2 | alleen uitleg, geen activiteit; geen online oefening met feedback |
 | MC-04.02 | Zorg slachtoffers .4 | MC-L02 v0.2: 2 schermen | uitleg 2 | 1.9 | MC-T2 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-05.01 | Zorg slachtoffers .5 | MC-L02 v0.2: 7 schermen | kennischeck 2; uitleg 5 | 6.9 | MC-T2 | geen |
-| MC-05.02 | Zorg slachtoffers .5 | MC-L02 v0.2: 3 schermen | uitleg 3 | 1.6 | MC-T2 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-06.01 | Zorg slachtoffers .6 | MC-L03 v0.1: 2 schermen | uitleg 2 | 1.4 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-06.02 | Zorg slachtoffers .6 | MC-L03 v0.1: 3 schermen | kennischeck 1; uitleg 2 | 2.0 | MC-T3 | geen |
+| MC-05.01 | Zorg slachtoffers .5 | MC-L02 v0.2: 8 schermen | kennischeck 2; uitleg 5; vertakt scenario 1 | 9.9 | MC-T2 | geen |
+| MC-05.02 | Zorg slachtoffers .5 | MC-L02 v0.2: 4 schermen | uitleg 3; vertakt scenario 1 | 4.7 | MC-T2 | geen |
+| MC-06.01 | Zorg slachtoffers .6 | MC-L03 v0.1: 3 schermen | uitleg 2; vertakt scenario 1 | 3.4 | MC-T3 | geen |
+| MC-06.02 | Zorg slachtoffers .6 | MC-L03 v0.1: 4 schermen | kennischeck 1; uitleg 2; vertakt scenario 1 | 4.0 | MC-T3 | geen |
 | MC-07.01 | Zorg slachtoffers .7 | MC-L03 v0.1: 1 schermen | uitleg 1 | 0.4 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-07.02 | Zorg slachtoffers .7 | MC-L03 v0.1: 2 schermen | kennischeck 1; uitleg 1 | 1.7 | MC-T3 | geen |
-| MC-08.01 | Zorg slachtoffers .8 | MC-L03 v0.1: 2 schermen | kennischeck 1; uitleg 1 | 2.0 | MC-T3 | geen |
+| MC-07.02 | Zorg slachtoffers .7 | MC-L03 v0.1: 3 schermen | kennischeck 1; uitleg 1; vertakt scenario 1 | 3.7 | MC-T3 | geen |
+| MC-08.01 | Zorg slachtoffers .8 | MC-L03 v0.1: 3 schermen | kennischeck 1; uitleg 1; vertakt scenario 1 | 3.9 | MC-T3 | geen |
 | MC-08.02 | Zorg slachtoffers .8 | MC-L03 v0.1: 1 schermen | uitleg 1 | 0.5 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
 | MC-09.01 | Zorg slachtoffers .9 | MC-L05 v0.2: 14 schermen | kennischeck 5; uitleg 8; vertakt scenario 1 | 20.6 | MC-T5 | geen |
 | MC-09.02 | Zorg slachtoffers .9 | MC-L05 v0.2: 9 schermen | kennischeck 4; uitleg 4; vertakt scenario 1 | 13.5 | MC-T5 | geen |
-| MC-10.01 | Zorg slachtoffers .10 | MC-L03 v0.1: 1 schermen | uitleg 1 | 0.4 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-10.02 | Zorg slachtoffers .10 | MC-L03 v0.1: 2 schermen | uitleg 2 | 0.7 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
+| MC-10.01 | Zorg slachtoffers .10 | MC-L03 v0.1: 2 schermen | uitleg 1; vertakt scenario 1 | 2.4 | MC-T3 | geen |
+| MC-10.02 | Zorg slachtoffers .10 | MC-L03 v0.1: 3 schermen | uitleg 2; vertakt scenario 1 | 2.7 | MC-T3 | geen |
 | MC-11.01 | Zorg slachtoffers .11 | MC-L03 v0.1: 1 schermen | uitleg 1 | 0.3 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-11.02 | Zorg slachtoffers .11 | MC-L03 v0.1: 1 schermen | uitleg 1 | 0.3 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-12.01 | Verpleging .1 | MC-L04 v0.2: 8 schermen | kennischeck 1; uitleg 6; vertakt scenario 1 | 8.5 | MC-T4 | geen |
-| MC-12.02 | Verpleging .1 | MC-L04 v0.2: 3 schermen | kennischeck 1; uitleg 1; vertakt scenario 1 | 5.4 | MC-T4 | geen |
-| MC-13.01 | Verpleging .2 | MC-L04 v0.2: 15 schermen | kennischeck 2; uitleg 12; vertakt scenario 1 | 16.1 | MC-T4 | geen |
-| MC-13.02 | Verpleging .2 | MC-L04 v0.2: 9 schermen | kennischeck 3; uitleg 6 | 10.2 | MC-T4 | geen |
+| MC-11.02 | Zorg slachtoffers .11 | MC-L03 v0.1: 2 schermen | uitleg 1; vertakt scenario 1 | 2.3 | MC-T3 | geen |
+| MC-12.01 | Verpleging .1 | MC-L04 v0.2: 9 schermen | kennischeck 1; uitleg 6; vertakt scenario 2 | 12.6 | MC-T4 | geen |
+| MC-12.02 | Verpleging .1 | MC-L04 v0.2: 4 schermen | kennischeck 1; uitleg 1; vertakt scenario 2 | 9.5 | MC-T4 | geen |
+| MC-13.01 | Verpleging .2 | MC-L04 v0.2: 16 schermen | kennischeck 2; uitleg 12; vertakt scenario 2 | 20.2 | MC-T4 | geen |
+| MC-13.02 | Verpleging .2 | MC-L04 v0.2: 10 schermen | kennischeck 3; uitleg 6; vertakt scenario 1 | 14.3 | MC-T4 | geen |
 | MC-14.01 | Ziekten .1 | MC-L05 v0.2: 14 schermen | kennischeck 2; uitleg 11; vertakt scenario 1 | 22.8 | MC-T5 | geen |
 | MC-14.02 | Ziekten .1 | MC-L05 v0.2: 2 schermen | uitleg 1; vertakt scenario 1 | 9.6 | MC-T5 | geen |
 | MC-15.01 | Ziekten .2 | MC-L05 v0.2: 3 schermen | kennischeck 1; uitleg 2 | 2.2 | MC-T5 | geen |
 | MC-15.02 | Ziekten .2 | MC-L05 v0.2: 4 schermen | kennischeck 2; uitleg 2 | 2.8 | MC-T5 | geen |
-| MC-16.01 | Ziekten .3 tropische ziekten | MC-L05 v0.2: 4 schermen | kennischeck 1; uitleg 3 | 3.3 | MC-T5 | geen |
-| MC-16.02 | Ziekten .3 tropische ziekten | MC-L05 v0.2: 3 schermen | kennischeck 1; uitleg 2 | 2.3 | MC-T5 | geen |
-| MC-17.01 | Ziekten .3 infectieziekten | MC-L05 v0.2: 10 schermen | kennischeck 4; uitleg 6 | 9.0 | MC-T5 | geen |
+| MC-16.01 | Ziekten .3 tropische ziekten | MC-L05 v0.2: 5 schermen | kennischeck 1; uitleg 3; vertakt scenario 1 | 8.2 | MC-T5 | geen |
+| MC-16.02 | Ziekten .3 tropische ziekten | MC-L05 v0.2: 4 schermen | kennischeck 1; uitleg 2; vertakt scenario 1 | 7.2 | MC-T5 | geen |
+| MC-17.01 | Ziekten .3 infectieziekten | MC-L05 v0.2: 11 schermen | kennischeck 4; uitleg 6; vertakt scenario 1 | 13.9 | MC-T5 | geen |
 | MC-17.02 | Ziekten .3 infectieziekten | MC-L05 v0.2: 6 schermen | kennischeck 2; uitleg 4 | 4.1 | MC-T5 | geen |
 | MC-18.01 | Alcohol en drugs | MC-L06 v0.2: 12 schermen | kennischeck 2; uitleg 9; vertakt scenario 1 | 15.8 | MC-T6 | geen |
 | MC-18.02 | Alcohol en drugs | MC-L06 v0.2: 15 schermen | kennischeck 2; uitleg 12; vertakt scenario 1 | 19.8 | MC-T6 | geen |
@@ -76,15 +76,15 @@ Gesignaleerde gaten:
 | MC-28.02 | Externe hulp .1 | MC-L08 v0.2: 3 schermen | kennischeck 1; uitleg 2 | 2.6 | MC-T9 | geen |
 | MC-29.01 | Externe hulp .2 | MC-L08 v0.2: 4 schermen | uitleg 3; vertakt scenario 1 | 5.3 | MC-T9 | geen |
 | MC-29.02 | Externe hulp .2 | MC-L08 v0.2: 9 schermen | kennischeck 2; uitleg 6; vertakt scenario 1 | 10.2 | MC-T9 | geen |
-| MC-30.01 | Externe hulp .3 | MC-L08 v0.2: 2 schermen | uitleg 2 | 1.2 | MC-T9 | alleen uitleg, geen activiteit; geen online oefening met feedback |
-| MC-30.02 | Externe hulp .3 | MC-L08 v0.2: 3 schermen | kennischeck 1; uitleg 2 | 2.6 | MC-T9 | geen |
+| MC-30.01 | Externe hulp .3 | MC-L08 v0.2: 3 schermen | uitleg 2; vertakt scenario 1 | 8.0 | MC-T9 | geen |
+| MC-30.02 | Externe hulp .3 | MC-L08 v0.2: 4 schermen | kennischeck 1; uitleg 2; vertakt scenario 1 | 9.4 | MC-T9 | geen |
 | MC-31.01 | Externe hulp overkoepelend | MC-L08 v0.2: 6 schermen | uitleg 5; vertakt scenario 1 | 5.6 | MC-T9 | geen |
 | MC-31.02 | Externe hulp overkoepelend | MC-L08 v0.2: 2 schermen | uitleg 1; vertakt scenario 1 | 3.4 | MC-T9 | geen |
 | MC-32.01 | Voorwaardelijke herhaling over meerdere C1-onderdelen | MC-L00 v0.1: 7 schermen | kennischeck 3; uitleg 4 | 6.5 | MC-T1 | geen |
-| MC-32.02 | Voorwaardelijke herhaling over meerdere C1-onderdelen | MC-L01 v0.2: 27 schermen | gelabelde afbeelding 1; kennischeck 7; uitleg 19 | 33.8 | MC-T1 | geen |
+| MC-32.02 | Voorwaardelijke herhaling over meerdere C1-onderdelen | MC-L01 v0.2: 28 schermen | gelabelde afbeelding 1; kennischeck 7; uitleg 19; vertakt scenario 1 | 49.6 | MC-T1 | geen |
 | MC-33.01 | Ondersteunt verpleging .2 en medicatiecriterium | MC-L07 v0.2: 6 schermen | kennischeck 2; uitleg 3; vertakt scenario 1 | 8.3 | MC-T8 | geen |
 | MC-33.02 | Ondersteunt verpleging .2 en medicatiecriterium | MC-L07 v0.2: 3 schermen | uitleg 2; vertakt scenario 1 | 5.2 | MC-T8 | geen |
-| MC-34.01 | Ondersteunt zorg slachtoffers .10 en infectiecriterium | MC-L03 v0.1: 1 schermen | uitleg 1 | 0.4 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
+| MC-34.01 | Ondersteunt zorg slachtoffers .10 en infectiecriterium | MC-L03 v0.1: 2 schermen | uitleg 1; vertakt scenario 1 | 2.4 | MC-T3 | geen |
 | MC-34.02 | Ondersteunt zorg slachtoffers .10 en infectiecriterium | MC-L03 v0.1: 2 schermen | uitleg 2 | 0.9 | MC-T3 | alleen uitleg, geen activiteit; geen online oefening met feedback |
 
 ## Zelfstandig en gecombineerd volgen

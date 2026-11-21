@@ -24,7 +24,7 @@ Ieder scenario hoort bij leerdoelen uit de [dekkingsmatrix](dekkingsmatrix-mc.md
 | MC-L06-SL02 Overlijden aan boord | MC-L06 | MC-22 | Wat je doet na een overlijden, met de kapitein en de arts | Script klaar | ongeveer 13 |
 | MC-L07-SL01 Diarree aan boord | MC-L07 | MC-23, MC-24 | Meerdere zieken: uitbraak beperken | Script klaar | ongeveer 14 |
 | MC-L07-SL02 De medicijnkist en het logboek | MC-L07 | MC-26, MC-33 | Inspectie met fouten, vastleggen | Script klaar | ongeveer 13 |
-| MC-L08-SL02 Overdracht in de haven | MC-L08 | MC-30 | Zieke zeevarende overdragen aan de havenarts | Te schrijven | ongeveer 13 |
+| MC-L08-SL02 Overdracht in de haven | MC-L08 | MC-30 | Zieke zeevarende overdragen aan de havenarts | Script klaar | ongeveer 13 |
 | | | | | **Samen** | **ongeveer 200** |
 
 ## MFA
