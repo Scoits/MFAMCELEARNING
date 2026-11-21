@@ -38,7 +38,7 @@ STCW-kolommen: competentie C1 zorg voor zieken en gewonden aan boord (kolom 1); 
 
 Bronstatus: alle genoemde dia's zijn als tekst gelezen. Veel MC-dia's over oog en oor (S062 dia77, 83, 85) en de MFA-dia's over wervelletsel (S045 dia20, 22) bestaan alleen uit beeld; daar ontbreekt broninhoud. Neusbloeding en letsel aan de keel komen in de gelezen DRTC-dia's niet voor (BC-33). S062 dia90 noemt bij chemisch oogletsel minimaal 15 minuten spoelen; dat beantwoordt R37 voor MC, niet automatisch voor MFA (BC-34).
 
-De schermrecords staan in [MC-L02-schermreview.csv](../../reviews/MC-L02-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S02, S14, S15, S16, S17, S03, S18, S04, S05, S19, S20, S21, S06, S07, S22, S08, S23, S09, S24, S10, S25, S26, S27, S28, S29, S11, S30, S31, S12, S32, S33, S34, S13, S35.
+De schermrecords staan in [MC-L02-schermreview.csv](../../reviews/MC-L02-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S02, S14, S15, S16, S17, S03, S18, S04, S05, S19, S20, S21, S06, S07, S22, S08, S23, S09, S24, S10, S36, S25, S26, S27, S28, S29, S11, S30, S31, S12, S32, S33, S34, S13, S35.
 
 ## MC-L02-S01 Na de eerste hulp
 
@@ -659,6 +659,24 @@ Wat is je conclusie en wat doe je?
 **Te verifiëren door Mathanje of DRTC**
 
 TE VERIFIËREN: Mathanje beoordeelt de casus, de fictieve waarden en de feedback.
+
+## MC-L02-S36 Scenario: val in het ruim
+
+Leerdoelen: MC-01.01; MC-01.02; MC-03.01; MC-05.01; MC-05.02. Bronplaats: zie het script [MC-L02-SL01](../../articulate/storyline/MC-L02-SL01-val-in-het-ruim.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een matroos is in het ruim gevallen, van ongeveer vijf meter. Jij gaat naar hem toe, beschermt nek en bekken, brengt hem naar de ziekenboeg en bewaakt hem tot de helikopter er is.
+
+**Interactie**
+
+Scenario-pakket MC-L02-SL01 in een Rise Code Block met afrondingseis. Script: [MC-L02-SL01](../../articulate/storyline/MC-L02-SL01-val-in-het-ruim.md), bouwlijst: [MC-L02-SL01-bouwlijst.csv](../../articulate/storyline/MC-L02-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R132).
 
 ## MC-L02-S25 Een klap op de buik: zoeken naar verborgen letsel
 

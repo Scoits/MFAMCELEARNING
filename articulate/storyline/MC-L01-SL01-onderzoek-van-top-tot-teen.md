@@ -1,6 +1,6 @@
 # MC-L01-SL01 Onderzoek van top tot teen
 
-Vertakt scenario bij MC-L01 Onderzoek van de patiënt. Versie 0.1, 21 november 2026. Concept: deze les is nog niet medisch goedgekeurd. De medisch deskundige van DRTC beoordeelt de inhoud voordat cursisten de les volgen. De casus is fictief.
+Vertakt scenario bij MC-L01 Aanvullend onderzoek. Versie 0.1, 21 november 2026. Concept: deze les is nog niet medisch goedgekeurd. De medisch deskundige van DRTC beoordeelt de inhoud voordat cursisten de les volgen. De casus is fictief.
 
 Volgens de afspraken wordt dit scenario een HTML-pakket voor een Code Block in Rise. Storyline is secundair gereedschap.
 

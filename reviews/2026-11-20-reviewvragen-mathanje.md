@@ -347,6 +347,7 @@ Vanaf 21 november 2026 krijgt MC 40 procent en MFA 20 procent van de studietijd 
 | R129 | MC-L07-S36 en articulate/storyline/MC-L07-SL02-de-kluis-en-het-logboek.md | Kloppen de casus, de keuzes en de feedback in het scenario de controle voor de inspectie? Is één ampul te veel in het register een goed oefenvoorbeeld? Klopt de werkwijze bij inleveren van vervallen middelen met de afspraken van DRTC? |
 | R130 | MC-L05-S49 en articulate/storyline/MC-L05-SL03-koorts-na-de-haven.md | Kloppen de casus, de oefenwaarden, het fictieve advies, de keuzes en de feedback in het scenario koorts na de haven? Moet de vraag naar malariatabletten erin? Hoort een sneltest erbij (R47)? |
 | R131 | MC-L01-S28 en articulate/storyline/MC-L01-SL01-onderzoek-van-top-tot-teen.md | Kloppen de casus, de bevindingen, de oefenwaarden, de keuzes en de feedback in het scenario onderzoek van top tot teen? Is de rapportage aan de arts volledig? |
+| R132 | MC-L02-S36 en articulate/storyline/MC-L02-SL01-val-in-het-ruim.md | Kloppen de casus, de oefenwaarden, de keuzes en de feedback in het scenario val in het ruim? Past het dat de benen bij shock niet omhoog gaan wegens bekken- en wervelletsel? Hoort zuurstof in de juiste keuze (R38)? |
 
 ## Antwoorden van Martijn op 20 november 2026
 
