@@ -236,6 +236,16 @@ Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 1 tot en met 15
 | R100 | MC-L05-S41 tot en met S45 | Welke gegevens uit GH2 (2013) moeten worden geactualiseerd: incubatie- en isolatietijden bij quarantaineziekten, de tetanustermijnen van 3 en 15 jaar, de beschrijving van hiv als ongeneeslijk en het advies over malariatabletten? Welke actuele bron gebruikt de les? |
 | R101 | MC-L05-S46 | Kloppen de eerste handelingen na een prikaccident (laten doorbloeden, spoelen, ontsmetten, direct contact met de arts), en noemt de les de mogelijkheid van een spoedbehandeling? |
 
+## Aanvulling bij MFA-L04 versie 0.4
+
+Versie 0.4 breidt de les uit met uitleg uit GH1 (S016) hoofdstuk 3, 4, 6, 7 en 9. Handelingen en middelen uit GH1 die buiten de rol van de MFA-hulpverlener lijken te vallen, zijn niet overgenomen. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R102 | MFA-L04-S23, S29, S31, S44 | GH1 beschrijft de naaldpriktest bij brandwonden, het openen van blaren, een brandwondencrème, kortsluiting maken om de stroom te stoppen, het dichtdrukken van slagaders aan het hoofd en het zelf terugplaatsen van een tand. Welke van deze handelingen horen in MFA? |
+| R103 | MFA-L04-S35 en S36 | Klopt de behandeling van een onderkoeld slachtoffer zonder ademhaling: na minder dan een uur in de kou direct reanimeren, na langer dan een uur eerst voorzichtig inpakken en de RMD raadplegen? Sluit dit aan bij de actuele reanimatierichtlijn en S043? |
+| R104 | MFA-L04-S43 en S46 | Hoe vaak controleert de MFA-hulpverlener het bewustzijn in de eerste 24 uur na hoofdletsel, en met welke schaal (zie ook R18 tot en met R21)? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |
