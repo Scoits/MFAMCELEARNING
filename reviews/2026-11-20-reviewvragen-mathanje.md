@@ -291,6 +291,15 @@ Versie 0.2 breidt de les uit met uitleg uit de Ships medical guide (S025) hoofds
 | R113 | MC-L02-S15, S18 en S24 | Neemt MC het bewakingsschema na hoofdletsel uit de Ships medical guide over (GCS na 30 minuten en twee uur, daarna iedere 2 tot 3 uur gedurende 24 uur)? Mag de MC-zorgverlener zelf een nekletsel uitsluiten en de kraag afnemen, en volgt hij bij shock door bloedverlies eerst de behandeling en dan het medisch advies, zoals de Ships medical guide zegt? |
 | R114 | MC-L02-S28 en S30 | Hoort de ontlastende naaldpunctie bij een spanningsklaplong in MC, hoe wordt een open borstwond afgedekt (luchtdicht volgens de Ships medical guide of volgens de huidige richtlijn) en in welke houding ligt de patiënt? Gebruikt MC de grenzen van 15, 10 en 2 procent om te bepalen of een brandwond aan boord wordt behandeld? |
 
+## Aanvulling bij MC-L01 versie 0.2
+
+Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 20 en de Ships medical guide (S025) hoofdstuk 12 en 26. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R115 | MC-L01-S12 en S13 | Sluit de uitleg over toestemming en geheimhouding uit de Ships medical guide aan bij de Nederlandse regels voor zorg aan boord? Wat mag de MC-zorgverlener aan de kapitein en de rederij doorgeven? |
+| R116 | MC-L01-S18, S20 en S22 | Welke normaalwaarden en grenzen gebruikt MC voor bloeddruk (GH2 noemt 130/80 en 120/80) en temperatuur (GH2 tot 37,5 normaal, Ships medical guide 36,3 tot 37,2)? Voert de MC-zorgverlener de test op nekstijfheid en het kloppen op de nierloge uit? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

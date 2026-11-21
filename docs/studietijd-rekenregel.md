@@ -55,7 +55,7 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 | MFA-L07 | 36 | 15 | Storyline-scenario volgt |
 | MFA-L08 | 60 | 8 | 50 minuten toetsreservering |
 | MC-L00 | 15 | 10 | |
-| MC-L01 | 40 | 15 | |
+| MC-L01 | 40 | 59 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 20 en S025 hoofdstuk 12 en 26 |
 | MC-L02 | 50 | 73 | Uitgewerkt in versie 0.2 met S025 hoofdstuk 2, 4 tot en met 7 en 9 |
 | MC-L03 | 40 | 17 | |
 | MC-L04 | 40 | 16 | Storyline-scenario volgt |

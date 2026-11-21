@@ -239,7 +239,8 @@ def verdeel(schermen, doel):
         huidig.append(s)
         minuten += float(s["minutes_estimate"] or 0)
     if huidig:
-        if delen and (minuten < doel / 2 or len(huidig) < 3):
+        vorige = sum(float(s["minutes_estimate"] or 0) for s in delen[-1]) if delen else 0
+        if delen and (minuten < doel / 2 or (len(huidig) < 3 and vorige + minuten <= 1.6 * doel)):
             delen[-1].extend(huidig)
         else:
             delen.append(huidig)
