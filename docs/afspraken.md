@@ -50,6 +50,14 @@ Bijgewerkt: 21 november 2026. Versie 2.0 verwerkt de reviews van ChatGPT, Gemini
 - De proef toetst ook drie risico's: (a) blijft de Continue-knop echt geblokkeerd tot het scenario is afgerond, want anders telt het scenario niet mee voor de studietijd; (b) werkt het op een iPhone en een Android-telefoon in Moodle, zonder dubbele scrollbalken of afgesneden knoppen; (c) vertaling: tekst in een codepakket gaat niet mee in de XLIFF-export van Rise, dus alle tekst staat in een apart taalbestand per pakket (nl en en).
 - Valt de proef tegen, dan worden de scenario's Rise Scenario-blokken of Storyline-blokken.
 
+
+Aanvulling 21 november avond (Martijn):
+- Storyline mag met AI gebouwd worden. De AI Assistant in Storyline (Beta) kan dia's en scenes toevoegen, tekst schrijven en animaties programmeren. Martijn zit dan zelf aan de knoppen op zijn Windows-pc; Claude levert per scenario de prompts en het script.
+- Vergelijking loopt met MC-L04-SL01 (nachtpatient): codepakket voor Rise met meer animatie tegenover een promptset voor de Storyline-assistent. De route met het mooiste resultaat voor de minste moeite wordt de methode voor alle scenario's.
+- Animatie en afwerking horen erbij, op het niveau van Martijns Skippy-app. Ingetogen, DRTC-stijl, werkt op mobiel, en uit te zetten voor wie minder beweging wil.
+- Welkomstanimatie: elke cursus begint met een geanimeerd welkom bij de e-learningomgeving van DRTC, met uitleg wat het is en hoe het werkt. Algemeen DRTC-deel herbruikbaar, plus een deel per cursus. Het DRTC-logo ontbreekt nog.
+- Stand 21 november: 18 nieuwe scenarioscripts (12 MC, 6 MFA), rijke interactie MFA 101 en MC 206 minuten; studietijd MC 491, MFA 377 minuten (MFA mist nog 103).
+
 ## 5. Bouwen in Rise
 - Create with AI (AI Course Draft) is een experiment tot MFA les 1 is gebouwd. Bij Security Awareness gaf het het aantrekkelijkste resultaat, maar medische inhoud brengt een nieuw risico mee.
 - In MFA les 1 vergelijken we route A (goedgekeurde brontekst, Create with AI, broncontrole, correcties) met route B (goedgekeurde brontekst direct in block templates, controle). We meten bouwtijd, correctietijd, aantal inhoudelijke en medische afwijkingen, kwaliteit van de interacties en handmatig herstel. De winnaar wordt de productiemethode.
@@ -77,6 +85,9 @@ Bijgewerkt: 21 november 2026. Versie 2.0 verwerkt de reviews van ChatGPT, Gemini
 - Video telt met de echte duur. In dezelfde sessie als de foto's neemt de instructeur korte video's op van de medische kist, het vlotpakket, de zuurstofkoffer en de praktijkhandelingen. Wij leveren een draaiboek met shotlijst.
 - Het tekort in studietijd wordt vooraf grof gepland per les: hoeveel minuten video, casus, scenario en doe-opdracht, vóór we bouwen.
 - Foto's van de medische kist, het vlotpakket en de zuurstofkoffer ontbreken nog. Een instructeur van DRTC maakt die foto's (Martijn akkoord, 21 november). Wij leveren een fotolijst per les.
+
+
+Aanvulling 21 november avond: Martijn heeft een krachtige pc met Blender. Voor handelingen die op foto lastig te tonen zijn mogen korte 3D-animaties gemaakt worden; Claude schrijft het script, Martijn rendert. Eerst een proef (voorstel: stabiele zijligging), wacht op zijn akkoord. Medische juistheid van elke animatie gaat langs Mathanje.
 
 ## 7. Toetsing
 - Kennischecks in de lessen zijn oefening, met feedback waarom een antwoord goed of fout is.
