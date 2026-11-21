@@ -18,7 +18,7 @@ Ieder scenario hoort bij leerdoelen uit de [dekkingsmatrix](dekkingsmatrix-mc.md
 | MC-L01-SL01 Onderzoek van top tot teen | MC-L01 | MC-32 | Zieke collega: onderzoek, voorgeschiedenis, gegevens voor de arts | Te schrijven | ongeveer 14 |
 | MC-L02-SL01 Val in het ruim | MC-L02 | MC-01, MC-05 | Hoofd- en wervelletsel, vervoer in de vacuümmatras | Te schrijven | ongeveer 14 |
 | MC-L02-SL02 Brand in de machinekamer | MC-L02 | MC-03, MC-04 | Brandwonden en bloeding, bewaken tot advies | Te schrijven | ongeveer 14 |
-| MC-L03-SL01 De wond aan de hand | MC-L03 | MC-06, MC-08, MC-11 | Wond beoordelen, sluiten of niet, verband en controle | Te schrijven | ongeveer 14 |
+| MC-L03-SL01 De wond in de onderarm | MC-L03 | MC-06, MC-08, MC-11 | Wond beoordelen, sluiten of niet, verband en controle | Te schrijven | ongeveer 14 |
 | MC-L04-SL02 Een week in de ziekenboeg | MC-L04 | MC-12, MC-13 | Bedlegerige patiënt verzorgen, injectie op advies | Te schrijven | ongeveer 14 |
 | MC-L06-SL01 Alcoholontwenning | MC-L06 | MC-18 | Collega die na een paar dagen op zee onrustig en verward raakt | Script klaar | ongeveer 14 |
 | MC-L06-SL02 Overlijden aan boord | MC-L06 | MC-22 | Wat je doet na een overlijden, met de kapitein en de arts | Script klaar | ongeveer 13 |
