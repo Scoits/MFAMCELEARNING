@@ -1,6 +1,6 @@
 # Medische uitrusting aan boord
 
-Les MFA-L01, versie 0.2, 21 november 2026. Versie 0.2 breidt de les uit tot een volledige vervanging van de klassikale theorie over de medische uitrusting. De uitleg begint bij de basis, voor zeevarenden zonder medische voorkennis. Nieuw zijn de schermen S10 tot en met S17 en de kennischecks K01-04 tot en met K01-06, gebaseerd op de Regeling medische uitrusting (S066), dag 1 ochtend dia 51-53 (S045), dag 2 middag dia 2-10 (S044), PH10 (S058) en LOTUS-kaart 12 (S027). S02 en S09 zijn verdiept. De bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Leerboek GH1 (S016) is nog niet gelezen; de uitleg wordt daarmee aangevuld zodra de tekst beschikbaar is. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
+Les MFA-L01, versie 0.3, 21 november 2026. Versie 0.3 vult de uitleg over wonden en verbandmiddelen aan uit leerboek GH1 (S016, hoofdstuk 2 en 3) en voegt S18 en S19 met K01-07 toe. GH1 heeft geen hoofdstuk over de medische uitrusting; daarvoor blijft S066 de bron. Versie 0.2 breidt de les uit tot een volledige vervanging van de klassikale theorie over de medische uitrusting. De uitleg begint bij de basis, voor zeevarenden zonder medische voorkennis. Nieuw zijn de schermen S10 tot en met S17 en de kennischecks K01-04 tot en met K01-06, gebaseerd op de Regeling medische uitrusting (S066), dag 1 ochtend dia 51-53 (S045), dag 2 middag dia 2-10 (S044), PH10 (S058) en LOTUS-kaart 12 (S027). S02 en S09 zijn verdiept. De bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 ## Lesgegevens
 
@@ -9,10 +9,10 @@ Les MFA-L01, versie 0.2, 21 november 2026. Versie 0.2 breidt de les uit tot een 
 | Les-ID en titel | MFA-L01 Medische uitrusting aan boord |
 | Cursus | MFA, STCW A-VI/4-1, IMO Model Course 1.14 Part C 2 |
 | Leerdoelen | MFA-01.01 tot en met MFA-01.04 |
-| Leervorm | Rise; uitleg met accordeons en tabbladen, zes keuzevragen, een tikopdracht op een plattegrond en een controlelijst als doe-opdracht |
-| Studieduur | Berekend volgens de rekenregel in docs/studietijd-rekenregel.md; zie de tabel onderaan. De moduleraming van 30 minuten is daarmee overschreden; herverdeling volgt in OB-05 |
+| Leervorm | Rise; uitleg met accordeons en tabbladen, zeven keuzevragen, een tikopdracht op een plattegrond en een controlelijst als doe-opdracht |
+| Studieduur | 54 minuten, berekend volgens de rekenregel in docs/studietijd-rekenregel.md. De moduleraming van 30 minuten is daarmee overschreden; herverdeling volgt in OB-05 |
 | Praktijkkoppeling | Kitinspectie in het wondstation en zelf materiaal halen en gebruiken in de scenario's |
-| Bronnen | S001, S003, S009, S027, S044, S045, S058, S066; S016 nog te lezen; S040 en S042 als voorgestelde aanvullende bronnen |
+| Bronnen | S001, S003, S009, S016, S027, S044, S045, S058, S066; S040 en S042 als voorgestelde aanvullende bronnen |
 | Engelse opvolger | Nog niet gestart |
 
 ## Leerdoelen en dekking
@@ -22,11 +22,11 @@ Les MFA-L01, versie 0.2, 21 november 2026. Versie 0.2 breidt de les uit tot een 
 | MFA-01.01 | Waarom er een vaste uitrusting is, functie van de onderdelen en geneesmiddelen in de uitrusting; S10, S02, S03, S11 en S12 | Kitinspectie: onderdelen benoemen en doel uitleggen |
 | MFA-01.02 | Vindbaarheid, bewaren, controleren en aanvullen; S04, S13 en S14 | Materiaal halen en gereedmaken in een scenario |
 | MFA-01.03 | Verschil tussen scheepsuitrusting en de kist van reddingsmiddelen; S05, S15 en S06 | Selectieopdracht met representatieve materialen |
-| MFA-01.04 | Doelmatig en hygiënisch gebruik en materiaalkeuze bij wonden; S07, S16, S17 en S08 | Materiaal hygiënisch gebruiken in het wondstation en in een letselscenario |
+| MFA-01.04 | Doelmatig en hygiënisch gebruik en materiaalkeuze bij wonden; S07, S18, S19, S16, S17 en S08 | Materiaal hygiënisch gebruiken in het wondstation en in een letselscenario |
 
 STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebied eerstehulpuitrusting (kolom 2); beoordeling van bewijs uit praktijkinstructie (kolom 3); projectcriteria K2 en K3 (kolom 4). De les legt de opbouw van de Nederlandse uitrustingsregeling uit met voorbeelden. Ze is geen volledige inventarislijst; de lijst van het eigen schip blijft leidend.
 
-De schermrecords staan in [MFA-L01-schermreview.csv](../../reviews/MFA-L01-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S10, S02, S03, S11, S12, S04, S13, S14, S05, S15, S06, S07, S16, S17, S08, S09.
+De schermrecords staan in [MFA-L01-schermreview.csv](../../reviews/MFA-L01-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S10, S02, S03, S11, S12, S04, S13, S14, S05, S15, S06, S07, S18, S19, S16, S17, S08, S09.
 
 ## MFA-L01-S01 Waar is de medische uitrusting?
 
@@ -52,13 +52,13 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 ## MFA-L01-S10 Waarom ieder schip een medische uitrusting heeft
 
-Leerdoelen: MFA-01.01. Bronplaats: S066 artikel 2 (tabellen 1 en 2, bemanning tot en met 15 personen), betekenis van de kolommen, tabel 2 II.1.02.a (zuurstofkoffer), II.2.08 (driekante doeken), II.07.07 met noot (brancard); S045 dia52 (hoeveelheden aangepast aan aantal opvarenden). Media: MFA-L01-M06. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-01.01. Bronplaats: S066 artikel 2 (tabellen 1 en 2, bemanning tot en met 15 personen), betekenis van de kolommen, tabel 2 II.1.02.a (zuurstofkoffer), II.2.08 (driekante doeken), II.07.07 met noot (brancard); S045 dia52 (hoeveelheden aangepast aan aantal opvarenden). S016 GH1 boek p32-33 / PDF p35-36 (vijf punten eerste hulp; je bent de ogen van de dokter op de vaste wal). Media: MFA-L01-M06. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 4 minuten. Leerfunctie: de cursist begrijpt dat de uitrusting wettelijk is voorgeschreven en dat de omvang afhangt van schip en vaargebied.
 
 **Cursistentekst**
 
-Op zee ben je vaak uren of dagen van een ziekenhuis verwijderd. Een ambulance kan niet even langskomen. Daarom moet ieder schip een eigen medische uitrusting hebben, en mensen aan boord die ermee kunnen werken. Na deze cursus ben jij een van die mensen.
+Op zee ben je vaak uren of dagen van een ziekenhuis verwijderd. Een ambulance kan niet even langskomen. Daarom moet ieder schip een eigen medische uitrusting hebben, en mensen aan boord die ermee kunnen werken. Na deze cursus ben jij een van die mensen. Bij ernstige klachten vraag je advies aan een arts op de wal. Die arts kan niet kijken of voelen; jij bent dan zijn ogen en handen aan boord.
 
 Voor schepen onder Nederlandse vlag staat in de wet wat er aan boord moet zijn: de Regeling veiligheid zeeschepen, bijlage 5 Medische uitrusting. Vaar je onder een andere vlag, dan gelden de regels van die vlaggenstaat.
 
@@ -98,7 +98,7 @@ TE VERIFIËREN: De korte omschrijving van de kolommen is een eigen samenvatting 
 
 ## MFA-L01-S02 Wat hoort bij de medische uitrusting?
 
-Leerdoelen: MFA-01.01. Bronplaats: S066 tabel 2: II.1.01-II.1.06 (reanimatie), II.2.02-II.2.16 (verband), II.3.01-II.3.10 (instrumenten), II.4.01-II.4.09 (onderzoek), II.7.01-II.07.07 met noot (immobilisatie en brancard), II.2.09 en II.9.04 (handschoenen en pedaalemmer), II.9.10-II.9.11 en II.4.03-II.4.04 (handboeken en formulieren); S003 Part C 2.1, gedrukte p12 / PDF p18; S009 p1 item 2.1 met PPT1 dia51-52/54-58 en PPT4 dia2; S045 dia51-52. Media: MFA-L01-M02. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-01.01. Bronplaats: S066 tabel 2: II.1.01-II.1.06 (reanimatie), II.2.02-II.2.16 (verband), II.3.01-II.3.10 (instrumenten), II.4.01-II.4.09 (onderzoek), II.7.01-II.07.07 met noot (immobilisatie en brancard), II.2.09 en II.9.04 (handschoenen en pedaalemmer), II.9.10-II.9.11 en II.4.03-II.4.04 (handboeken en formulieren); S003 Part C 2.1, gedrukte p12 / PDF p18; S009 p1 item 2.1 met PPT1 dia51-52/54-58 en PPT4 dia2; S045 dia51-52. S016 GH1 boek p39 / PDF p42 (vetgaas plakt minder aan de wond) en boek p43 / PDF p46 (dekverband: gaasje met witte watten, wondsnelverband, fixeren met hydrofiel of hydrolast windsel; synthetische watten met ideaalzwachtel voor druk). Media: MFA-L01-M02. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 5 minuten. Leerfunctie: de cursist ordent de uitrusting naar functie.
 
@@ -130,7 +130,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: De indeling in zes functies is een DRTC-ontwerp. De voorbeelden zijn getoetst aan S066 tabel 2; de uitleg per middel (zoals het doel van de ringzaagtang en het metallinelaken als brandwondenverband) is een eigen formulering.
+TE VERIFIËREN: De indeling in zes functies is een DRTC-ontwerp. De voorbeelden zijn getoetst aan S066 tabel 2. Dat vaselinegaas minder aan de wond plakt, staat in S016 boek p39; de uitleg van de ringzaagtang en het metallinelaken als brandwondenverband is een eigen formulering.
 
 TE VERIFIËREN: S066 noemt geen container voor scherp afval; DRTC bevestigt of die in de trainingsuitrusting zit en of hij in de les blijft.
 
@@ -425,7 +425,7 @@ Waarin verschilt de eerstehulpuitrusting van een reddingsvlot van de medische ui
 
 ## MFA-L01-S07 Materiaal veilig en hygiënisch gebruiken
 
-Leerdoelen: MFA-01.04. Bronplaats: S003 Part C 2.4, gedrukte p12 / PDF p18; S009 p1 item 2.4 met PPT4 dia2-12 en PH10 (indirect). Media: MFA-L01-M05. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-01.04. Bronplaats: S003 Part C 2.4, gedrukte p12 / PDF p18; S009 p1 item 2.4 met PPT4 dia2-12 en PH10 (indirect). S016 GH1 boek p42 / PDF p45 (handen wassen en handschoenen aantrekken voor de wondbehandeling). Media: MFA-L01-M05. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: de cursist kent de vaste werkvolgorde voor hygiënisch materiaalgebruik.
 
@@ -463,27 +463,93 @@ TE VERIFIËREN: DRTC bevestigt of een container voor scherp afval in de MFA-trai
 
 In het wondstation laat de cursist deze volgorde zien; de instructeur registreert MFA-01.04.
 
-## MFA-L01-S16 Het juiste materiaal bij een wond
+## MFA-L01-S18 Een steriel gaasje aanbrengen
 
-Leerdoelen: MFA-01.04. Bronplaats: S044 dia6 (doelen bij wonden), dia7 (sieraden verwijderen, zelf verzorgen of RMD raadplegen), dia8-9 (snijwonden en schaafwonden, hechtstrips en dekverband), dia10 (ernstigere wonden, peesletsel, RMD), dia4-5 (dekverband en wonddrukverband); S058 PH10 (materialen dekverband en wonddrukverband); S066 tabel 2 II.2.04, II.2.12.c en II.3.09. Media: MFA-L01-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-01.04. Bronplaats: S016 GH1 boek p43 / PDF p46 (wondverband niet meer verschuiven, tweede wondverband over het eerste), boek p44-45 / PDF p47-48 (werkwijze steriel gaasje, witte watten, fixeren, zwachteltechniek), boek p45-46 / PDF p48-49 (toppen van vingers of tenen vrij laten); S058 PH10. Media: MFA-L01-M10. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
-Begroting 3 minuten. Leerfunctie: de cursist kiest bij verschillende letsels het passende materiaal uit de uitrusting.
+Begroting 3 minuten. Leerfunctie: de cursist kent de werkwijze om steriel materiaal steriel op de wond te krijgen.
 
 **Cursistentekst**
 
-Een wond is een beschadiging van de huid. Bij een wond heeft eerste hulp drie doelen: bloedverlies beperken, besmetting met ziektekiemen voorkomen en het gewonde lichaamsdeel rust geven. Welk materiaal je pakt, hangt af van het letsel. Open de onderdelen.
+Een gaasje is alleen steriel zolang niets het aanraakt. Zo breng je het aan zonder het aan te raken:
 
-Kleine wond: bij een schaafwond of een kleine snijwond spoel je de wond schoon met water, dep je de huid droog met een steriel gaasje en dek je de wond af met een steriel gaasje en pleister. Bij een vinger gebruik je een tunnelverband. Zwaluwstaartpleisters houden de randen van een kleine, gapende snijwond bij elkaar.
+Kies een gaasje van het juiste formaat en controleer de verpakking.
 
-Wond die bloedt: dek de wond volledig af met een dekverband, zoals een snelverband of steriele gaasjes met een zwachtel. Bloedt het verband door, dan maak je er een wonddrukverband van met synthetische watten en een stevige zwachtel. Hoe je dat aanlegt, leer je in les 3.
+Scheur de verpakking aan één kant open, zonder het gaasje aan te raken.
 
-Brandwond: eerst koel je met water. Daarna dek je de brandwond los af met steriel brandwondenverband. Dat leer je in les 4.
+Houd het gaasje aan de open kant met één vinger op de huid naast de wond. Schuif de verpakking weg, zodat het gaasje vanzelf op de wond valt. Vouw het gaasje niet open.
 
-Vermoedelijke breuk: dan leg je geen verband om de breuk, maar je ondersteunt en spalkt het lichaamsdeel. Ook dat leer je in les 4.
+Ligt het gaasje op de wond, verschuif of verwijder het dan niet meer. Ligt het scheef of bedekt het de wond niet helemaal, leg dan een tweede gaasje over het eerste.
 
-Twijfel: is de wond diep, groot of vuil, zie je mogelijk een beschadigde pees, of twijfel je of je de wond zelf kunt verzorgen? Vraag dan advies aan de Radio Medische Dienst (les 7).
+Leg er een laagje witte watten over. Die neemt bloed en wondvocht op.
 
-Bij wonden aan vinger, hand, arm, voet of been laat je ringen en andere sieraden zo snel mogelijk afdoen, eventueel door het slachtoffer zelf. Als het lichaamsdeel opzwelt, gaat dat niet meer. Daarvoor is de ringzaagtang.
+Zet het verband vast met een zwachtel. Leg de eerste en de laatste slag recht rond. Laat iedere slag de vorige voor twee derde bedekken en zwachtel van het dunne naar het dikke deel van arm of been. Zwachtel niet te strak.
+
+Zet de zwachtel vast met pleister. Laat als het kan de toppen van vingers of tenen vrij, zodat je ziet of het verband afknelt.
+
+**Beeld en bouw**
+
+Fotoreeks met DRTC-trainingsmateriaal: verpakking aan één kant open, gaasje op de wond laten vallen, watten, zwachtelen, vastzetten met pleister. Alt-tekst per foto.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt of deze werkwijze uit S016 overeenkomt met de huidige DRTC-instructie in het wondstation.
+
+**Verbinding met de praktijkdag**
+
+In het wondstation brengt de cursist een steriel gaasje aan zonder het aan te raken en zet het vast; de instructeur registreert MFA-01.04.
+
+## MFA-L01-S19 Het gaasje ligt scheef
+
+Leerdoelen: MFA-01.04. Bronplaats: S016 GH1 boek p43 / PDF p46 (wondverband niet verschuiven of verwijderen; tweede wondverband over het eerste); antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 2 minuten. Leerfunctie: de cursist past de regel toe dat steriel materiaal op de wond niet meer wordt verschoven.
+
+**Cursistentekst**
+
+Je laat een steriel gaasje op een snijwond in de onderarm vallen. Het gaasje bedekt maar de helft van de wond.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K01-07**
+
+Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K01-07-A | Je schuift het gaasje voorzichtig over de wond | Onjuist. Door het gaasje te verschuiven kunnen vuil en ziektekiemen van de huid in de wond komen. |
+| K01-07-B | Je legt een tweede steriel gaasje over het eerste, zodat de wond helemaal bedekt is | Juist. Een gaasje dat op de wond ligt, verschuif of verwijder je niet meer. Met een tweede gaasje is de wond alsnog helemaal bedekt. |
+| K01-07-C | Je haalt het gaasje weg en legt het opnieuw neer | Onjuist. Het gaasje is niet meer steriel en door het weg te halen kan vuil in de wond komen. |
+
+## MFA-L01-S16 Het juiste materiaal bij een wond
+
+Leerdoelen: MFA-01.04. Bronplaats: S016 GH1 boek p39 / PDF p42 (definitie wond, schaafwond, snijwond), boek p40-41 / PDF p43-44 (scheurwond, bijtwond, steekwond, voorwerp niet verwijderen, splinter), boek p42 / PDF p45 (eerste hulp bij wonden, sieraden afdoen), boek p43-44 / PDF p46-47 (dekverband, voorbeeld schaafwond en snelverband), boek p46 / PDF p49 (zwaluwstaartjes direct op de wond, minstens 1 cm uit elkaar); S044 dia6-10 en dia4-5; S058 PH10; S066 tabel 2 II.2.04, II.2.05.c, II.2.12.c, II.3.08 en II.3.09. Media: MFA-L01-M09. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 5 minuten. Leerfunctie: de cursist kiest bij verschillende letsels het passende materiaal uit de uitrusting.
+
+**Cursistentekst**
+
+Een wond is een opening in de huid of het slijmvlies die er van nature niet hoort. Bij een wond heeft eerste hulp drie doelen: bloedverlies beperken, besmetting met ziektekiemen voorkomen en het gewonde lichaamsdeel rust geven. Welk materiaal je pakt, hangt af van het soort wond. Open de onderdelen.
+
+Schaafwond: de huid is over een ruw oppervlak geschuurd. De wond is niet diep, maar wel vuil en vaak pijnlijk. Spoel de wond goed schoon met lauw water, zo nodig met zeep. Grotere stukjes vuil haal je eruit met een steriel pincet. Een kleine schaafwond geneest het best zonder verband. Een grotere schaafwond dek je steriel af, bij voorkeur met vaselinegaas, omdat dat minder aan de wond plakt.
+
+Snijwond: gemaakt door een scherp voorwerp, zoals een mes of glasscherf. De randen zijn glad en de wond bloedt vaak flink. Spoel ook een snijwond schoon met lauw, schoon stromend water. Bij een vinger dek je af met een steriel gaasje en een tunnelverband. Gapen de randen van een wat diepere snijwond, dan houden zwaluwstaartpleisters ze bij elkaar. Je plakt ze direct op de wond, minstens 1 centimeter uit elkaar, en legt daaroverheen het verband.
+
+Bloedende wond: dek de wond volledig af met een dekverband. Het snelst is een steriel snelverband: een wondkussen met een zwachtel eraan vast. Je kunt ook steriele gaasjes met een laag witte watten en een zwachtel gebruiken. Bloedt het verband door, dan maak je er een wonddrukverband van met synthetische watten en een stevige zwachtel. Hoe je dat aanlegt, leer je in les 3.
+
+Steekwond of voorwerp in de wond: een steekwond lijkt van buiten klein, maar kan diep zijn en van binnen veel schade geven. Trek een groter voorwerp, zoals een glasscherf of mes, er niet uit. Dat doet een arts. Dek de wond eromheen af en vraag advies. Een kleine houtsplinter die uit de huid steekt, mag je met het splinterpincet verwijderen.
+
+Brandwond of breuk: een brandwond koel je eerst met water en dek je daarna los af met steriel brandwondenverband. Bij een vermoedelijke breuk leg je geen verband om de breuk, maar ondersteun en spalk je het lichaamsdeel. Beide leer je in les 4.
+
+Advies vragen: is de wond diep, groot of vuil, is het een bijtwond, zie je mogelijk een beschadigde pees, of twijfel je of je de wond zelf kunt verzorgen? Vraag dan advies aan de Radio Medische Dienst (les 7). Een bijtwond van mens of dier raakt bijna altijd ontstoken en moet door een arts worden behandeld.
+
+Bij wonden aan vinger, hand, arm, voet of been laat je ringen en armbanden zo snel mogelijk afdoen, eventueel door het slachtoffer zelf. Als het lichaamsdeel opzwelt, gaat dat niet meer. Daarvoor is de ringzaagtang.
 
 **Beeld en bouw**
 
@@ -495,9 +561,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: Mathanje beoordeelt de materiaalkeuze per letsel, in het bijzonder het droogdeppen met een steriel gaasje en het gebruik van zwaluwstaartpleisters bij een gapende snijwond.
-
-TE VERIFIËREN: S044 dia8 noemt het deppen van de omgeving van de wond met een huidontsmettingsmiddel als mogelijkheid; Mathanje beslist of dat in de MFA-les hoort.
+TE VERIFIËREN: Mathanje beoordeelt de materiaalkeuze per soort wond. S016 en S044 dia8 noemen het deppen met een ontsmettingsmiddel (jodium of Betadine); S016 boek p39 zegt ook dat een snijwond die een arts nog moet zien geen ontsmettingsmiddel krijgt. Mathanje beslist wat de MFA-les hierover zegt (R94).
 
 TE VERIFIËREN: Het verband tussen het afdoen van ringen en de ringzaagtang is een eigen uitleg.
 
@@ -507,7 +571,7 @@ In het wondstation kiest de cursist het materiaal bij een kleine wond en bij een
 
 ## MFA-L01-S17 Twee wondjes aan de vingers
 
-Leerdoelen: MFA-01.04. Bronplaats: S027 LOTUS 12 bloeding aan twee vingers (veiligheid, vragen hoe ontstaan, schoonmaken met water, steriel gaasje en vingerbob, gaasje tussen de vingers); S044 dia8; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+Leerdoelen: MFA-01.04. Bronplaats: S027 LOTUS 12 bloeding aan twee vingers (veiligheid, vragen hoe ontstaan, schoonmaken met water, steriel gaasje en vingerbob, gaasje tussen de vingers); S044 dia8; antwoordlogica is DRTC-ontwerp. S016 GH1 boek p39 / PDF p42 (snijwond door glasscherf, schoonspoelen met lauw stromend water), boek p41 / PDF p44 (wonden in contact met vuil raken vaak ontstoken), boek p47-48 / PDF p50-51 (tetanus; arts bepaalt herhalingsinjectie). Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
 
 Begroting 3 minuten. Leerfunctie: de cursist kiest het passende materiaal in een casus.
 
@@ -525,13 +589,13 @@ Welk materiaal pak je uit de uitrusting?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K01-06-A | Handschoenen, steriele gaasjes en een tunnelverband voor vingers, en water om te spoelen | Juist. Je beschermt jezelf, spoelt de wondjes schoon, dept ze droog en dekt ze steriel af. Leg je een verband om twee vingers tegelijk, leg dan een gaasje tussen de vingers. |
+| K01-06-A | Handschoenen, steriele gaasjes en een tunnelverband voor vingers, en water om te spoelen | Juist. Je beschermt jezelf, spoelt de wondjes schoon met lauw, schoon stromend water en dekt ze steriel af. Leg je een verband om twee vingers tegelijk, leg dan een gaasje tussen de vingers. |
 | K01-06-B | Synthetische watten en een stevige zwachtel voor een wonddrukverband | Onjuist. Een wonddrukverband is voor een bloeding die door een dekverband heen blijft bloeden. Deze kleine wondjes kun je schoonmaken en afdekken. |
 | K01-06-C | Een vervormbare spalk voor de vingers | Onjuist. Een spalk gebruik je bij een vermoedelijke breuk of ontwrichting. Hier is alleen de huid beschadigd. |
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: Mathanje beoordeelt of bij een snijwond door glas uit afval aanvullend advies over besmetting of tetanus in de feedback hoort.
+TE VERIFIËREN: Mathanje beoordeelt of bij een snijwond door glas uit afval aanvullend advies over besmetting of tetanus in de feedback hoort; S016 boek p47-48 laat de beslissing over een herhalingsinjectie aan een arts (R94).
 
 ## MFA-L01-S08 Een beschadigde verpakking
 
@@ -587,8 +651,8 @@ Wondstation MFA-P04 en LOTUS-scenario's in docs/praktijkplanning-v001.md.
 
 ## Bouw en test
 
-Gebruik zeventien Rise-secties in de volgorde van deze master. De plattegrond in S04 is een tikopdracht met grote, duidelijk gescheiden tikvlakken en een tekstalternatief voor schermlezers. Controleer op een staand telefoonscherm dat de plattegrond zonder inzoomen bruikbaar is; anders vervangen door een keuzevraag met dezelfde antwoord-ID's. De controlelijst in S14 is een Rise-tabel boven het kennischeckblok. K01-01 tot en met K01-06 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik negentien Rise-secties in de volgorde van deze master. De plattegrond in S04 is een tikopdracht met grote, duidelijk gescheiden tikvlakken en een tekstalternatief voor schermlezers. Controleer op een staand telefoonscherm dat de plattegrond zonder inzoomen bruikbaar is; anders vervangen door een keuzevraag met dezelfde antwoord-ID's. De controlelijst in S14 is een Rise-tabel boven het kennischeckblok. K01-01 tot en met K01-07 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 
-Mathanje beoordeelt de uitleg van de onderdelen in S02, de uitleg over geneesmiddelen zonder RMA-code in S11, de hygiënestappen in S07, de materiaalkeuze in S16 en S17 en de feedback van alle kennischecks. DRTC levert foto's van de eigen trainingsuitrusting (S026, S029) en bevestigt welke onderdelen in de praktijkdag worden gebruikt. De actualiteit van S066 is niet extern gecontroleerd. Leerboek GH1 (S016) is opgevraagd voor verdere uitleg.
+Mathanje beoordeelt de uitleg van de onderdelen in S02, de uitleg over geneesmiddelen zonder RMA-code in S11, de hygiënestappen in S07, de materiaalkeuze in S16 en S17, de werkwijze in S18 en de feedback van alle kennischecks. DRTC levert foto's van de eigen trainingsuitrusting (S026, S029) en bevestigt welke onderdelen in de praktijkdag worden gebruikt. De actualiteit van S066 is niet extern gecontroleerd. Leerboek GH1 (S016) is voor hoofdstuk 2 en 3 verwerkt; het boek beschrijft de uitrusting zelf niet.
