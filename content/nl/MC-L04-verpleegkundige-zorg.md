@@ -32,7 +32,7 @@ STCW-kolommen: competentie C1 (kolom 1); kennisgebieden algemene principes van v
 
 Bronstatus: S063 dia14 tot en met 37 en PH1 (S049) zijn als tekst gelezen. PH14 (S061) is een scan zonder tekstlaag; de twee pagina's zijn op 20 november 2026 als afbeelding gelezen. Daarmee is BC-31 voor PH14 opgelost. PH14 beschrijft alleen het katheteriseren van een man; de bron 'zelfkatheterisatie vrouw' uit de matrix staat niet in het register. PH1 (2015) en S063 (2024) verschillen op drie punten (BC-36); de les volgt S063.
 
-De schermrecords staan in [MC-L04-schermreview.csv](../../reviews/MC-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S12, S02, S13, S14, S15, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S26, S27, S06, S23, S24, S25, S07, S08, S09, S10, S11.
+De schermrecords staan in [MC-L04-schermreview.csv](../../reviews/MC-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S12, S02, S13, S14, S15, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S26, S27, S06, S23, S24, S25, S07, S08, S09, S10, S11, S28.
 
 ## MC-L04-S01 Zorgen voor een patiënt aan boord
 
@@ -839,6 +839,24 @@ Wat doe je?
 **Te verifiëren door Mathanje of DRTC**
 
 TE VERIFIËREN: Overleggen met de arts als het niet lukt, is een eigen aanvulling. Mathanje beoordeelt de feedback.
+
+## MC-L04-S28 Scenario: een week in de ziekenboeg
+
+Leerdoelen: MC-12.01; MC-12.02; MC-13.01; MC-13.02. Bronplaats: zie het script [MC-L04-SL02](../../articulate/storyline/MC-L04-SL02-een-week-in-de-ziekenboeg.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een machinist met een gebroken onderbeen ligt zes dagen in de ziekenboeg tot de haven. Jij zorgt voor hem: dossier, medicijnen op advies, huid en hygiëne, een benauwde nacht, je eigen grenzen en de overdracht.
+
+**Interactie**
+
+Scenario-pakket MC-L04-SL02 in een Rise Code Block met afrondingseis. Script: [MC-L04-SL02](../../articulate/storyline/MC-L04-SL02-een-week-in-de-ziekenboeg.md), bouwlijst: [MC-L04-SL02-bouwlijst.csv](../../articulate/storyline/MC-L04-SL02-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R134).
 
 ## Bouw en test
 
