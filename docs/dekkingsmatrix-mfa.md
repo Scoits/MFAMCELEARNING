@@ -1,6 +1,6 @@
 # Dekkingsmatrix MFA
 
-Gemaakt op 2026-11-21 met `tools/maak_dekkingsmatrix.py`. Rekenscript `tools/studietijd.py`, versie 2c8bf35 2026-11-21. Lesversies staan per regel in de kolom Les. De volledige matrix staat in [mfa-dekking-controle.csv](../curriculum/mfa-dekking-controle.csv); dit document is het overzicht.
+Gemaakt op 2026-11-21 met `tools/maak_dekkingsmatrix.py`. Rekenscript `tools/studietijd.py`, versie c5ab635 2026-11-21. Lesversies staan per regel in de kolom Les. De volledige matrix staat in [mfa-dekking-controle.csv](../curriculum/mfa-dekking-controle.csv); dit document is het overzicht.
 
 De matrix laat per leerdoel zien welke STCW-competentie en welk kennisgebied het afdekt, uit welke bron het komt, in welke les en met welke activiteit het wordt geleerd, hoe het online en op de praktijkdag wordt beoordeeld, en of Mathanje het heeft vrijgegeven. De minuten zijn geplande minuten volgens de strenge regel: de minuten van een scherm zijn gelijk verdeeld over de leerdoelen van dat scherm. Het zijn geen gemeten minuten.
 
