@@ -40,6 +40,14 @@ Een promptset moet dus de exacte masterversie, scherm- en vraag-ID's, bloktype, 
 
 ## Hulpmiddelen
 
+## Werkwijze vanaf 21 november 2026, middag
+
+Na de productiehandleiding die Martijn op 21 november 2026 aanleverde, is de werkwijze aangepast. Zie [productiewerkwijze](productiewerkwijze.md) en [proefles-MFA-L01](proefles-MFA-L01.md). In het kort:
+- per deel van ongeveer 15 minuten komt er een schoon importbestand voor Magic Lesson Import, met bloklabels en de definitieve beelden bij de uitleg;
+- een checklist na de import noemt doorgaan-knoppen, Storyline-blokken en ontbrekende beelden;
+- het bouwboek hieronder blijft voor controle en voor bouwen met de hand;
+- MFA-L01 wordt als proefles volledig gebouwd en in Moodle getest, en daarna wordt één route de standaard.
+
 ## Bouw per blok (vanaf 21 november 2026)
 
 De proef met Magic Lesson Import van MFA-L01 gaf een onbruikbare vorm: Rise zette alle schermen als tabbladen in een tabs-blok en voegde alinea's samen tot lange lappen tekst. De inhoud was goed. Volgens de documentatie kiest de AI bij die import zelf de blokken. Een staffreactie op het Articulate-forum bevestigt dat die AI de tekst kan inkorten of herschrijven.

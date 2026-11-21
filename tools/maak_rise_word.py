@@ -9,11 +9,15 @@ tekst. Dit script legt de vorm daarom vast:
 
 - de les wordt verdeeld in delen van ongeveer --minuten studietijd; ieder deel
   is een eigen Word-bestand en wordt in Rise een eigen les;
-- ieder scherm begint met een kop en ieder blok met een label
-  [Rise-blok: ...] dat het bloktype noemt;
+- per deel komt er een schoon importbestand <LES>-D<n>-import.docx voor
+  Magic Lesson Import: alleen cursistentekst, definitieve beelden bij de
+  uitleg, kennischecks met juist antwoord en feedback, en per blok een label
+  [Rise-blok: ...]; daarbij een checklist <LES>-na-import.md;
+- het bouwboek noemt per blok het bloktype en de Rise-route, voor controle
+  na de import en voor bouwen met de hand;
 - alinea's krijgen hoogstens drie zinnen;
-- onderdelen in de vorm "Naam: tekst" worden tabbladen, een accordeon of
-  flashcards, volgens het bloktype in de schermreview;
+- onderdelen in de vorm "Naam: tekst" worden tabbladen of een accordeon;
+  flashcards alleen als de schermreview daarom vraagt;
 - opsommingen worden echte Word-opsommingen;
 - kennischecks staan als gelabelde meerkeuzevraag met juist antwoord en
   feedback;
@@ -132,8 +136,12 @@ def soort_items(platform, items):
         return "Accordeon"
     if "tijdlijn" in p:
         return "Tijdlijn"
-    if all(len(t.split()) <= 30 for _, t in items) and len(items) <= 8:
+    if "flashcard" in p or "kaart" in p:
         return "Flashcards"
+    # Geen flashcards als standaard: een klik moet helpen vergelijken, herkennen of ophalen
+    # (productiehandleiding 21 november 2026). Korte gelijkwaardige onderdelen worden tabbladen.
+    if all(len(t.split()) <= 30 for _, t in items) and 2 <= len(items) <= 5:
+        return "Tabbladen"
     return "Accordeon"
 
 
@@ -352,9 +360,32 @@ def sorteeroefening(b):
     return {"type": "Sorteeroefening", "stapels": stapels[:4]}
 
 
-def schrijf_blok(doc, n, b, media_map, ontbreekt):
+def importlabel(doc, soort):
+    """Label voor Magic Lesson Import: alleen de Engelse bloknaam, kort en herkenbaar."""
+    p = doc.add_paragraph()
+    r = p.add_run(f"[Rise-blok: {RISE[soort][0]}]")
+    r.italic = True
+    r.font.size = Pt(9)
+
+
+def zet_importbeelden(doc, media, media_map, later):
+    """Alleen definitieve beelden gaan het importbestand in; tijdelijke beelden en
+    ontbrekende bestanden komen op de checklist na de import."""
+    for mid in media:
+        pad = os.path.join(media_map, f"{mid}.png")
+        if os.path.exists(pad):
+            doc.add_picture(pad, width=Cm(14))
+        else:
+            later.append(mid)
+            doc.add_paragraph(f"[Beeld {mid} volgt]")
+
+
+def schrijf_blok(doc, n, b, media_map, ontbreekt, importmodus=False):
     t = b["type"]
-    blokkop(doc, n, t)
+    if importmodus:
+        importlabel(doc, t)
+    else:
+        blokkop(doc, n, t)
     if t == "Tekst":
         zet_delen(doc, b["delen"])
     elif t == "Opvallend kader":
@@ -382,7 +413,10 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt):
     elif t == "Tabel":
         zet_tabel(doc, b["tabel"])
     elif t in ("Afbeelding", "Afbeelding met tekst", "Gelabelde afbeelding"):
-        zet_beelden(doc, b["media"], media_map, ontbreekt)
+        if importmodus:
+            zet_importbeelden(doc, b["media"], media_map, ontbreekt)
+        else:
+            zet_beelden(doc, b["media"], media_map, ontbreekt)
         if b.get("delen"):
             zet_delen(doc, b["delen"])
         if b.get("interactie"):
@@ -390,7 +424,8 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt):
             eerste = regels[0]
             if "Opdracht:" in eerste:
                 doc.add_paragraph(eerste.split("Opdracht:", 1)[1].strip())
-            doc.add_paragraph("Markeringen (de uitleg per markering staat in de interactieconfiguratie):")
+            doc.add_paragraph("Markeringen:" if importmodus else
+                              "Markeringen (de uitleg per markering staat in de interactieconfiguratie):")
             for r in regels[1:]:
                 m = re.match(r"^\S+-(H\d+):\s*(.*?)(\s*\((?:juist|onjuist)[^)]*\))?$", r)
                 if m:
@@ -405,7 +440,10 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt):
         doc.add_paragraph(f"Vraag: {aanloop} {vraagtekst}".replace("  ", " ").strip())
         letters = "ABCDEFGH"
         for k, (aid, optie, ok) in enumerate(opties):
-            doc.add_paragraph(f"{letters[k]}. {optie}" + ("   (juist)" if ok else ""))
+            doc.add_paragraph(f"{letters[k]}. {optie}" + ("   (juist)" if ok and not importmodus else ""))
+        if importmodus:
+            juist = [letters[k] for k, (_, _, ok) in enumerate(opties) if ok]
+            doc.add_paragraph("Juist antwoord: " + ", ".join(juist))
         for k, (aid, _, _) in enumerate(opties):
             if fb.get(aid):
                 doc.add_paragraph(f"Feedback bij {letters[k]}: {fb[aid]}")
@@ -503,6 +541,67 @@ def maak_bouwboek(les, titel, delen, uitpad, media_map, proef, bouw):
     return ontbreekt
 
 
+ALLEEN_NA_IMPORT = {"Storyline", "Interactie"}
+
+
+def maak_importbestanden(les, titel, delen, uitdir, media_map):
+    """Schrijf per deel een schoon bestand voor Magic Lesson Import en een checklist.
+
+    Het importbestand bevat alleen wat de cursist ziet: koppen, tekst, opsommingen,
+    tabellen, definitieve beelden en kennischecks met juist antwoord en feedback.
+    Elk blok krijgt een kort label [Rise-blok: ...]. Storyline-blokken, losse
+    interacties, tijdelijke beelden en doorgaan-knoppen zet de import niet; die
+    staan in <LES>-na-import.md."""
+    paden, regels = [], [f"# {les} {titel}: checklist na de import", "",
+                         "Doe dit per deel nadat Magic Lesson Import de les heeft gemaakt. "
+                         "Vergelijk de les daarna met het bouwboek: staat elk blok er, in het "
+                         "juiste type, met de tekst ongewijzigd?", "",
+                         "Zet bij Settings > Navigation de navigatie op Restricted.", ""]
+    for d, schermen in enumerate(delen, 1):
+        doc = Document()
+        doc.styles["Normal"].font.size = Pt(11)
+        doc.add_heading(f"{titel}, deel {d}", level=1)
+        later, knoppen, los = [], [], []
+        for s in schermen:
+            doc.add_heading(s["title"], level=2)
+            blokken = met_extra(scherm_blokken(s))
+            for k, b in enumerate(blokken):
+                if b["type"] in ALLEEN_NA_IMPORT:
+                    los.append((s, b))
+                    doc.add_paragraph(f"[Hier komt na de import: {RISE[b['type']][0]}-blok "
+                                      f"{s['screen_id']}]")
+                else:
+                    schrijf_blok(doc, 0, b, media_map, later, importmodus=True)
+                if b["type"] in INTERACTIEF:
+                    knoppen.append(f"{s['screen_id']} {s['title']}: na het {RISE[b['type']][0]}-blok")
+        pad = os.path.join(uitdir, f"{les}-D{d}-import.docx")
+        doc.save(pad)
+        paden.append(pad)
+        regels += [f"## Deel {d}: {schermen[0]['title']}", "",
+                   f"Importbestand: `{os.path.basename(pad)}`", ""]
+        if los:
+            regels.append("Blokken die je zelf toevoegt op de plek van de markering [Hier komt na de import]:")
+            for s, b in los:
+                eerste = b["tekst"].splitlines()[0] if b.get("tekst") else ""
+                regels.append(f"- {s['screen_id']}: {RISE[b['type']][0]}. {eerste}")
+            regels.append("")
+        if later:
+            regels.append("Beelden die nog ontbreken of tijdelijk zijn; voeg ze toe via "
+                          "Replace from your sources of uit de mediamap zodra het definitieve bestand er is:")
+            regels += [f"- {m}" for m in dict.fromkeys(later)]
+            regels.append("")
+        regels.append("Doorgaan-knop (Interactive > Continue, Complete block above) direct na:")
+        regels += [f"- {k}" for k in knoppen] or ["- geen"]
+        regels.append("- het laatste blok van het deel (instelling None)")
+        regels.append("")
+        regels.append("Verwijder de labels [Rise-blok: ...] als Rise ze als tekst heeft overgenomen.")
+        regels.append("")
+    lijst = os.path.join(uitdir, f"{les}-na-import.md")
+    with open(lijst, "w", encoding="utf-8") as f:
+        f.write("\n".join(regels).rstrip() + "\n")
+    return paden, lijst
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     p.add_argument("les")
@@ -531,6 +630,10 @@ def main():
                     "inhoud_of_instelling", "media_ids", "question_id"])
         w.writerows(bouw)
     print(bouwpad)
+    paden, lijst = maak_importbestanden(a.les, titel, delen, a.uit, media_map)
+    for pi in paden:
+        print(pi)
+    print(lijst)
     if ontbreekt:
         print("Geen beeldbestand gevonden voor: " + ", ".join(sorted(set(ontbreekt))))
 
