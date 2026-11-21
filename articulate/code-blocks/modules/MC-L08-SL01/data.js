@@ -4,6 +4,7 @@
    Medische review door Mathanje en operationele review door DRTC zijn nog niet uitgevoerd. */
 window.MODULE = {
   id: "MC-L08-SL01",
+  version: "0.1",
   code: "MC-L08 Gecoördineerde medische hulp en evacuatie",
   title: "Helikopterevacuatie",
   badge: "Oefenscenario",

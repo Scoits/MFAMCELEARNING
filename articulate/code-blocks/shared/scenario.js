@@ -5,6 +5,18 @@
 (function () {
   "use strict";
   var M = window.MODULE;
+  var UI = window.UI || {};
+  function u(k) { return k in UI ? UI[k] : k; }
+  /* Tekst uit het taalbestand (tekst.<taal>.json) op de juiste plek in de structuur zetten. */
+  if (window.TEXT) Object.keys(window.TEXT).forEach(function (p) {
+    var parts = p.split("."), o = M;
+    for (var i = 0; i < parts.length - 1; i++) {
+      var k = parts[i];
+      if (o[k] == null) o[k] = /^\d+$/.test(parts[i + 1]) ? [] : {};
+      o = o[k];
+    }
+    o[parts[parts.length - 1]] = window.TEXT[p];
+  });
   var app = document.getElementById("app");
   var state, completedSent = false;
 
@@ -32,6 +44,14 @@
     try { window.parent.postMessage({ type: "complete" }, "*"); } catch (e) { /* buiten Rise */ }
     document.documentElement.setAttribute("data-complete", "true");
   }
+
+  /* Hervatten: de voortgang wordt bij ieder scherm in de browser bewaard (localStorage).
+     Dat werkt per browser en apparaat; het gaat niet via Moodle. Als opslag niet mag,
+     werkt de module gewoon zonder hervatten. */
+  var KEY = "drtc-" + M.id + "-" + (M.version || "1");
+  function save(data) { try { window.localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) {} }
+  function load() { try { var v = window.localStorage.getItem(KEY); return v ? JSON.parse(v) : null; } catch (e) { return null; } }
+  function clearSaved() { try { window.localStorage.removeItem(KEY); } catch (e) {} }
 
   function cond(c) {
     if (!c) return true;
@@ -64,14 +84,14 @@
     var cols = M.vitals.columns;
     var wrap = el("div");
     var table = el("table", null, [
-      el("caption", { class: "sr", text: b.caption || "Observatielijst" }),
+      el("caption", { class: "sr", text: b.caption || u("observatielijst") }),
       el("thead", null, [el("tr", null, cols.map(function (c) { return el("th", { scope: "col", text: c.label }); }))]),
       el("tbody", null, rows.map(function (r, i) {
         return el("tr", { class: (b.highlightLast && i === rows.length - 1) ? "now" : "" },
-          cols.map(function (c) { return el("td", { text: r[c.key] != null ? String(r[c.key]) : "niet gemeten" }); }));
+          cols.map(function (c) { return el("td", { text: r[c.key] != null ? String(r[c.key]) : u("nietGemeten") }); }));
       }))
     ]);
-    wrap.appendChild(el("div", { class: "table-wrap" }, [table]));
+    wrap.appendChild(el("div", { class: "table-wrap", tabindex: "0", role: "region", "aria-label": b.caption || u("observatielijst") }, [table]));
     if (b.chart) wrap.appendChild(renderChart(rows));
     if (b.caption) wrap.appendChild(el("p", { class: "caption", text: b.caption }));
     return wrap;
@@ -123,7 +143,7 @@
       if (b.if && !cond(b.if)) return;
       if (b.blocks) { renderBlocks(b.blocks, into); return; }
       if (b.lead) into.appendChild(el("p", { class: "lead", html: b.lead }));
-      if (b.msg) into.appendChild(el("div", { class: "msg" }, [el("div", { class: "from", text: b.from || "Bericht" }), el("div", { html: b.msg })]));
+      if (b.msg) into.appendChild(el("div", { class: "msg" }, [el("div", { class: "from", text: b.from || u("bericht") }), el("div", { html: b.msg })]));
       if (b.note) into.appendChild(el("div", { class: "note", html: b.note }));
       if (b.steps) into.appendChild(el("ol", { class: "steps" }, b.steps.map(function (s) { return el("li", { html: s }); })));
       if (b.list) into.appendChild(el("ul", { class: "plain" }, b.list.map(function (s) { return el("li", { html: s }); })));
@@ -139,16 +159,17 @@
   /* Opbouw scherm */
   function shell() {
     app.innerHTML = "";
-    var logo = el("div", { class: "logo" }, [el("img", { src: window.DRTC_LOGO || "logo.png", alt: "De Ruyter Training & Consultancy" })]);
+    var logo = el("div", { class: "logo" }, [el("img", { src: window.DRTC_LOGO || "logo.png", alt: u("logo") })]);
     var top = el("header", { class: "top" }, [
       logo,
       el("div", { class: "titles" }, [el("div", { class: "code", text: M.code }), el("h1", { text: M.title })]),
       M.badge ? el("span", { class: "badge", text: M.badge }) : null
     ]);
-    var prog = el("div", { class: "progress", role: "progressbar", "aria-label": "Voortgang", "aria-valuemin": "0", "aria-valuemax": "100" }, [el("span")]);
+    var prog = el("div", { class: "progress", role: "progressbar", "aria-label": u("voortgang"), "aria-valuemin": "0", "aria-valuemax": "100" }, [el("span")]);
     var main = el("main", { class: "main", tabindex: "-1", "aria-live": "polite" });
     app.appendChild(top); app.appendChild(prog); app.appendChild(main);
-    if (M.footer) app.appendChild(el("footer", { class: "foot", text: M.footer }));
+    var foot = [M.footer, M.version ? u("versie") + " " + M.version : ""].filter(Boolean).join(" ");
+    if (foot) app.appendChild(el("footer", { class: "foot", text: foot }));
     return main;
   }
   var mainEl, progEl;
@@ -171,6 +192,9 @@
     var node = M.nodes[id];
     if (!node) throw new Error("Onbekende node " + id);
     state.current = id;
+    if (node.type === "debrief") save({ done: true });
+    else if (node.type !== "intro") save({ node: id, vars: state.vars, log: state.log, tried: state.tried });
+    else if (!completedSent) clearSaved();
     mainEl.innerHTML = "";
     setProgress(node.type === "debrief" ? 1 : (node.step || 0) / (M.steps || 10));
     header(node, mainEl);
@@ -184,18 +208,18 @@
   }
 
   function nextButton(label, onClick) {
-    return el("div", { class: "actions" }, [el("button", { class: "btn", type: "button", text: label || "Verder", onclick: onClick })]);
+    return el("div", { class: "actions" }, [el("button", { class: "btn", type: "button", text: label || u("verder"), onclick: onClick })]);
   }
 
   function quality(o) {
     if (o.quality) return o.quality;
     return o.points > 0 ? "good" : "bad";
   }
-  var VERDICT = { good: "Goede keuze", mid: "Kan beter", bad: "Geen goede keuze" };
+  var VERDICT = { good: u("goed"), mid: u("matig"), bad: u("fout") };
 
   var RENDER = {
     intro: function (node, into) {
-      into.appendChild(nextButton(node.button || "Start", function () { go(resolveNext(node.next)); }));
+      into.appendChild(nextButton(node.button || u("start"), function () { go(resolveNext(node.next)); }));
     },
     info: function (node, into) {
       if (node.feedback) into.appendChild(el("div", { class: "feedback " + (node.feedbackType || "info") }, [el("p", { html: node.feedback })]));
@@ -222,7 +246,7 @@
           state.log.push({ node: node.title, choice: o.label, q: q });
           var fb = el("div", { class: "feedback " + q, role: "status" }, [el("div", { class: "verdict", text: o.verdict || VERDICT[q] }), el("p", { html: o.feedback })]);
           fbBox.appendChild(fb);
-          if (o.retry) fbBox.appendChild(nextButton("Probeer opnieuw", function () { go(id); }));
+          if (o.retry) fbBox.appendChild(nextButton(u("opnieuwProberen"), function () { go(id); }));
           else fbBox.appendChild(nextButton(o.button || node.button, function () { go(resolveNext(o.next || node.next)); }));
           fb.scrollIntoView && fb.scrollIntoView({ block: "nearest", behavior: "smooth" });
           fbBox.querySelector(".btn").focus({ preventScroll: true });
@@ -240,7 +264,7 @@
       var status = el("p", { class: "hint", "aria-live": "polite" });
       var list = el("div", { class: "options", role: "group", "aria-labelledby": "q-" + id });
       var chosen = [];
-      var check = el("button", { class: "btn", type: "button", text: node.checkLabel || "Controleer", disabled: "disabled" });
+      var check = el("button", { class: "btn", type: "button", text: node.checkLabel || u("controleer"), disabled: "disabled" });
       var items = node.options.map(function (o, i) {
         var key = String.fromCharCode(65 + i);
         var b = el("button", { class: "opt", type: "button", "aria-pressed": "false" }, [el("span", { class: "key", "aria-hidden": "true", text: key }), el("span", { html: o.label })]);
@@ -254,7 +278,7 @@
         return b;
       });
       function upd() {
-        status.textContent = "Gekozen: " + chosen.length + " van " + n + ".";
+        status.textContent = u("gekozen").replace("{x}", chosen.length).replace("{n}", n);
         if (chosen.length === n) check.removeAttribute("disabled"); else check.setAttribute("disabled", "disabled");
       }
       upd();
@@ -271,8 +295,8 @@
           b.disabled = true;
           if (sel && o.correct) right++;
           if (sel && !o.correct) wrong++;
-          if (o.correct) { b.classList.add("is-good"); b.appendChild(el("span", { class: "tag", text: sel ? "Juist gekozen" : "Hoort erbij" })); }
-          else if (sel) { b.classList.add("is-bad"); b.appendChild(el("span", { class: "tag", text: "Hoort er niet bij" })); }
+          if (o.correct) { b.classList.add("is-good"); b.appendChild(el("span", { class: "tag", text: sel ? u("juistGekozen") : u("hoortErbij") })); }
+          else if (sel) { b.classList.add("is-bad"); b.appendChild(el("span", { class: "tag", text: u("hoortErNietBij") })); }
           else b.classList.add("dim");
           if (sel && o.feedback) b.appendChild(el("span", { class: "tag", style: "font-weight:400;color:inherit", text: o.feedback }));
         });
@@ -283,7 +307,7 @@
         var q = full ? "good" : (right > 0 ? "mid" : "bad");
         if (node.bonus) state.log.push({ node: node.title, choice: right + " van " + n + " juist", q: q });
         fbBox.appendChild(el("div", { class: "feedback " + (node.bonus ? q : "info"), role: "status" }, [
-          el("div", { class: "verdict", text: node.bonus ? (right + " van de " + n + " juist") : "Uitleg" }),
+          el("div", { class: "verdict", text: node.bonus ? u("aantalJuist").replace("{x}", right).replace("{n}", n) : u("uitleg") }),
           el("p", { html: full ? node.feedbackFull : node.feedbackPartial })]));
         fbBox.appendChild(nextButton(node.button, function () { go(resolveNext(node.next)); }));
         fbBox.querySelector(".btn").focus({ preventScroll: true });
@@ -303,42 +327,70 @@
           lab.classList.toggle("done", cb.checked);
           var all = boxes.every(function (b) { return b.checked; });
           if (all) btn.removeAttribute("disabled"); else btn.setAttribute("disabled", "disabled");
-          hint.textContent = all ? "Alles is meegegeven." : "Vink alles aan om door te gaan.";
+          hint.textContent = all ? u("allesAangevinkt") : u("vinkAlles");
         });
         boxes.push(cb);
         list.appendChild(lab);
       });
-      hint.textContent = "Vink alles aan om door te gaan.";
+      hint.textContent = u("vinkAlles");
       into.appendChild(list); into.appendChild(hint); into.appendChild(btnWrap);
     },
     debrief: function (node, into) {
       sendComplete();
       if (M.maxPoints) into.appendChild(el("div", { class: "score" }, [
         el("div", { class: "num", text: state.vars.Punten + " / " + M.maxPoints }),
-        el("div", { text: tpl(node.scoreText || "Je maakte {Punten} van de {max} sterkste keuzes.") })]));
+        el("div", { text: tpl(node.scoreText || u("score")) })]));
       if (node.extra) renderBlocks(node.extra, into);
       if (node.learn) {
-        into.appendChild(el("h2", { text: node.learnTitle || "Leerpunten", style: "font-size:18px" }));
+        into.appendChild(el("h2", { text: node.learnTitle || u("leerpunten"), style: "font-size:18px" }));
         into.appendChild(el("ol", { class: "learn" }, node.learn.map(function (t) { return el("li", { html: t }); })));
       }
       if (state.log.length) {
-        var d = el("details", { class: "review" }, [el("summary", { text: "Bekijk je keuzes" })]);
+        var d = el("details", { class: "review" }, [el("summary", { text: u("bekijkKeuzes") })]);
         d.appendChild(el("ol", null, state.log.map(function (l) {
           return el("li", null, [el("span", { class: "q-" + l.q, text: VERDICT[l.q] + ". " }), el("span", { html: (l.node ? l.node + ": " : "") + l.choice })]);
         })));
         into.appendChild(d);
       }
       if (node.after) into.appendChild(el("p", { class: "hint", html: node.after }));
-      into.appendChild(el("div", { class: "actions" }, [el("button", { class: "btn secondary", type: "button", text: "Opnieuw", onclick: function () { reset(); go(M.start); } })]));
+      into.appendChild(el("div", { class: "actions" }, [el("button", { class: "btn secondary", type: "button", text: u("opnieuw"), onclick: function () { clearSaved(); reset(); go(M.start); } })]));
     }
   };
+
+  function resumePrompt(saved) {
+    mainEl.innerHTML = "";
+    var node = M.nodes[saved.node];
+    setProgress((node.step || 0) / (M.steps || 10));
+    document.documentElement.setAttribute("data-node", "hervatten");
+    var h = el("h2", { text: u("hervatTitel"), tabindex: "-1" });
+    mainEl.appendChild(h);
+    mainEl.appendChild(el("p", { text: u("hervatTekst").replace("{scherm}", node.label || node.title) }));
+    mainEl.appendChild(el("div", { class: "actions" }, [
+      el("button", { class: "btn", type: "button", text: u("hervatVerder"), onclick: function () {
+        state.vars = saved.vars; state.log = saved.log || []; state.tried = saved.tried || {};
+        go(saved.node);
+      } }),
+      el("button", { class: "btn secondary", type: "button", text: u("hervatOpnieuw"), onclick: function () { clearSaved(); reset(); go(M.start); } })
+    ]));
+    h.focus({ preventScroll: true });
+  }
 
   function boot() {
     reset();
     mainEl = shell();
     progEl = app.querySelector(".progress span");
     document.title = M.code + " " + M.title;
-    go(M.start);
+    var saved = load();
+    if (saved && saved.done) {
+      /* Al eerder afgerond: afronding opnieuw doorgeven en vers beginnen. */
+      sendComplete();
+      go(M.start);
+      mainEl.insertBefore(el("p", { class: "note", text: u("alAfgerond") }), mainEl.querySelector(".actions"));
+    } else if (saved && saved.node && M.nodes[saved.node]) {
+      resumePrompt(saved);
+    } else {
+      go(M.start);
+    }
   }
   window.SCENARIO = { go: go, state: function () { return state; } };
   boot();

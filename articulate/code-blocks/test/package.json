@@ -1,0 +1,8 @@
+{
+  "name": "drtc-code-blocks-test",
+  "private": true,
+  "description": "Testhulpmiddelen voor de Code Block-pakketten. Playwright is in de werkomgeving al aanwezig.",
+  "devDependencies": {
+    "axe-core": "4.10.2"
+  }
+}

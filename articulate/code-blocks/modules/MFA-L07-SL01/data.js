@@ -5,6 +5,7 @@
    Punten 0 tot 8, alleen bij de eerste poging op een scherm. Afronding bij het bereiken van scherm 9. */
 window.MODULE = {
   id: "MFA-L07-SL01",
+  version: "0.1",
   code: "MFA-L07 Radiomedisch advies",
   title: "Het RMD-gesprek",
   badge: "Oefenscenario",

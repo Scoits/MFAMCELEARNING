@@ -78,3 +78,15 @@
   .ship-label.stern { left: 50%; transform: translateX(-50%); bottom: 4px; }
   .task .prompt { font-size: 17px; }
 }
+
+/* Heel smal of sterk ingezoomd (tekst op 200 procent): de ruimtes onder elkaar, van boeg naar achterschip. */
+@media (max-width: 340px) {
+  .hull { border-radius: 40% 40% 8px 8px / 40px 40px 8px 8px; padding: 44px 8px 10px; }
+  .deck {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: none;
+    grid-auto-rows: minmax(56px, auto);
+    grid-template-areas: "brug" "gbrug" "verf" "zieken" "acc" "kombuis" "gacc" "werk";
+  }
+  .room.corridor { flex-direction: row; flex-wrap: wrap; }
+}

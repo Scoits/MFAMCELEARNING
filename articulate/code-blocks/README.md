@@ -1,6 +1,6 @@
 # Interactieve modules voor het Rise Code Block
 
-Versie 0.1, 21 november 2026. Kant-en-klare oefenscenario's als HTML-pakket. Martijn plaatst ze in Rise 360 met een Code Block; Storyline is niet nodig. De Storyline-scripts in `articulate/storyline/` zijn de inhoudelijke bron en blijven de terugval.
+Versie 0.2, 21 november 2026. Eerst technische proef met MFA-L01-I01 en MC-L04-SL01, zie [testrapport](TESTRAPPORT-proef.md); de andere pakketten worden daarna bijgewerkt. Kant-en-klare oefenscenario's als HTML-pakket. Martijn plaatst ze in Rise 360 met een Code Block; Storyline is niet nodig. De Storyline-scripts in `articulate/storyline/` zijn de inhoudelijke bron en blijven de terugval.
 
 Alle modules zijn concept. De medische inhoud is nog niet door Mathanje beoordeeld; dat staat ook onderaan iedere module. Scores blijven in het pakket en gaan niet naar Moodle. De eindtoets blijft in Moodle Quiz.
 
@@ -34,9 +34,12 @@ Bron voor de eisen: Articulate, Rise 360: How to Use Code Block (bijgewerkt 15 m
 | `shared/scenario.js` | Scenariomotor: keuzes met feedback, vertakking, opnieuw proberen, kaartjes kiezen, checklist, observatielijst met grafiek, debriefing |
 | `shared/plattegrond.js` | Tikopdracht op een plattegrond |
 | `shared/logo.png` | Tijdelijk logo, uitgesneden uit een schermafbeelding van Rise. Vervang door het originele logobestand van DRTC en bouw opnieuw |
-| `modules/<ID>/data.js` | Alle tekst van de module. Pas tekst alleen hier aan, en eerst in het script |
+| `modules/<ID>/structuur.js` en `tekst.nl-NL.json` | Proefpakketten (MFA-L01-I01, MC-L04-SL01): logica in structuur.js, alle tekst in het taalbestand. Een vertaling komt in `tekst.en-GB.json` met dezelfde sleutels; `node taal.js csv <ID> en-GB` maakt een lijst voor de vertaler en `node taal.js controleer <ID>` controleert of alles vertaald is |
+| `modules/<ID>/data.js` | Pakketten die nog niet zijn omgezet: structuur en tekst samen |
+| `shared/ui.nl-NL.json`, `ui.en-GB.json` | Vaste knop- en meldingsteksten van de motor |
 | `build.py` | Bouwt per module `index.html` en de ZIP in `build/code-blocks/` |
-| `test/` | Headless test met Playwright: loopt vaste routes, controleert de afrondingsmelding, horizontaal scrollen en scriptfouten, en maakt schermafbeeldingen |
+| `test/` | Headless tests met Playwright: `run.js` (routes en schermafbeeldingen), `proef.js` (telefoon, toetsenbord, hervatten, opslag geblokkeerd, blokhoogte), `toegankelijkheid.js` (axe-core, tekst op 200 procent, taalwissel; eenmalig `npm install` in `test/`), `studietijd.js` (kortste en langste pad) |
+| `TESTRAPPORT-proef.md` | Uitkomst van de technische proef en de checklist voor Rise en Moodle |
 
 Bouwen en testen:
 
