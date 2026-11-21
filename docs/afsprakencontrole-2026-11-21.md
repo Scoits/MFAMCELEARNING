@@ -35,7 +35,7 @@
 | Werkt op telefoon, tablet en computer | Nog niet getest | Martijn, in de proefles |
 | De echte tijd meten met testcursisten | Nog niet gedaan | DRTC, in de proefles |
 | De registratie in Moodle testen vóór de volledige bouw | Nog niet gedaan | Martijn, in de proefles |
-| Foto's van de medische kist, het vlotpakket en de zuurstofkoffer | Ontbreken. Er is één fotosessie met een instructeur nodig | DRTC |
+| Foto's van de medische kist, het vlotpakket en de zuurstofkoffer | Een instructeur maakt ze (akkoord Martijn, 21 november). De [fotolijst](../articulate/fotolijst-fotosessie.md) is klaar: 31 opnames, 64 foto's in één sessie | DRTC |
 | Video met de echte duur | Films gekoppeld op bestandsnaam. Duur en gebruiksrecht zijn onbekend | DRTC |
 | Block templates na de proefles | Volgen na de proef | Martijn |
 | Medische vrijgave per les | Open | Mathanje |

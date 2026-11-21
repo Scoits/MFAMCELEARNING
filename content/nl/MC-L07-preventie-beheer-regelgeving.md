@@ -1,5 +1,7 @@
 # Preventie, beheer en regelgeving
 
+Status: concept (versie 0.2). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L07, versie 0.2, 21 november 2026. Versie 0.2 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit leerboek GH2 (S017) hoofdstuk 19 (hygiëne, voeding, drinkwater en legionella) en de Ships medical guide (S025) hoofdstuk 12 (toestemming en vertrouwelijkheid), 29 (voedsel, drinkwater, ongedierte en hygiëneronde), 30 (vaccinaties en gezond leven) en 33 (beheer van geneesmiddelen en het register voor middelen onder de Opiumwet). Nieuw zijn S16 tot en met S34 met MC-K07-05 tot en met MC-K07-09 en een doe-opdracht. De minuten zijn per scherm berekend met de rekenregel. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 Nieuw voor deze les zijn Bijlage 5 van de Regeling veiligheid zeeschepen over de medische uitrusting (S066) en het DRTC-overzicht Medische uitrusting aan boord van zeeschepen (S067), op 20 november 2026 via de coördinator uit map 025 opgehaald. De export van S066 vermeldt 'geldend van 1 januari 2017 tot heden'; die geldigheid is niet zelf op wetten.overheid.nl gecontroleerd (R81). De les noemt geen geneesmiddelen met hoeveelheden.

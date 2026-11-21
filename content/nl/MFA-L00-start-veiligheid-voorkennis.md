@@ -1,5 +1,7 @@
 # Start, veiligheid en voorkennis
 
+Status: concept (versie 0.1). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MFA-L00, versie 0.1, 20 november 2026. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest in Articulate en Moodle.
 
 ## Lesgegevens

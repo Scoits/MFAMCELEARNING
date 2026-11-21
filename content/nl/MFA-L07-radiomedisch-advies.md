@@ -1,5 +1,7 @@
 # Radiomedisch advies voorbereiden en overdragen
 
+Status: concept (versie 0.4). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Lesprototype MFA-L07, versie 0.4, 21 november 2026. Versie 0.4 voegt S12 tot en met S16 toe: het vertakte scenario RMD-gesprek als HTML-pakket in een Code Block, een casus als Rise Scenario-blok, een sorteeroefening en twee kennischecks. Versie 0.3 voegde S09 tot en met S11 toe over GMDSS en het verwerken van ontvangen advies. Alle bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Nederlandse master in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal en bevat geen summatieve examenvragen. De bouw en technische test in Articulate en Moodle zijn nog niet uitgevoerd.
 
 ## Lesdoel en afbakening

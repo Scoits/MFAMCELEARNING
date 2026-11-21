@@ -100,3 +100,7 @@ Mathanje ondersteunt in [MH-001](../reviews/2026-11-20-mathanje-hoofdlijnen.md) 
 Het exacte percentage is niet door haar genoemd en blijft nog vast te stellen. Werk eerst de toetsmatrijs, vraagkwaliteit en een onderbouwde normeringsaanpak uit. Leg percentage, eventuele overige beoordelingsregels en vaststellingsbesluit daarna vast per cursus. Gebruik geen zelfgekozen percentage als reeds goedgekeurde norm.
 
 De positieve reactie verandert de open status van afzonderlijke medische vraaginhoud, antwoorden, feedback en praktijkcriteria niet. Het online resultaat en de individuele praktijkbeslissing blijven afzonderlijk herkenbaar.
+
+## Eisen aan de vragenbank (afspraak 21 november 2026)
+
+DRTC is eigenaar van de vragenbank. Mathanje keurt de vragen medisch goed. Wij leveren voorstellen. Iedere vraag heeft een vraag-ID, een leerdoel-ID en een bronverwijzing met editie en pagina. De [toetsblauwdruk](toetsblauwdruk-v001.md) legt de verdeling over leerdoelen en niveaus vast, op basis van de [toetsmatrijs](toetsmatrijs-v001.md). Echte toetsvragen staan niet in deze openbare repository.

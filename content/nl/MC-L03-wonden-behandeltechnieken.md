@@ -1,5 +1,7 @@
 # Wonden en behandeltechnieken
 
+Status: concept (versie 0.1). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L03, versie 0.1, 20 november 2026. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 Deze les bereidt de handelingen verdoven, hechten en verbinden voor. Zij vervangt de uitvoering en beoordeling op locatie niet. De les noemt geen doseringen: de hoeveelheden lidocaïne uit S064 dia23 en PH2 staan bewust niet in de cursistentekst. Hoeveel verdoving de cursist gebruikt, volgt uit het advies van de arts en de praktijkinstructie (zie R56).

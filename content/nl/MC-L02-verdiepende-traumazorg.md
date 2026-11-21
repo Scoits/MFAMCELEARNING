@@ -1,5 +1,7 @@
 # Verdiepende traumazorg
 
+Status: concept (versie 0.2). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L02, versie 0.2, 21 november 2026. Versie 0.2 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit de Ships medical guide (S025) hoofdstuk 2 (shock), 4 (hoofdletsel), 5 (oogletsel), 6 (botten, gewrichten en spieren), 7 (buik en borst) en 9 (brandwonden). GH2 heeft geen hoofdstuk over trauma. Nieuw zijn S14 tot en met S35 met MC-K02-04 tot en met MC-K02-06 en een doe-opdracht. De minuten zijn per scherm berekend met de rekenregel. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 Deze les gaat ervan uit dat de cursist de eerste hulp uit MFA-L03 en MFA-L04 beheerst: bloeding stoppen, shock herkennen, brandwonden koelen en afdekken, wervelletsel stabiliseren en breuken ondersteunen. MC-L02 herhaalt dat niet, maar gaat over wat daarna komt: beoordelen van de ernst, bewaken over langere tijd, medisch advies voorbereiden, vervolgzorg en vervoer aan boord. Wondzorg en wondsluiting staan in MC-L03. Doseringen en infuus staan niet in deze les.

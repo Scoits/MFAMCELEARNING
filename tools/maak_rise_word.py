@@ -314,7 +314,7 @@ def doorgaan(doc, n, verplicht):
 
 
 def beeldpad(media_map, mid):
-    for naam in (f"{mid}.png", f"{mid}-tijdelijk.png"):
+    for naam in (f"{mid}.png", f"{mid}.jpg", f"{mid}.jpeg", f"{mid}-tijdelijk.png"):
         pad = os.path.join(media_map, naam)
         if os.path.exists(pad):
             return pad

@@ -111,9 +111,9 @@ Stand 21 november 2026, eind van de middag, met deze strenge regel:
 
 MFA komt op 265 en MC op 306 minuten, samen ongeveer 9,5 uur. Eerder die middag werd ongeveer 13 uur genoemd. Dat getal paste alleen de leessnelheid aan en telde de doe-opdrachten en 1,5 minuut per kennischeck nog mee. Het tekort is 215 minuten bij MFA en 174 bij MC.
 
-Bijgewerkt 21 november 2026, avond. `tools/studietijd.py` telde drie kennischecks van MFA-L07 in de oudere schrijfwijze niet mee; dat is hersteld. MFA-L07 versie 0.4 kreeg het scenario-pakket, een casus, een sorteeroefening en twee kennischecks. Stand: MFA 290 minuten (tekort 190), MC 306 minuten (tekort 174). De tabel hierboven toont de stand per les.
+Bijgewerkt 21 november 2026, avond. `tools/studietijd.py` telde drie kennischecks van MFA-L07 in de oudere schrijfwijze niet mee; dat is hersteld. MFA-L07 versie 0.4 kreeg het scenario-pakket, een casus, een sorteeroefening en twee kennischecks. Stand: MFA 290 minuten (tekort 190), MC 305 minuten (tekort 175). Het scherm met de eindtoets telt niet meer mee, omdat de eindtoets volgens Martijn niet meetelt. De tabel hierboven toont de stand per les.
 
-Het tekort wordt aangevuld met leeractiviteit, niet met meer tekst. Zie [leeractiviteiten-plan](leeractiviteiten-plan.md). De werkelijke tijd volgt uit de meting met testcursisten in de proefles. Die meting is ook de basis voor de urenonderbouwing (CBT-02). Of de online kennistoetsen in MFA-L08 en MC-L09 meetellen voor de 16 uur, is een vraag voor DRTC; ze zijn hier niet meegeteld.
+Het tekort wordt aangevuld met leeractiviteit, niet met meer tekst. Zie [leeractiviteiten-plan](leeractiviteiten-plan.md). De werkelijke tijd volgt uit de meting met testcursisten in de proefles. Die meting is ook de basis voor de urenonderbouwing (CBT-02). De online eindtoets in MFA-L08-S05 en MC-L09-S05 telt niet mee voor de 16 uur (besluit Martijn, 21 november 2026); `tools/studietijd.py` telt die schermen voor 0 minuten.
 
 ## Volgorde
 
@@ -130,3 +130,14 @@ Per les komt er een mediamap met bestanden die precies zo heten als de media-ID 
 - Zolang een foto ontbreekt, staat er een tijdelijk beeld met de naam `<media-ID>-tijdelijk.png` en de tekst dat het niet voor cursisten is.
 
 De mappen staan in de projectbestanden onder `articulate-proef/media/`, niet in deze openbare repository.
+
+## Definities volgens de afspraken van 21 november 2026
+
+Sinds 21 november, avond, rekent `tools/studietijd.py` volgens hoofdstuk 11 van de [afspraken](afspraken.md):
+
+- Een casus als Rise Scenario-blok en een vertakt scenario tellen met het kortste volledige pad: de tekst van iedere scène met de juiste keuze en haar feedback, 150 woorden per minuut, plus 1 minuut per beslismoment. Voor een pakket leest het script het scenarioscript in `articulate/storyline/`. Omwegen tellen niet mee. Eerder telde een casus vast 7 en een pakket vast 10 minuten.
+- De eindtoets telt niet mee; dat scherm telt voor 0 minuten.
+- Reflectie zonder controle en doe-opdrachten zonder controlevraag tellen niet mee. Samenvattingen tellen alleen met hun leestijd.
+- Een kennischeck in de oudere schrijfwijze (alleen een kop zoals `K07-01:`) telt nu ook mee.
+
+Stand met deze definities: MFA 290 en MC 307 minuten. Per les in [lesstatus](lesstatus.md), per leerdoel in de [dekkingsmatrix MFA](dekkingsmatrix-mfa.md) en [MC](dekkingsmatrix-mc.md), en de planning in [tijdplanning per les](tijdplanning-per-les.md). Dit zijn geplande minuten. De urenonderbouwing combineert ze met de meting bij testcursisten, met actieve tijd, pauzes en technische vertraging apart.

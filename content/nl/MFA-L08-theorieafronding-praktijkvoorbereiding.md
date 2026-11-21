@@ -1,5 +1,7 @@
 # Theorieafronding en voorbereiding op de praktijkdag
 
+Status: concept (versie 0.1). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MFA-L08, versie 0.1, 20 november 2026. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. De les is nog niet gebouwd of getest.
 
 Deze les bevat geen summatieve toetsvragen. De afsluitende kennistoets wordt in deze les alleen aangekondigd en ingekaderd; de items staan in de afgeschermde vragenbank en worden getrokken volgens [de toetsmatrijs](../../docs/toetsmatrijs-v001.md). Het beheer van de toets in Moodle Quiz is een voorstel uit het ontwerpkader, nog geen bevestigd besluit. Slagingsgrens, toetslengte, toetsduur en herkansingsregels zijn niet vastgesteld; waar deze les ernaar verwijst, staat een plaatshouder.

@@ -1,5 +1,7 @@
 # Aanvullend onderzoek
 
+Status: concept (versie 0.2). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L01, versie 0.2, 21 november 2026. Versie 0.2 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit leerboek GH2 (S017) hoofdstuk 20 (anamnese, lichamelijk onderzoek en bloeddrukmeting) en de Ships medical guide (S025) hoofdstuk 12 (onderzoek van de patiënt) en 26 (vitale functies en uitscheiding). Nieuw zijn S12 tot en met S27 met MC-K01-04 tot en met MC-K01-07 en een doe-opdracht. De minuten zijn per scherm berekend met de rekenregel. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 Deze les bouwt voort op MFA-L02 (slachtofferonderzoek, metingen en AMPLE) en herhaalt dat alleen kort. Nieuw is het gerichte onderzoek van borst en buik volgens pagina 2 van het DRTC-patiëntevaluatieformulier, luisteren met de stethoscoop, het volgen van het verloop en het doel en de grenzen van eenvoudige aanvullende tests. Ziektebeelden zelf komen in MC-L05.
