@@ -18,6 +18,15 @@ Werkversie 0.1, 21 november 2026. Dit document verwerkt de productiehandleiding 
 
 De eerste proef met Magic Lesson Import op 20 november 2026 zette een hele les in één tabs-blok. Dat bestand was de hele les in één keer, zonder bloklabels en zonder beelden. Het nieuwe importbestand is een deel van ongeveer 15 minuten, met bloklabels en beelden. Volgens een reactie van Articulate op het forum neemt Magic Lesson Import de opmaak van de blokken niet altijd over. Andere teams importeren daarom per blok. De proefles laat zien welke van de twee routes voor DRTC werkt. Daarna wordt één route de standaard.
 
+### Tweede route: de AI van Rise laten bouwen
+
+Martijn vond de letterlijke import van MFA-L01 deel 1 te weinig interactief. Bij Security Awareness gaf een uitgebreide bouwprompt een beter resultaat. Daarom is er een tweede route: [ai-bouwprompt-MFA-L01](ai-bouwprompt-MFA-L01.md). Daarin bouwt Generate lesson ieder deel vanuit het importbestand als enige bron. De prompt legt per deel de interacties vast, zoals scenario, sorteren, gelabelde afbeelding, proces en kennischecks. Hij stelt ook harde grenzen: geen medische feiten, getallen of handelingen buiten de bron, en geen inkorting van stappen en waarschuwingen. Na het bouwen volgt een controle tegen de bron, en daarna beoordeelt Mathanje de les. De proefles vergelijkt de twee routes.
+
+Fouten uit de proefimport van deel 1, verwerkt op 21 november 2026:
+- opsommingen in tabbladen kwamen leeg over, dus die staan in het importbestand nu als losse regels met een opsommingsteken;
+- de sorteeroefening kwam niet over, dus die staat nu op de checklist na de import;
+- een zin met gemengde opsomming ("voor maag en darmen, tegen pijn, ogen") werd verkeerd gesplitst, dus die blijft nu een zin.
+
 ## 2. Beelden
 
 - Gebruik echte, gecontroleerde foto's en video's voor handelingen, uitrusting en apparatuur. Gebruik eigen schema's voor stappen, tabellen en plattegronden. AI-beelden gebruik je alleen voor sfeer of een fictieve situatie, nooit voor een handeling of een detail van apparatuur.

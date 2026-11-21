@@ -92,6 +92,14 @@ def opsomming(zin):
         items[-1:] = laatste
     if len(items) < 4 or any(len(i.split()) > 16 for i in items):
         return None
+    if items[0].startswith("bijvoorbeeld "):
+        items[0] = items[0][len("bijvoorbeeld "):]
+        inleiding += " bijvoorbeeld"
+    # Gemengde zinsbouw ("voor maag en darmen", "tegen pijn", "ogen") is geen nette lijst:
+    # laat de zin dan staan (fout gezien in de proefimport van MFA-L01, 21 november 2026).
+    voorzetsel = [bool(re.match(r"(voor|tegen|met|bij|om|in|op|van|aan)\b", i)) for i in items]
+    if any(voorzetsel) and not all(voorzetsel):
+        return None
     return inleiding + ":", items
 
 
@@ -324,12 +332,18 @@ def zet_tabel(doc, alinea):
                     r.bold = True
 
 
-def zet_delen(doc, delen):
+def zet_delen(doc, delen, platte_lijst=False):
+    """Bij platte_lijst wordt een opsomming losse regels met een opsommingsteken.
+    Magic Lesson Import maakte van Word-opsommingen in tabbladen lege opsommingstekens
+    (proefimport MFA-L01, 21 november 2026)."""
     for d in delen:
         doc.add_paragraph(d[1])
         if d[0] == "lijst":
             for item in d[2]:
-                doc.add_paragraph(item, style="List Bullet")
+                if platte_lijst:
+                    doc.add_paragraph("\u2022 " + item)
+                else:
+                    doc.add_paragraph(item, style="List Bullet")
 
 
 def zet_beelden(doc, media, media_map, ontbreekt):
@@ -397,13 +411,13 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt, importmodus=False):
     elif t in ("Tabbladen", "Accordeon", "Tijdlijn", "Flashcards"):
         for kop, tekst in b["items"]:
             doc.add_heading(kop, level=4)
-            zet_delen(doc, alinea_blokken(tekst))
+            zet_delen(doc, alinea_blokken(tekst), platte_lijst=importmodus)
     elif t == "Proces":
         doc.add_heading("Inleiding", level=4)
         doc.add_paragraph(b["intro"])
         for k, stap in enumerate(b["stappen"], 1):
             doc.add_heading(f"Stap {k}", level=4)
-            zet_delen(doc, alinea_blokken(stap))
+            zet_delen(doc, alinea_blokken(stap), platte_lijst=importmodus)
     elif t == "Sorteeroefening":
         doc.add_paragraph("Opdracht: Sleep iedere kaart naar de juiste groep.")
         for kop, kaarten in b["stapels"]:
@@ -541,7 +555,7 @@ def maak_bouwboek(les, titel, delen, uitpad, media_map, proef, bouw):
     return ontbreekt
 
 
-ALLEEN_NA_IMPORT = {"Storyline", "Interactie"}
+ALLEEN_NA_IMPORT = {"Storyline", "Interactie", "Sorteeroefening"}
 
 
 def maak_importbestanden(les, titel, delen, uitdir, media_map):
@@ -582,6 +596,12 @@ def maak_importbestanden(les, titel, delen, uitdir, media_map):
         if los:
             regels.append("Blokken die je zelf toevoegt op de plek van de markering [Hier komt na de import]:")
             for s, b in los:
+                if b["type"] == "Sorteeroefening":
+                    regels.append(f"- {s['screen_id']}: Sorting activity (Interactive > Sorting activity). "
+                                  "Sleep iedere kaart naar de juiste groep.")
+                    for kop, kaarten in b["stapels"]:
+                        regels.append(f"  - {kop}: " + "; ".join(kaarten))
+                    continue
                 eerste = b["tekst"].splitlines()[0] if b.get("tekst") else ""
                 regels.append(f"- {s['screen_id']}: {RISE[b['type']][0]}. {eerste}")
             regels.append("")
