@@ -255,6 +255,15 @@ Versie 0.5 breidt de les uit met uitleg uit GH1 (S016) hoofdstuk 3, 5 en 6. GH1 
 | R105 | MFA-L03 shockschermen | GH1 zegt bij shock plat op de rug met de benen omhoog; de DRTC-dia's (S034 dia50) noemen alleen neerleggen. Gaan de benen omhoog in de les? GH1 noemt ook een bovendruk onder 90 als teken van shock; de les noemt geen grenswaarde. |
 | R106 | MFA-L03 bewusteloosheid en reanimatie | Blijft de rode huid bij koolmonoxidevergiftiging in de les als (onbetrouwbaar) teken? Bevestig dat de les bij een blokkade tijdens de reanimatie de huidige werkwijze volgt in plaats van GH1, en dat de beslissing om te stoppen bij de RMD ligt in plaats van de grens van 30 minuten uit GH1. Klopt het weglaten van termijnen bij langdurige bewusteloosheid (GH1: draaien om de drie uur)? |
 
+## Aanvulling bij MC-L07 versie 0.2
+
+Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 19 en de Ships medical guide (S025, WHO 2007) hoofdstuk 12, 29, 30 en 33. Concentraties van insecticiden en chloor en namen van middelen zijn niet overgenomen. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R107 | MC-L07-S18, S22, S23 | GH2 noemt minstens 63 °C voor verhitten en warmhouden, de Ships medical guide 65 °C in de kern van vlees; de les zegt 'door en door verhitten'. Moet er een getal bij? Welke maatregelen tegen legionella gelden aan boord, en noemt de les bij ontsmetten van drinkwater genoeg (filteren, inwerktijd, eigen veiligheid)? |
+| R108 | MC-L07-S28 tot en met S34 | Klopt het vaccinatieadvies voor zeevarenden (difterie en tetanus, herhaling, hepatitis A en B voor wie zorg geeft)? Moeten toestemming en vertrouwelijkheid naar Nederlands recht (WGBO, beroepsgeheim) apart worden genoemd? Welke Nederlandse eisen gelden voor het register van middelen onder de Opiumwet en de bewaartermijn? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

@@ -61,7 +61,7 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 | MC-L04 | 40 | 16 | Storyline-scenario volgt |
 | MC-L05 | 80 | 102 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 1 tot en met 15 |
 | MC-L06 | 55 | 20 | |
-| MC-L07 | 55 | 19 | |
+| MC-L07 | 55 | 76 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 19 en S025 hoofdstuk 12, 29, 30 en 33 |
 | MC-L08 | 45 | 21 | Storyline-scenario volgt |
 | MC-L09 | 60 | 9 | 50 minuten toetsreservering |
 
