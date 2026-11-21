@@ -130,3 +130,14 @@ Per les komt er een mediamap met bestanden die precies zo heten als de media-ID 
 - Zolang een foto ontbreekt, staat er een tijdelijk beeld met de naam `<media-ID>-tijdelijk.png` en de tekst dat het niet voor cursisten is.
 
 De mappen staan in de projectbestanden onder `articulate-proef/media/`, niet in deze openbare repository.
+
+## Definities volgens de afspraken van 21 november 2026
+
+Sinds 21 november, avond, rekent `tools/studietijd.py` volgens hoofdstuk 11 van de [afspraken](afspraken.md):
+
+- Een casus als Rise Scenario-blok en een vertakt scenario tellen met het kortste volledige pad: de tekst van iedere scène met de juiste keuze en haar feedback, 150 woorden per minuut, plus 1 minuut per beslismoment. Voor een pakket leest het script het scenarioscript in `articulate/storyline/`. Omwegen tellen niet mee. Eerder telde een casus vast 7 en een pakket vast 10 minuten.
+- De eindtoets telt niet mee; dat scherm telt voor 0 minuten.
+- Reflectie zonder controle en doe-opdrachten zonder controlevraag tellen niet mee. Samenvattingen tellen alleen met hun leestijd.
+- Een kennischeck in de oudere schrijfwijze (alleen een kop zoals `K07-01:`) telt nu ook mee.
+
+Stand met deze definities: MFA 290 en MC 307 minuten. Per les in [lesstatus](lesstatus.md), per leerdoel in de [dekkingsmatrix MFA](dekkingsmatrix-mfa.md) en [MC](dekkingsmatrix-mc.md), en de planning in [tijdplanning per les](tijdplanning-per-les.md). Dit zijn geplande minuten. De urenonderbouwing combineert ze met de meting bij testcursisten, met actieve tijd, pauzes en technische vertraging apart.

@@ -1,5 +1,7 @@
 # Gecoördineerde medische hulp en evacuatie
 
+Status: concept (versie 0.2). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L08, versie 0.2, 21 november 2026. Versie 0.2 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit de Ships medical guide (S025) hoofdstuk 25 (hulp van buiten het schip) en GH2 (S017) hoofdstuk 21 (radiomedisch advies en evacuatie), en met het Storyline-scenario MC-L08-SL01 helikopterevacuatie. Nieuw zijn S16 tot en met S25 met MC-K08-05 en MC-K08-06, het scenario en een doe-opdracht. De minuten zijn per scherm berekend met de rekenregel. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 Deze les bouwt voort op MFA-L07 Radiomedisch advies. De MFA-les behandelt de contactprocedure, de officiële KNRM-vragenlijst, begripscontrole, GMDSS en het uitvoeren van advies. MC-L08 herhaalt dat niet, maar voegt toe wat de MC-zorgverlener zelf regelt: een volledige hulpvraag met scheepsgegevens, het controleren van advies dat een MC-handeling vraagt, vervoer en helikopterevacuatie, overdracht aan de wal en de eigen rol in een gecoördineerde hulpactie.

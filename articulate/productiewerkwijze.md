@@ -4,7 +4,7 @@ Werkversie 0.2, 21 november 2026. De vaste afspraken staan in [docs/afspraken.md
 
 ## 1. Bouwroutes
 
-Volgens de afspraken van 21 november 2026 is de hoofdroute Create with AI (AI Course Draft), zoals bij Security Awareness. Zie de derde route hieronder en [ai-course-draft-MFA](ai-course-draft-MFA.md). De letterlijke import en het bouwboek per blok zijn de terugval.
+Volgens de afspraken van 21 november 2026 is de hoofdroute Create with AI (AI Course Draft), zoals bij Security Awareness. Zie de derde route hieronder en [ai-course-draft-MFA](ai-course-draft-MFA.md). De letterlijke import en het bouwboek per blok zijn de terugval. In de proefles meten we de correctietijd van deze route tegenover direct opbouwen met block templates; daarna kiezen we de route definitief (zie [proefles-MFA-L01](proefles-MFA-L01.md)). De SCORM-versie en de indeling in pakketten kiezen we na de Moodle-acceptatietest.
 
 | Doel | Route |
 | --- | --- |

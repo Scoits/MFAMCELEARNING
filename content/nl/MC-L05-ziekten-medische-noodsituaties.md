@@ -1,5 +1,7 @@
 # Ziekten en medische noodsituaties
 
+Status: concept (versie 0.2). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L05, versie 0.2, 21 november 2026. Versie 0.2 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit leerboek GH2 (S017) hoofdstuk 1 tot en met 15: soorten buikpijn, buikonderzoek, blindedarmontsteking, buikvliesontsteking, darmafsluiting, maagzweer en maagbloeding, liesbreuk, galstenen en nierstenen, aderverkalking, angina pectoris en hartinfarct, anafylactische shock, astma, ziekteverwekkers en afweer, isoleren, malaria, cholera, gele koorts, buiktyfus, nekkramp, tetanus en soa's. Nieuw zijn S21 tot en met S46 met MC-K05-06 tot en met MC-K05-13 en een doe-opdracht. De minuten zijn per scherm berekend met de rekenregel. GH2 dateert van 2013 en noemt veel geneesmiddelen met dosering; die zijn niet overgenomen.  Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 De les leert herkennen, prioriteren en de arts inschakelen. De MC-zorgverlener stelt geen diagnose en behandelt niet zelfstandig met geneesmiddelen. De les noemt daarom geen middelen met dosering; waar een dia een geneesmiddel noemt, staat in de les dat het alleen op advies van de arts wordt gegeven.

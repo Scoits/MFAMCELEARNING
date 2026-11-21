@@ -1,5 +1,7 @@
 # Medische uitrusting aan boord
 
+Status: concept (versie 0.4). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MFA-L01, versie 0.4, 21 november 2026. Versie 0.4 voegt na de proefimport de casus S20 met keuzes toe als Rise Scenario-blok. Versie 0.3 vult de uitleg over wonden en verbandmiddelen aan uit leerboek GH1 (S016, hoofdstuk 2 en 3) en voegt S18 en S19 met K01-07 toe. GH1 heeft geen hoofdstuk over de medische uitrusting; daarvoor blijft S066 de bron. Versie 0.2 breidt de les uit tot een volledige vervanging van de klassikale theorie over de medische uitrusting. De uitleg begint bij de basis, voor zeevarenden zonder medische voorkennis. Nieuw zijn de schermen S10 tot en met S17 en de kennischecks K01-04 tot en met K01-06, gebaseerd op de Regeling medische uitrusting (S066), dag 1 ochtend dia 51-53 (S045), dag 2 middag dia 2-10 (S044), PH10 (S058) en LOTUS-kaart 12 (S027). S02 en S09 zijn verdiept. De bestaande scherm-, vraag- en antwoord-ID's zijn behouden. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 ## Lesgegevens

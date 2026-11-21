@@ -1,5 +1,7 @@
 # Verpleegkundige zorg en bewaking
 
+Status: concept (versie 0.2). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L04, versie 0.2, 21 november 2026. Versie 0.2 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit de Ships medical guide (S025) hoofdstuk 26 (verpleegkundige zorg en handelingen) en GH2 (S017) hoofdstuk 24 (medische administratie), en met het Storyline-scenario MC-L04-SL01 verslechtering in de nacht. Nieuw zijn S12 tot en met S27 met MC-K04-04 tot en met MC-K04-06, het scenario en een doe-opdracht. De minuten zijn per scherm berekend met de rekenregel. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 De les bereidt injecteren (MC-V01 en MC-V02) en het inbrengen van een urinekatheter (MC-V04) voor. Zij vervangt het afzonderlijk oefenen en de individuele observatie op locatie niet. Infuus (MC-V03) staat niet in deze les zolang het scopebesluit open is; S063 dia38 tot en met 68 en PH3 (S051) zijn gelezen en kunnen na het besluit worden uitgewerkt. De les noemt geen doseringen of druppelsnelheden.

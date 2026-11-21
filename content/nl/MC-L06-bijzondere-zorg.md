@@ -1,5 +1,7 @@
 # Bijzondere zorg aan boord
 
+Status: concept (versie 0.2). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MC-L06, versie 0.2, 21 november 2026. Versie 0.2 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit leerboek GH2 (S017) hoofdstuk 16 tot en met 18 (psychiatrie en alcohol) en de Ships medical guide (S025) hoofdstuk 13 (depressie, zelfdoding, agressie en PTSS), 22 (alcohol en drugs), 24 (gebit), 27 (overlijden) en 28 (geredden). Nieuw zijn S16 tot en met S31 met MC-K06-05 tot en met MC-K06-07. De minuten zijn per scherm berekend met de rekenregel. GH2 en de Ships medical guide noemen veel geneesmiddelen met dosering; die zijn niet overgenomen. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 De les behandelt alcohol, drugs en psychische ontregeling, mond en gebit, gynaecologie, zwangerschap en bevalling, zorg voor geredde personen en overlijden aan boord. Voor de bevalling (MC-20.02) is het scopebesluit open (OB-08); het scherm daarover geeft alleen een oriëntatie en geen handelingsinstructie. De les noemt geen doseringen.

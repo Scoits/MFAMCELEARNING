@@ -1,5 +1,7 @@
 # Toxicologische risico's, zuurstof en geredde personen
 
+Status: concept (versie 0.4). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MFA-L05, versie 0.4, 21 november 2026. Versie 0.4 maakt de les tot volledige vervanging van de klassikale theorie, met uitleg vanaf de basis uit leerboek GH1 (S016) hoofdstuk 2 (vergiftiging) en 4 (verdrinking) en de Ships medical guide (S025) hoofdstuk 11 en 28. Nieuw zijn S14 tot en met S33 met K05-05 tot en met K05-08 en een doe-opdracht. De minuten zijn per scherm berekend met de rekenregel. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 ## Lesgegevens

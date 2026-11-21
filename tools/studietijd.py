@@ -2,8 +2,10 @@
 
 - cursistentekst: 150 woorden per minuut;
 - kennischeck: 1 minuut per vraag;
-- casus als Rise Scenario-blok: 7 minuten;
-- vertakt scenario (HTML-pakket in een Code Block, terugval Storyline): 10 minuten, na de proef te meten;
+- casus als Rise Scenario-blok en vertakt scenario (HTML-pakket in een Code Block, terugval Storyline):
+  de tijd van het kortste volledige pad, dus de tekst van iedere scène met de juiste keuze en haar
+  feedback (150 woorden per minuut) plus 1 minuut per beslismoment, net als een kennischeck.
+  Omwegen en extra paden tellen niet mee (afspraken, hoofdstuk 11);
 - sorteeroefening, gelabelde afbeelding of tikopdracht: 2 minuten, want Rise controleert dat de cursist ze afrondt;
 - video: de echte duur; die is nog niet gemeten en telt daarom voorlopig niet mee;
 - doe-opdracht zonder controle in Rise: 0 minuten;
@@ -21,6 +23,37 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+def pad_scenarioblok(inter):
+    """Kortste volledige pad van een Rise Scenario-blok: scènes, juiste keuzes en hun feedback."""
+    woorden, besluiten = 0, 0
+    for regel in inter.splitlines():
+        if re.match(r"^(Scène \d+|Einde):", regel):
+            woorden += len(regel.split())
+            besluiten += regel.startswith("Scène")
+        elif re.match(r"^I\d\d-\d\d-\d+[A-D]: ", regel) and "(juist)" in regel:
+            woorden += len(regel.split())
+    return woorden / 150 + besluiten
+
+
+def pad_script(inter):
+    """Kortste volledige pad van een vertakt scenario uit het script in articulate/storyline/."""
+    m = re.search(r"^Script: (\S+\.md)", inter, re.M)
+    pad = os.path.join(ROOT, m.group(1)) if m else ""
+    if not pad or not os.path.exists(pad):
+        return 0  # zonder script geen onderbouwing
+    tekst = open(pad, encoding="utf-8").read()
+    woorden, besluiten = 0, 0
+    for kop, inhoud in re.findall(r"^### (?:Slide|Scherm) (\S+)[^\n]*\n(.*?)(?=^##)", tekst + "\n##", re.M | re.S):
+        if not kop.isdigit() or "(alleen" in inhoud.split("\n", 1)[0]:
+            continue
+        rijen = [r for r in inhoud.splitlines() if r.startswith("| ") and not r.startswith(("| Keuze", "| ---"))]
+        juist = [r for r in rijen if r.rstrip(" |").endswith(("1", "punt"))][:1]
+        rest = [r for r in inhoud.splitlines() if not r.startswith("|")]
+        woorden += len(" ".join(rest + juist).split())
+        besluiten += any(r.startswith("| Keuze") for r in inhoud.splitlines())
+    return woorden / 150 + besluiten
+
+
 def scherm(x):
     p = x["platform_block"].lower()
     if "moodle quiz" in p:
@@ -34,9 +67,9 @@ def scherm(x):
         vragen = len(set(re.findall(r"^(K\d\d-\d\d): ", inter, re.M)))
     m += vragen
     if "scenario-blok" in p:
-        m += 7
+        m += pad_scenarioblok(inter)
     if "storyline" in p or "code block" in p:
-        m += 10
+        m += pad_script(inter)
     if re.search(r"gelabelde|hotspot|tikvlak|sorteer", p) or re.search(r"^I\d\d-\d\d: (tikopdracht|sorteer)", inter, re.M):
         m += 2
     return m

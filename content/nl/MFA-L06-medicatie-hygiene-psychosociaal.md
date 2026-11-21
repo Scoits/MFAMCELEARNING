@@ -1,5 +1,7 @@
 # Medicatiebasis, materiaalhygiëne en psychosociale aandacht
 
+Status: concept (versie 0.1). Vaste reeks: concept, bron gecontroleerd, didactisch gereed, medische review, medisch vrijgegeven, productie, technisch getest in Moodle, definitief. Medisch nog niet vrijgegeven door Mathanje.
+
 Les MFA-L06, versie 0.1, 20 november 2026. Nederlandse reviewmaster in concept. Medische review door Mathanje is nog niet uitgevoerd. Dit is formatief oefenmateriaal; er staan geen summatieve examenvragen in. De les is nog niet gebouwd of getest.
 
 Deze les noemt bewust geen doseringen. S045 dia55 tot en met 58 bevat doseringen van pijnstillers; de matrix (opmerking MFA-10.01) en de projectopdracht leggen vast dat MFA leert waar en hoe je gebruik en dosering opzoekt en dat je geneesmiddelen alleen in opdracht van de arts geeft. Welke medicatiekennis MFA precies omvat, is open beslissing OB-08.
