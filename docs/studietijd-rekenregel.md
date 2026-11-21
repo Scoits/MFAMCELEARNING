@@ -62,8 +62,10 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 | MC-L05 | 80 | 102 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 1 tot en met 15 |
 | MC-L06 | 55 | 58 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 16 tot en met 18 en S025 hoofdstuk 13, 22, 24, 27 en 28 |
 | MC-L07 | 55 | 76 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 19 en S025 hoofdstuk 12, 29, 30 en 33 |
-| MC-L08 | 45 | 21 | Storyline-scenario volgt |
+| MC-L08 | 45 | 56 | Uitgewerkt in versie 0.2 met S025 hoofdstuk 25 (External assistance), GH2 en scenario MC-L08-SL01 (10 minuten) |
 | MC-L09 | 60 | 9 | 50 minuten toetsreservering |
+
+Stand 21 november 2026 volgens de rekenregel, zonder de toetsreserveringen: MFA 441 minuten, MC 527 minuten, samen 968 minuten. Daarmee is de ondergrens van 16 uur (960 minuten) voor het geheel gehaald. MFA zit nog 39 minuten onder de 480; MFA-L06 en MFA-L07 met het RMD-scenario worden als volgende uitgewerkt. Daarna volgt MC-L03.
 
 ## Volgorde
 

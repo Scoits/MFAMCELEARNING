@@ -309,6 +309,15 @@ Versie 0.2 breidt de les uit met uitleg uit de Ships medical guide (S025) hoofds
 | R117 | MC-L04-S19 en S20 | Welke handelingen bij een langdurig bewusteloze patiënt horen in MC: een mayotube inbrengen, de ogen spoelen met zoutoplossing, urine opvangen met een condoomkatheter en de gewrichten na 48 uur doorbewegen? Waar meet de MC-zorgverlener de temperatuur tijdens het afsponzen bij hoge koorts? |
 | R118 | MC-L04-S26 en articulate/storyline/MC-L04-SL01 | Kloppen de fictieve waarden, het verloop en het advies van de arts in het scenario verslechtering in de nacht? Mag de cursist in het scenario zelf zuurstof starten, en is de feedback bij de keuzes juist? |
 
+## Aanvulling bij MC-L08 versie 0.2
+
+Versie 0.2 breidt de les uit met uitleg uit de Ships medical guide (S025) hoofdstuk 25 (External assistance) en GH2 (S017) over medisch advies op afstand en helikopterevacuatie, en voegt het Storyline-scenario MC-L08-SL01 toe. De TE VERIFIËREN-punten staan per scherm in de master en in het script.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R119 | MC-L08-S16, S17 en S23 | Passen de vragenlijsten uit de Ships medical guide bij ziekte en letsel bij de RMD-vragenlijst die DRTC in MFA-L07 gebruikt? Moet de cursist leren dat hij het gesprek opneemt of alleen schriftelijk vastlegt? Is de verwijsbrief die met de patiënt meegaat hetzelfde document als de medische kaart, of komen er twee? |
+| R120 | MC-L08-S24 en articulate/storyline/MC-L08-SL01 | Kloppen de fictieve casus van bootsman Henk, de keuzes en de feedback in het scenario helikopterevacuatie? Kloppen het label, de geleidelijn en de rolverdeling met IAMSAR en de werkwijze van de Kustwacht? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |
