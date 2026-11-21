@@ -1,0 +1,80 @@
+/* Plattegrond OEFENSCHIP A */
+.task { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin: 0 0 12px; }
+.task .count { font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.task .prompt { font-size: 19px; font-weight: 700; color: var(--navy); }
+.found { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 12px; padding: 0; list-style: none; }
+.found li { font-size: 13px; border: 1px solid var(--line); border-radius: 999px; padding: 2px 10px; color: var(--muted); background: #fff; }
+.found li.ok { border-color: #a9d5ba; background: var(--good-bg); color: var(--good); font-weight: 600; }
+
+.ship-wrap { position: relative; padding: 4px 0 26px; }
+.hull {
+  position: relative;
+  background: #eef2f7;
+  border: 4px solid var(--navy);
+  border-radius: 8px 48% 48% 8px / 8px 50% 50% 8px;
+  padding: 16px 19% 16px 16px;
+}
+.deck {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: 92px 46px 92px;
+  grid-template-areas:
+    "werk kombuis zieken brug"
+    "gacc gacc gbrug gbrug"
+    ". acc acc verf";
+}
+.ship-label { position: absolute; font-size: 13px; color: var(--muted); }
+.ship-label.bow { right: 6%; top: 50%; transform: translateY(-50%); writing-mode: vertical-rl; }
+.ship-label.stern { left: 4px; bottom: 2px; }
+
+.room {
+  font: inherit; font-size: 15px; line-height: 1.2;
+  background: #fff; color: var(--ink);
+  border: 2px solid var(--navy); border-radius: 4px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
+  padding: 6px; cursor: pointer; text-align: center; min-height: 44px; min-width: 0;
+  overflow-wrap: break-word; hyphens: manual;
+  transition: background .15s, border-color .15s, box-shadow .15s;
+}
+.room.corridor { background: #dfe6ef; border: 1px solid #8a99ad; flex-direction: row; gap: 10px; }
+.room:hover:not([disabled]) { background: #f3f9fd; border-color: var(--blue); }
+.room:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; position: relative; z-index: 1; }
+.room.is-good, .room.is-good:hover { background: var(--good-bg); border-color: var(--good); box-shadow: inset 0 0 0 2px var(--good); }
+.room.is-bad, .room.is-bad:hover:not([disabled]) { background: var(--bad-bg); border-color: var(--bad); }
+.room.was-found { background: var(--good-bg); border-color: var(--good); }
+.room .rtag { font-size: 12px; font-weight: 700; }
+.room.is-good .rtag, .room.was-found .rtag { color: var(--good); }
+.room.is-bad .rtag { color: var(--bad); }
+
+.sign { display: inline-flex; flex: none; hyphens: none; overflow-wrap: normal; white-space: nowrap; }
+.sign svg { width: 34px; height: 34px; display: block; }
+.sign.brancard { border: 2px solid #1b7a3d; color: #1b7a3d; font-weight: 700; font-size: 12px; letter-spacing: .03em; border-radius: 4px; padding: 2px 6px; background: #fff; }
+
+.legend-map { display: flex; gap: 18px; flex-wrap: wrap; font-size: 14px; color: var(--muted); margin: 6px 0 4px; }
+.legend-map span { display: inline-flex; align-items: center; gap: 8px; }
+.legend-map .sign svg { width: 24px; height: 24px; }
+
+/* Staand telefoonscherm: het schip staat rechtop met de boeg boven. */
+@media (max-width: 600px) {
+  .hull {
+    border-radius: 48% 48% 8px 8px / 22% 22% 8px 8px;
+    padding: 64px 10px 12px;
+  }
+  .deck {
+    grid-template-columns: minmax(0, 1fr) minmax(0, .9fr) minmax(0, 1fr);
+    grid-template-rows: repeat(4, 84px);
+    gap: 6px;
+    grid-template-areas:
+      "brug gbrug verf"
+      "zieken gbrug acc"
+      "kombuis gacc acc"
+      "werk gacc .";
+  }
+  .room { font-size: 14px; }
+  .sign.brancard { font-size: 10px; padding: 2px 4px; }
+  .room.corridor { flex-direction: column; gap: 6px; }
+  .ship-label.bow { top: 10px; left: 50%; right: auto; transform: translateX(-50%); writing-mode: horizontal-tb; z-index: 1; }
+  .ship-label.stern { left: 50%; transform: translateX(-50%); bottom: 4px; }
+  .task .prompt { font-size: 17px; }
+}
