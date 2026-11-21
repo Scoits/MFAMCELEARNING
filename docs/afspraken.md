@@ -16,9 +16,9 @@ Bijgewerkt: 21 november 2026. Dit is het vaste overzicht van alle afspraken met 
 - Minimaal 16 uur echte studietijd: 8 uur MFA en 8 uur MC (elk minimaal 480 minuten).
 - Klassikaal duren MFA en MC samen 40 uur.
 - Strenge rekenregel: 150 woorden per minuut, 1 minuut per kennischeck, een opdracht telt alleen mee als Rise controleert dat de cursist hem doet. Video telt met de echte duur.
-- Stand 21 november, avond, met de strenge regel: MFA 290 en MC 306 minuten, samen ongeveer 10 uur. Tekort: 190 minuten MFA en 174 minuten MC. Het tekort wordt aangevuld met activiteiten, niet met meer tekst. Rekenen met `tools/studietijd.py`.
+- Stand 21 november, avond, met de strenge regel en zonder de eindtoets: MFA 290 en MC 305 minuten, samen ongeveer 10 uur. Tekort: 190 minuten MFA en 175 minuten MC. Het tekort wordt aangevuld met activiteiten, niet met meer tekst. Rekenen met `tools/studietijd.py`.
 - De echte tijd wordt gemeten met testcursisten. Alleen die meting telt voor de urenonderbouwing.
-- Open: telt de online eindtoets mee voor de 16 uur?
+- De online eindtoets telt niet mee voor de 16 uur (Martijn, 21 november). De 8 uur per cursus moet dus uit de lessen zelf komen.
 
 ## 3. Inhoud
 - De e-learning vervangt de klassikale theorie volledig.
@@ -55,7 +55,7 @@ Bijgewerkt: 21 november 2026. Dit is het vaste overzicht van alle afspraken met 
 - De PowerPoints zijn te groot om als bron in Rise te uploaden. Gebruik de compacte PDF's, of losse dia's als afbeelding.
 - Wij kunnen alleen tekst uit SharePoint halen, geen bestanden. Beelden zet Martijn zelf in de projectmap uploads.
 - Er komt een beeldbankregister: ID, versie, wat erop staat, wie het controleerde, gebruiksrecht en in welke lessen het staat.
-- Foto's van de medische kist, het vlotpakket en de zuurstofkoffer ontbreken nog. Eén fotosessie met een instructeur kan dat oplossen.
+- Foto's van de medische kist, het vlotpakket en de zuurstofkoffer ontbreken nog. Een instructeur van DRTC maakt die foto's (Martijn akkoord, 21 november). Wij leveren een fotolijst per les.
 
 ## 7. Toetsing
 - Kennischecks in de lessen zijn oefening, met feedback waarom een antwoord goed of fout is.
@@ -77,11 +77,10 @@ Bijgewerkt: 21 november 2026. Dit is het vaste overzicht van alle afspraken met 
 - Martijn wil duidelijk zien of er gewerkt wordt, en eerlijke cijfers.
 
 ## 10. Open punten
-1. Telt de eindtoets mee voor de 16 uur?
-2. MC-praktijkvariant A of B.
-3. Slagingspercentage.
-4. Identiteitscontrole: definitieve keuze.
-5. Medische vrijgave per les door Mathanje.
-6. Foto's en video van DRTC-uitrusting.
-7. Engelse vertaling na vaststelling van de Nederlandse master.
-8. Test van de Moodle-registratie en van de werking op mobiel.
+1. MC-praktijkvariant A of B.
+2. Slagingspercentage.
+3. Identiteitscontrole: definitieve keuze.
+4. Medische vrijgave per les door Mathanje.
+5. Foto's en video van DRTC-uitrusting.
+6. Engelse vertaling na vaststelling van de Nederlandse master.
+7. Test van de Moodle-registratie en van de werking op mobiel.

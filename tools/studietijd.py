@@ -7,7 +7,7 @@
 - sorteeroefening, gelabelde afbeelding of tikopdracht: 2 minuten, want Rise controleert dat de cursist ze afrondt;
 - video: de echte duur; die is nog niet gemeten en telt daarom voorlopig niet mee;
 - doe-opdracht zonder controle in Rise: 0 minuten;
-- de online eindtoets in Moodle telt niet mee (open punt).
+- de online eindtoets in Moodle telt niet mee (besluit Martijn, 21 november 2026); dat scherm telt voor 0 minuten.
 
 Gebruik: python3 tools/studietijd.py [--md]
 """
@@ -23,6 +23,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def scherm(x):
     p = x["platform_block"].lower()
+    if "moodle quiz" in p:
+        return 0  # eindtoets telt niet mee voor de studietijd
     inter = x["interaction"]
     w = len(x["learner_text"].split())
     m = w / 150

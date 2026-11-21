@@ -40,7 +40,7 @@ Ruwe begroting met de strenge regel. Iedere activiteit wordt een scherm in de sc
 | Extra kennischecks, 1 minuut per stuk | 20 | 15 |
 | Samen | ongeveer 218 | ongeveer 176 |
 
-Telt de online eindtoets mee (open punt), dan ligt er meer marge.
+De online eindtoets telt niet mee (besluit Martijn, 21 november 2026). De minuten moeten dus uit de lessen komen.
 
 ## Kijkopdrachten (voorlopige koppeling)
 
