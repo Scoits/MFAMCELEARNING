@@ -33,7 +33,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden toxicol
 
 Bronstatus: S034 dia59 tot en met 64 (toxicologie en MFAG), S043 dia7 tot en met 35 (onderkoeling, verdrinking en zuurstof), S044 dia18 en 20 (zeeziekte en vergiftiging van de huid) en PH5 (S053) zijn als tekst gelezen. De LOTUS-kaarten (S027) zijn EHBO-casussen voor de wal; LOTUS 24 noemt dat de ruimte kort weer betreden kan worden, wat aan boord bij een besloten ruimte niet geldt. Die aanwijzing is niet overgenomen. Een actuele MFAG-editie en IMDG-vindplaats ontbreken in het register.
 
-De schermrecords staan in [MFA-L05-schermreview.csv](../../reviews/MFA-L05-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S14, S15, S02, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S23, S06, S24, S07, S08, S09, S25, S26, S27, S28, S29, S30, S10, S11, S12, S31, S32, S33, S13.
+De schermrecords staan in [MFA-L05-schermreview.csv](../../reviews/MFA-L05-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S14, S15, S02, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S23, S06, S24, S07, S08, S34, S09, S25, S26, S27, S28, S29, S30, S10, S11, S12, S31, S32, S33, S13.
 
 ## MFA-L05-S01 Gevaar uit de lading, gevaar uit het water
 
@@ -613,6 +613,24 @@ Wat doe je voordat je het masker op het gezicht plaatst?
 
 TE VERIFIËREN: Mathanje beoordeelt de feedback bij K05-03-C.
 
+## MFA-L05-S34 Scenario: gas in de tank
+
+Leerdoelen: MFA-03.01; MFA-03.02; MFA-03.03; MFA-03.04. Bronplaats: zie het script [MFA-L05-SL01](../../articulate/storyline/MFA-L05-SL01-gas-in-de-tank.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een collega ligt bewusteloos onderin een ballasttank. Een andere collega wil hem achterna. Jij beslist wat er gebeurt, van het mangat tot de bewaking in de uren erna.
+
+**Interactie**
+
+Scenario-pakket MFA-L05-SL01 in een Rise Code Block met afrondingseis. Script: [MFA-L05-SL01](../../articulate/storyline/MFA-L05-SL01-gas-in-de-tank.md), bouwlijst: [MFA-L05-SL01-bouwlijst.csv](../../articulate/storyline/MFA-L05-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R140).
+
 ## MFA-L05-S09 Geredde personen opvangen
 
 Leerdoelen: MFA-08.01. Bronplaats: S043 dia2 (kalmeren en geruststellen), dia25 (complicaties na bijna-verdrinking), dia27 (horizontaal uit het water, voorzichtig behandelen), dia28 (eerste hulp en tweede verdrinking); S009 p1 item 9.1; S003 Part C 9.1, gedrukte p15 / PDF p21. Media: MFA-L05-M06. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -1009,7 +1027,7 @@ SC-MFA-04, SC-MFA-05 en station MFA-P03 in docs/praktijkplanning-v001.md.
 
 ## Bouw en test
 
-Gebruik 33 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het MFAG wordt niet nagebouwd of gekopieerd; S04 toont een eigen schematisch voorbeeld met een fictieve stof en verwijst naar de MFAG-editie aan boord. Controleer op een staand telefoonscherm dat de tabel met blootstellingsroutes in S05 als tabbladen leesbaar blijft. K05-01 tot en met K05-04 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 34 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het MFAG wordt niet nagebouwd of gekopieerd; S04 toont een eigen schematisch voorbeeld met een fictieve stof en verwijst naar de MFAG-editie aan boord. Controleer op een staand telefoonscherm dat de tabel met blootstellingsroutes in S05 als tabbladen leesbaar blijft. K05-01 tot en met K05-04 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

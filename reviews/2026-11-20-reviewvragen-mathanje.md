@@ -355,6 +355,7 @@ Vanaf 21 november 2026 krijgt MC 40 procent en MFA 20 procent van de studietijd 
 | R137 | MFA-L03-S34 en articulate/storyline/MFA-L03-SL02-verslikking-in-de-mess.md | Kloppen de casus, de keuzes en de feedback in het scenario verslikking in de mess? Klopt het afwisselen van slagen met borststoten? Na de keuze van de richtlijn (OB-03) wordt het nagelopen. |
 | R138 | MFA-L04-S47 en articulate/storyline/MFA-L04-SL01-brand-in-de-kombuis.md | Kloppen de casus, de keuzes en de feedback in het scenario brand in de kombuis? Klopt de koeltijd (R27)? Is de schatting van 11 procent een goed oefenvoorbeeld? |
 | R139 | MFA-L04-S48 en articulate/storyline/MFA-L04-SL02-val-van-de-ladder.md | Kloppen de casus, de keuzes en de feedback in het scenario val van de ladder? Blijft de nekkraag (R05)? Past het verloop van het bewustzijn als oefening? |
+| R140 | MFA-L05-S34 en articulate/storyline/MFA-L05-SL01-gas-in-de-tank.md | Kloppen de casus, de keuzes en de feedback in het scenario gas in de tank? Klopt de feedback over het gasmasker met filter? Zuurstof voor het gesprek met de arts? MFAG of veiligheidsinformatieblad bij zwavelwaterstof? |
 
 ## Antwoorden van Martijn op 20 november 2026
 
