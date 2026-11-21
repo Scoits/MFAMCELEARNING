@@ -300,6 +300,15 @@ Versie 0.2 breidt de les uit met uitleg uit GH2 (S017) hoofdstuk 20 en de Ships 
 | R115 | MC-L01-S12 en S13 | Sluit de uitleg over toestemming en geheimhouding uit de Ships medical guide aan bij de Nederlandse regels voor zorg aan boord? Wat mag de MC-zorgverlener aan de kapitein en de rederij doorgeven? |
 | R116 | MC-L01-S18, S20 en S22 | Welke normaalwaarden en grenzen gebruikt MC voor bloeddruk (GH2 noemt 130/80 en 120/80) en temperatuur (GH2 tot 37,5 normaal, Ships medical guide 36,3 tot 37,2)? Voert de MC-zorgverlener de test op nekstijfheid en het kloppen op de nierloge uit? |
 
+## Aanvulling bij MC-L04 versie 0.2
+
+Versie 0.2 breidt de les uit met uitleg uit de Ships medical guide (S025) hoofdstuk 26 en GH2 (S017) hoofdstuk 24, en voegt het Storyline-scenario MC-L04-SL01 toe. De TE VERIFIËREN-punten staan per scherm in de master en in het script.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R117 | MC-L04-S19 en S20 | Welke handelingen bij een langdurig bewusteloze patiënt horen in MC: een mayotube inbrengen, de ogen spoelen met zoutoplossing, urine opvangen met een condoomkatheter en de gewrichten na 48 uur doorbewegen? Waar meet de MC-zorgverlener de temperatuur tijdens het afsponzen bij hoge koorts? |
+| R118 | MC-L04-S26 en articulate/storyline/MC-L04-SL01 | Kloppen de fictieve waarden, het verloop en het advies van de arts in het scenario verslechtering in de nacht? Mag de cursist in het scenario zelf zuurstof starten, en is de feedback bij de keuzes juist? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

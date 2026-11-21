@@ -58,7 +58,7 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 | MC-L01 | 40 | 59 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 20 en S025 hoofdstuk 12 en 26 |
 | MC-L02 | 50 | 73 | Uitgewerkt in versie 0.2 met S025 hoofdstuk 2, 4 tot en met 7 en 9 |
 | MC-L03 | 40 | 17 | |
-| MC-L04 | 40 | 16 | Storyline-scenario volgt |
+| MC-L04 | 40 | 67 | Uitgewerkt in versie 0.2 met S025 hoofdstuk 26, GH2 hoofdstuk 24 en scenario MC-L04-SL01 (10 minuten) |
 | MC-L05 | 80 | 102 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 1 tot en met 15 |
 | MC-L06 | 55 | 58 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 16 tot en met 18 en S025 hoofdstuk 13, 22, 24, 27 en 28 |
 | MC-L07 | 55 | 76 | Uitgewerkt in versie 0.2 met GH2 hoofdstuk 19 en S025 hoofdstuk 12, 29, 30 en 33 |

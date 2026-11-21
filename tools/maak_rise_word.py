@@ -219,7 +219,9 @@ def scherm_blokken(s):
         else:
             blokken.insert(0, beeld)
 
-    if vraag:
+    if "storyline" in p:
+        blokken.append({"type": "Storyline", "tekst": s["interaction"]})
+    elif vraag:
         blokken.append({"type": "Kennischeck", "vraag": vraag, "scherm": s})
     elif (s["interaction"].strip() and not s["interaction"].startswith("Niet van toepassing")
           and not any(b.get("interactie") for b in blokken)):
@@ -266,9 +268,10 @@ RISE = {
     "Gelabelde afbeelding": ("Labeled graphic", "Interactive > Labeled graphic; markeringen volgens de interactieconfiguratie"),
     "Kennischeck": ("Multiple choice", "Knowledge check > Multiple choice; juist antwoord en feedback per keuze zoals hieronder"),
     "Interactie": ("zie interactieconfiguratie", "bouwen volgens de interactieconfiguratie"),
+    "Storyline": ("Storyline", "Interactive > Storyline; kies de publicatie uit Review 360, zet Require completion aan"),
 }
 INTERACTIEF = {"Tabbladen", "Accordeon", "Tijdlijn", "Flashcards", "Proces", "Sorteeroefening",
-               "Gelabelde afbeelding", "Kennischeck", "Interactie"}
+               "Gelabelde afbeelding", "Kennischeck", "Interactie", "Storyline"}
 
 
 def blokkop(doc, n, soort):
@@ -406,6 +409,9 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt):
         for k, (aid, _, _) in enumerate(opties):
             if fb.get(aid):
                 doc.add_paragraph(f"Feedback bij {letters[k]}: {fb[aid]}")
+    elif t == "Storyline":
+        for regel in [r.strip() for r in b["tekst"].splitlines() if r.strip()]:
+            doc.add_paragraph(regel)
     elif t == "Interactie":
         eerste = b["tekst"].splitlines()[0]
         opdracht = eerste.split("Opdracht:", 1)[1].strip() if "Opdracht:" in eerste else eerste
@@ -431,7 +437,7 @@ def samenvatting(b):
         return b["vraag"][1][:80]
     if t == "Tabel":
         return "tabel uit de schermtekst"
-    if t == "Interactie":
+    if t in ("Interactie", "Storyline"):
         return b["tekst"].splitlines()[0][:90]
     if t == "Opvallend kader":
         return b["tekst"][:80]

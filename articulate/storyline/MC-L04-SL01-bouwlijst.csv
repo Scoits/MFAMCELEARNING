@@ -1,0 +1,13 @@
+slide_id,titel,type,inhoud_kort,keuzes,volgende,variabelen,media
+MC-L04-SL01-01,Start,Keuzevraag met observatielijst,22.00 uur meten; waarden bijna gelijk aan 18.00 uur,A noteren en bel klaarleggen; B RMD bellen; C gaan slapen,2,Punten +1 bij A,Eigen illustratie ziekenboeg bij nacht; observatielijst als grafiek
+MC-L04-SL01-02,De bel,Keuzevraag,01.00 uur: rillen en benauwd,A direct meten; B extra deken en wachten; C koortsremmer,A naar 3; B en C naar 2B,Tijdpad juist bij A of laat bij B en C; Punten +1 bij A,Illustratie patiënt onder dekens
+MC-L04-SL01-02B,Een uur later,Informatieslide met feedback,02.00 uur: traag en verward; waarden slechter,Doorgaan,3,Tijdpad laat,Illustratie onrustige patiënt
+MC-L04-SL01-03,De metingen,Keuzevraag met observatielijst,Waarden afhankelijk van Tijdpad; trend tonen,A koorts verklaart het; B direct RMD; C water en later meten,B naar 4; A en C naar 3A,Punten +1 bij B,Observatielijst met lijn per waarde
+MC-L04-SL01-03A,Terug naar de lijn,Hotspots in grafiek,Drie sterkst veranderde waarden aanklikken,Pols; ademhaling; bloeddruk,4,Geen,Observatielijst met klikbare lijnen
+MC-L04-SL01-04,Het gesprek voorbereiden,Aanvink- of sleepopdracht,Vijf van acht gegevens kiezen,Acht kaartjes,5,GegevensJuist per juist kaartje; Punten +1 bij 5,Kaartjes in DRTC-stijl
+MC-L04-SL01-05,Het advies,Keuzevraag,Fictief advies van de arts; kapitein inlichten,A collega bij patiënt; B alleen laten; C bellen vanuit ziekenboeg,A en C naar 6; B naar 5A,Punten +1 bij A of C,Illustratie telefoon of portofoon
+MC-L04-SL01-05A,Terug in de ziekenboeg,Informatieslide met feedback,Patiënt half uit kooi; opnieuw meten en arts bellen,Doorgaan,6,Geen,Illustratie ziekenboeg
+MC-L04-SL01-06,Bewaken tot de evacuatie,Keuzevraag,Metingen iedere 15 minuten,A getallen en richting; B vaag,7,Punten +1 bij A,Observatielijst
+MC-L04-SL01-07,Overdracht,Checklist,Dossier meegeven voor evacuatie,Vijf items aanvinken,8 als Tijdpad laat; anders 9,Geen,Illustratie dossier
+MC-L04-SL01-08,Wat als,Informatieslide,Gevolg van wachten,Doorgaan,9,Alleen bij Tijdpad laat,Geen
+MC-L04-SL01-09,Debriefing,Eindslide,Observatielijst hele nacht; drie leerpunten; Punten tonen,Opnieuw; Afsluiten,Einde,Afronding bij bereiken,Observatielijst
