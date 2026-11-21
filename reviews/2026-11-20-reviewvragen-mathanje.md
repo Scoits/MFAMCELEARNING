@@ -207,6 +207,15 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R90 | BC-45 | Wordt het ziekte- en infectieleerspel (S081) in de MC-praktijk gebruikt? De hepatitiskaart bevat de tekst van cholera en moet dan worden hersteld. (vraag aan DRTC) |
 | R91 | BC-42 | Welke registratievorm is leidend voor de MC-praktijk: de verrichtingenlijst 2024 (S075, 23 verrichtingen) of de assessmentlijst 2026v1 (S008, 31 STCW-onderdelen)? (vraag aan DRTC) |
 
+## Aanvulling bij MFA-L01 versie 0.2
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R92 | MFA-L01-S11 | Mogen MFA-cursisten middelen zonder RMA-code, zoals paracetamol en ibuprofen tegen lichte pijn, zonder voorafgaand advies geven? Zo ja, hoe moet de les dat formuleren? |
+| R93 | MFA-L01-S02 | Kloppen de korte uitleg per onderdeel en de keuze van voorbeelden uit S066 tabel 2, zoals het metallinelaken als brandwondenverband en de ringzaagtang? |
+| R94 | MFA-L01-S16 en S17 | Klopt de materiaalkeuze per letsel? Hoort het deppen met huidontsmettingsmiddel (S044 dia 8) in de MFA-les, en hoort bij een snijwond door glas uit afval advies over besmetting of tetanus? |
+| R95 | MFA-L01-S13 en S15 | Welke instantie noemt de les bij de visering van de controlelijst, en hoe beschrijft de les het onderhoud van de medicijnkist van reddingsmiddelen? (vraag aan DRTC) |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

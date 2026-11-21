@@ -167,7 +167,9 @@ BRONPAD = {
     "S043": "2. Presentaties/Nederlands/2. MFA dag 1 middag 2025 rev 003.pptx",
     "S044": "2. Presentaties/Nederlands/4. MFA dag 2 middag 2025 rev 003.pptx",
     "S045": "2. Presentaties/Nederlands/1. MFA dag 1 ochtend 2025 rev 003.pptx",
+    "S058": "3. Praktijkhandelingen/PH 10 Aanleggen van een dekverband en wonddrukverband.pdf",
     "S061": "3. Praktijkhandelingen/PH 14 Urinekatheter inbrengen.pdf",
+    "S066": "4. Overig/Archief/025 - MFA-MC/Info/Regeling-medische-uitrusting-en-toelichting.pdf",
     "S062": "2. Presentaties/Nederlands/5. MC dag 1 ochtend 2024 rev.001.pptx",
     "S063": "2. Presentaties/Nederlands/6. MC dag 1 middag 2024 rev.001.pptx",
     "S064": "2. Presentaties/Nederlands/7. MC dag 2 ochtend  2024 rev.001.pptx",
@@ -195,7 +197,9 @@ def mediabron(media_id, register):
         elif sid in BRONPAD:
             dia = re.search(sid + r" dia\s?([\d\-, en]+)", tekst)
             delen.append(f"{MAP_025}/{BRONPAD[sid]}" + (f", dia {dia.group(1).strip()}" if dia else ""))
-    if not delen:
+    if "Eigen ontwerp" in r["vindplaats"]:
+        delen.insert(0, f"eigen beeld, bestand {media_id}.png in de mediamap van de les")
+    elif not delen:
         delen.append("geen bestand in map 025; eigen beeld maken of tijdelijk een placeholder gebruiken")
     rechten = "" if "rechten" not in tekst and "Eigen" in r["gebruiksrecht"] else f"; gebruiksrecht: {r['gebruiksrecht']}"
     return f"{media_id}: {r['omschrijving']}. Bron: {'; '.join(delen)}{rechten}. Alt-tekst: {r['alt_tekst']}"

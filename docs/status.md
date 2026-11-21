@@ -1,6 +1,6 @@
 # Projectstatus
 
-Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van ChatGPT overgenomen, een gerichte bron- en dekkingscontrole uitgevoerd, MFA-L00 tot en met MFA-L04 uitgewerkt, de RMD-les aangevuld en de praktijkplanning en toetsmatrijs als voorstel gemaakt. Via Microsoft 365 zijn S009, S034 (dag 2 ochtend), S043 (dag 1 middag), S044 (dag 2 middag) en S045 (dag 1 ochtend) als tekst gelezen; daarmee zijn alle vier MFA-presentaties gelezen en zijn zij de directe bron voor MFA-L02 tot en met L04. Medische vrijgave en technische uitvoering staan open.
+Bijgewerkt op 21 november 2026, ontwerpversie 0.6. Claude heeft het dossier van ChatGPT overgenomen, een gerichte bron- en dekkingscontrole uitgevoerd, MFA-L00 tot en met MFA-L04 uitgewerkt, de RMD-les aangevuld en de praktijkplanning en toetsmatrijs als voorstel gemaakt. Via Microsoft 365 zijn S009, S034 (dag 2 ochtend), S043 (dag 1 middag), S044 (dag 2 middag) en S045 (dag 1 ochtend) als tekst gelezen; daarmee zijn alle vier MFA-presentaties gelezen en zijn zij de directe bron voor MFA-L02 tot en met L04. Medische vrijgave en technische uitvoering staan open.
 
 | Onderdeel | Status | Vindplaats |
 | --- | --- | --- |
@@ -27,6 +27,8 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | MC-L02 | Uitgewerkt: 13 schermen, 3 kennischecks, 50 minuten | [Master](../content/nl/MC-L02-verdiepende-traumazorg.md), [schermreview](../reviews/MC-L02-schermreview.csv) |
 | MC-L03 | Uitgewerkt: 12 schermen, 3 kennischecks, 40 minuten | [Master](../content/nl/MC-L03-wonden-behandeltechnieken.md), [schermreview](../reviews/MC-L03-schermreview.csv) |
 | MC-L04 | Uitgewerkt: 11 schermen, 3 kennischecks, 40 minuten; infuus wacht op scopebesluit | [Master](../content/nl/MC-L04-verpleegkundige-zorg.md), [schermreview](../reviews/MC-L04-schermreview.csv) |
+| MFA-L01 | Versie 0.2, 21 november 2026: uitgebreid tot volledige vervanging van de klassikale theorie. 17 schermen, 6 kennischecks, 47 minuten volgens de rekenregel; uitleg vanaf de basis uit S066, S044, S045, S058 en S027. Aanvulling uit GH1 (S016) volgt | [Master](../content/nl/MFA-L01-medische-uitrusting.md), [schermreview](../reviews/MFA-L01-schermreview.csv) |
+| Studietijd | Rekenregel en uitbreidingsplan: de lessen vullen nu ongeveer 6 à 7 uur in plaats van 16 uur; iedere les wordt uitgewerkt tot de begroting | [Rekenregel](studietijd-rekenregel.md) |
 | MC-L05 | Uitgewerkt: 20 schermen, 5 kennischecks, 80 minuten; bouw als twee Rise-lessen | [Master](../content/nl/MC-L05-ziekten-medische-noodsituaties.md), [schermreview](../reviews/MC-L05-schermreview.csv) |
 | MC-L06 | Uitgewerkt: 15 schermen, 4 kennischecks, 55 minuten; bevalling alleen als oriëntatie | [Master](../content/nl/MC-L06-bijzondere-zorg.md), [schermreview](../reviews/MC-L06-schermreview.csv) |
 | MC-L07 | Uitgewerkt: 15 schermen, 4 kennischecks, 55 minuten; uitrusting onderbouwd met S066 | [Master](../content/nl/MC-L07-preventie-beheer-regelgeving.md), [schermreview](../reviews/MC-L07-schermreview.csv) |
@@ -35,8 +37,8 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | Praktijkplanning | PH 1 tot en met 14 per station gekoppeld; MFA-dag met vier stations en zes LOTUS-scenario's; MC A en B doorgerekend; voorstel A met drie instructeurs bij invasieve handelingen | [Praktijkplanning](praktijkplanning-v001.md) |
 | Urenvergelijking | Klassiek MFA 945 en MC 1425 bruto minuten (S047) tegenover hybride 990 en 1500; niet korter, CBT-02 gehaald onder twee aannames | [Urenvergelijking](urenvergelijking-v001.md) |
 | Toetsmatrijs | MFA 40 items in 14 categorieën, MC 50 items in 9 categorieën; slagingsgrens via Angoff-panel; alles voorstel | [Toetsmatrijs](toetsmatrijs-v001.md) |
-| Reviewvragen Mathanje | 91 gebundelde vragen R01 tot en met R91, met aanvullingen op R62 tot en met R64, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
-| Mediaregister | 101 regels; geen productieassets | [Mediaregister](../articulate/mediaregister.csv) |
+| Reviewvragen Mathanje | 95 gebundelde vragen R01 tot en met R95, met aanvullingen op R62 tot en met R64, met aanvullingen op R05, R10, R18 en R22 | [Reviewvragen](../reviews/2026-11-20-reviewvragen-mathanje.md) |
+| Mediaregister | 105 regels; voor MFA-L01 zijn de plattegrond (M03) en het kolommenschema (M06) als eigen concept gemaakt, de overige beelden staan als tijdelijk beeld klaar in de projectbestanden | [Mediaregister](../articulate/mediaregister.csv) |
 | Articulate-importinhoud | Hulpmiddel gereed: `tools/maak_importversie.py` maakt per les een Word-importversie en interactieconfiguratie; proefversies voor alle 19 lessen werken. Productieversie wordt geweigerd tot de medische vrijgave per scherm is geregistreerd. Promptset en bouwlog toegevoegd | [Bouwroute](../articulate/import-en-bouwroute.md), [promptset](../articulate/promptset-bouw.md) |
 | Website, ChainWise en Moodle | Ongewijzigd; acht ketenproeven ontworpen, niet uitgevoerd | [Keten](../moodle/chainwise-keten.md) |
 | Medische detailgoedkeuring | Niet uitgevoerd voor enig scherm, doel of criterium | [Reviewregistratie](../reviews/README.md) |
@@ -50,13 +52,15 @@ Bijgewerkt op 20 november 2026, ontwerpversie 0.5. Claude heeft het dossier van 
 | OB-02 | Slagingsgrens per opleiding via Angoff-panel | DRTC met Mathanje | Toets kan worden gebouwd, niet in gebruik genomen |
 | OB-03 | Leidende reanimatie- en eerstehulprichtlijn (S041) | Mathanje | MFA-L03 volgt de DRTC-dia's en PH4 uit vermoedelijk 2015; alle medische handelingen blijven TE VERIFIËREN |
 | OB-04 | Infuus in MC (MC-V03) | Mathanje en DRTC | Bezetting MC-handelingen niet definitief |
-| OB-05 | Waar 11 extra minuten van MFA-L07 vandaan komen | DRTC | MFA-urenbegroting staat op 491 minuten |
+| OB-05 | Herverdeling van de MFA-begroting nadat de lessen volgens de rekenregel zijn uitgewerkt; MFA-L07 heeft 11 en MFA-L01 17 minuten extra | DRTC | MFA-urenbegroting staat op 508 minuten |
 | OB-06 | Klassieke duur voor CBT-02. Het rooster S047 laat zien dat 40 uur MFA (twee dagen) en MC (drie dagen) samen is; de hybride uitvoering is per opleiding niet korter (docs/urenvergelijking-v001.md). Nog te bevestigen: een online dag telt als 480 minuten en de vergelijking geldt voor de hele opleiding | DRTC | Onderbouwing staat; bevestiging en pilotmeting open |
 | OB-07 | Aantal instructeur-assessoren per dagdeel | DRTC | Zie praktijkplanning; met twee is MC te krap |
 | OB-08 | Eerder open: bevalling (MC-20.02), psychosociaal (MFA-13), medicatiegrens (MFA-10.02), actuele STCW-editie, S034 | Mathanje en DRTC | Raakt MC-L06, MFA-L06 en de normcontrole |
 | OB-09 | Identificatie vóór de online eindtoets, volledig automatisch: proef met AutoProctor (openbare maandprijs), alternatief SMOWL, bevestigingstoets op locatie als alternatief zonder biometrie | DRTC, zo nodig met ILT | Voorstel in [identificatieplan](identificatieplan-v001.md); Moodle-functies nog op de installatie te controleren |
 
 ## Volgende stap
+
+Nieuw op 21 november 2026: de e-learning vervangt de klassikale theorie helemaal. Daarom worden alle lessen uitgewerkt met uitleg vanaf de basis, tot de begroting volgens [de rekenregel](studietijd-rekenregel.md) is gehaald. MFA-L01 is als eerste uitgewerkt. Daarna volgen MFA-L02, MFA-L04, MFA-L03 en MC-L05. Voor die lessen zijn de leerboeken GH1 (S016) en GH2 (S017) nodig; beide zijn opgevraagd.
 
 Mathanje beoordeelt MFA-L00 tot en met L03 en MFA-L07 versie 0.3 aan de hand van de reviewvragen R01 tot en met R26. Alle MFA-lessen L00 tot en met L08 zijn in concept uitgewerkt. MC-L00 tot en met MC-L09 zijn uitgewerkt; daarmee zijn alle MFA- en MC-lessen in concept beschikbaar. De praktijkdocumenten uit map 025 zijn als S070 tot en met S081 geregistreerd en vergeleken (BC-39 tot en met BC-45); zij veranderen de lessen niet, maar onderbouwen R55, R62, R63 en R64 en tonen dat de actuele LOTUS-kaarten voor MC ontbreken (R89). Volgende stap is de review door Mathanje en de besluiten van DRTC over infuus, de praktijkvariant en de toetsduur. Voor de anatomieschermen en de trauma score kaart is het beeld van S045 nodig; DRTC levert de kaart bij voorkeur als afzonderlijk bestand. Na review volgt de schone importversie van de eerste vastgestelde les.
 
