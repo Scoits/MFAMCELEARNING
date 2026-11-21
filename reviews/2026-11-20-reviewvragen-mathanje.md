@@ -216,6 +216,16 @@ Deze vragen zijn vooral voor DRTC; Mathanje beoordeelt alleen de oefenvraag K08-
 | R94 | MFA-L01-S16 en S17 | Klopt de materiaalkeuze per letsel? Hoort het deppen met huidontsmettingsmiddel (S044 dia 8) in de MFA-les, en hoort bij een snijwond door glas uit afval advies over besmetting of tetanus? |
 | R95 | MFA-L01-S13 en S15 | Welke instantie noemt de les bij de visering van de controlelijst, en hoe beschrijft de les het onderhoud van de medicijnkist van reddingsmiddelen? (vraag aan DRTC) |
 
+## Aanvulling bij MFA-L02 versie 0.4
+
+Versie 0.4 breidt de les uit met uitleg uit GH1 hoofdstuk 1 en 2. De TE VERIFIËREN-punten staan per scherm in de master; deze vragen bundelen de inhoudelijke keuzes.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R96 | MFA-L02-S33, S37 en S40 | Blijven de normaalwaarden voor bloeddruk en hartslag uit GH1 in de les (S33)? Is "iets zoets geven als iemand goed kan slikken en advies vragen" de juiste eerste hulp bij een hypo voor MFA (S37)? Hoort het onderzoek van de pupillen in MFA-L02 of in MFA-L04 (S40)? |
+| R97 | MFA-L02-S27 en S31 | Welke cellen noemt de les als cellen die zich niet delen, en welke term gebruikt de les voor het ellebooggewricht? |
+| R98 | MFA-L02-S44 | Komt het stappenplan voor draaien van buik naar rug uit GH1 overeen met wat de instructeur op de praktijkdag aanleert? (ook aan DRTC) |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

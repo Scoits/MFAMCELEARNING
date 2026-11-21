@@ -47,7 +47,7 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 | --- | --- | --- | --- |
 | MFA-L00 | 15 | 9 | |
 | MFA-L01 | 30 | 54 | Uitgewerkt in versie 0.3 met GH1; begroting te herzien |
-| MFA-L02 | 100 | 31 | Grootste tekort |
+| MFA-L02 | 100 | 102 | Uitgewerkt in versie 0.4 met GH1 hoofdstuk 1 en 2 |
 | MFA-L03 | 75 | 27 | |
 | MFA-L04 | 85 | 38 | |
 | MFA-L05 | 55 | 18 | |
@@ -67,7 +67,7 @@ De kolom Rekenregel is gemeten op de cursistentekst en de kennischecks. Opdracht
 
 ## Volgorde
 
-De lessen worden uitgewerkt in volgorde van het grootste tekort: MFA-L02, MFA-L04, MFA-L03, MC-L05, MFA-L05 en dan de overige lessen. Voor MFA is GH1 (S016) de eerste bron die nodig is, voor MC is dat GH2 (S017). Beide zijn sinds 21 november 2026 als tekst beschikbaar in de projectbestanden. GH1 beschrijft de medische uitrusting zelf niet; daarvoor blijft S066 de bron.
+De lessen worden uitgewerkt in volgorde van het grootste tekort: MFA-L02, MC-L05, MFA-L04, MFA-L03, MC-L07, MC-L06, MFA-L05, MC-L02, MC-L01, MC-L04, MC-L08, MC-L03, MFA-L06 en dan de kleine lessen. Voor MFA is GH1 (S016) de eerste bron die nodig is, voor MC is dat GH2 (S017). Beide zijn sinds 21 november 2026 als tekst beschikbaar in de projectbestanden. GH1 beschrijft de medische uitrusting zelf niet; daarvoor blijft S066 de bron.
 
 De begroting per les mag verschuiven, zolang MFA en MC elk op ongeveer 480 minuten uitkomen. MFA-L01 komt nu uit op 54 minuten in plaats van 30. Herverdelen kan pas als alle MFA-lessen zijn uitgewerkt (OB-05).
 
