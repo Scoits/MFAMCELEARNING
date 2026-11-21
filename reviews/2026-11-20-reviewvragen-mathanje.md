@@ -363,12 +363,13 @@ Op 21 november 2026 zijn de antwoordopties van alle 167 kennischecks herschreven
 
 ## Aanvulling: antwoordopties in de scenario's en lestoetsen
 
-Op 21 november 2026 zijn ook de keuzes in de 19 Storyline-scenario's herschreven en verdeeld over A, B en C, zonder de medische inhoud te wijzigen. Daarnaast is per les een korte Moodle-toets uitgewerkt: 58 vragen voor MFA en 67 voor MC. De vragen staan in de afgeschermde projectmap `toetsing/lestoetsen/`; de reviewtabel per opleiding is het CSV-bestand daar. Overzicht zonder vragen in `docs/lestoetsen-v001.md`.
+Op 21 november 2026 zijn ook de keuzes in de 19 Storyline-scenario's herschreven en verdeeld over A, B en C, zonder de medische inhoud te wijzigen. Daarnaast is per les een korte Moodle-toets uitgewerkt: 66 vragen voor MFA (MFA-L04 als pool van 16 waaruit acht worden getrokken) en 67 voor MC. De vragen staan in de afgeschermde projectmap `toetsing/lestoetsen/`; de reviewtabel per opleiding is het CSV-bestand daar. Overzicht zonder vragen in `docs/lestoetsen-v001.md`.
 
 | Nr | Scherm | Vraag |
 | --- | --- | --- |
 | R149 | Lestoetsen MFA en MC (`toetsing/lestoetsen/MFA-lestoetsen.csv` en `MC-lestoetsen.csv`) | Zijn vraag, goed antwoord en feedback van iedere lestoetsvraag juist, is geen afleider ook juist, en past de vraag bij het leerdoel? |
 | R150 | Alle Storyline-scenario's in `articulate/storyline/` | Is iedere herschreven keuze nog juist of onjuist zoals bedoeld, en klopt de feedback nog bij de nieuwe volgorde? |
+| R151 | MFA-L04-S48 en `articulate/storyline/MFA-L04-SL02-val-van-de-ladder.md`, scherm 10 en 11 | Kloppen de twee nieuwe beslismomenten: beginnende shock na het spalken (bleek, klam, snellere pols, dan pols, bloeddruk en huid controleren en melden) en de toedracht die je aan de arts doorgeeft? |
 
 ## Aanvulling bij het scenario RMD-gesprek
 

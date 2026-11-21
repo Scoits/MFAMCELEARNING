@@ -1,6 +1,6 @@
 # MFA-L04-SL02 Val van de ladder
 
-Vertakt scenario bij MFA-L04 Trauma, brandwonden, hitte en koude. Versie 0.1, 21 november 2026. Concept: deze les is nog niet medisch goedgekeurd. De medisch deskundige van DRTC beoordeelt de inhoud voordat cursisten de les volgen. De casus is fictief.
+Vertakt scenario bij MFA-L04 Trauma, brandwonden, hitte en koude. Versie 0.2, 21 november 2026 (scherm 10 en 11 toegevoegd). Concept: deze les is nog niet medisch goedgekeurd. De medisch deskundige van DRTC beoordeelt de inhoud voordat cursisten de les volgen. De casus is fictief.
 
 Volgens de afspraken wordt dit scenario een HTML-pakket voor een Code Block in Rise. Storyline is secundair gereedschap. Het scenario bereidt voor op MFA-P05 en SC-MFA-02 en vervangt het stabiliseren, de log-roll en het spalken op locatie niet.
 
@@ -8,11 +8,11 @@ Volgens de afspraken wordt dit scenario een HTML-pakket voor een Code Block in R
 
 | Veld | Uitwerking |
 | --- | --- |
-| Leerdoelen | MFA-05.01: mogelijk wervelletsel herkennen. MFA-05.03: hoofd stabiliseren, nekspalk en verplaatsen. MFA-05.04: hoofdletsel en verandering in bewustzijn. MFA-07.01: breuken herkennen. MFA-07.02 en MFA-07.05: ondersteunen, spalken en de circulatie controleren |
+| Leerdoelen | MFA-05.01: mogelijk wervelletsel herkennen. MFA-05.03: hoofd stabiliseren, nekspalk en verplaatsen. MFA-05.04: hoofdletsel en verandering in bewustzijn. MFA-07.01: breuken herkennen. MFA-07.02 en MFA-07.05: ondersteunen, spalken, de circulatie controleren en blijven controleren op complicaties zoals shock |
 | Duur | Kortste volledige pad volgens `tools/studietijd.py`; met omwegen langer |
-| Bronnen | MFA-L04-S12 (behandel eerst wat het eerst doodt); S13 en S42 (wervelletsel herkennen en stabiliseren, nekkraag, log-roll); S16 en S17 (hoofdletsel en bewustzijn, eerst helder dan suf); S18 en S39 (breuken herkennen, toedracht); S19 (spalken, circulatie voor en na, niet terugzetten); S40 en S41 (na het spalken blijven controleren); S016 GH1, S045, S056 en S065, zie de bronverwijzingen bij die schermen |
+| Bronnen | MFA-L04-S12 (behandel eerst wat het eerst doodt, toedracht vastleggen); S13 en S42 (wervelletsel herkennen en stabiliseren, nekkraag, log-roll); S16 en S17 (hoofdletsel en bewustzijn, eerst helder dan suf); S18 en S39 (breuken herkennen, toedracht); S19 (spalken, circulatie voor en na, niet terugzetten); S40 en S41 (na het spalken blijven controleren); S016 GH1, S045, S056 en S065, zie de bronverwijzingen bij die schermen |
 | Afronding | Bereiken van het scherm Debriefing. Het pakket meldt dan aan Rise dat het is voltooid |
-| Variabelen | `Punten` (0 tot 9, één punt per hoofdscherm met een keuze, alleen bij de eerste poging), `Omweg` |
+| Variabelen | `Punten` (0 tot 11, één punt per hoofdscherm met een keuze, alleen bij de eerste poging), `Omweg` |
 | Personages | Jij, de opvarende met Medical First Aid; Jesse, matroos, 26 jaar, fictief; Linda, stuurman, fictief; twee helpers; de arts van de Radio Medische Dienst (alleen als tekst) |
 | Media | Eigen illustraties: een ruim met een ladder, handen die het hoofd stabiliseren, een nekkraag, een vacuümspalk om een onderbeen, een log-roll met vier hulpverleners. Iedere keuze is een knop met de volledige tekst |
 
@@ -70,7 +70,19 @@ Vraag: wat onderzoek je en wat leg je vast?
 | --- | --- | --- | --- |
 | A. Alleen of de bult op zijn hoofd groter wordt. | Scherm 4 opnieuw | Te weinig. Bij hoofdletsel onderzoek je het bewustzijn, de pupillen en tekenen van verlamming aan één kant. Het verloop is belangrijker dan één beoordeling. | 0 |
 | B. Je vraagt of hij zich goed voelt; hij zegt ja, dus dat is in orde. | Scherm 4 opnieuw | Te weinig. Hij is even weg geweest. Bepaal het bewustzijn met de GCS, kijk naar de pupillen en schrijf het op. | 0 |
-| C. GCS, pupillen en tekenen van verlamming, met tijd genoteerd. | Scherm 5 | Goed. Een bloeding in of rond de hersenen kan pas na enige tijd verschijnselen geven. Met de tijden erbij zie je later of er iets verandert. | 1 |
+| C. GCS, pupillen en tekenen van verlamming, met tijd genoteerd. | Scherm 11 | Goed. Een bloeding in of rond de hersenen kan pas na enige tijd verschijnselen geven. Met de tijden erbij zie je later of er iets verandert. | 1 |
+
+### Scherm 11 Wat er gebeurd is
+
+Tekst: Linda heeft de arts van de Radio Medische Dienst aan de lijn. De arts vraagt hoe het ongeval is gebeurd, want de toedracht helpt om het letsel in te schatten.
+
+Vraag: wat geef je door over het ongeval?
+
+| Keuze | Gevolg | Feedback | Punten |
+| --- | --- | --- | --- |
+| A. Alleen dat hij gevallen is; de arts vraagt zelf wel door als hij meer wil weten. | Scherm 11 opnieuw | Te weinig. De toedracht helpt de arts het letsel in te schatten. Geef de hoogte, de klachten en je metingen zelf door. | 0 |
+| B. Val van drie meter, rugpijn, even weg geweest, been in vreemde stand, metingen met tijd. | Scherm 5 | Goed. Met de hoogte van de val, de klachten en je metingen met de tijd erbij kan de arts het letsel beter inschatten. | 1 |
+| C. Vooral het been, want dat is het letsel dat je duidelijk kunt zien en beschrijven. | Scherm 11 opnieuw | Niet goed. Het been ziet er heftig uit, maar de val van hoogte en het even weg zijn zijn voor de arts minstens zo belangrijk. | 0 |
 
 ### Scherm 5 Het been
 
@@ -109,8 +121,20 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je wacht af; dat komt door de kou in het ruim. | Scherm 7 opnieuw | Niet goed. Koude, blauwe tenen kunnen betekenen dat een bloedvat wordt afgekneld. Dat kan blijvende schade geven. | 0 |
-| B. Spalk losser opnieuw aanleggen; helpt het niet, direct de RMD. | Scherm 8 | Goed. De zwelling kan na het spalken nog toenemen. Is de circulatie slechter, maak de spalk dan losser en raadpleeg de arts als dat niet helpt. | 1 |
+| B. Spalk losser opnieuw aanleggen; helpt het niet, direct de RMD. | Scherm 10 | Goed. De zwelling kan na het spalken nog toenemen. Is de circulatie slechter, maak de spalk dan losser en raadpleeg de arts als dat niet helpt. | 1 |
 | C. Je pompt de spalk nog harder op, zodat het been beter vastzit. | Scherm 7 opnieuw | Niet goed. Dan knelt hij nog meer af. Maak de spalk juist losser. | 0 |
+
+### Scherm 10 Bleek en klam
+
+Tekst: de spalk zit nu losser en de tenen worden weer warmer. Terwijl je wacht op de brancard, zie je dat Jesse bleek wordt en klam aanvoelt. Zijn pols is sneller dan bij je eerste meting.
+
+Vraag: wat doe je?
+
+| Keuze | Gevolg | Feedback | Punten |
+| --- | --- | --- | --- |
+| A. Je stelt hem gerust; hij is geschrokken, je meet over een uur opnieuw. | Scherm 10 opnieuw | Niet goed. Bleek, klam en een snellere pols kunnen betekenen dat er shock ontstaat. Wacht daar niet een uur mee. | 0 |
+| B. Je legt een extra deken over hem en kijkt pas weer bij de ziekenboeg. | Scherm 10 opnieuw | Niet goed. Je stopt dan met controleren. Door pijn en bloedverlies rond de breuk kan shock ontstaan; blijf pols, bloeddruk en huid volgen. | 0 |
+| C. Pols, bloeddruk en huid controleren, noteren en direct aan de RMD melden. | Scherm 8 | Goed. Door pijn en bloedverlies rond een breuk kan shock ontstaan. Met de metingen naast elkaar ziet de arts of het slechter wordt. | 1 |
 
 ### Scherm 8 Naar de brancard
 
@@ -140,16 +164,17 @@ Vraag: wat doe je?
 
 Tekst: "De arts beoordeelt het verloop en bespreekt met de kapitein of Jesse van boord moet. Jij blijft hem bewaken."
 
-Toon `Punten` van de 9 en het aantal omwegen. Toon daarna de lessen:
+Toon `Punten` van de 11 en het aantal omwegen. Toon daarna de lessen:
 
 1. Werk ook bij letsel volgens DRS-ABCDE en behandel eerst wat het eerst doodt.
-2. Denk bij een val van hoogte aan wervelletsel. Laat het slachtoffer liggen en stabiliseer het hoofd.
+2. Denk bij een val van hoogte aan wervelletsel. Laat het slachtoffer liggen en stabiliseer het hoofd. Geef de toedracht door aan de arts.
 3. Breng een nekkraag aan met twee hulpverleners en controleer daarna hoe hij zit.
 4. Bij hoofdletsel bepaal je het bewustzijn met de GCS en kijk je naar de pupillen, met de tijd erbij.
 5. Controleer bij een breuk gevoel, beweging en circulatie voorbij de breuk. Probeer nooit uit of het bot kraakt en zet niets terug.
 6. Spalk met een vacuümspalk, noteer de tijd en controleer de circulatie voor en na en daarna regelmatig.
 7. Verplaats met de log-roll: hoofd, nek en romp in één lijn.
-8. Eerst helder en daarna suffer meld je direct.
+8. Blijf na het spalken controleren: bleek, klam en een snellere pols kunnen shock zijn.
+9. Eerst helder en daarna suffer meld je direct.
 
 Knop: "Opnieuw" (zet de variabelen terug en begint bij de situatie). Het pakket meldt de voltooiing aan Rise zodra de cursist dit scherm bereikt.
 
@@ -159,4 +184,8 @@ Knop: "Opnieuw" (zet de variabelen terug en begint bij de situatie). Het pakket 
 - Is een val van drie meter een goed voorbeeld van een hoogenergetisch trauma voor dit scenario?
 - Klopt het verloop met eerst helder en na ongeveer een uur suffer als oefening, zonder dat het scenario een vast interval suggereert?
 
-Reviewvraag: R139.
+- Scherm 10 (versie 0.2): klopt het beeld van beginnende shock na een onderbeenbreuk als oefening, en is de feedback volledig genoeg zonder behandeling van shock voor te schrijven die niet in MFA-L04-S40 staat?
+
+- Scherm 11 (versie 0.2): is de lijst met wat je over de toedracht doorgeeft volledig genoeg voor deze oefening?
+
+Reviewvraag: R139, voor scherm 10 en 11 R151.

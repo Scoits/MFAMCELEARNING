@@ -6,7 +6,8 @@ Gebruik:
 Het bronbestand staat buiten deze openbare repository (de vragen en antwoorden zijn toetsmateriaal).
 Per vraag: ID, Doel, Scherm, Niveau, Vraag, een regel '* ' met het goede antwoord, regels '- ' met
 afleiders, Goed: en Fout: (feedback). Het script
-- controleert ID's, leerdoelen (moeten bij de les horen), het lesscherm, vijf tot acht vragen per les,
+- controleert ID's, leerdoelen (moeten bij de les horen), het lesscherm, vijf tot acht vragen per les (of een pool van
+  hoogstens MAX_POOL vragen waaruit Moodle per poging acht trekt),
   de lengte van de opties (goed antwoord hooguit 1,3 keer de langste afleider) en dubbele vragen
   met de kennischecks in de les;
 - verdeelt de plaats van het goede antwoord gelijkmatig over de opties;
@@ -23,6 +24,8 @@ import random
 import re
 import sys
 from xml.sax.saxutils import escape
+
+MAX_POOL = 16  # boven acht vragen is de les een pool; Moodle trekt per poging acht vragen
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LETTERS = "ABCDEFG"
@@ -84,7 +87,7 @@ def main():
             for r in s["interaction"].splitlines():
                 if r.strip().startswith("Vraag:"):
                     kennischecks.add(r.strip()[6:].strip().lower())
-        if not 5 <= len(lijst) <= 8: fouten.append(f"{les}: {len(lijst)} vragen, afspraak is vijf tot acht")
+        if not 5 <= len(lijst) <= MAX_POOL: fouten.append(f"{les}: {len(lijst)} vragen, afspraak is vijf tot acht, of een pool van hoogstens {MAX_POOL} waaruit Moodle acht trekt")
         for v in lijst:
             if v["scherm"] not in sch: fouten.append(f"{v['id']}: scherm {v['scherm']} bestaat niet"); continue
             if v["doel"] not in doelen: fouten.append(f"{v['id']}: doel {v['doel']} hoort niet bij {les}")
@@ -139,14 +142,14 @@ def main():
 def maak_overzicht(pad, cursus, per_les):
     """Schrijf of vervang het deel van één cursus in het overzicht; zonder vragen en antwoorden."""
     regels = [f"<!-- {cursus} begin -->", f"### {cursus}", "",
-              "| Les | Vragen | Kennis / toepassing | Leerdoelen in de toets | Leerdoelen van de les zonder toetsvraag |", "| --- | --- | --- | --- | --- |"]
+              "| Les | Vragen in de bank | Per poging | Kennis / toepassing | Leerdoelen in de toets | Leerdoelen van de les zonder toetsvraag |", "| --- | --- | --- | --- | --- | --- |"]
     for les, lijst in per_les.items():
         sch = schermen(les)
         doelen = sorted({d.strip() for s in sch.values() for d in s["learning_goal_ids"].replace(",", ";").split(";") if d.strip()})
         getoetst = sorted({v["doel"] for v in lijst})
         k = sum(v["niveau"] == "kennis" for v in lijst)
-        regels.append(f"| {les} | {len(lijst)} | {k} / {len(lijst) - k} | {', '.join(getoetst)} | {', '.join(d for d in doelen if d not in getoetst) or 'geen'} |")
-    regels.append(f"| Totaal | {sum(len(l) for l in per_les.values())} | | | |")
+        regels.append(f"| {les} | {len(lijst)} | {min(len(lijst), 8)} | {k} / {len(lijst) - k} | {', '.join(getoetst)} | {', '.join(d for d in doelen if d not in getoetst) or 'geen'} |")
+    regels.append(f"| Totaal | {sum(len(l) for l in per_les.values())} | {sum(min(len(l), 8) for l in per_les.values())} | | | |")
     regels.append(f"<!-- {cursus} einde -->")
     tekst = open(pad, encoding="utf-8").read() if os.path.exists(pad) else ""
     blok = "\n".join(regels)

@@ -94,7 +94,7 @@ def main():
           "## Lestoetsen na iedere les", "",
           "- Naast de eindtoets komt er na iedere les een korte toets in Moodle (besluit Martijn 21 november, ILT IaT nr. 4, par. 6.3). Die toets volgt de prestaties per les en is niet de formele eindtoets.",
           "- De lestoetsen hebben een eigen vragenbank met eigen ID's (`MFA-LT<les>-<nr>` en `MC-LT<les>-<nr>`). Een lestoetsvraag komt niet in de eindtoetsbank en een eindtoetsitem niet in een lestoets. Beide zijn anders dan de kennischecks in de lessen.",
-          "- Stand 21 november: MFA 58 vragen over 8 lessen, MC 67 vragen over 9 lessen, alles concept. Aantallen en dekking per les in [lestoetsen](lestoetsen-v001.md); de vragen zelf staan in de afgeschermde projectmap.",
+          "- Stand 21 november: MFA 66 vragen over 8 lessen (MFA-L04 als pool van 16, acht per poging), MC 67 vragen over 9 lessen, alles concept. Aantallen en dekking per les in [lestoetsen](lestoetsen-v001.md); de vragen zelf staan in de afgeschermde projectmap.",
           "- Of de lestoetsen meetellen voor de studietijd, is nog open. De eindtoets telt niet mee.", "",
           "## Open punten", "",
           "- De lengte (40 items MFA, 50 items MC) en de duur worden vastgesteld na een proefafname.",
