@@ -99,9 +99,9 @@ Wat doe je eerst?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K08-01-A | Direct druk zetten op de wond in zijn bovenbeen | Nog niet. Eerst controleer je of het veilig is voor jou. De olie is een gevaar. Daarna pas stop je de bloeding. |
-| K08-01-B | Controleren of het veilig is, hem aanspreken, hulp laten halen en dan de bloeding stoppen | Juist. Je volgt Danger, Response en Send. Daarna stop je de ernstige bloeding, nog voor de luchtweg. |
-| K08-01-C | Eerst zijn luchtweg vrijmaken | Onjuist. Na Danger, Response en Send stop je eerst de ernstige bloeding. Daarna kijk je naar de luchtweg. |
+| K08-01-B | Veiligheid, aanspreken, hulp laten halen en dan de bloeding stoppen | Juist. Je volgt Danger, Response en Send. Daarna stop je de ernstige bloeding, nog voor de luchtweg. |
+| K08-01-A | Direct druk zetten op de wond in zijn bovenbeen om het bloeden te stoppen | Nog niet. Eerst controleer je of het veilig is voor jou. De olie is een gevaar. Daarna pas stop je de bloeding. |
+| K08-01-C | Eerst zijn luchtweg vrijmaken en kijken of hij normaal ademt | Onjuist. Na Danger, Response en Send stop je eerst de ernstige bloeding. Daarna kijk je naar de luchtweg. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -231,9 +231,9 @@ Wat klopt?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K08-02-A | Ja, met een voldoende voor de online toets heb je het certificaat | Onjuist. De online toets laat alleen zien dat je de theorie beheerst. Het certificaat volgt pas na de praktijkdag. |
-| K08-02-B | Nee, je krijgt het certificaat pas als je ook op de praktijkdag de handelingen voldoende hebt laten zien | Juist. Je hebt de theorie en de individuele praktijkbeoordeling allebei nodig. |
-| K08-02-C | Nee, je moet de online toets eerst nog een keer maken | Onjuist. Een voldoende hoef je niet te herhalen. Wat nog ontbreekt, is de praktijkbeoordeling op locatie. |
+| K08-02-A | Ja, met een voldoende voor de online toets heb je het certificaat al | Onjuist. De online toets laat alleen zien dat je de theorie beheerst. Het certificaat volgt pas na de praktijkdag. |
+| K08-02-B | Nee, je moet op de praktijkdag ook de handelingen laten zien | Juist. Je hebt de theorie en de individuele praktijkbeoordeling allebei nodig. |
+| K08-02-C | Nee, je moet de online toets eerst nog een tweede keer maken | Onjuist. Een voldoende hoef je niet te herhalen. Wat nog ontbreekt, is de praktijkbeoordeling op locatie. |
 
 **Verbinding met de praktijkdag**
 

@@ -9,9 +9,9 @@ MFA-L08,MFA-L08-S03,MFA-00.01;MFA-00.02;MFA-00.03,De kern nog één keer,"Je vol
 
 Een matroos is in de machinekamer gevallen en ligt op de vloer. Er komt veel bloed uit zijn bovenbeen. Er lekt olie op de vloer naast hem.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K08-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat doe je eerst?
-K08-01-A: Direct druk zetten op de wond in zijn bovenbeen
-K08-01-B: Controleren of het veilig is, hem aanspreken, hulp laten halen en dan de bloeding stoppen (juist)
-K08-01-C: Eerst zijn luchtweg vrijmaken","K08-01-B: Juist. Je volgt Danger, Response en Send. Daarna stop je de ernstige bloeding, nog voor de luchtweg.","K08-01-A: Nog niet. Eerst controleer je of het veilig is voor jou. De olie is een gevaar. Daarna pas stop je de bloeding.
+K08-01-B: Veiligheid, aanspreken, hulp laten halen en dan de bloeding stoppen (juist)
+K08-01-A: Direct druk zetten op de wond in zijn bovenbeen om het bloeden te stoppen
+K08-01-C: Eerst zijn luchtweg vrijmaken en kijken of hij normaal ademt","K08-01-B: Juist. Je volgt Danger, Response en Send. Daarna stop je de ernstige bloeding, nog voor de luchtweg.","K08-01-A: Nog niet. Eerst controleer je of het veilig is voor jou. De olie is een gevaar. Daarna pas stop je de bloeding.
 K08-01-C: Onjuist. Na Danger, Response en Send stop je eerst de ernstige bloeding. Daarna kijk je naar de luchtweg.",S045,"S045 dia42 (DRS-ABCDE met ernstige bloeding voor A); antwoordlogica is DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback. Hulp laten halen terwijl je zelf alleen bent, staat in MFA-L00; controleer of de formulering aansluit.",,Rise kennischeck,3,medische_review_nodig,Mathanje,,0.1,
 MFA-L08,MFA-L08-S04,,Zo verloopt je praktijkdag,"De dag begint met een opening en een controle van je identiteit. Neem een geldig identiteitsbewijs mee. Daarna bespreekt de instructeur kort je online voorbereiding met je.
 
@@ -34,7 +34,7 @@ Is je resultaat voldoende? Kijk dan bij welke onderwerpen je de laagste score ha
 Is je resultaat onvoldoende? Herhaal eerst de lessen van de onderwerpen met de laagste score. Daarna kun je de toets opnieuw maken, met andere vragen. [PLAATSHOUDER: herkansingsregel na vaststelling door DRTC.]",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,Niet van toepassing; informatiescherm,Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S002,"Toetsmatrijs v0.1, overige toetsregels (herkansing en feedback na de toets, voorstel); S002 par. 6.3 punt 7, PDF p20. TE VERIFIËREN: De herkansingsregel is een voorstel uit de toetsmatrijs en nog niet vastgesteld.",MFA-L08-M02,Moodle-pagina of Rise tekst,2,medische_review_nodig,Mathanje,,0.1,
 MFA-L08,MFA-L08-S07,,"Online klaar, praktijk nog te doen",Je collega heeft de online toets gehaald en zegt: dan ben ik nu toch klaar met de cursus?,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K08-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Wat klopt?
-K08-02-A: Ja, met een voldoende voor de online toets heb je het certificaat
-K08-02-B: Nee, je krijgt het certificaat pas als je ook op de praktijkdag de handelingen voldoende hebt laten zien (juist)
-K08-02-C: Nee, je moet de online toets eerst nog een keer maken",K08-02-B: Juist. Je hebt de theorie en de individuele praktijkbeoordeling allebei nodig.,"K08-02-A: Onjuist. De online toets laat alleen zien dat je de theorie beheerst. Het certificaat volgt pas na de praktijkdag.
+K08-02-A: Ja, met een voldoende voor de online toets heb je het certificaat al
+K08-02-B: Nee, je moet op de praktijkdag ook de handelingen laten zien (juist)
+K08-02-C: Nee, je moet de online toets eerst nog een tweede keer maken",K08-02-B: Juist. Je hebt de theorie en de individuele praktijkbeoordeling allebei nodig.,"K08-02-A: Onjuist. De online toets laat alleen zien dat je de theorie beheerst. Het certificaat volgt pas na de praktijkdag.
 K08-02-C: Onjuist. Een voldoende hoef je niet te herhalen. Wat nog ontbreekt, is de praktijkbeoordeling op locatie.",S002,"S002 par. 6.3 punt 13, PDF p20; projectkader CLAUDE.md (online resultaat is niet het volledige certificaat).",,Rise kennischeck,1,medische_review_nodig,Mathanje,,0.1,

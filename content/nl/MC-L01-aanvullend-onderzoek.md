@@ -97,9 +97,9 @@ Wat vertel je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K01-04-A | Je vertelt beiden precies wat de matroos heeft, want zij zijn verantwoordelijk voor de bemanning | Onjuist. Wat de patiënt je vertelt, is vertrouwelijk. Je geeft alleen door wat nodig is, en aan anderen pas na toestemming van de patiënt. |
-| MC-K01-04-B | Je vertelt de kapitein alleen wat hij nodig heeft, of hij kan werken en wat de arts adviseert, en aan de agent niets zonder toestemming van de matroos | Juist. De kapitein krijgt wat hij nodig heeft voor zijn besluit. Anderen krijgen pas iets te horen als de patiënt dat goedvindt. |
-| MC-K01-04-C | Je vertelt niemand iets, ook de kapitein niet, ook niet of hij kan werken | Onjuist. De kapitein mag weten wat nodig is voor de veiligheid en de planning aan boord, zonder de medische details. |
+| MC-K01-04-A | Je vertelt beiden precies wat de matroos heeft, want zij zijn verantwoordelijk voor hem | Onjuist. Wat de patiënt je vertelt, is vertrouwelijk. Je geeft alleen door wat nodig is, en aan anderen pas na toestemming van de patiënt. |
+| MC-K01-04-C | Je vertelt niemand iets, ook de kapitein niet en ook niet of hij kan werken | Onjuist. De kapitein mag weten wat nodig is voor de veiligheid en de planning aan boord, zonder de medische details. |
+| MC-K01-04-B | De kapitein alleen wat hij nodig heeft voor het werk, de agent niets zonder toestemming | Juist. De kapitein krijgt wat hij nodig heeft voor zijn besluit. Anderen krijgen pas iets te horen als de patiënt dat goedvindt. |
 
 ## MC-L01-S02 Werkwijze in vijf stappen
 
@@ -245,9 +245,9 @@ Welke vraag stel je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K01-05-A | 'De pijn wordt erger als je diep inademt, hè?' | Onjuist. Dit is een sturende vraag. De patiënt zegt snel ja, ook als het niet klopt. |
+| MC-K01-05-A | 'De pijn wordt zeker erger als je diep inademt of hoest, hè?' | Onjuist. Dit is een sturende vraag. De patiënt zegt snel ja, ook als het niet klopt. |
 | MC-K01-05-B | 'Wat gebeurt er met de pijn als je diep inademt of hoest?' | Juist. Dit is een open vraag. De patiënt beschrijft zelf wat er gebeurt, en dat is betrouwbaarder. |
-| MC-K01-05-C | 'Heb je pijn bij ademen of bij bewegen?' | Onjuist. Je vraagt twee dingen tegelijk. Je weet dan niet waarop het antwoord slaat. |
+| MC-K01-05-C | 'Heb je de pijn vooral bij het ademen of vooral bij het bewegen?' | Onjuist. Je vraagt twee dingen tegelijk. Je weet dan niet waarop het antwoord slaat. |
 
 ## MC-L01-S03 Doorvragen bij pijn op de borst of benauwdheid
 
@@ -325,9 +325,9 @@ Welke vraag is nu het belangrijkst om nog te stellen?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K01-01-A | Of hij de afgelopen maanden in de tropen is geweest, en of hij koorts, diarree of bloed bij braaksel of ontlasting heeft | Juist. Verblijf in de tropen, koorts en bloed zijn belangrijk voor de arts. Ze staan daarom op het formulier. |
-| MC-K01-01-B | Wat hij gisteravond heeft gegeten | Dat kan nuttig zijn en valt onder AMPLE, maar verblijf in de tropen, koorts en bloed bij braaksel of ontlasting wegen zwaarder. |
-| MC-K01-01-C | Of hij eerder buikpijn heeft gehad | Dat is een zinvolle vraag, maar de vragen over de tropen, koorts en bloed zijn hier belangrijker. |
+| MC-K01-01-B | Wat hij gisteravond en vanochtend heeft gegeten en gedronken, en waar dat vandaan kwam | Dat kan nuttig zijn en valt onder AMPLE, maar verblijf in de tropen, koorts en bloed bij braaksel of ontlasting wegen zwaarder. |
+| MC-K01-01-A | Of hij kort geleden in de tropen was en of hij koorts, diarree of bloedverlies heeft | Juist. Verblijf in de tropen, koorts en bloed zijn belangrijk voor de arts. Ze staan daarom op het formulier. |
+| MC-K01-01-C | Of hij eerder buikpijn heeft gehad en of hij daar toen een arts voor zag | Dat is een zinvolle vraag, maar de vragen over de tropen, koorts en bloed zijn hier belangrijker. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -611,9 +611,9 @@ Wat maak je hiervan?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K01-06-A | De temperatuur valt mee en de pols stijgt door de koorts; je meet morgen opnieuw | Onjuist. In de oksel is de temperatuur ongeveer een halve graad lager. Bovendien stijgt de pols veel meer dan de koorts verklaart. |
-| MC-K01-06-B | De temperatuur in de mond zou ongeveer 38,9 graden zijn; de pols stijgt meer dan de koorts verklaart, dus je meet alle vitale functies opnieuw en meldt dit aan de arts | Juist. Je houdt rekening met de plek van meten en ziet dat de pols te snel stijgt. Dat kan wijzen op een verslechtering, zoals shock. |
-| MC-K01-06-C | Okselmetingen zijn niet betrouwbaar, dus je noteert de temperatuur niet | Onjuist. Een okselmeting is bruikbaar als je weet dat hij ongeveer een halve graad lager uitvalt en je erbij noteert waar je hebt gemeten. |
+| MC-K01-06-B | In de mond zou het ongeveer 38,9 graden zijn; de pols stijgt te veel, dus opnieuw meten en melden | Juist. Je houdt rekening met de plek van meten en ziet dat de pols te snel stijgt. Dat kan wijzen op een verslechtering, zoals shock. |
+| MC-K01-06-A | De temperatuur valt mee en de pols past bij de koorts; je meet morgen opnieuw | Onjuist. In de oksel is de temperatuur ongeveer een halve graad lager. Bovendien stijgt de pols veel meer dan de koorts verklaart. |
+| MC-K01-06-C | Okselmetingen zijn onbetrouwbaar, dus je noteert de temperatuur niet en vertrouwt op de pols | Onjuist. Een okselmeting is bruikbaar als je weet dat hij ongeveer een halve graad lager uitvalt en je erbij noteert waar je hebt gemeten. |
 
 ## MC-L01-S09 Eenvoudige tests: doel en grenzen
 
@@ -727,9 +727,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K01-02-A | Je concludeert dat er geen infectie is en stopt met het onderzoek | Onjuist. Een normale uitslag sluit niets uit. De koorts en de pijn bij plassen blijven belangrijke bevindingen. |
-| MC-K01-02-B | Je geeft de klachten, je bevindingen, de metingen en de testuitslag samen door aan de arts | Juist. De test is één gegeven. De arts beslist op basis van het hele beeld. |
-| MC-K01-02-C | Je herhaalt de test tot er een afwijking uitkomt | Onjuist. Herhalen totdat een test afwijkt, geeft geen betrouwbaar beeld. Rapporteer wat je hebt gevonden. |
+| MC-K01-02-A | Je concludeert dat er geen infectie is en stopt met het verdere onderzoek | Onjuist. Een normale uitslag sluit niets uit. De koorts en de pijn bij plassen blijven belangrijke bevindingen. |
+| MC-K01-02-B | Je geeft de klachten, bevindingen, metingen en testuitslag samen door aan de arts | Juist. De test is één gegeven. De arts beslist op basis van het hele beeld. |
+| MC-K01-02-C | Je herhaalt de test een paar keer, tot er een duidelijke afwijking uitkomt | Onjuist. Herhalen totdat een test afwijkt, geeft geen betrouwbaar beeld. Rapporteer wat je hebt gevonden. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -755,9 +755,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K01-07-A | Je laat hem slapen; koffie in de maag geeft wel vaker zulk braaksel | Onjuist. Braaksel dat eruitziet als koffiedik bevat waarschijnlijk oud bloed. Samen met bleekheid en een snelle pols wijst dat op een bloeding. |
-| MC-K01-07-B | Je denkt aan een bloeding in de maag, meet alle vitale functies, vraagt naar zwarte ontlasting, bewaart het braaksel en neemt direct contact op met de arts | Juist. Koffiedikbraaksel, bleekheid en een snelle pols kunnen wijzen op een maagbloeding. Je verzamelt de gegevens en vraagt direct medisch advies. |
-| MC-K01-07-C | Je geeft hem een maagtablet en veel water om de maag te spoelen | Onjuist. Geef bij een mogelijke bloeding niets via de mond zonder advies van de arts. |
+| MC-K01-07-A | Je laat hem slapen, omdat koffie in de maag wel vaker zulk donker braaksel geeft | Onjuist. Braaksel dat eruitziet als koffiedik bevat waarschijnlijk oud bloed. Samen met bleekheid en een snelle pols wijst dat op een bloeding. |
+| MC-K01-07-C | Je geeft hem een maagtablet en veel water, zodat de maag goed wordt schoongespoeld | Onjuist. Geef bij een mogelijke bloeding niets via de mond zonder advies van de arts. |
+| MC-K01-07-B | Je denkt aan een maagbloeding, meet alles, bewaart het braaksel en belt direct de arts | Juist. Koffiedikbraaksel, bleekheid en een snelle pols kunnen wijzen op een maagbloeding. Je verzamelt de gegevens en vraagt direct medisch advies. |
 
 ## MC-L01-S11 Je bevindingen doorgeven
 
@@ -781,9 +781,9 @@ Welke rapportage is het meest bruikbaar voor de arts?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K01-03-A | De kok heeft waarschijnlijk een blindedarmontsteking | Onvoldoende. Je geeft een conclusie zonder de waarnemingen. De arts heeft je bevindingen nodig om zelf te beoordelen. |
-| MC-K01-03-B | Leeftijd en beroep, buikpijn rechtsonder sinds vier uur, misselijk, temperatuur 38,6, drukpijn rechtsonder, pols gestegen van 88 naar 104 per minuut in twee uur, geen behandeling gegeven | Juist. De arts hoort klacht, bevindingen, metingen en verloop, en weet wat je al hebt gedaan. |
-| MC-K01-03-C | Hij heeft veel pijn in zijn buik en voelt zich niet goed | Onvoldoende. Zonder plaats, duur, metingen en verloop kan de arts weinig met deze melding. |
+| MC-K01-03-A | De kok heeft waarschijnlijk een blindedarmontsteking en moet volgens mij snel van boord | Onvoldoende. Je geeft een conclusie zonder de waarnemingen. De arts heeft je bevindingen nodig om zelf te beoordelen. |
+| MC-K01-03-C | Hij heeft sinds vanmiddag veel pijn in zijn buik, is misselijk en voelt zich niet goed | Onvoldoende. Zonder plaats, duur, metingen en verloop kan de arts weinig met deze melding. |
+| MC-K01-03-B | Buikpijn rechtsonder sinds vier uur, 38,6 graden, drukpijn, pols van 88 naar 104, niets gegeven | Juist. De arts hoort klacht, bevindingen, metingen en verloop, en weet wat je al hebt gedaan. |
 
 **Te verifiëren door Mathanje of DRTC**
 

@@ -138,9 +138,9 @@ Je weet de ademfrequentie niet. Wat noteer je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K07-01-A | Ik vul een gebruikelijke waarde in zodat het formulier compleet lijkt | Onjuist. Daarmee presenteer je een aanname als gemeten feit. |
-| K07-01-B | Ik noteer dat de waarde nog niet bekend is en laat ontbrekende informatie gericht aanvullen | Juist voor deze communicatieoefening. Maak zichtbaar wat bekend en nog onbekend is; laat noodzakelijke hulp niet wachten op een volledig formulier. |
-| K07-01-C | Ik laat het vak zonder toelichting leeg | Onvoldoende duidelijk. De ontvanger kan niet zien of het gegeven ontbreekt of is vergeten. |
+| K07-01-A | Ik vul een gebruikelijke waarde in, zodat het formulier compleet lijkt | Onjuist. Daarmee presenteer je een aanname als gemeten feit. |
+| K07-01-C | Ik laat het vak zonder toelichting leeg en ga verder met het volgende | Onvoldoende duidelijk. De ontvanger kan niet zien of het gegeven ontbreekt of is vergeten. |
+| K07-01-B | Ik noteer dat de waarde nog niet bekend is en laat die aanvullen | Juist voor deze communicatieoefening. Maak zichtbaar wat bekend en nog onbekend is; laat noodzakelijke hulp niet wachten op een volledig formulier. |
 
 **Onderbouwing**
 
@@ -168,8 +168,8 @@ Welke formulering past bij de gegeven informatie?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K07-02-A | De opvarende heeft zeker een botbreuk | Onjuist. Je voegt een niet-bevestigde diagnose toe aan de beschikbare feiten. |
 | K07-02-B | De opvarende meldt pijn na het stoten van de hand | Juist voor deze communicatieoefening. Dit geeft de beschikbare feiten weer. |
+| K07-02-A | De opvarende heeft zeker een botbreuk in de hand | Onjuist. Je voegt een niet-bevestigde diagnose toe aan de beschikbare feiten. |
 
 Leerdoel MFA-09.02. De antwoordlogica betreft communicatie, geen diagnose-instructie. Bronplaats: S003 Part C10.2; de respons en feedback zijn DRTC-ontwerp, medische review nodig.
 
@@ -289,9 +289,9 @@ Welke notitie legt het ontvangen oefenadvies het best vast?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K07-05-A | 16.05 UTC advies arts RMD: patiënt rustig laten liggen; 16.20 UTC pols en ademfrequentie meten; 16.30 UTC terugmelden; geen medicatie zonder overleg. Teruggelezen en bevestigd. Uitvoering: naam hulpverlener. | Juist. De notitie bevat tijd, adviseur, alle afspraken, de bevestiging en wie uitvoert. |
-| K07-05-B | Arts zegt dat het meevalt | Onjuist. Dit is een interpretatie. De afspraken, tijden en uitvoerder ontbreken. |
-| K07-05-C | Pols meten en terugbellen | Onvoldoende. Tijdstippen, adviseur, de afspraak over medicatie en de uitvoerder ontbreken. |
+| K07-05-B | 16.05 UTC: de arts zegt dat het meevalt; we bellen later nog een keer terug als het nodig is | Onjuist. Dit is een interpretatie. De afspraken, tijden en uitvoerder ontbreken. |
+| K07-05-A | 16.05 UTC RMD: rustig laten liggen; 16.20 pols en ademfrequentie; 16.30 terugmelden; geen medicatie zonder overleg; teruggelezen | Juist. De notitie bevat tijd, adviseur, alle afspraken, de bevestiging en wie uitvoert. |
+| K07-05-C | Pols meten en terugbellen; geen medicatie; de patiënt ligt rustig en de arts weet ervan | Onvoldoende. Tijdstippen, adviseur, de afspraak over medicatie en de uitvoerder ontbreken. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -392,9 +392,9 @@ De arts vraagt of de patiënt allergisch is voor medicijnen. Je weet het niet. W
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K07-07-A | "Nee, dat denk ik niet." | Onjuist. Een gok kan de arts op een verkeerd idee brengen. Zeg dat je het niet weet en laat het nagaan. |
-| K07-07-B | "Dat weet ik niet. Ik laat het nu nagaan bij de patiënt en in zijn gegevens, en meld het zodra ik het weet." | Juist. Je bent eerlijk, en je zorgt dat het ontbrekende gegeven zo snel mogelijk bekend wordt. |
-| K07-07-C | Je zegt niets en wacht op de volgende vraag. | Onjuist. Dan weet de arts niet of je de vraag hebt gehoord. Zeg dat je het niet weet en laat het nagaan. |
+| K07-07-A | "Nee, dat denk ik niet. Hij heeft er in ieder geval nooit iets over gezegd." | Onjuist. Een gok kan de arts op een verkeerd idee brengen. Zeg dat je het niet weet en laat het nagaan. |
+| K07-07-C | Je zegt niets en wacht op de volgende vraag, om het gesprek niet op te houden. | Onjuist. Dan weet de arts niet of je de vraag hebt gehoord. Zeg dat je het niet weet en laat het nagaan. |
+| K07-07-B | "Dat weet ik niet. Ik laat het nu nagaan en meld het zodra ik het weet." | Juist. Je bent eerlijk, en je zorgt dat het ontbrekende gegeven zo snel mogelijk bekend wordt. |
 
 **Te verifiëren door Mathanje of DRTC**
 

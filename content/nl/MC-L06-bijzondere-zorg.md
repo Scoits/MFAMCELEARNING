@@ -38,7 +38,7 @@ STCW-kolommen: competentie C1 (kolom 1); kennisgebieden alcohol- en drugsmisbrui
 
 Bronstatus: alle genoemde dia's zijn als tekst gelezen. S063 dia4 (symptomen alcoholonttrekking) en S062 dia96 (letsel mond en tanden) bestaan alleen uit beeld. Over gynaecologie, zwangerschap en bevalling heeft S062 alleen twee opsommingsdia's; S09 en S10 zijn daarom grotendeels eigen tekst. S063 dia11 tot en met 13 beschrijven de Nederlandse regels voor overlijden aan boord; of die nog actueel zijn, is niet gecontroleerd (R75).
 
-De schermrecords staan in [MC-L06-schermreview.csv](../../reviews/MC-L06-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S03, S18, S19, S04, S20, S05, S21, S22, S23, S24, S25, S26, S27, S06, S07, S28, S08, S09, S10, S11, S29, S12, S13, S14, S30, S15, S31.
+De schermrecords staan in [MC-L06-schermreview.csv](../../reviews/MC-L06-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S03, S18, S19, S04, S20, S05, S21, S22, S23, S24, S25, S26, S27, S06, S32, S07, S28, S08, S09, S10, S34, S11, S29, S35, S12, S13, S14, S30, S15, S31, S33.
 
 ## MC-L06-S01 Bijzondere situaties aan boord
 
@@ -220,8 +220,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-05-A | Je laat hem zijn roes uitslapen; morgen is hij weer de oude | Onjuist. Hij is nauwelijks aanspreekbaar en heeft gebraakt. Hij kan stikken in zijn braaksel of te veel alcohol binnen hebben. Laat hem niet alleen. |
-| MC-K06-05-B | Je maakt de mond vrij, legt hem in stabiele zijligging, controleert de ademhaling en zoekt naar letsel; iemand blijft bij hem en je overlegt met de Radio Medische Dienst | Juist. Bij een dronken persoon die niet goed aanspreekbaar is, bescherm je de ademweg, bewaak je hem en denk je aan letsel of ziekte. |
+| MC-K06-05-B | Mond vrij, stabiele zijligging, ademhaling controleren, iemand erbij en overleg met de RMD | Juist. Bij een dronken persoon die niet goed aanspreekbaar is, bescherm je de ademweg, bewaak je hem en denk je aan letsel of ziekte. |
+| MC-K06-05-A | Je laat hem zijn roes uitslapen in zijn hut; morgen is hij weer de oude | Onjuist. Hij is nauwelijks aanspreekbaar en heeft gebraakt. Hij kan stikken in zijn braaksel of te veel alcohol binnen hebben. Laat hem niet alleen. |
 | MC-K06-05-C | Je laat hem koffie drinken en onder de koude douche gaan om hem wakker te krijgen | Onjuist. Iemand die nauwelijks aanspreekbaar is, kan niet veilig drinken of douchen. Bescherm de ademweg en bewaak hem. |
 
 ## MC-L06-S04 Drugs aan boord
@@ -460,9 +460,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-06-A | Je verandert van onderwerp, want doorvragen kan hem op het idee brengen | Onjuist. Vragen naar gedachten aan zelfdoding brengt niemand op het idee. Het helpt je het risico in te schatten. |
+| MC-K06-06-A | Je verandert van onderwerp, want doorvragen kan hem juist op het idee brengen | Onjuist. Vragen naar gedachten aan zelfdoding brengt niemand op het idee. Het helpt je het risico in te schatten. |
+| MC-K06-06-C | Rechtstreeks vragen of hij een plan heeft, hem niet alleen laten en kapitein en RMD inschakelen | Juist. Zo schat je het risico in en zorg je voor zijn veiligheid. Bij een plan en de middelen om het uit te voeren is het risico hoog. |
 | MC-K06-06-B | Je zegt dat het wel goed komt en dat hij morgen gewoon weer aan het werk kan | Onjuist. Geruststellen zonder door te vragen kan een groot risico missen. Vraag door en neem het serieus. |
-| MC-K06-06-C | Je vraagt rechtstreeks of hij eraan denkt zichzelf iets aan te doen en of hij een plan heeft, je laat hem niet alleen en je overlegt met de kapitein en de Radio Medische Dienst | Juist. Zo schat je het risico in en zorg je voor zijn veiligheid. Bij een plan en de middelen om het uit te voeren is het risico hoog. |
 
 ## MC-L06-S26 Agressief of dreigend gedrag
 
@@ -540,8 +540,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-01-A | Hem laten uitslapen in zijn hut; het trekt vanzelf weg | Onjuist. Dit kan een delirium tremens zijn. Onbehandeld kan dat dodelijk zijn. |
-| MC-K06-01-B | Vitale functies controleren, hem afzonderen in een prikkelarme ruimte met gedimd licht, hem niet alleen laten en direct de arts raadplegen | Juist. Je herkent een mogelijk delirium bij onttrekking en schakelt direct de arts in. |
+| MC-K06-01-B | Vitale functies, prikkelarme ruimte, hem niet alleen laten en direct de arts raadplegen | Juist. Je herkent een mogelijk delirium bij onttrekking en schakelt direct de arts in. |
+| MC-K06-01-A | Hem laten uitslapen in zijn hut, omdat het trillen meestal vanzelf wegtrekt | Onjuist. Dit kan een delirium tremens zijn. Onbehandeld kan dat dodelijk zijn. |
 | MC-K06-01-C | Hem op eigen initiatief een glas alcohol geven om de onttrekking te stoppen | Onjuist. Medicatie of alcohol geef je alleen op advies van de arts. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -724,6 +724,49 @@ TE VERIFIËREN: Het scopebesluit over de bevalling (MC-20.02, OB-08) is open. Di
 
 TE VERIFIËREN: De eerste alinea, de ruimte en het bloedverlies bij de moeder zijn een eigen aanvulling.
 
+## MC-L06-S34 Casus: buikpijn en een bevalling aan boord
+
+Leerdoelen: MC-20.01; MC-20.02. Bronplaats: S062 dia65, dia73 en dia74; de inhoud komt uit MC-L06-S09 en S10; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist herkent alarmsignalen bij een mogelijke zwangerschap en kiest de eerste stappen bij een bevalling.
+
+**Cursistentekst**
+
+Een stewardess heeft sinds vanochtend hevige pijn aan één kant van haar onderbuik. Ze vertelt, als je haar apart spreekt, dat ze zes weken geleden voor het laatst ongesteld was. Ze verliest wat bloed uit de vagina. Ze is bleek en haar pols is snel.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K06-08**
+
+Wat denk je en wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-08-A | Waarschijnlijk menstruatiepijn; laat haar met een kruik rusten en kijk morgen verder | Onjuist. Hevige eenzijdige buikpijn met bloedverlies bij een mogelijke zwangerschap en tekenen van shock is een alarmsignaal. |
+| MC-K06-08-C | Waarschijnlijk een blindedarmontsteking; in de volgende haven laten nakijken | Onjuist. Je stelt zelf geen diagnose. Met deze alarmsignalen wacht je niet tot de haven, maar neem je direct contact op met de arts. |
+| MC-K06-08-B | Mogelijk een zwangerschap buiten de baarmoeder: direct de arts en behandelen als shock | Juist. Een zwangerschap buiten de baarmoeder kan een ernstige inwendige bloeding geven. Neem direct contact op met de arts en behandel de tekenen van shock. |
+
+**Kennischeck MC-K06-09**
+
+Een andere keer redt je schip een hoogzwangere vrouw uit een bootje. Ze krijgt regelmatige weeën. Wat doe je eerst?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-09-A | Wachten tot het kind echt komt en dan pas de arts bellen voor advies | Onjuist. Neem bij de eerste tekenen van een bevalling contact op met de arts. De arts begeleidt je. |
+| MC-K06-09-B | Direct de arts bellen, een schone, warme ruimte voorbereiden en materiaal klaarleggen | Juist. De arts begeleidt de bevalling op afstand. Jij zorgt voor de ruimte en het materiaal en meldt problemen direct. |
+| MC-K06-09-C | Haar laten persen zodra ze dat wil, zodat het zo snel mogelijk voorbij is | Onjuist. Je volgt de aanwijzingen van de arts. Zelf sturen zonder advies doe je niet. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K06-08 en MC-K06-09 (R147). MC-K06-09 wacht net als S10 op het scopebesluit over de bevalling (R74).
+
+**Verbinding met de praktijkdag**
+
+Geen eigen praktijkstation; bespreking in een zorgscenario op de praktijkdag.
+
+
 ## MC-L06-S11 Geredde personen: verdere zorg
 
 Leerdoelen: MC-21.01; MC-21.02. Bronplaats: S043 dia9-13 (fasen en eerste hulp bij onderkoeling), dia25 (complicaties na bijna-verdrinking: longoedeem, secundaire verdrinking met toenemende benauwdheid en schuimend sputum, braaksel in de longen, verwondingen, longinfectie), dia27-28 (horizontaal, eerste hulp, RMD in verband met tweede verdrinking), dia29 (afterdrop); MFA-L05-S09 tot en met S11. Media: MC-L06-M01. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -790,6 +833,59 @@ TE VERIFIËREN: GH2 dateert van 2013 en de Ships medical guide (S025, WHO, 3e dr
 
 TE VERIFIËREN: De Ships medical guide geeft rekenregels voor de hoeveelheid vocht en voedsel bij langdurig tekort. De les noemt die niet en laat de hoeveelheid aan de arts.
 
+## MC-L06-S35 Casus: vijf geredden uit een vlot
+
+Leerdoelen: MC-21.02; MC-21.01. Bronplaats: S043 dia9-13 en dia25-29; S025 IMGS boek p347-349 / PDF p368-370 (uitdroging, olie op de huid); de inhoud komt uit MC-L06-S11 en S29; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist organiseert opvang en verdere zorg voor meerdere geredden.
+
+**Cursistentekst**
+
+Je schip neemt vijf mensen op uit een reddingsvlot dat drie dagen heeft gedreven. Een vrouw klaagt luid over pijn in haar enkel. Een jongen zit stil en is zeeziek. Een oudere man is slecht aanspreekbaar, voelt ijskoud aan en rilt niet meer. Twee mannen zitten onder de olie, maar zijn helder en hebben het warm.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K06-10**
+
+Over wie overleg je als eerste met de arts?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-10-A | De vrouw met de enkel, want zij heeft de meeste pijn | Onjuist. Wie het hardst klaagt, is niet altijd het ernstigst eraan toe. |
+| MC-K06-10-C | De twee mannen met olie, want olie op de huid is gevaarlijk | Onjuist. Zij zijn helder en warm. De olie verwijder je later. |
+| MC-K06-10-B | De oudere man die slecht aanspreekbaar is en niet meer rilt | Juist. Slecht aanspreekbaar, ijskoud en niet meer rillen past bij ernstige onderkoeling. Hij krijgt voorrang: horizontaal houden, voorzichtig inpakken en direct overleg met de arts. |
+
+**Kennischeck MC-K06-11**
+
+De jongen heeft drie dagen bijna niets gedronken en vraagt om veel water. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-11-A | Hem zoveel laten drinken als hij wil | Onjuist. Wie langer dan twee dagen te weinig heeft gedronken, kan ziek worden van snel veel drinken. |
+| MC-K06-11-C | Hem pas laten drinken als hij in de haven is | Onjuist. Hij is uitgedroogd en heeft vocht nodig, in de hoeveelheid die de arts adviseert. |
+| MC-K06-11-B | Met de arts overleggen hoeveel hij per dag mag drinken en dat bijhouden | Juist. Bij meer dan twee dagen te weinig drinken bepaal je samen met de arts hoeveel hij krijgt. Zeeziekte maakt de uitdroging erger. |
+
+**Kennischeck MC-K06-12**
+
+Hoe verwijder je de olie bij de twee mannen?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K06-12-A | Met een doek met wat thinner of petroleum, omdat dat de olie het snelst oplost | Onjuist. Gebruik geen oplosmiddelen, petroleum of schuurmiddelen; die beschadigen de huid. |
+| MC-K06-12-B | Warme douche, olie afvegen met zachte doek, niet rond mond en ogen, dan zeep | Juist. Zo verwijder je de olie zonder de huid te beschadigen. Wees voorzichtig bij wonden en brandwonden. |
+| MC-K06-12-C | De olie laten zitten tot de haven, omdat afvegen de huid kan beschadigen | Onjuist. Als iemand warm is en zich goed voelt, verwijder je de olie aan boord. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K06-10 tot en met MC-K06-12 (R147).
+
+**Verbinding met de praktijkdag**
+
+Scenario geredde personen op de praktijkdag: prioriteren, onderkoeling behandelen en de gegevens van iedere geredde vastleggen.
+
+
 ## MC-L06-S12 Hij voelt zich weer goed
 
 Leerdoelen: MC-21.01. Bronplaats: S043 dia11, 25 en 28; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -811,8 +907,8 @@ Wat doe je?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K06-03-A | Je laat hem weer aan het werk gaan, want hij voelt zich goed | Onjuist. Water in de longen kan later nog benauwdheid geven. |
-| MC-K06-03-B | Je overlegt met de arts, laat hem rusten en bewaakt zijn ademhaling en temperatuur | Juist. Na bijna-verdrinking kan de ademhaling later verslechteren. De arts bepaalt hoe lang je bewaakt. |
 | MC-K06-03-C | Je geeft hem een warme grog om op te warmen | Onjuist. Geef geen alcohol. Warme, zoete dranken zonder alcohol mogen bij lichte onderkoeling. |
+| MC-K06-03-B | Je overlegt met de arts, laat hem rusten en bewaakt zijn ademhaling en temperatuur | Juist. Na bijna-verdrinking kan de ademhaling later verslechteren. De arts bepaalt hoe lang je bewaakt. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -934,9 +1030,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K06-04-A | Je waarnemingen met tijdstip noteren, de Radio Medische Dienst en de kapitein informeren, de hut ongemoeid laten en het protocol van de RMD volgen | Juist. De tekenen wijzen erop dat de dood langer geleden is ingetreden. De arts stelt de dood vast en de RMD begeleidt de vervolgstappen. |
+| MC-K06-04-A | Waarnemingen met tijd noteren, RMD en kapitein informeren, de hut ongemoeid laten | Juist. De tekenen wijzen erop dat de dood langer geleden is ingetreden. De arts stelt de dood vast en de RMD begeleidt de vervolgstappen. |
 | MC-K06-04-B | De hut direct opruimen en het lichaam naar de koelruimte brengen | Onjuist. Eerst overleg je met de RMD. Er kan onderzoek nodig zijn, en de hut en het lichaam worden eerst vastgelegd. |
-| MC-K06-04-C | Een overlijdensakte invullen en ondertekenen | Onjuist. Een voorlopige overlijdensakte wordt opgemaakt volgens het protocol, niet zelfstandig door jou. |
+| MC-K06-04-C | Zelf een overlijdensakte invullen en laten ondertekenen door de kapitein | Onjuist. Een voorlopige overlijdensakte wordt opgemaakt volgens het protocol, niet zelfstandig door jou. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -963,8 +1059,8 @@ Wat doe je eerst met het lichaam en de plek?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K06-07-A | Je wast het lichaam en kleedt het netjes aan, uit respect voor de overledene | Onjuist. Bij een onverklaarde dood kan onderzoek nodig zijn. Wassen kan sporen vernietigen. Was het lichaam niet zonder advies. |
-| MC-K06-07-B | Je maakt foto's van het lichaam waar het ligt en van de plek, je beschrijft wat je ziet met een getuige erbij en je laat de plek zoveel mogelijk ongemoeid | Juist. Zo blijft vastgelegd hoe de situatie was. Dat is belangrijk voor het onderzoek naar de oorzaak. |
 | MC-K06-07-C | Je ruimt de trap op en maakt hem schoon, zodat niemand anders uitglijdt | Onjuist. Zet de plek af in plaats van op te ruimen. Sporen op de plek kunnen laten zien wat er is gebeurd. |
+| MC-K06-07-B | Foto's maken, met een getuige beschrijven wat je ziet en de plek ongemoeid laten | Juist. Zo blijft vastgelegd hoe de situatie was. Dat is belangrijk voor het onderzoek naar de oorzaak. |
 
 ## MC-L06-S33 Scenario: een collega gevonden
 
@@ -988,7 +1084,7 @@ TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback 
 
 ## Bouw en test
 
-Gebruik vijftien Rise-secties in de volgorde S01 tot en met S15. Het hoofdstuk over overlijden krijgt een rustige vormgeving zonder foto's van overledenen. Bouw S10 pas na het scopebesluit over de bevalling; tot dan alleen de oriëntatietekst. MC-K06-01 tot en met MC-K06-07 zijn oefenvragen en tellen niet mee.
+Gebruik 35 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het hoofdstuk over overlijden krijgt een rustige vormgeving zonder foto's van overledenen. Bouw S10 pas na het scopebesluit over de bevalling; tot dan alleen de oriëntatietekst. MC-K06-01 tot en met MC-K06-12 zijn oefenvragen en tellen niet mee.
 
 ## Open punten voor Mathanje en DRTC
 

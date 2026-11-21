@@ -42,11 +42,11 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je roept Noor om de brug te alarmeren. Je gaat schuin achter Bas staan, laat hem voorover buigen en geeft maximaal vijf slagen tussen de schouderbladen. | Scherm 3 | Goed. De luchtweg is nu helemaal dicht. Begin direct met de slagen en laat een ander alarmeren. | 1 |
-| B. Je wacht nog even; misschien gaat het hoesten weer lukken. | Scherm 2B | Niet goed. Zonder lucht raakt hij binnen enkele minuten bewusteloos. Begin direct. | 0 |
-| C. Je probeert met je vingers het stuk vlees uit zijn keel te halen. | Scherm 2 opnieuw | Niet goed. Blind zoeken kan het voorwerp dieper duwen. Geef slagen tussen de schouderbladen. | 0 |
+| A. Je wacht nog even; misschien gaat het hoesten vanzelf weer lukken. | Scherm 2B | Niet goed. Zonder lucht raakt hij binnen enkele minuten bewusteloos. Begin direct. | 0 |
+| B. Je probeert met je vingers het stuk vlees uit zijn keel te halen. | Scherm 2 opnieuw | Niet goed. Blind zoeken kan het voorwerp dieper duwen. Geef slagen tussen de schouderbladen. | 0 |
+| C. Noor laten alarmeren, Bas voorover laten buigen en vijf slagen tussen de schouderbladen. | Scherm 3 | Goed. De luchtweg is nu helemaal dicht. Begin direct met de slagen en laat een ander alarmeren. | 1 |
 
-### Scherm 2B Direct beginnen (alleen bij B)
+### Scherm 2B Direct beginnen (alleen bij A)
 
 Tekst: Bas wordt blauwer. Je roept Noor om te alarmeren en begint met de slagen tussen de schouderbladen. Doorgaan naar scherm 3. `Omweg` plus 1.
 
@@ -58,8 +58,8 @@ Vraag: wat doe je nu?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je geeft nog eens tien slagen, harder. | Scherm 3 opnieuw | Niet goed. Hebben vijf slagen geen effect, dan ga je over op vijf buikstoten. | 0 |
-| B. Je geeft vijf buikstoten. | Scherm 4 | Goed. Hebben de slagen geen effect, dan geef je vijf buikstoten. | 1 |
+| A. Je geeft vijf buikstoten. | Scherm 4 | Goed. Hebben de slagen geen effect, dan geef je vijf buikstoten. | 1 |
+| B. Je geeft nog eens tien slagen, harder. | Scherm 3 opnieuw | Niet goed. Hebben vijf slagen geen effect, dan ga je over op vijf buikstoten. | 0 |
 | C. Je legt hem op de grond en begint met reanimeren. | Scherm 3 opnieuw | Nog niet. Bas is nog bij bewustzijn. Reanimatie start pas als hij bewusteloos raakt. | 0 |
 
 ### Scherm 4 Je krijgt je armen niet om hem heen
@@ -82,8 +82,8 @@ Vraag: hoe ga je verder?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je wisselt vijf slagen tussen de schouderbladen af met vijf borststoten, tot de belemmering is opgeheven of Bas het bewustzijn verliest. | Scherm 6 | Goed. Blijven slagen en stoten zonder effect, dan wissel je ze af. Je stopt pas als het voorwerp loskomt of als hij bewusteloos raakt. | 1 |
-| B. Je stopt; het lukt niet. | Scherm 5 opnieuw | Niet goed. Geef niet op. Wissel slagen en stoten af tot het voorwerp loskomt of hij bewusteloos raakt. | 0 |
+| A. Je stopt, want het lukt niet en je kunt niets meer doen. | Scherm 5 opnieuw | Niet goed. Geef niet op. Wissel slagen en stoten af tot het voorwerp loskomt of hij bewusteloos raakt. | 0 |
+| B. Vijf slagen en vijf borststoten blijven afwisselen. | Scherm 6 | Goed. Blijven slagen en stoten zonder effect, dan wissel je ze af. Je stopt pas als het voorwerp loskomt of als hij bewusteloos raakt. | 1 |
 | C. Je laat hem rechtop zitten en wacht op de Radio Medische Dienst. | Scherm 5 opnieuw | Niet goed. De arts kan het voorwerp niet op afstand verwijderen. Jij gaat door met afwisselen. | 0 |
 
 ### Scherm 6 Bas zakt in elkaar
@@ -95,8 +95,8 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je legt hem in stabiele zijligging, zodat het vlees eruit kan vallen. | Scherm 6 opnieuw | Niet goed. Hij ademt niet normaal. De stabiele zijligging is voor iemand die wel normaal ademt. Start reanimatie. | 0 |
-| B. Je laat Noor de AED halen en de Radio Medische Dienst alarmeren en start reanimatie op de harde vloer. | Scherm 7 | Goed. Raakt het slachtoffer bewusteloos, start dan reanimatie. De compressies kunnen het voorwerp losmaken. | 1 |
-| C. Je geeft nog vijf buikstoten terwijl hij ligt. | Scherm 6 opnieuw | Niet goed. Is hij bewusteloos, dan start je reanimatie. | 0 |
+| B. Je geeft nog vijf buikstoten terwijl hij op de grond ligt. | Scherm 6 opnieuw | Niet goed. Is hij bewusteloos, dan start je reanimatie. | 0 |
+| C. Noor de AED laten halen en alarmeren, en reanimeren op de harde vloer. | Scherm 7 | Goed. Raakt het slachtoffer bewusteloos, start dan reanimatie. De compressies kunnen het voorwerp losmaken. | 1 |
 
 ### Scherm 7 In de mond kijken
 
@@ -106,8 +106,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je haalt het zichtbare stuk vlees weg met een gaasje om je vingers en gaat verder met beademen. | Scherm 8 | Goed. Een zichtbaar voorwerp haal je weg. Kijk na iedere 30 compressies opnieuw zolang dat nodig is. | 1 |
-| B. Je laat het zitten; je mag niet in de mond komen. | Scherm 7 opnieuw | Niet goed. Een voorwerp dat je ziet, haal je weg. Wat je niet mag, is blind zoeken. | 0 |
+| A. Je laat het zitten, want je mag niet met je vingers in de mond komen. | Scherm 7 opnieuw | Niet goed. Een voorwerp dat je ziet, haal je weg. Wat je niet mag, is blind zoeken. | 0 |
+| B. Het zichtbare stuk weghalen met een gaasje om je vingers en doorgaan. | Scherm 8 | Goed. Een zichtbaar voorwerp haal je weg. Kijk na iedere 30 compressies opnieuw zolang dat nodig is. | 1 |
 | C. Je duwt het verder naar binnen, zodat de luchtweg vrij komt. | Scherm 7 opnieuw | Niet goed. Zo komt het voorwerp dieper in de luchtweg. Haal het weg als je het ziet. | 0 |
 
 ### Scherm 8 Hij ademt weer
@@ -119,8 +119,8 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je zet hem rechtop op een stoel, zodat hij beter kan ademen. | Scherm 8 opnieuw | Niet goed. Hij reageert nauwelijks. Een slachtoffer dat niet goed reageert maar wel normaal ademt, leg je in stabiele zijligging. | 0 |
-| B. Je stopt en laat hem liggen; het gevaar is voorbij. | Scherm 8 opnieuw | Niet goed. Blijf zijn ademhaling controleren. Hij kan opnieuw verslechteren. | 0 |
-| C. Je legt hem in stabiele zijligging en blijft zijn ademhaling controleren. Je houdt de AED bij de hand. | Scherm 9 | Goed. Normaal ademen maar nauwelijks reageren: stabiele zijligging en blijven controleren. | 1 |
+| B. Je stopt en laat hem liggen, want het gevaar is voorbij. | Scherm 8 opnieuw | Niet goed. Blijf zijn ademhaling controleren. Hij kan opnieuw verslechteren. | 0 |
+| C. Stabiele zijligging, ademhaling blijven controleren en de AED bij de hand. | Scherm 9 | Goed. Normaal ademen maar nauwelijks reageren: stabiele zijligging en blijven controleren. | 1 |
 
 ### Scherm 9 Een uur later
 
@@ -130,8 +130,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat hem gaan; hij is weer helder. | Scherm 9 opnieuw | Niet goed. Na stoten en een reanimatie kan inwendig letsel zijn ontstaan. Laat hem altijd beoordelen. | 0 |
-| B. Je neemt contact op met de Radio Medische Dienst. Je vertelt wat er is gebeurd: hoe laat het begon, hoeveel slagen en stoten je gaf, hoe lang hij bewusteloos was en dat je hebt gereanimeerd, en dat hij nu pijn in zijn borst heeft. | Debriefing | Goed. Na buikstoten of borststoten en een reanimatie laat je het slachtoffer altijd beoordelen. De arts heeft het hele verloop nodig. | 1 |
+| A. Je laat hem gaan, want hij is weer helder en voelt zich goed. | Scherm 9 opnieuw | Niet goed. Na stoten en een reanimatie kan inwendig letsel zijn ontstaan. Laat hem altijd beoordelen. | 0 |
+| B. Contact met de RMD en vertellen wat er gebeurde, ook de reanimatie en borstpijn. | Debriefing | Goed. Na buikstoten of borststoten en een reanimatie laat je het slachtoffer altijd beoordelen. De arts heeft het hele verloop nodig. | 1 |
 | C. Je geeft hem iets tegen de pijn uit de medicijnkist. | Scherm 9 opnieuw | Niet goed. Medicijnen geef je alleen op advies van de arts. Neem eerst contact op. | 0 |
 
 ### Debriefing

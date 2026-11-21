@@ -33,7 +33,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden toxicol
 
 Bronstatus: S034 dia59 tot en met 64 (toxicologie en MFAG), S043 dia7 tot en met 35 (onderkoeling, verdrinking en zuurstof), S044 dia18 en 20 (zeeziekte en vergiftiging van de huid) en PH5 (S053) zijn als tekst gelezen. De LOTUS-kaarten (S027) zijn EHBO-casussen voor de wal; LOTUS 24 noemt dat de ruimte kort weer betreden kan worden, wat aan boord bij een besloten ruimte niet geldt. Die aanwijzing is niet overgenomen. Een actuele MFAG-editie en IMDG-vindplaats ontbreken in het register.
 
-De schermrecords staan in [MFA-L05-schermreview.csv](../../reviews/MFA-L05-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S14, S15, S02, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S23, S06, S24, S07, S08, S34, S09, S25, S26, S27, S28, S29, S30, S10, S11, S12, S31, S32, S33, S13.
+De schermrecords staan in [MFA-L05-schermreview.csv](../../reviews/MFA-L05-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S14, S15, S02, S16, S17, S18, S03, S04, S05, S19, S20, S21, S22, S23, S06, S24, S07, S08, S34, S09, S25, S26, S27, S28, S29, S30, S10, S35, S11, S12, S31, S32, S33, S13.
 
 ## MFA-L05-S01 Gevaar uit de lading, gevaar uit het water
 
@@ -228,8 +228,8 @@ Wat doe je?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | K05-05-A | Je geeft hem gelijk: hij ziet er gezond uit, dus het is waarschijnlijk griep | Onjuist. Bij koolmonoxide blijft de huid roze of rood, ook als het ernstig is. Griepachtige klachten na werk bij een motor in een slecht geventileerde ruimte zijn een waarschuwing. |
-| K05-05-B | Je denkt aan koolmonoxide, brengt hem naar frisse lucht, laat hem rustig halfzittend zitten, waarschuwt dat niemand de ruimte onbeschermd ingaat en overlegt met de Radio Medische Dienst over zuurstof | Juist. De klachten en het werk passen bij koolmonoxide. Je haalt hem uit de bron, beschermt anderen en vraagt medisch advies. |
-| K05-05-C | Je stuurt hem terug om de deur open te zetten en de ruimte te luchten, daarna mag hij gaan liggen | Onjuist. Hij heeft al klachten en moet niet terug de ruimte in. Laat de ruimte volgens de procedure veilig maken en zorg voor hem. |
+| K05-05-C | Je stuurt hem terug om de deur open te zetten en te luchten, daarna mag hij liggen | Onjuist. Hij heeft al klachten en moet niet terug de ruimte in. Laat de ruimte volgens de procedure veilig maken en zorg voor hem. |
+| K05-05-B | Denken aan koolmonoxide: frisse lucht, niemand onbeschermd naar binnen, de RMD raadplegen | Juist. De klachten en het werk passen bij koolmonoxide. Je haalt hem uit de bron, beschermt anderen en vraagt medisch advies. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -255,9 +255,9 @@ Waar zoek je eerst op welke stof het is en welke gevaren die heeft?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K05-01-A | In het veiligheidsinformatieblad van de stof en de ladingdocumenten volgens de IMDG Code | Juist. Het veiligheidsinformatieblad en de ladingdocumenten geven de naam, het UN-nummer en de gevaren. Daarmee zoek je in het MFAG de eerste hulp op. |
-| K05-01-B | In de inventarislijst van de medische uitrusting | Onjuist. De inventarislijst zegt welke middelen aan boord zijn, niet welke gevaren een stof heeft. |
-| K05-01-C | Door aan de vloeistof te ruiken | Onjuist. Ruiken kan gevaarlijk zijn en zegt niet welke stof het is. Gebruik de documenten. |
+| K05-01-A | In het veiligheidsinformatieblad en de ladingdocumenten volgens de IMDG Code | Juist. Het veiligheidsinformatieblad en de ladingdocumenten geven de naam, het UN-nummer en de gevaren. Daarmee zoek je in het MFAG de eerste hulp op. |
+| K05-01-B | In de inventarislijst van de medische uitrusting aan boord van het schip | Onjuist. De inventarislijst zegt welke middelen aan boord zijn, niet welke gevaren een stof heeft. |
+| K05-01-C | Door voorzichtig aan de vloeistof te ruiken en de kleur te bekijken | Onjuist. Ruiken kan gevaarlijk zijn en zegt niet welke stof het is. Gebruik de documenten. |
 
 ## MFA-L05-S04 Het MFAG gebruiken
 
@@ -451,9 +451,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
+| K05-06-B | Niet laten braken, de fles bewaren, ademhaling bewaken en direct de RMD raadplegen | Juist. Je voorkomt extra schade, houdt de ademweg in de gaten en geeft de arts de juiste stof door. |
 | K05-06-A | Je laat hem met een vinger in de keel overgeven, zodat de stof eruit komt | Onjuist. Bij een bijtende stof laat je niet braken. De stof komt dan opnieuw langs de keel en de slokdarm en beschadigt die nog meer. |
-| K05-06-B | Je laat niet braken, bewaart de fles, let op zijn ademhaling en zwelling in de keel en neemt direct contact op met de Radio Medische Dienst | Juist. Je voorkomt extra schade, houdt de ademweg in de gaten en geeft de arts de juiste stof door. |
-| K05-06-C | Je geeft hem melk en een lepel suiker om de stof te neutraliseren | Onjuist. Probeer een stof niet zelf te neutraliseren. De arts bepaalt aan de hand van de stof of hij iets mag drinken. |
+| K05-06-C | Je geeft hem melk en een lepel suiker om de stof in de maag te neutraliseren | Onjuist. Probeer een stof niet zelf te neutraliseren. De arts bepaalt aan de hand van de stof of hij iets mag drinken. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -605,9 +605,9 @@ Wat doe je voordat je het masker op het gezicht plaatst?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K05-03-A | Het reservoirzakje laten vollopen met zuurstof | Juist. Laat het zakje eerst vollopen, plaats dan het masker over mond, neus en kin en zorg dat het goed aansluit. |
 | K05-03-B | Het masker eerst insmeren met vaseline zodat het beter sluit | Onjuist. Vet en olie in de buurt van zuurstof geven brandgevaar. |
 | K05-03-C | Niets; je kunt het lege masker direct opzetten | Onjuist. Een leeg reservoir levert in het begin te weinig zuurstof. |
+| K05-03-A | Het reservoirzakje laten vollopen met zuurstof | Juist. Laat het zakje eerst vollopen, plaats dan het masker over mond, neus en kin en zorg dat het goed aansluit. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -819,8 +819,8 @@ Wat is de juiste aanpak?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K05-07-A | Hij voelt zich goed en heeft geen klachten meer, dus hij mag weer aan het werk | Onjuist. Water in de longen kan uren of tot twee dagen later nog ernstige benauwdheid geven. Hij heeft bewaking en medisch advies nodig. |
 | K05-07-B | Hij krijgt droge kleren en rust; je controleert regelmatig ademhaling, pols en bewustzijn, schrijft het op en overlegt met de arts of hij naar het ziekenhuis moet | Juist. Iedereen die water binnen heeft gekregen, wordt bewaakt en besproken met een arts, ook als hij zich goed voelt. |
+| K05-07-A | Hij voelt zich goed en heeft geen klachten meer, dus hij mag weer aan het werk | Onjuist. Water in de longen kan uren of tot twee dagen later nog ernstige benauwdheid geven. Hij heeft bewaking en medisch advies nodig. |
 | K05-07-C | Je laat hem op zijn buik liggen en drukt op zijn rug om het laatste water uit de longen te krijgen | Onjuist. Water uit de longen drukken werkt niet. Het water wordt vanzelf opgenomen; het gevaar zit in de schade aan de longen. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -852,6 +852,49 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 **Verbinding met de praktijkdag**
 
 SC-MFA-05: de cursist beschermt de geredde persoon tegen verdere afkoeling.
+
+## MFA-L05-S35 Casus: na twee uur in het vlot
+
+Leerdoelen: MFA-08.02; MFA-08.01. Bronplaats: S043 dia8, 11, 13 en 29 (onderkoeling, afterdrop, natte kleding); S016 GH1 boek p92 / PDF p95 (behandeling bij bewustzijn: uitkleden, afdrogen zonder wrijven, iets warms, bewaking); S025 IMGS boek p339-341 / PDF p360-362; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist past toe hoe hij een geredde persoon tegen verdere afkoeling beschermt en waarom hij blijft controleren.
+
+**Cursistentekst**
+
+Een opvarende van een ander schip wordt na twee uur in een reddingsvlot aan boord gehaald. Het waait hard en het is koud. Hij is aanspreekbaar, rilt hevig en zijn kleding is doornat. Hij zegt dat hij zich wel redt.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K05-09**
+
+Wat doe je eerst?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K05-09-A | Hem op dek laten bijkomen met een deken over zijn natte kleding | Onjuist. Natte kleding en wind blijven warmte onttrekken, ook met een deken erover. |
+| K05-09-C | Hem stevig droogwrijven en zijn armen en benen masseren om op te warmen | Onjuist. Wrijven en masseren doe je niet. Droog hem af zonder te wrijven en trek droge kleding aan. |
+| K05-09-B | Uit de wind naar binnen, natte kleding uit, afdrogen zonder wrijven, toedekken | Juist. Weg uit de wind en weg met het natte, dan isoleren. Je wrijft en masseert niet. Iets warms drinken kan als hij goed aanspreekbaar en niet misselijk is. |
+
+**Kennischeck K05-10**
+
+Hij zit binnen, droog en toegedekt. Waarom blijf je hem controleren?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K05-10-A | Dat hoeft niet meer, want hij is aanspreekbaar en warm aangekleed | Onjuist. Ook na de redding kan zijn toestand nog verslechteren. |
+| K05-10-B | Omdat zijn kerntemperatuur nog kan dalen en ademhalingsproblemen later kunnen komen | Juist. Afterdrop kan de kerntemperatuur na de redding verder laten dalen. Blijf ademhaling en bewustzijn controleren en raadpleeg de Radio Medische Dienst. |
+| K05-10-C | Omdat hij anders in slaap valt en slapen na een redding altijd gevaarlijk is | Onjuist. Slapen is niet het punt. Je let op afkoeling, ademhaling en bewustzijn. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van K05-09 en K05-10 (R145). Of de geredde persoon bij hevig rillen mag lopen of horizontaal moet blijven, staat niet in deze bronnen; Mathanje beslist of de casus dat moet noemen.
+
+**Verbinding met de praktijkdag**
+
+Scenario man over boord of geredde persoon op de praktijkdag: de cursist beschermt het slachtoffer tegen kou en wind.
+
 
 ## MFA-L05-S11 Zeeziekte, zon, water en voeding
 
@@ -907,9 +950,9 @@ Wat is de beste aanpak?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K05-04-A | Hem in één keer een liter water laten drinken | Onjuist. Na lang braken en weinig drinken geef je geleidelijk kleine hoeveelheden en volg je het advies van de arts. |
-| K05-04-B | Uitdroging vermoeden, ABCDE beoordelen, geleidelijk kleine hoeveelheden laten drinken als hij niet misselijk is en de Radio Medische Dienst raadplegen | Juist. Braken, een droge mond en weinig plassen wijzen op uitdroging. Je vraagt medisch advies en geeft drinken volgens dat advies. |
-| K05-04-C | Hem laten slapen en morgen opnieuw kijken | Onjuist. Uitdroging kan verergeren. Beoordeel nu en vraag medisch advies. |
+| K05-04-A | Hem in één keer een liter water laten drinken, omdat hij veel vocht mist | Onjuist. Na lang braken en weinig drinken geef je geleidelijk kleine hoeveelheden en volg je het advies van de arts. |
+| K05-04-B | Uitdroging vermoeden, ABCDE, kleine slokjes laten drinken en de RMD raadplegen | Juist. Braken, een droge mond en weinig plassen wijzen op uitdroging. Je vraagt medisch advies en geeft drinken volgens dat advies. |
+| K05-04-C | Hem laten slapen in zijn hut en morgen opnieuw bij hem kijken | Onjuist. Uitdroging kan verergeren. Beoordeel nu en vraag medisch advies. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1000,7 +1043,7 @@ Wat doe je eerst?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | K05-08-A | Je deelt eerst het water uit, zodat de zeezieke collega's niet uitdrogen | Onjuist. Zeeziekte en dorst zijn belangrijk, maar niet levensbedreigend op dit moment. De drenkeling die niet ademt, heeft voorrang. |
-| K05-08-B | Je start direct met reanimeren bij de drenkeling, laat een collega druk zetten op de bloedende arm en vraagt de anderen de zeezieken te helpen | Juist. Wie niet normaal ademt, krijgt voorrang. Je verdeelt de andere taken, zodat ook de bloeding direct wordt gestopt. |
+| K05-08-B | Reanimeren bij de drenkeling, een collega druk laten zetten op de arm | Juist. Wie niet normaal ademt, krijgt voorrang. Je verdeelt de andere taken, zodat ook de bloeding direct wordt gestopt. |
 | K05-08-C | Je wacht tot de redding er is, want in een vlot kun je niet reanimeren | Onjuist. Ook in een vlot kun je beademen en reanimeren, en een bloeding stoppen met directe druk. |
 
 ## MFA-L05-S13 Klaar voor de praktijkdag
@@ -1027,7 +1070,7 @@ SC-MFA-04, SC-MFA-05 en station MFA-P03 in docs/praktijkplanning-v001.md.
 
 ## Bouw en test
 
-Gebruik 34 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het MFAG wordt niet nagebouwd of gekopieerd; S04 toont een eigen schematisch voorbeeld met een fictieve stof en verwijst naar de MFAG-editie aan boord. Controleer op een staand telefoonscherm dat de tabel met blootstellingsroutes in S05 als tabbladen leesbaar blijft. K05-01 tot en met K05-04 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 35 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. Het MFAG wordt niet nagebouwd of gekopieerd; S04 toont een eigen schematisch voorbeeld met een fictieve stof en verwijst naar de MFAG-editie aan boord. Controleer op een staand telefoonscherm dat de tabel met blootstellingsroutes in S05 als tabbladen leesbaar blijft. K05-01 tot en met K05-04 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

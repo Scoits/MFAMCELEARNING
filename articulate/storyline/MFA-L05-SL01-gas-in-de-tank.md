@@ -28,11 +28,11 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je gaat samen met Mo naar beneden; met twee kun je Kevin sneller naar boven halen. | Scherm 1B | Niet goed. Wat Kevin velde, is er nog steeds. Wie zonder bescherming naar binnen gaat, valt zelf ook neer. | 0 |
-| B. Je houdt Mo tegen. Niemand gaat de tank in zonder bescherming. | Scherm 2 | Goed. Stop en denk na. Ligt iemand om onduidelijke reden in een afgesloten ruimte, ga dan niet naar binnen. | 1 |
+| A. Je houdt Mo tegen. Niemand gaat de tank in zonder bescherming. | Scherm 2 | Goed. Stop en denk na. Ligt iemand om onduidelijke reden in een afgesloten ruimte, ga dan niet naar binnen. | 1 |
+| B. Je gaat samen met Mo naar beneden; met twee kun je Kevin sneller naar boven halen. | Scherm 1B | Niet goed. Wat Kevin velde, is er nog steeds. Wie zonder bescherming naar binnen gaat, valt zelf ook neer. | 0 |
 | C. Je laat Mo snel naar binnen gaan met zijn adem ingehouden. | Scherm 1 opnieuw | Niet goed. Adem inhouden beschermt niet genoeg. Niemand gaat naar binnen zonder persluchtapparatuur. | 0 |
 
-### Scherm 1B Terug naar boven (alleen bij A)
+### Scherm 1B Terug naar boven (alleen bij B)
 
 Tekst: Op de ladder wordt Mo duizelig. Je trekt hem terug naar boven. Hij knapt op in de frisse lucht. Doorgaan naar scherm 2. `Omweg` plus 1.
 
@@ -42,8 +42,8 @@ Vraag: wat doe je nu?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je waarschuwt de brug en de andere helpers en volgt de procedure voor besloten ruimten van het schip. | Scherm 3 | Goed. Sla alarm en volg de procedure. Dan komt het reddingsteam met de juiste uitrusting. | 1 |
-| B. Je roept naar beneden dat Kevin zelf naar boven moet klimmen. | Scherm 2 opnieuw | Niet goed. Kevin reageert niet. Sla alarm en volg de procedure. | 0 |
+| A. Je roept naar beneden dat Kevin zelf naar boven moet klimmen. | Scherm 2 opnieuw | Niet goed. Kevin reageert niet. Sla alarm en volg de procedure. | 0 |
+| B. Je waarschuwt de brug en de andere helpers en volgt de procedure voor besloten ruimten van het schip. | Scherm 3 | Goed. Sla alarm en volg de procedure. Dan komt het reddingsteam met de juiste uitrusting. | 1 |
 | C. Je laat een ventilator in het mangat blazen en gaat dan na vijf minuten naar binnen. | Scherm 2 opnieuw | Niet goed. Je weet niet of de lucht dan veilig is. Sla alarm en volg de procedure, met gasmeting en bescherming. | 0 |
 
 ### Scherm 3 Wie gaat naar binnen?
@@ -54,8 +54,8 @@ Vraag: hoe gaat de redding volgens de procedure?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Een redder gaat naar binnen met een gasmasker met filter. | Scherm 3 opnieuw | Niet goed. Een filter beschermt niet bij zuurstoftekort of veel gas. De procedure noemt persluchtapparatuur. | 0 |
-| B. Een redder gaat naar binnen met persluchtapparatuur en een lijn om het middel. Een collega buiten de tank bewaakt de lijn. | Scherm 4 | Goed. Alleen met persluchtapparatuur, een lijn en een collega die buiten de lijn bewaakt, zoals in de procedure staat. | 1 |
+| A. Een redder met persluchtapparatuur en een lijn, bewaakt van buiten. | Scherm 4 | Goed. Alleen met persluchtapparatuur, een lijn en een collega die buiten de lijn bewaakt, zoals in de procedure staat. | 1 |
+| B. Een redder gaat naar binnen met een gasmasker met filter en een lijn. | Scherm 3 opnieuw | Niet goed. Een filter beschermt niet bij zuurstoftekort of veel gas. De procedure noemt persluchtapparatuur. | 0 |
 | C. Twee redders zonder ademlucht, maar met een lijn, zodat ze snel terug kunnen. | Scherm 3 opnieuw | Niet goed. Een lijn alleen is niet genoeg. Zonder ademlucht valt de redder zelf neer. | 0 |
 
 ### Scherm 4 Kevin is boven
@@ -66,9 +66,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je maakt knellende kleding los, legt hem in stabiele zijligging en laat de zuurstofkoffer halen. Je controleert de ademhaling steeds opnieuw. | Scherm 5 | Goed. Frisse lucht, knellende kleding los, een vrije ademweg en stabiele zijligging bij een bewusteloze die normaal ademt. Zuurstof bij tekenen van zuurstoftekort. | 1 |
-| B. Je laat hem op zijn rug liggen en gaat de arts bellen. | Scherm 4 opnieuw | Niet goed. Een bewusteloze die normaal ademt, leg je in stabiele zijligging. Blijf bij hem en laat een ander bellen. | 0 |
-| C. Je start met borstcompressies. | Scherm 4 opnieuw | Niet goed. Hij ademt normaal. Leg hem in stabiele zijligging en blijf de ademhaling controleren. | 0 |
+| A. Je laat hem op zijn rug liggen en gaat zelf de arts bellen. | Scherm 4 opnieuw | Niet goed. Een bewusteloze die normaal ademt, leg je in stabiele zijligging. Blijf bij hem en laat een ander bellen. | 0 |
+| B. Je start direct met borstcompressies, want hij was bewusteloos. | Scherm 4 opnieuw | Niet goed. Hij ademt normaal. Leg hem in stabiele zijligging en blijf de ademhaling controleren. | 0 |
+| C. Kleding los, stabiele zijligging, zuurstof laten halen en blijven controleren. | Scherm 5 | Goed. Frisse lucht, knellende kleding los, een vrije ademweg en stabiele zijligging bij een bewusteloze die normaal ademt. Zuurstof bij tekenen van zuurstoftekort. | 1 |
 
 ### Scherm 5 Zuurstof geven
 
@@ -79,7 +79,7 @@ Vraag: hoe breng je het masker aan?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je legt het masker los op zijn gezicht en zet de cilinder open. | Scherm 5 opnieuw | Te weinig. Laat eerst het reservoirzakje vollopen en zorg dat het masker goed aansluit. | 0 |
-| B. Je houdt de ademweg vrij, laat het reservoirzakje vollopen, plaatst het masker over mond, neus en kin en drukt het bij de neus aan. Je kijkt hoe Kevin reageert. Iemand die rookt, stuur je weg. | Scherm 6 | Goed. Een vrije ademweg, een vol reservoir en een goed aansluitend masker. Zuurstof maakt een brand heftiger: geen vuur, roken of vet in de buurt. | 1 |
+| B. Ademweg vrij, reservoir laten vollopen, masker goed aandrukken en kijken hoe hij reageert. | Scherm 6 | Goed. Een vrije ademweg, een vol reservoir en een goed aansluitend masker. Zuurstof maakt een brand heftiger: geen vuur, roken of vet in de buurt. | 1 |
 | C. Je wacht met zuurstof tot de arts het adviseert. | Scherm 5 opnieuw | Niet goed. In de DRTC-werkwijze geef je zuurstof bij tekenen van zuurstoftekort, ook voordat je de arts spreekt. | 0 |
 
 ### Scherm 6 Ik ruik niks meer
@@ -90,9 +90,9 @@ Vraag: wat zeg je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Goed idee, maar doe het snel." | Scherm 6 opnieuw | Niet goed. Zwavelwaterstof schakelt na enkele minuten je reukvermogen uit, terwijl er nog steeds gas kan zijn. | 0 |
-| B. "Neem een ventilator mee, dan is het veilig." | Scherm 6 opnieuw | Niet goed. Je weet niet of de lucht veilig is. Alleen een gasmeting en de procedure kunnen dat vaststellen. | 0 |
-| C. "Nee. Zwavelwaterstof ruik je na een paar minuten niet meer, terwijl het er nog is. Niemand gaat de tank in voordat de gasmeting en de procedure zeggen dat het veilig is." | Scherm 7 | Goed. Bij zwavelwaterstof kun je niet op je neus vertrouwen. Een gasmeter en de procedure voor besloten ruimten beschermen je wel. | 1 |
+| A. "Goed idee, maar doe het snel en houd je adem in." | Scherm 6 opnieuw | Niet goed. Zwavelwaterstof schakelt na enkele minuten je reukvermogen uit, terwijl er nog steeds gas kan zijn. | 0 |
+| B. "Nee. Zwavelwaterstof ruik je na een paar minuten niet meer." | Scherm 7 | Goed. Bij zwavelwaterstof kun je niet op je neus vertrouwen. Een gasmeter en de procedure voor besloten ruimten beschermen je wel. | 1 |
+| C. "Neem een ventilator mee, dan is het veilig genoeg." | Scherm 6 opnieuw | Niet goed. Je weet niet of de lucht veilig is. Alleen een gasmeting en de procedure kunnen dat vaststellen. | 0 |
 
 ### Scherm 7 Kevin stopt met ademen
 
@@ -102,11 +102,11 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je draait hem op zijn rug, laat de AED halen en start reanimatie. Je beademt met het beademingsmasker met ventiel of de ballon uit de zuurstofkoffer. | Scherm 8 | Goed. Ademt hij niet normaal, start dan reanimatie. Iemand die een giftig gas heeft ingeademd, kan dat weer uitademen. Beadem daarom alleen met een hulpmiddel. | 1 |
-| B. Je start reanimatie met mond-op-mondbeademing, want dat is het snelst. | Scherm 7B | Niet goed. Beadem nooit zonder hulpmiddel. Kevin kan het gas uitademen en dan word jij ook vergiftigd. | 0 |
+| A. Je start reanimatie met mond-op-mondbeademing, want dat is het snelst. | Scherm 7B | Niet goed. Beadem nooit zonder hulpmiddel. Kevin kan het gas uitademen en dan word jij ook vergiftigd. | 0 |
+| B. Op de rug, AED laten halen en reanimeren met masker met ventiel of ballon. | Scherm 8 | Goed. Ademt hij niet normaal, start dan reanimatie. Iemand die een giftig gas heeft ingeademd, kan dat weer uitademen. Beadem daarom alleen met een hulpmiddel. | 1 |
 | C. Je laat hem in stabiele zijligging liggen met het zuurstofmasker op. | Scherm 7 opnieuw | Niet goed. Hij ademt niet meer normaal. Start reanimatie. | 0 |
 
-### Scherm 7B Met hulpmiddel (alleen bij B)
+### Scherm 7B Met hulpmiddel (alleen bij A)
 
 Tekst: Je stopt voordat je beademt en pakt het beademingsmasker met ventiel uit de zuurstofkoffer. Doorgaan naar scherm 8. `Omweg` plus 1.
 
@@ -118,8 +118,8 @@ Vraag: wat geef je door?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Hij is in een tank flauwgevallen. Wat moet ik doen?" | Scherm 8 opnieuw | Te weinig. De arts heeft de stof, de route, de tijd en de verschijnselen nodig. | 0 |
-| B. De stof volgens de gasmeting, dat hij het heeft ingeademd, hoe lang hij in de tank was en hoe laat, dat hij bewusteloos was en is gereanimeerd, wat je nu ziet, dat hij zuurstof krijgt, en wat het MFAG of het veiligheidsinformatieblad over deze stof zegt, met de bladzijde. | Scherm 9 | Goed. Geef de stof, de route, de duur en de tijd van de blootstelling, de verschijnselen en wat je al hebt gedaan. Noem ook waar je het hebt opgezocht. | 1 |
+| A. "Hij is in een tank flauwgevallen en ademt nu weer. Wat moet ik doen?" | Scherm 8 opnieuw | Te weinig. De arts heeft de stof, de route, de tijd en de verschijnselen nodig. | 0 |
+| B. De stof, hoe lang en hoe laat, de reanimatie, wat je nu ziet en wat het MFAG zegt. | Scherm 9 | Goed. Geef de stof, de route, de duur en de tijd van de blootstelling, de verschijnselen en wat je al hebt gedaan. Noem ook waar je het hebt opgezocht. | 1 |
 | C. "Het was gas. Hij ademt weer, dus het is goed." | Scherm 8 opnieuw | Niet goed. Wie gas heeft ingeademd, wordt besproken met de arts, ook als hij opknapt. Geef de stof en het verloop. | 0 |
 
 ### Scherm 9 Weer bij
@@ -130,9 +130,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat hem gaan; hij is weer helder. | Scherm 9 opnieuw | Niet goed. Een slachtoffer dat na gas weer opknapt, is nog niet buiten gevaar. Schade aan de longen wordt soms pas na uren duidelijk. | 0 |
-| B. Je laat hem niet alleen. Je controleert regelmatig zijn ademhaling, schrijft op wat je ziet en meldt toenemende kortademigheid of ophoesten van schuimend vocht direct aan de arts. | Debriefing | Goed. Na het inademen van gas kunnen de longen later nog problemen geven. Laat hem niet alleen slapen en blijf hem bewaken. | 1 |
-| C. Je geeft hem hoestsiroop uit de medicijnkist. | Scherm 9 opnieuw | Niet goed. Medicijnen geef je alleen op advies van de arts. Blijf zijn ademhaling bewaken. | 0 |
+| A. Je laat hem gaan, want hij is weer helder en voelt zich goed. | Scherm 9 opnieuw | Niet goed. Een slachtoffer dat na gas weer opknapt, is nog niet buiten gevaar. Schade aan de longen wordt soms pas na uren duidelijk. | 0 |
+| B. Je geeft hem hoestsiroop uit de medicijnkist tegen het hoesten. | Scherm 9 opnieuw | Niet goed. Medicijnen geef je alleen op advies van de arts. Blijf zijn ademhaling bewaken. | 0 |
+| C. Niet alleen laten, ademhaling controleren en kortademigheid direct melden. | Debriefing | Goed. Na het inademen van gas kunnen de longen later nog problemen geven. Laat hem niet alleen slapen en blijf hem bewaken. | 1 |
 
 ### Debriefing
 

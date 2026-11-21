@@ -28,9 +28,9 @@ Vraag: wat vraag je Ruben als eerste?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Neem maar iets tegen de koorts, dan kijken we morgen." | Scherm 1B | Niet goed. Je begint niet met een middel, maar met vragen. Koorts na een verblijf in de tropen kan iets anders zijn dan griep. | 0 |
-| B. "Waar ben je de afgelopen maanden geweest, ben je aan wal geweest en ben je door muggen gestoken?" | Scherm 2 | Goed. Vraag bij koorts altijd naar de tropen in de afgelopen maanden, het gebied en muggenbeten. Griep uit de tropen is malaria tot het tegendeel is bewezen. | 1 |
-| C. "Is er nog iemand aan boord met griep?" | Scherm 1 opnieuw | Dat is later een goede vraag. Het schip komt net uit West-Afrika; vraag eerst naar de reis en naar muggenbeten. | 0 |
+| A. "Neem maar iets tegen de koorts, dan kijken we morgen verder." | Scherm 1B | Niet goed. Je begint niet met een middel, maar met vragen. Koorts na een verblijf in de tropen kan iets anders zijn dan griep. | 0 |
+| B. "Is er nog iemand aan boord met griep of koorts?" | Scherm 1 opnieuw | Dat is later een goede vraag. Het schip komt net uit West-Afrika; vraag eerst naar de reis en naar muggenbeten. | 0 |
+| C. "Waar ben je geweest, was je aan wal en ben je gestoken?" | Scherm 2 | Goed. Vraag bij koorts altijd naar de tropen in de afgelopen maanden, het gebied en muggenbeten. Griep uit de tropen is malaria tot het tegendeel is bewezen. | 1 |
 
 ### Scherm 1B Eerst vragen (alleen bij A)
 
@@ -45,8 +45,8 @@ Vraag: wat regel je nu?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Ruben blijft in zijn eigen hut; zijn collega houdt een oogje in het zeil. | Scherm 2 opnieuw | Niet goed. Je weet nog niet of hij een besmettelijke ziekte heeft. Zonder hem af in een eigen hut of de ziekenboeg. | 0 |
-| B. Ruben gaat na een paar uur rust weer op wacht. | Scherm 2 opnieuw | Niet goed. Met hoge koorts en rillingen hoort hij in bed. Malaria kan snel levensbedreigend worden. | 0 |
-| C. Ruben gaat naar de ziekenboeg, met een eigen toilet als dat kan. Jij draagt handschoenen, een schort en een mondmasker, wast na iedere verzorging je handen en geeft hem zakdoeken voor hoesten en niezen. | Scherm 3 | Goed. Zolang je niet weet wat hij heeft, verzorg je hem als een patiënt met een mogelijk besmettelijke ziekte. | 1 |
+| B. Ruben gaat na een paar uur rust en een koortsremmer weer op wacht. | Scherm 2 opnieuw | Niet goed. Met hoge koorts en rillingen hoort hij in bed. Malaria kan snel levensbedreigend worden. | 0 |
+| C. Naar de ziekenboeg; jij beschermt jezelf en wast na iedere verzorging je handen. | Scherm 3 | Goed. Zolang je niet weet wat hij heeft, verzorg je hem als een patiënt met een mogelijk besmettelijke ziekte. | 1 |
 
 ### Scherm 3 Van top tot teen
 
@@ -54,9 +54,9 @@ Vraag: hoe onderzoek je Ruben?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je bekijkt het hele ontblote lichaam, van top tot teen, en let op huiduitslag. | Scherm 4 | Goed. Veel infectieziekten zijn te herkennen aan huiduitslag. Er zijn diagnoses gemist omdat dit niet gebeurde. | 1 |
-| B. Je kijkt in zijn keel; bij griep is dat genoeg. | Scherm 3 opnieuw | Niet goed. Kijk naar het hele ontblote lichaam. Huiduitslag kan op een andere plek zitten. | 0 |
-| C. Je meet alleen zijn temperatuur. | Scherm 3 opnieuw | Te weinig. Meten hoort erbij, maar bekijk ook het hele ontblote lichaam op huiduitslag. | 0 |
+| A. Je bekijkt het hele ontblote lichaam en let op huiduitslag. | Scherm 4 | Goed. Veel infectieziekten zijn te herkennen aan huiduitslag. Er zijn diagnoses gemist omdat dit niet gebeurde. | 1 |
+| B. Je kijkt in zijn keel; bij griep is dat genoeg onderzoek. | Scherm 3 opnieuw | Niet goed. Kijk naar het hele ontblote lichaam. Huiduitslag kan op een andere plek zitten. | 0 |
+| C. Je meet alleen zijn temperatuur, twee keer om zeker te zijn. | Scherm 3 opnieuw | Te weinig. Meten hoort erbij, maar bekijk ook het hele ontblote lichaam op huiduitslag. | 0 |
 
 ### Scherm 4 Meten en bijhouden
 
@@ -66,9 +66,9 @@ Vraag: wat leg je vast?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Malaria." | Scherm 4 opnieuw | Niet goed. Dat stel je niet vast; de diagnose vraagt bloedonderzoek. Schrijf op wat je ziet en meet. | 0 |
-| B. Temperatuur, pols, bloeddruk en ademhaling met de tijd, wat je zag, en een vochtlijst van wat hij drinkt en uitplast. | Scherm 5 | Goed. Een paar keer per dag meten en opschrijven laat het verloop zien. Bij koorts is uitdroging een groot gevaar; daarom houd je ook het vocht bij. | 1 |
-| C. Alleen de temperatuur, één keer per dag. | Scherm 4 opnieuw | Te weinig. Meet een paar keer per dag temperatuur, pols en bloeddruk en houd bij hoeveel hij drinkt en uitplast. | 0 |
+| A. "Waarschijnlijk malaria", met de temperatuur van vanochtend erbij. | Scherm 4 opnieuw | Niet goed. Dat stel je niet vast; de diagnose vraagt bloedonderzoek. Schrijf op wat je ziet en meet. | 0 |
+| B. Alleen de temperatuur, één keer per dag, en hoe hij zich voelt. | Scherm 4 opnieuw | Te weinig. Meet een paar keer per dag temperatuur, pols en bloeddruk en houd bij hoeveel hij drinkt en uitplast. | 0 |
+| C. Temperatuur, pols, bloeddruk en ademhaling met tijd, en een vochtlijst. | Scherm 5 | Goed. Een paar keer per dag meten en opschrijven laat het verloop zien. Bij koorts is uitdroging een groot gevaar; daarom houd je ook het vocht bij. | 1 |
 
 ### Scherm 5 De arts inschakelen
 
@@ -78,9 +78,9 @@ Vraag: wat vertel je de arts?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Hij heeft griep. Mag hij paracetamol?" | Scherm 5B | Niet goed. Je geeft geen diagnose en vraagt niet meteen om een middel. De arts heeft de feiten en de reis nodig. | 0 |
-| B. "Hij heeft koorts. Kunt u later terugbellen?" | Scherm 5B | Te weinig. Zonder verloop, metingen en reisgegevens kan de arts de situatie niet beoordelen. | 0 |
-| C. De klachten en wanneer ze begonnen, de metingen met de tijd, dat je geen huiduitslag zag, dat het schip achttien dagen geleden uit West-Afrika vertrok, dat hij aan wal was en muggenbulten had, dat hij in de ziekenboeg ligt en wat hij heeft gekregen. | Scherm 6 | Goed. Vertel de arts altijd waar het schip is geweest. Met de reis, de muggenbeten en het verloop kan de arts aan malaria denken en beslissen over onderzoek, behandeling en evacuatie. | 1 |
+| A. "Hij heeft griep met hoge koorts. Mag hij paracetamol?" | Scherm 5B | Niet goed. Je geeft geen diagnose en vraagt niet meteen om een middel. De arts heeft de feiten en de reis nodig. | 0 |
+| B. "Hij heeft koorts sinds gisteren. Kunt u later terugbellen?" | Scherm 5B | Te weinig. Zonder verloop, metingen en reisgegevens kan de arts de situatie niet beoordelen. | 0 |
+| C. Klachten en begin, metingen, geen uitslag, West-Afrika, muggenbulten, wat hij kreeg. | Scherm 6 | Goed. Vertel de arts altijd waar het schip is geweest. Met de reis, de muggenbeten en het verloop kan de arts aan malaria denken en beslissen over onderzoek, behandeling en evacuatie. | 1 |
 
 ### Scherm 5B Aanvullen (alleen bij A of B)
 
@@ -94,7 +94,7 @@ Vraag: hoe regel je dit?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je leest het advies terug en schrijft het op. Je zet water, thee, sap en bouillon klaar, houdt de vochtlijst bij en spreekt met Sanne af wie 's nachts meet. | Scherm 7 | Goed. Je voert het advies uit, regelt de metingen voor de nacht en bewaakt het vocht. | 1 |
+| A. Advies teruglezen en noteren, drinken klaarzetten, vochtlijst bijhouden, nachtmetingen regelen. | Scherm 7 | Goed. Je voert het advies uit, regelt de metingen voor de nacht en bewaakt het vocht. | 1 |
 | B. Je laat hem slapen en komt morgen om 08.00 uur weer kijken. | Scherm 6 opnieuw | Niet goed. De arts vraagt iedere vier uur te meten. Regel wie dat 's nachts doet. | 0 |
 | C. Je geeft hem alvast iets tegen de koorts, want dat helpt bij het slapen. | Scherm 6 opnieuw | Niet goed. Je geeft alleen wat de arts adviseert. Je past een advies niet zelf aan. | 0 |
 
@@ -106,9 +106,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat hem zijn wacht draaien, want de koorts is weg. | Scherm 7 opnieuw | Niet goed. Rillen, daarna heet en droog en dan hevig zweten zijn de drie fasen van een malaria-aanval. Na het zweten voelt de patiënt zich beter, maar de volgende aanval komt. | 0 |
-| B. Je stopt met meten, want het gaat beter. | Scherm 7 opnieuw | Niet goed. Blijf meten volgens het advies. Het verloop over meerdere dagen is wat de arts wil weten. | 0 |
-| C. Je legt uit dat dit past bij een aanval die terug kan komen. Hij blijft in bed, jij blijft meten en schrijft het verloop van de koorts op voor het volgende gesprek met de arts. | Scherm 8 | Goed. Dat hij zich beter voelt, betekent niet dat het voorbij is. Het verloop met koude rillingen, hitte en zweten is belangrijke informatie voor de arts. | 1 |
+| A. Je laat hem zijn wacht weer draaien, want de koorts is nu weg. | Scherm 7 opnieuw | Niet goed. Rillen, daarna heet en droog en dan hevig zweten zijn de drie fasen van een malaria-aanval. Na het zweten voelt de patiënt zich beter, maar de volgende aanval komt. | 0 |
+| B. Je legt uit dat het terug kan komen; hij blijft in bed en jij blijft meten. | Scherm 8 | Goed. Dat hij zich beter voelt, betekent niet dat het voorbij is. Het verloop met koude rillingen, hitte en zweten is belangrijke informatie voor de arts. | 1 |
+| C. Je stopt met meten, want het gaat duidelijk beter met hem. | Scherm 7 opnieuw | Niet goed. Blijf meten volgens het advies. Het verloop over meerdere dagen is wat de arts wil weten. | 0 |
 
 ### Scherm 8 Midden in de nacht
 
@@ -118,11 +118,11 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je meet direct bewustzijn, ademhaling, pols, bloeddruk en temperatuur, schrijft ze op met de tijd en laat de kapitein direct contact leggen met de arts. Je meldt wat er is veranderd. Raakt hij bewusteloos terwijl hij ademt, dan leg je hem in stabiele zijligging. | Scherm 9 | Goed. Hoge koorts, heftige hoofdpijn en een dalend bewustzijn passen bij de gevaarlijkste vorm van malaria. Die kan binnen een dag dodelijk zijn. Je wacht niet tot de afgesproken tijd. | 1 |
-| B. Je wacht tot 08.00 uur, zoals afgesproken. | Scherm 8B | Niet goed. De arts zei: direct bellen als hij verward of suf wordt. Een dalend bewustzijn meld je meteen. | 0 |
+| A. Je wacht tot 08.00 uur, zoals met de arts is afgesproken. | Scherm 8B | Niet goed. De arts zei: direct bellen als hij verward of suf wordt. Een dalend bewustzijn meld je meteen. | 0 |
+| B. Direct alles meten en noteren en via de kapitein direct de arts. | Scherm 9 | Goed. Hoge koorts, heftige hoofdpijn en een dalend bewustzijn passen bij de gevaarlijkste vorm van malaria. Die kan binnen een dag dodelijk zijn. Je wacht niet tot de afgesproken tijd. | 1 |
 | C. Je laat hem rustig slapen, want hij is moe van de koorts. | Scherm 8B | Niet goed. Traag reageren is een dalend bewustzijn en geen moeheid. Meld het direct. | 0 |
 
-### Scherm 8B Direct melden (alleen bij B of C)
+### Scherm 8B Direct melden (alleen bij A of C)
 
 Tekst: Je laat de kapitein alsnog direct contact leggen en meldt de verandering met de tijd. Doorgaan naar scherm 9. `Omweg` plus 1.
 
@@ -134,9 +134,9 @@ Vraag: wat adviseer je de kapitein?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Niets meer: het schip is uit de tropen, dus het risico is voorbij. | Scherm 9 opnieuw | Niet goed. Koorts na een verblijf in de tropen kan ook weken of maanden later komen. Iedereen die koorts krijgt, meldt zich. | 0 |
-| B. Bij de volgende reis lichaamsbedekkende kleding, insectenwerende middelen en klamboes, vooral tussen zonsondergang en zonsopgang. De malariaprofylaxe volgens de afspraken van de rederij. En iedereen die nu of later koorts krijgt, meldt zich, zodat jij contact opneemt met de arts. | Debriefing | Goed. Voorkom muggenbeten, volg de afspraken van de rederij over profylaxe en blijf alert op koorts, ook weken of maanden na de tropen. | 1 |
-| C. Alleen overdag lange mouwen, want muggen steken overdag. | Scherm 9 opnieuw | Niet volledig. De malariamug steekt tussen zonsondergang en zonsopgang. De muggen van dengue en gele koorts steken ook overdag. Bescherm je dus de hele dag en vooral 's avonds en 's nachts. | 0 |
+| A. Niets meer, want het schip is uit de tropen, dus het risico is voorbij. | Scherm 9 opnieuw | Niet goed. Koorts na een verblijf in de tropen kan ook weken of maanden later komen. Iedereen die koorts krijgt, meldt zich. | 0 |
+| B. Muggenwerende maatregelen, profylaxe volgens de rederij en koorts altijd melden. | Debriefing | Goed. Voorkom muggenbeten, volg de afspraken van de rederij over profylaxe en blijf alert op koorts, ook weken of maanden na de tropen. | 1 |
+| C. Alleen overdag lange mouwen, want muggen steken vooral overdag. | Scherm 9 opnieuw | Niet volledig. De malariamug steekt tussen zonsondergang en zonsopgang. De muggen van dengue en gele koorts steken ook overdag. Bescherm je dus de hele dag en vooral 's avonds en 's nachts. | 0 |
 
 ### Debriefing
 

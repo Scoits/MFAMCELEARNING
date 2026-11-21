@@ -43,7 +43,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden wervell
 
 Bronstatus: S044 (4. MFA dag 2 middag, voettekst rev.002) is op 20 november 2026 als tekstexport gelezen; dia's met alleen een titel (onder meer 23, 27, 29 en 30) bevatten beeld dat niet is beoordeeld. S043 dia7 tot en met 14 en 29 zijn de bron voor onderkoeling. S045 (1. MFA dag 1 ochtend, 105 pagina's) is daarna gelezen voor deel B; veel traumadia's bevatten alleen beeld. De praktijkhandelingen PH6 tot en met PH10 (S054 tot en met S058) zijn daarna gelezen.
 
-De schermrecords staan in [MFA-L04-schermreview.csv](../../reviews/MFA-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S12, S13, S42, S14, S15, S16, S43, S44, S17, S45, S46, S18, S39, S19, S40, S41, S20, S21, S38, S22, S48, S01, S02, S23, S24, S25, S26, S03, S04, S27, S28, S05, S29, S30, S31, S32, S06, S47, S33, S34, S07, S08, S35, S36, S37, S09, S10, S11.
+De schermrecords staan in [MFA-L04-schermreview.csv](../../reviews/MFA-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S12, S13, S42, S14, S15, S16, S43, S44, S17, S45, S46, S18, S39, S19, S40, S41, S20, S49, S21, S38, S22, S48, S01, S02, S23, S24, S25, S26, S03, S04, S27, S28, S05, S29, S30, S31, S32, S06, S47, S33, S34, S07, S08, S35, S36, S37, S09, S10, S11.
 
 ## MFA-L04-S01 Hitte en kou aan boord
 
@@ -412,9 +412,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-09-A | Je spoelt tien minuten met koud water en laat de mouw aan, net als bij hitte | Onjuist. Bij een bijtende stof spoel je langer, minstens dertig minuten, en haal je kleding met de stof eruit. |
-| K04-09-B | Je smeert brandzalf op de huid en verbindt de arm | Onjuist. Smeer niets op de wond. Spoelen is het belangrijkste. |
-| K04-09-C | Je trekt met handschoenen de natte mouw uit, spoelt minstens dertig minuten met lauw water en zoekt de stof op in het veiligheidsinformatieblad | Juist. Bij een bijtende stof haal je de kleding met de stof weg en spoel je lang. Het veiligheidsinformatieblad of het MFAG geeft de verdere aanwijzingen. |
+| K04-09-A | Tien minuten spoelen met koud water en de mouw aanlaten, net als bij hitte | Onjuist. Bij een bijtende stof spoel je langer, minstens dertig minuten, en haal je kleding met de stof eruit. |
+| K04-09-B | Brandzalf op de huid smeren en de arm daarna losjes verbinden | Onjuist. Smeer niets op de wond. Spoelen is het belangrijkste. |
+| K04-09-C | Natte mouw uit met handschoenen, minstens dertig minuten spoelen, stof opzoeken | Juist. Bij een bijtende stof haal je de kleding met de stof weg en spoel je lang. Het veiligheidsinformatieblad of het MFAG geeft de verdere aanwijzingen. |
 
 ## MFA-L04-S31 Wat stroom met het lichaam doet
 
@@ -464,9 +464,9 @@ Wat doe je eerst?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-10-A | Je trekt hem met je handen aan zijn kleding los | Onjuist. Dan kun je zelf onder stroom komen te staan, zeker op een natte vloer. |
-| K04-10-B | Je zorgt dat je droog en geïsoleerd staat, schakelt de stroom uit of haalt hem los met iets droogs dat niet geleidt, en controleert dan de ademhaling | Juist. Eerst je eigen veiligheid en de stroom eraf, daarna de vitale functies. |
-| K04-10-C | Je start direct met reanimatie | Onjuist. Zolang hij onder stroom staat, raak je hem niet aan. Eerst de stroom eraf. |
+| K04-10-A | Je trekt hem met je handen aan zijn kleding los van de kabel | Onjuist. Dan kun je zelf onder stroom komen te staan, zeker op een natte vloer. |
+| K04-10-B | Droog en geïsoleerd staan, stroom uitschakelen, dan de ademhaling | Juist. Eerst je eigen veiligheid en de stroom eraf, daarna de vitale functies. |
+| K04-10-C | Je start direct met reanimatie, omdat iedere seconde telt | Onjuist. Zolang hij onder stroom staat, raak je hem niet aan. Eerst de stroom eraf. |
 
 ## MFA-L04-S06 Hete olie in de kombuis
 
@@ -488,9 +488,9 @@ Wat doe je eerst?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-02-A | Het horloge afdoen en de arm tien tot twintig minuten koelen met zacht stromend lauw water | Juist. Je verwijdert sieraden voordat de arm opzwelt en koelt direct. Daarna dek je de brandwond af, bescherm je tegen afkoelen en raadpleeg je de Radio Medische Dienst. |
-| K04-02-B | De blaren doorprikken en er brandwondenzalf op doen | Onjuist. Blaren laat je heel. Je koelt eerst en dekt daarna steriel af. |
-| K04-02-C | Een zak ijs op de arm leggen tot de pijn weg is | Onjuist. IJs kan de huid verder beschadigen en het slachtoffer laten afkoelen. Koel met zacht stromend lauw leidingwater. |
+| K04-02-B | De blaren doorprikken en er brandwondenzalf op doen tegen de pijn | Onjuist. Blaren laat je heel. Je koelt eerst en dekt daarna steriel af. |
+| K04-02-C | Een zak ijs op de arm leggen tot de pijn helemaal weg is | Onjuist. IJs kan de huid verder beschadigen en het slachtoffer laten afkoelen. Koel met zacht stromend lauw leidingwater. |
+| K04-02-A | Het horloge afdoen en de arm tien tot twintig minuten koelen met lauw water | Juist. Je verwijdert sieraden voordat de arm opzwelt en koelt direct. Daarna dek je de brandwond af, bescherm je tegen afkoelen en raadpleeg je de Radio Medische Dienst. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -620,8 +620,8 @@ Wat is de beste aanpak?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-03-A | Hem naar zijn hut sturen om uit te rusten en later terugkomen | Onjuist. Verwardheid met een droge, warme huid wijst op een hitteberoerte. Dat is levensbedreigend en vraagt directe hulp. |
-| K04-03-B | Hem naar een koele plaats brengen, actief koelen, geen drinken geven, vitale functies controleren en direct de Radio Medische Dienst raadplegen | Juist. Bij een hitteberoerte koel je actief en raadpleeg je direct de arts. Omdat zijn bewustzijn gestoord is, geef je niets te drinken. |
+| K04-03-B | Naar een koele plaats, actief koelen, niets te drinken, meten en de RMD raadplegen | Juist. Bij een hitteberoerte koel je actief en raadpleeg je direct de arts. Omdat zijn bewustzijn gestoord is, geef je niets te drinken. |
+| K04-03-A | Hem naar zijn hut sturen om uit te rusten en later bij hem terugkomen | Onjuist. Verwardheid met een droge, warme huid wijst op een hitteberoerte. Dat is levensbedreigend en vraagt directe hulp. |
 | K04-03-C | Hem een liter ORS-oplossing laten drinken en verder laten werken in de schaduw | Onjuist. Bij een gestoord bewustzijn geef je niets te drinken, en hij mag niet verder werken. Koel actief en vraag medisch advies. |
 
 ## MFA-L04-S35 De stadia van onderkoeling
@@ -793,8 +793,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-04-A | Hem onder een hete douche zetten om snel op te warmen | Onjuist. Hij is ernstig onderkoeld. Snel opwarmen kan de kerntemperatuur verder laten dalen. Behandel hem voorzichtig en horizontaal en vraag direct medisch advies. |
-| K04-04-B | Hem voorzichtig en horizontaal behandelen, inpakken in isolatie- en wollen dekens, bewaken en direct de Radio Medische Dienst raadplegen | Juist. Gestopt rillen, sufheid en blauwe lippen wijzen op ernstige onderkoeling. Je behandelt horizontaal, voorkomt verdere afkoeling en raadpleegt direct de arts. |
+| K04-04-A | Hem onder een hete douche zetten, zodat hij zo snel mogelijk opwarmt | Onjuist. Hij is ernstig onderkoeld. Snel opwarmen kan de kerntemperatuur verder laten dalen. Behandel hem voorzichtig en horizontaal en vraag direct medisch advies. |
+| K04-04-B | Voorzichtig en horizontaal, inpakken in dekens, bewaken en de RMD raadplegen | Juist. Gestopt rillen, sufheid en blauwe lippen wijzen op ernstige onderkoeling. Je behandelt horizontaal, voorkomt verdere afkoeling en raadpleegt direct de arts. |
 | K04-04-C | Hem laten rondlopen en armen en benen laten bewegen om warm te worden | Onjuist. Bewegen laat koud bloed uit armen en benen naar de kern stromen. Houd hem horizontaal en in rust. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -915,8 +915,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-05-A | Hem helpen opstaan en naar zijn hut brengen om te gaan liggen | Onjuist. Nekpijn en tintelingen in de benen na een val wijzen op mogelijk wervelletsel. Bewegen kan het ruggenmerg verder beschadigen. |
-| K04-05-B | Hem vragen stil te blijven liggen, het hoofd stabiliseren in de stand waarin je het vindt en de Radio Medische Dienst raadplegen | Juist. Je beschermt de nek en het ruggenmerg en vraagt medisch advies. Verplaatsen gebeurt alleen met meerdere hulpverleners en de juiste hulpmiddelen. |
+| K04-05-A | Hem helpen opstaan en naar zijn hut brengen om daar te gaan liggen | Onjuist. Nekpijn en tintelingen in de benen na een val wijzen op mogelijk wervelletsel. Bewegen kan het ruggenmerg verder beschadigen. |
+| K04-05-B | Hem stil laten liggen, het hoofd stabiliseren en de RMD raadplegen | Juist. Je beschermt de nek en het ruggenmerg en vraagt medisch advies. Verplaatsen gebeurt alleen met meerdere hulpverleners en de juiste hulpmiddelen. |
 | K04-05-C | Hem in stabiele zijligging leggen, zodat hij niet kan stikken | Onjuist. Hij is aanspreekbaar en ademt normaal. Draaien is niet nodig en belast de wervelkolom. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -1079,8 +1079,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-06-A | Hem laten slapen, omdat hij moe is van de schrik | Onjuist. Sufheid, braken en ongelijke pupillen na een klap op het hoofd zijn signalen van ernstig hoofdletsel. Dit is geen gewone vermoeidheid. |
-| K04-06-B | ABCDE controleren, hem behandelen als mogelijk wervelletsel en direct de Radio Medische Dienst raadplegen met het verloop van 15.00 tot nu | Juist. Het slachtoffer verslechtert na een eerst heldere periode. Je beschrijft het ongeval en het verloop in de tijd, zodat de arts snel kan beslissen, bijvoorbeeld over evacuatie. |
+| K04-06-A | Hem laten slapen, omdat hij moe is van de schrik en de hoofdpijn | Onjuist. Sufheid, braken en ongelijke pupillen na een klap op het hoofd zijn signalen van ernstig hoofdletsel. Dit is geen gewone vermoeidheid. |
+| K04-06-B | ABCDE, behandelen als mogelijk wervelletsel en direct de RMD raadplegen | Juist. Het slachtoffer verslechtert na een eerst heldere periode. Je beschrijft het ongeval en het verloop in de tijd, zodat de arts snel kan beslissen, bijvoorbeeld over evacuatie. |
 | K04-06-C | Een pijnstiller geven tegen de hoofdpijn en over een uur opnieuw kijken | Onjuist. Je wacht niet en geeft geen geneesmiddelen zonder overleg. De verslechtering meld je direct. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -1107,9 +1107,9 @@ Wat is je conclusie?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-12-A | Een gewone hersenschudding; laat hem uitslapen | Onjuist. Toenemende hoofdpijn, braken en sufheid na een periode waarin hij helder was, passen bij een bloeding in de schedel. |
-| K04-12-B | Mogelijk een bloeding in de schedel; je controleert bewustzijn, pupillen, pols en ademhaling en raadpleegt direct de Radio Medische Dienst | Juist. Het bewustzijn daalt na een helder interval. Dat is een spoedgeval. |
-| K04-12-C | Hij heeft iets verkeerds gegeten; je geeft hem water | Onjuist. Na een val met bewusteloosheid moet je bij braken en sufheid altijd aan hersenletsel denken. |
+| K04-12-A | Een gewone hersenschudding; je laat hem rustig uitslapen in zijn hut | Onjuist. Toenemende hoofdpijn, braken en sufheid na een periode waarin hij helder was, passen bij een bloeding in de schedel. |
+| K04-12-C | Hij heeft iets verkeerds gegeten; je geeft hem water en laat hem rusten | Onjuist. Na een val met bewusteloosheid moet je bij braken en sufheid altijd aan hersenletsel denken. |
+| K04-12-B | Mogelijk een bloeding in de schedel; controleren en direct de RMD raadplegen | Juist. Het bewustzijn daalt na een helder interval. Dat is een spoedgeval. |
 
 ## MFA-L04-S46 Doe-opdracht: een nacht bewaken na hoofdletsel
 
@@ -1139,9 +1139,9 @@ Wat zie je om 01.00 uur?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-13-A | Hij slaapt diep; dat is normaal 's nachts | Onjuist. Moeilijk wekbaar en verward, een ongelijke pupil, een dalende pols en een onregelmatige ademhaling zijn tekenen van toenemende druk in de schedel. |
-| K04-13-B | Tekenen van toenemende druk in de schedel; je meldt dit direct aan de Radio Medische Dienst | Juist. Het bewustzijn daalt, de rechterpupil wordt wijder, de pols wordt trager en de ademhaling onregelmatig. Dat is een ernstige verslechtering. |
-| K04-13-C | De pols is lager, dus het gaat beter | Onjuist. Bij druk in de schedel wordt de pols juist trager. Samen met de andere waarden is dit een verslechtering. |
+| K04-13-A | Hij slaapt diep, en dat is normaal midden in de nacht | Onjuist. Moeilijk wekbaar en verward, een ongelijke pupil, een dalende pols en een onregelmatige ademhaling zijn tekenen van toenemende druk in de schedel. |
+| K04-13-B | Tekenen van toenemende druk in de schedel; direct de RMD raadplegen | Juist. Het bewustzijn daalt, de rechterpupil wordt wijder, de pols wordt trager en de ademhaling onregelmatig. Dat is een ernstige verslechtering. |
+| K04-13-C | De pols is lager dan eerst, dus het gaat beter met hem | Onjuist. Bij druk in de schedel wordt de pols juist trager. Samen met de andere waarden is dit een verslechtering. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1293,9 +1293,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-11-A | Je legt een deken over de hand om de vingers op te warmen | Onjuist. De vingers zijn niet koud door de omgeving, maar omdat de doorbloeding wordt afgekneld. |
-| K04-11-B | Je maakt de spalk en het verband los, legt ze minder strak opnieuw aan, controleert de vingers en raadpleegt de Radio Medische Dienst als het niet verbetert | Juist. Door de zwelling zit de spalk nu te strak. Losmaken en opnieuw aanleggen kan de doorbloeding herstellen. |
-| K04-11-C | Je wacht tot de zwelling vanzelf minder wordt | Onjuist. Een slechte doorbloeding kan blijvende schade geven. Je handelt direct. |
+| K04-11-B | Spalk en verband minder strak aanleggen en de vingers controleren | Juist. Door de zwelling zit de spalk nu te strak. Losmaken en opnieuw aanleggen kan de doorbloeding herstellen. |
+| K04-11-A | Je legt een deken over de hand om de vingers weer op te warmen | Onjuist. De vingers zijn niet koud door de omgeving, maar omdat de doorbloeding wordt afgekneld. |
+| K04-11-C | Je wacht tot de zwelling vanzelf minder wordt en kijkt dan opnieuw | Onjuist. Een slechte doorbloeding kan blijvende schade geven. Je handelt direct. |
 
 ## MFA-L04-S20 Bekkenletsel
 
@@ -1330,6 +1330,49 @@ TE VERIFIËREN: Mathanje bevestigt de bekkenspalk met dekens als MFA-handeling e
 **Verbinding met de praktijkdag**
 
 SC-MFA-02 of station MFA-P05: de cursist sluit het bekken met het team en bereidt vervoer voor.
+
+## MFA-L04-S49 Casus: val in het ruim met pijn in het bekken
+
+Leerdoelen: MFA-07.03; MFA-05.01. Bronplaats: S045 dia41 (eerst behandelen wat het eerst doodt, grote breuken zoals bekken), dia89 (bekkenletsel: ABCDE, beenlengte, urineverlies, RMA/TMAS), dia90-94 (bekkenspalk, vacuümmatras); S016 GH1 boek p61-62 / PDF p64-65 (wervelletsel na val van hoogte); S009 p1 item 8.5; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 4 minuten. Leerfunctie: de cursist herkent het risico van een bekkenbreuk en kiest passende ondersteuning, met aandacht voor wervelletsel.
+
+**Cursistentekst**
+
+Een matroos is bij het schoonmaken van een ruim ongeveer drie meter naar beneden gevallen en op zijn zij terechtgekomen. Hij is aanspreekbaar, ademt snel en heeft veel pijn in zijn onderbuik en heup. Zijn rechterbeen lijkt korter en de voet valt naar buiten. Hij is bleek en klam en zijn pols is snel. Zijn broek is nat van urine.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck K04-14**
+
+Wat is op dit moment het grootste gevaar?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K04-14-B | Inwendig bloedverlies door een bekkenbreuk, met tekenen van shock | Juist. Bleek en klam zijn met een snelle pols passen bij shock. Een bekkenbreuk kan veel inwendig bloedverlies geven. Het verschil in beenlengte, de naar buiten vallende voet en urineverlies passen bij bekkenletsel. |
+| K04-14-A | De pijn in zijn heup | Onjuist. De pijn is hevig, maar niet het grootste gevaar. Kijk naar de tekenen van shock. |
+| K04-14-C | Een gebroken bovenbeen dat gespalkt moet worden voordat je verder kijkt | Onjuist. Je werkt volgens ABCDE en behandelt eerst wat het eerst doodt. Hier is dat het bloedverlies, niet het spalken van het been. |
+
+**Kennischeck K04-15**
+
+Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| K04-15-A | Hem voorzichtig laten opstaan om te kijken of hij op het been kan staan | Onjuist. Na een val van hoogte denk je aan letsel van bekken en wervelkolom. Laat hem liggen en beweeg hem niet onnodig. |
+| K04-15-C | Zijn benen hoog leggen tegen de shock en hem goed toedekken | Onjuist. Bij een mogelijke bekkenbreuk beweeg je de benen niet op die manier; dat kan de breuk en het bloedverlies verergeren. Breng de benen naar elkaar en sluit het bekken. |
+| K04-15-B | Laten liggen, benen naar elkaar, bekkenspalk aanleggen en de RMD raadplegen | Juist. Je beperkt beweging, sluit het bekken om het bloedverlies te beperken en geeft de arts je bevindingen en metingen. Voor vervoer gaat hij in een vacuümmatras. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van K04-14 en K04-15 (R145). De feedback bij K04-15-C, dat je de benen niet hoog legt bij een mogelijke bekkenbreuk, is een eigen formulering.
+
+**Verbinding met de praktijkdag**
+
+Station MFA-P03 of het bekkenstation: de cursist legt een bekkenspalk aan met deken en reddingsdeken.
+
 
 ## MFA-L04-S21 Kneuzing en verstuiking
 
@@ -1411,9 +1454,9 @@ Hoe behandel je dit letsel?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| K04-07-A | Als een verstuiking: hoog leggen, koelen en zwachtelen | Onjuist. Een afwijkende stand en koude tenen wijzen op een breuk of ontwrichting met minder circulatie. Dat is meer dan een verstuiking. |
-| K04-07-B | Als een mogelijke breuk of ontwrichting: niet bewegen, circulatie en gevoel controleren, immobiliseren en de Radio Medische Dienst raadplegen | Juist. Bij een afwijkende stand en verminderde circulatie behandel je het als breuk of ontwrichting. Je zet de voet niet zelf terug; dat gebeurt alleen in overleg met een arts. |
-| K04-07-C | De voet voorzichtig rechtzetten en daarna zwachtelen | Onjuist. Reponeren doe je alleen in overleg met een arts. |
+| K04-07-A | Als een verstuiking: hoog leggen, koelen en stevig zwachtelen | Onjuist. Een afwijkende stand en koude tenen wijzen op een breuk of ontwrichting met minder circulatie. Dat is meer dan een verstuiking. |
+| K04-07-C | De voet voorzichtig rechtzetten en daarna stevig zwachtelen | Onjuist. Reponeren doe je alleen in overleg met een arts. |
+| K04-07-B | Als mogelijke breuk: niet bewegen, immobiliseren en de RMD raadplegen | Juist. Bij een afwijkende stand en verminderde circulatie behandel je het als breuk of ontwrichting. Je zet de voet niet zelf terug; dat gebeurt alleen in overleg met een arts. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1439,7 +1482,7 @@ TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback 
 
 ## Bouw en test
 
-Gebruik 48 Rise-secties in de weergavevolgorde die bij de lesgegevens staat: eerst deel B vanaf S12, daarna deel A vanaf S01; S01 wordt dan de inleiding op het tweede deel. Bouw de les bij voorkeur als twee Rise-lessen, een per deel. Beelden van brandwonden en bevriezing zijn eigen illustraties of DRTC-grimering, geen foto's van echte patiënten zonder vastgelegd gebruiksrecht; zet een waarschuwing boven de beeldvergelijking in S02. Controleer op een staand telefoonscherm dat de drie dieptes van brandwonden naast of onder elkaar goed te vergelijken zijn. K04-01 tot en met K04-13 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 49 Rise-secties in de weergavevolgorde die bij de lesgegevens staat: eerst deel B vanaf S12, daarna deel A vanaf S01; S01 wordt dan de inleiding op het tweede deel. Bouw de les bij voorkeur als twee Rise-lessen, een per deel. Beelden van brandwonden en bevriezing zijn eigen illustraties of DRTC-grimering, geen foto's van echte patiënten zonder vastgelegd gebruiksrecht; zet een waarschuwing boven de beeldvergelijking in S02. Controleer op een staand telefoonscherm dat de drie dieptes van brandwonden naast of onder elkaar goed te vergelijken zijn. K04-01 tot en met K04-13 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

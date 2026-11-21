@@ -76,6 +76,22 @@ def splits_oude_vorm(s):
     return "\n".join(tekst), (m.group(1), "", opties)
 
 
+def vragen_van(s):
+    """Alle kennischecks van een scherm: [(vraag_id, vraagtekst, opties)]. Een scherm kan
+    meer vragen hebben; iedere vraag begint met een regel met haar eigen vraag-ID."""
+    blokken, huidig = [], []
+    for r in s["interaction"].splitlines():
+        if VRAAG_ID.match(r.strip()) and huidig and any(x.strip().startswith("Vraag:") for x in huidig):
+            blokken.append(huidig); huidig = []
+        huidig.append(r)
+    blokken.append(huidig)
+    uit = [v for v in (ontleed_vraag("\n".join(b)) for b in blokken) if v]
+    if uit:
+        return uit
+    vraag = splits_oude_vorm(s)[1]
+    return [vraag] if vraag else []
+
+
 def ontleed_vraag(interactie):
     """Geef (vraag_id, vraagtekst, [(antwoord_id, tekst, juist)]) of None."""
     regels = [r.strip() for r in interactie.splitlines() if r.strip()]
@@ -148,8 +164,7 @@ def maak_docx(les, schermen, uitpad, proef):
             voeg_alinea_toe(doc, alinea)
         for media in [m.strip() for m in s["media_ids"].split(";") if m.strip()]:
             doc.add_paragraph(f"[Beeld {media}]")
-        if vraag:
-            vraag_id, tekst, opties = vraag
+        for vraag_id, tekst, opties in vragen_van(s):
             doc.add_paragraph(f"[Kennischeck {vraag_id}; bouwen als Rise kennischeck volgens de interactieconfiguratie]")
             if tekst:
                 doc.add_paragraph(tekst)
@@ -217,13 +232,12 @@ def maak_config(schermen, uitpad):
             basis = [s["screen_id"], s["title"], s["platform_block"], s["minutes_estimate"], s["media_ids"]]
             bron = " | ".join(mediabron(m.strip(), register) for m in s["media_ids"].split(";") if m.strip())
             staart = [bron, s["voice_over"], s["version"], s["review_status"]]
-            _, vraag = splits_oude_vorm(s)
-            if vraag:
-                vraag_id, _, opties = vraag
-                fb = feedback_per_antwoord(s["feedback_correct"], s["feedback_incorrect"])
+            vragen = vragen_van(s)
+            fb = feedback_per_antwoord(s["feedback_correct"], s["feedback_incorrect"])
+            for vraag_id, _, opties in vragen:
                 for aid, tekst, juist in opties:
                     w.writerow(basis + [vraag_id, aid, tekst, "ja" if juist else "nee", fb.get(aid, ""), ""] + staart)
-            else:
+            if not vragen:
                 w.writerow(basis + ["", "", "", "", "", s["interaction"]] + staart)
 
 
@@ -242,7 +256,7 @@ def main():
     csv_pad = os.path.join(a.uit, f"{a.les}-interactieconfiguratie{achtervoegsel}.csv")
     maak_docx(a.les, schermen, docx_pad, proef=not a.productie)
     maak_config(schermen, csv_pad)
-    vragen = sum(1 for s in schermen if splits_oude_vorm(s)[1])
+    vragen = sum(len(vragen_van(s)) for s in schermen)
     print(f"{a.les}: {len(schermen)} schermen, {vragen} kennischecks")
     print(docx_pad)
     print(csv_pad)

@@ -29,7 +29,7 @@ Vraag: wat doe jij eerst?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je vertelt Henk wat er gaat gebeuren, controleert zijn vitale functies en begint met het klaarmaken van hem en zijn spullen. | Slide 2 | Goed. Jij bent verantwoordelijk voor de patiënt. Vertel wat er gaat gebeuren, ook als je niet weet of hij alles hoort. | 1 |
-| B. Je gaat naar het achterdek om de dekploeg te helpen met het weghalen van losse voorwerpen. | Slide 1A | Niet goed. Het dek is de taak van de brug en de dekploeg. Henk kan in die tijd verslechteren en niemand maakt hem klaar. | 0 |
+| B. Je gaat naar het achterdek om de dekploeg te helpen met het weghalen van alle losse voorwerpen. | Slide 1A | Niet goed. Het dek is de taak van de brug en de dekploeg. Henk kan in die tijd verslechteren en niemand maakt hem klaar. | 0 |
 | C. Je wacht in de ziekenboeg tot de helikopter er is; de bemanning maakt hem zelf klaar. | Slide 1A | Niet goed. De helikopterbemanning heeft weinig tijd boven het schip. De patiënt moet op tijd klaar zijn op de afgesproken plek. | 0 |
 
 ### Slide 1A Terug naar de patiënt
@@ -59,8 +59,8 @@ Tekst: "Henk kreeg om 14.10 uur een pijnstiller. Hoe zorg je dat de helikopterar
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je schrijft het in het dossier en geeft het dossier mee. | Slide 4 | Bijna. Het dossier kan zoekraken of niet direct gelezen worden. Bevestig ook een label op de patiënt zelf. | 0 |
-| B. Je bevestigt een duidelijk label op de patiënt met naam van het middel, hoeveelheid, manier van geven en tijdstip, en schrijft het ook in het dossier. | Slide 4 | Goed. Het label blijft bij de patiënt, ook als papieren ergens anders terechtkomen. | 1 |
+| A. Je schrijft het in het dossier en geeft het dossier mee met de patiënt. | Slide 4 | Bijna. Het dossier kan zoekraken of niet direct gelezen worden. Bevestig ook een label op de patiënt zelf. | 0 |
+| B. Een duidelijk label op de patiënt met middel, hoeveelheid en tijd, en in het dossier. | Slide 4 | Goed. Het label blijft bij de patiënt, ook als papieren ergens anders terechtkomen. | 1 |
 | C. Je vertelt het mondeling aan de redder als hij aan dek komt. | Slide 4 | Niet goed. Bij het lawaai van de rotor gaat mondelinge informatie snel verloren. Zet het op schrift, op de patiënt en in het dossier. | 0 |
 
 ### Slide 4 Twee artsen aan de lijn
@@ -70,7 +70,7 @@ Tekst: "15.10 uur. De brug meldt dat de helikopterarts via de radio wil overlegg
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je beëindigt het gesprek met de Radio Medische Dienst; de helikopter neemt het over. | Slide 5 | Niet goed. Houd contact met de arts van de RMD tot er contact is met de helikopterarts. Zo gaat er geen informatie verloren. | 0 |
-| B. Je houdt de RMD aan de lijn tot de helikopterarts de gegevens heeft, en geeft dan de laatste waarden door met tijdstip. | Slide 5 | Goed. De overdracht tussen artsen is compleet en jij meldt de laatste toestand. | 1 |
+| B. Je houdt de RMD aan de lijn tot de helikopterarts de gegevens heeft. | Slide 5 | Goed. De overdracht tussen artsen is compleet en jij meldt de laatste toestand. | 1 |
 
 ### Slide 5 Naar de hijslocatie
 
@@ -78,9 +78,9 @@ Tekst: "15.15 uur. Henk ligt in de vacuümmatras op de brancard van het schip. D
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je wacht tot de helikopter boven het schip hangt en brengt hem dan naar boven. | Slide 5A | Niet goed. Dan kost het transport kostbare hijstijd. Breng de patiënt zo dicht bij de hijslocatie als zijn toestand toelaat, op de afgesproken tijd. | 0 |
-| B. In overleg met de brug breng je hem met genoeg dragers naar een beschutte plek dicht bij de hijslocatie, geeft hem gehoorbescherming, houdt hem warm en blijft hem bewaken. | Slide 6 | Goed. Hij ligt klaar, beschut en bewaakt, en de helikopterarts kan hem daar zo nodig onderzoeken. | 1 |
-| C. Je brengt hem nu direct naar het open dek onder de hijsplek, zodat hij als eerste klaar is. | Slide 5A | Niet goed. Op het open dek onder de rotor is het koud, nat en gevaarlijk. Wacht op een beschutte plek tot de bemanning aangeeft dat hij kan komen. | 0 |
+| A. Met de brug overleggen, naar een beschutte plek bij de hijsplek, warm houden en bewaken. | Slide 6 | Goed. Hij ligt klaar, beschut en bewaakt, en de helikopterarts kan hem daar zo nodig onderzoeken. | 1 |
+| B. Je wacht tot de helikopter boven het schip hangt en brengt hem dan naar boven. | Slide 5A | Niet goed. Dan kost het transport kostbare hijstijd. Breng de patiënt zo dicht bij de hijslocatie als zijn toestand toelaat, op de afgesproken tijd. | 0 |
+| C. Je brengt hem nu direct naar het open dek onder de hijsplek, zodat hij klaar is. | Slide 5A | Niet goed. Op het open dek onder de rotor is het koud, nat en gevaarlijk. Wacht op een beschutte plek tot de bemanning aangeeft dat hij kan komen. | 0 |
 
 ### Slide 5A Bijstellen
 
@@ -92,8 +92,8 @@ Tekst: "15.35 uur. Het schip slingert. De helikopter laat een geleidelijn zakken
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Hij pakt de lijn direct met blote handen beet en maakt hem vast aan de reling. | Slide 6A | Niet goed. Een geleidelijn kan statisch geladen zijn. Laat hem eerst het water of het dek raken en pak hem alleen met rubberen handschoenen. Maak de lijn nooit vast aan het schip. | 0 |
-| B. Hij laat de lijn eerst het water of het dek raken, pakt hem met rubberen handschoenen en houdt hem vrij in de hand, zonder hem vast te maken. | Slide 7 | Goed. Zo voorkom je een schok door statische elektriciteit en blijft de helikopter vrij als het schip beweegt. | 1 |
+| A. Lijn eerst water of dek laten raken, met rubberen handschoenen vrij vasthouden. | Slide 7 | Goed. Zo voorkom je een schok door statische elektriciteit en blijft de helikopter vrij als het schip beweegt. | 1 |
+| B. Hij pakt de lijn direct met blote handen beet en maakt hem vast aan de reling. | Slide 6A | Niet goed. Een geleidelijn kan statisch geladen zijn. Laat hem eerst het water of het dek raken en pak hem alleen met rubberen handschoenen. Maak de lijn nooit vast aan het schip. | 0 |
 
 ### Slide 6A Gevaar
 
@@ -106,7 +106,7 @@ Tekst: "De redder komt aan dek met de brancard van de helikopter."
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je legt Henk alvast over op de brancard van de helikopter zodra die het dek raakt. | Slide 8 | Niet goed. Leg de patiënt pas over als de bemanning dat aangeeft. Zij kennen hun eigen brancard en methode. | 0 |
-| B. Je wacht op de aanwijzing van de redder, helpt met genoeg dragers, en geeft de tas, het dossier en een korte mondelinge overdracht: wat er is gebeurd, wat je hebt gedaan, de laatste waarden en het label. | Slide 8 | Goed. Je volgt de bemanning en draagt kort en volledig over. | 1 |
+| B. Wachten op de redder, helpen dragen en tas, dossier en korte overdracht meegeven. | Slide 8 | Goed. Je volgt de bemanning en draagt kort en volledig over. | 1 |
 
 ### Slide 8 Na de hijs
 

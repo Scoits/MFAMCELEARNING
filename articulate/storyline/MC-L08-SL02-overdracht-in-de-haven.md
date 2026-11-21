@@ -28,11 +28,11 @@ Vraag: wat regel je nu?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Niets; in de haven bel je een ambulance. | Scherm 1B | Niet goed. Bereid de overdracht vooraf voor. Dan staat de zorg klaar als het schip aankomt. | 0 |
-| B. Je overlegt met de kapitein. Hij regelt via de agent of de havenautoriteit dat een arts aan boord komt of dat Rafael naar een polikliniek of ziekenhuis gaat. | Scherm 2 | Goed. De kapitein regelt het contact met de wal. Jij levert de medische informatie. | 1 |
+| A. Je overlegt met de kapitein, die via de agent een arts of ziekenhuis regelt. | Scherm 2 | Goed. De kapitein regelt het contact met de wal. Jij levert de medische informatie. | 1 |
+| B. Niets bijzonders; in de haven bel je gewoon een ambulance. | Scherm 1B | Niet goed. Bereid de overdracht vooraf voor. Dan staat de zorg klaar als het schip aankomt. | 0 |
 | C. Je zegt tegen Rafael dat hij in de haven zelf naar een dokter kan gaan. | Scherm 1 opnieuw | Niet goed. Een zieke opvarende laat je niet zelf zijn zorg regelen in een vreemde haven. Bereid de overdracht met de kapitein voor. | 0 |
 
-### Scherm 1B Toch vooraf regelen (alleen bij A)
+### Scherm 1B Toch vooraf regelen (alleen bij B)
 
 Tekst: De kapitein vraagt je om de overdracht nu al voor te bereiden, zodat de haven weet wat er komt. Doorgaan naar scherm 2. `Omweg` plus 1.
 
@@ -44,9 +44,9 @@ Vraag: wat geef je de kapitein door voor de melding vooraf?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Alleen dat er een zieke aan boord is. | Scherm 2 opnieuw | Te weinig. Een mogelijk besmettelijke ziekte meld je altijd vooraf. Dan kan de haven maatregelen nemen. | 0 |
-| B. Niets over de diarree, anders mag het schip misschien niet aanmeren. | Scherm 2 opnieuw | Niet goed. Een mogelijk besmettelijke ziekte verzwijg je niet. Je meldt het altijd vooraf. | 0 |
-| C. Dat er een opvarende is met koorts en diarree sinds drie dagen, die is afgezonderd omdat het een besmettelijke ziekte kan zijn, en dat de RMD-arts een onderzoek aan de wal adviseert. | Scherm 3 | Goed. Een mogelijk besmettelijke ziekte meld je altijd vooraf, met wat je hebt gedaan om verspreiding te voorkomen. | 1 |
+| A. Koorts en diarree sinds drie dagen, afgezonderd, en het advies van de RMD. | Scherm 3 | Goed. Een mogelijk besmettelijke ziekte meld je altijd vooraf, met wat je hebt gedaan om verspreiding te voorkomen. | 1 |
+| B. Alleen dat er een zieke opvarende aan boord is. | Scherm 2 opnieuw | Te weinig. Een mogelijk besmettelijke ziekte meld je altijd vooraf. Dan kan de haven maatregelen nemen. | 0 |
+| C. Niets over de diarree, anders mag het schip misschien niet aanmeren. | Scherm 2 opnieuw | Niet goed. Een mogelijk besmettelijke ziekte verzwijg je niet. Je meldt het altijd vooraf. | 0 |
 
 ### Scherm 3 De brief
 
@@ -54,8 +54,8 @@ Vraag: wat zet je in de brief die met Rafael meegaat?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Naam en geboortedatum; de naam van het schip, de haven en de agent; de klachten en hoe ze begonnen; je bevindingen en metingen met tijdstip; alle medicijnen die hij al gebruikte en wat hij aan boord kreeg, met tijd en hoeveelheid; de adviezen van de RMD-arts met datum en tijd. In eenvoudig Engels, en een kopie bewaar je in het dossier. | Scherm 4 | Goed. De arts kent Rafael niet en spreekt misschien een andere taal. De brief moet zonder uitleg te begrijpen zijn. | 1 |
-| B. "Patient has diarrhoea. Please treat." | Scherm 3 opnieuw | Te weinig. Een vreemde arts heeft het verloop, de metingen, de medicijnen en de adviezen nodig. | 0 |
+| A. "Patient has diarrhoea and fever since three days. Please treat." | Scherm 3 opnieuw | Te weinig. Een vreemde arts heeft het verloop, de metingen, de medicijnen en de adviezen nodig. | 0 |
+| B. Gegevens van hem en het schip, klachten, metingen, middelen en adviezen, in eenvoudig Engels. | Scherm 4 | Goed. De arts kent Rafael niet en spreekt misschien een andere taal. De brief moet zonder uitleg te begrijpen zijn. | 1 |
 | C. Je schrijft niets op; je vertelt het de arts als hij aan boord komt. | Scherm 3 opnieuw | Niet goed. Geef altijd een brief of formulier mee. Getallen en tijden zijn op papier minder snel verkeerd begrepen. | 0 |
 
 ### Scherm 4 De havenarts komt aan boord
@@ -67,8 +67,8 @@ Vraag: hoe pak je dit aan?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je laat Diego de hele overdracht doen, want hij spreekt de taal. | Scherm 4 opnieuw | Onvoldoende. Diego kan tolken, maar jij blijft verantwoordelijk voor de inhoud van de overdracht. En Rafael moet toestemming geven. | 0 |
-| B. Je vraagt Rafael of hij het goedvindt dat Diego tolkt. Hij vindt het goed. Je doet de overdracht zelf, met de brief erbij, en Diego vertaalt. | Scherm 5 | Goed. Een collega kan tolken als de patiënt dat goedvindt; medische informatie is vertrouwelijk. Jij blijft verantwoordelijk voor de inhoud. | 1 |
-| C. Je vertelt alles snel in het Engels; medische woorden zijn internationaal. | Scherm 4 opnieuw | Niet goed. Je weet niet of de arts je begrijpt. Snelle uitleg met vaktaal vergroot de kans op misverstanden. | 0 |
+| B. Je vertelt alles snel in het Engels; medische woorden zijn internationaal. | Scherm 4 opnieuw | Niet goed. Je weet niet of de arts je begrijpt. Snelle uitleg met vaktaal vergroot de kans op misverstanden. | 0 |
+| C. Met toestemming van Rafael laat je Diego tolken; jij doet de overdracht. | Scherm 5 | Goed. Een collega kan tolken als de patiënt dat goedvindt; medische informatie is vertrouwelijk. Jij blijft verantwoordelijk voor de inhoud. | 1 |
 
 ### Scherm 5 Zo vertel je het
 
@@ -76,9 +76,9 @@ Vraag: hoe geef je de metingen door?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "T 38,9, P 104, BD 110/70, RMD-advies opgevolgd." | Scherm 5 opnieuw | Niet goed. Afkortingen en vaktaal worden snel verkeerd begrepen, zeker via een tolk. Noem de metingen voluit, met de eenheid en het tijdstip. | 0 |
-| B. In korte zinnen, met de eenheid en het tijdstip erbij: "Vanochtend om zes uur was de temperatuur 38,9 graden Celsius. De pols was 104 slagen per minuut." Je wijst de metingen ook aan in de brief. | Scherm 6 | Goed. Korte zinnen, gewone woorden, eenheden en tijden, en de getallen op papier erbij. | 1 |
-| C. "Hij is heel ziek, met hoge koorts." | Scherm 5 opnieuw | Te weinig. Geef de metingen zelf, met de eenheid en het tijdstip. "Hoge koorts" betekent voor iedereen iets anders. | 0 |
+| A. Korte zinnen, met eenheid en tijd, en je wijst de metingen aan in de brief. | Scherm 6 | Goed. Korte zinnen, gewone woorden, eenheden en tijden, en de getallen op papier erbij. | 1 |
+| B. "T 38,9, P 104, BD 110/70, RMD-advies opgevolgd, verder geen bijzonderheden." | Scherm 5 opnieuw | Niet goed. Afkortingen en vaktaal worden snel verkeerd begrepen, zeker via een tolk. Noem de metingen voluit, met de eenheid en het tijdstip. | 0 |
+| C. "Hij is echt heel erg ziek, met hoge koorts en veel diarree." | Scherm 5 opnieuw | Te weinig. Geef de metingen zelf, met de eenheid en het tijdstip. "Hoge koorts" betekent voor iedereen iets anders. | 0 |
 
 ### Scherm 6 Heeft de arts het begrepen?
 
@@ -88,9 +88,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je bent klaar; hij heeft geknikt. | Scherm 6B | Niet goed. Knikken betekent niet dat iemand het heeft begrepen. Controleer het. | 0 |
-| B. Je vraagt de arts, via Diego, in eigen woorden te herhalen wat hij heeft gehoord: de klachten, de belangrijkste metingen en wat Rafael aan boord heeft gekregen. | Scherm 7 | Goed. Laat de ander in eigen woorden herhalen, zoals bij het radiomedisch advies. Zo merk je een misverstand op tijd. | 1 |
-| C. Je herhaalt alles nog een keer, harder. | Scherm 6 opnieuw | Niet goed. Harder praten maakt het niet begrijpelijker. Laat de arts in eigen woorden herhalen. | 0 |
+| A. Je bent klaar, want hij heeft geknikt en lijkt het te begrijpen. | Scherm 6B | Niet goed. Knikken betekent niet dat iemand het heeft begrepen. Controleer het. | 0 |
+| B. Je laat de arts via Diego herhalen wat hij heeft gehoord. | Scherm 7 | Goed. Laat de ander in eigen woorden herhalen, zoals bij het radiomedisch advies. Zo merk je een misverstand op tijd. | 1 |
+| C. Je herhaalt alles nog een keer, langzamer en harder. | Scherm 6 opnieuw | Niet goed. Harder praten maakt het niet begrijpelijker. Laat de arts in eigen woorden herhalen. | 0 |
 
 ### Scherm 6B Begrip controleren (alleen bij A)
 
@@ -104,9 +104,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je zegt dat het wel goed komt en pakt zijn tas. | Scherm 7 opnieuw | Te weinig. Vraag na of Rafael begrijpt wat er gaat gebeuren. Een patiënt die weet waar hij aan toe is, is rustiger. | 0 |
-| B. Je laat de havenarts het hem uitleggen; dat is diens taak. | Scherm 7 opnieuw | Niet goed. De arts spreekt weinig Engels. Jij kent Rafael en kunt nagaan of hij het begrijpt. | 0 |
-| C. Je legt Rafael in eenvoudige woorden uit wat er gaat gebeuren en vraagt hem in eigen woorden te herhalen waar hij naartoe gaat en waarom. Je vraagt of hij nog vragen heeft. | Scherm 8 | Goed. Ook bij de patiënt controleer je of hij het begrijpt. Culturele verschillen kunnen bepalen hoe iemand over klachten praat; vraag daarom door. | 1 |
+| A. Je legt het eenvoudig uit en laat hem herhalen waar hij heen gaat en waarom. | Scherm 8 | Goed. Ook bij de patiënt controleer je of hij het begrijpt. Culturele verschillen kunnen bepalen hoe iemand over klachten praat; vraag daarom door. | 1 |
+| B. Je zegt dat het wel goed komt en pakt alvast zijn tas in. | Scherm 7 opnieuw | Te weinig. Vraag na of Rafael begrijpt wat er gaat gebeuren. Een patiënt die weet waar hij aan toe is, is rustiger. | 0 |
+| C. Je laat de havenarts het hem uitleggen, want dat is diens taak. | Scherm 7 opnieuw | Niet goed. De arts spreekt weinig Engels. Jij kent Rafael en kunt nagaan of hij het begrijpt. | 0 |
 
 ### Scherm 8 Wat gaat er mee?
 
@@ -114,8 +114,8 @@ Vraag: wat geef je mee?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Alleen de brief. | Scherm 8 opnieuw | Te weinig. Geef ook de medische kaart, het ingevulde evaluatieformulier, de logboekregels, zijn documenten en zijn eigen medicijnen mee. | 0 |
-| B. De ingevulde medische kaart, de brief, het evaluatieformulier, de logboekregels, zijn documenten en zijn eigen medicijnen. | Scherm 9 | Goed. Met deze stukken kan de zorg aan de wal verder waar jij bent gebleven. | 1 |
+| A. Kaart, brief, formulier, logboekregels, documenten en eigen medicijnen. | Scherm 9 | Goed. Met deze stukken kan de zorg aan de wal verder waar jij bent gebleven. | 1 |
+| B. Alleen de brief voor de havenarts, in een envelop. | Scherm 8 opnieuw | Te weinig. Geef ook de medische kaart, het ingevulde evaluatieformulier, de logboekregels, zijn documenten en zijn eigen medicijnen mee. | 0 |
 | C. Zijn hele dossier van boord, zodat het ziekenhuis alles heeft. | Scherm 8 opnieuw | Niet goed. Het dossier en een kopie van de brief blijven aan boord. Geef de kaart, de brief, het formulier en de logboekregels mee. | 0 |
 
 ### Scherm 9 Na de overdracht
@@ -124,9 +124,9 @@ Vraag: wat regel je nog?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je vraagt de havenarts het eigen deel van de medische kaart in te vullen: de diagnose, de behandeling en of Rafael weer kan werken. Je legt de afspraken over vervolgzorg vast en schrijft in het dossier hoe laat je aan wie hebt overgedragen en wat. | Debriefing | Goed. Met de terugkoppeling weet het schip of Rafael terugkomt en wat er nodig is. De overdracht leg je vast met tijdstip, aan wie en wat. | 1 |
-| B. Niets; Rafael is van boord, dus jouw taak is klaar. | Scherm 9 opnieuw | Niet goed. Vraag om terugkoppeling op de medische kaart en leg de overdracht vast. Het schip moet weten of hij kan terugkomen. | 0 |
-| C. Je belt morgen het ziekenhuis om te vragen wat Rafael heeft. | Scherm 9 opnieuw | Te weinig. Regel de terugkoppeling nu via de medische kaart, en leg de overdracht direct vast. | 0 |
+| A. Niets, want Rafael is van boord, dus jouw taak is klaar. | Scherm 9 opnieuw | Niet goed. Vraag om terugkoppeling op de medische kaart en leg de overdracht vast. Het schip moet weten of hij kan terugkomen. | 0 |
+| B. Je belt morgen het ziekenhuis om te vragen wat Rafael heeft. | Scherm 9 opnieuw | Te weinig. Regel de terugkoppeling nu via de medische kaart, en leg de overdracht direct vast. | 0 |
+| C. Havenarts zijn deel van de kaart laten invullen en de overdracht noteren. | Debriefing | Goed. Met de terugkoppeling weet het schip of Rafael terugkomt en wat er nodig is. De overdracht leg je vast met tijdstip, aan wie en wat. | 1 |
 
 ### Debriefing
 

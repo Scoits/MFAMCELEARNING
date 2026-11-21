@@ -38,7 +38,7 @@ STCW-kolommen: competentie C1 zorg voor zieken en gewonden aan boord (kolom 1); 
 
 Bronstatus: alle genoemde dia's zijn als tekst gelezen. Veel MC-dia's over oog en oor (S062 dia77, 83, 85) en de MFA-dia's over wervelletsel (S045 dia20, 22) bestaan alleen uit beeld; daar ontbreekt broninhoud. Neusbloeding en letsel aan de keel komen in de gelezen DRTC-dia's niet voor (BC-33). S062 dia90 noemt bij chemisch oogletsel minimaal 15 minuten spoelen; dat beantwoordt R37 voor MC, niet automatisch voor MFA (BC-34).
 
-De schermrecords staan in [MC-L02-schermreview.csv](../../reviews/MC-L02-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S02, S14, S15, S16, S17, S03, S18, S04, S05, S19, S20, S21, S06, S07, S22, S08, S23, S09, S24, S10, S36, S25, S26, S27, S28, S29, S11, S30, S31, S12, S32, S33, S34, S13, S35.
+De schermrecords staan in [MC-L02-schermreview.csv](../../reviews/MC-L02-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S02, S14, S15, S16, S17, S03, S18, S04, S05, S19, S20, S21, S37, S06, S07, S22, S08, S23, S09, S38, S24, S10, S36, S25, S26, S27, S28, S29, S11, S30, S31, S39, S12, S32, S33, S34, S13, S35.
 
 ## MC-L02-S01 Na de eerste hulp
 
@@ -291,8 +291,8 @@ Hoe verplaats je hem?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K02-01-A | Je helpt hem voorzichtig rechtop en laat hem, ondersteund door twee collega's, naar binnen lopen | Onjuist. Bij vermoeden van wervelletsel laat je de patiënt niet zelf bewegen. Lopen belast de wervelkolom. |
-| MC-K02-01-B | Hoofd blijven stabiliseren, nekkraag, met de kantelmethode in de vacuümmatras, kracht en gevoel controleren voor en na, en met de brancard vervoeren | Juist. Je beweegt hem zo weinig mogelijk en als één geheel, en je controleert of er iets verandert. |
-| MC-K02-01-C | Je laat hem liggen tot het weer beter wordt | Onjuist. Als de omgeving onveilig wordt, verplaats je de patiënt, maar dan op een manier die de wervelkolom beschermt. |
+| MC-K02-01-B | Hoofd stabiel houden, nekkraag, kantelmethode in de vacuümmatras, gevoel en kracht controleren | Juist. Je beweegt hem zo weinig mogelijk en als één geheel, en je controleert of er iets verandert. |
+| MC-K02-01-C | Je laat hem liggen waar hij ligt tot het weer beter wordt en hij zelf kan opstaan | Onjuist. Als de omgeving onveilig wordt, verplaats je de patiënt, maar dan op een manier die de wervelkolom beschermt. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -426,6 +426,49 @@ TE VERIFIËREN: De Ships medical guide (S025, WHO, 3e druk) dateert van 2007. Ma
 
 TE VERIFIËREN: De Ships medical guide noemt hier geneesmiddelen, infuus of oogmedicatie met dosering. De les noemt die niet en zegt dat dit alleen op advies van de arts gebeurt.
 
+## MC-L02-S37 Casus: slijpen zonder bril
+
+Leerdoelen: MC-02.02; MC-02.01. Bronplaats: S025 IMGS boek p33-38 / PDF p53-58 (volgorde van oogonderzoek, zien testen voor licht of druppels, splinter die vastzit); S062 dia82 en dia87-88; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist past de volgorde van oogonderzoek toe en herkent een splinter die mogelijk vastzit.
+
+**Cursistentekst**
+
+Een motordrijver heeft zonder veiligheidsbril staan slijpen. Hij zegt dat er iets in zijn rechteroog is gesprongen. Het oog traant en is wat rood. Hij heeft weinig pijn. Je hebt opgeschreven wat er is gebeurd en het materiaal voor oogonderzoek klaargelegd.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K02-07**
+
+Wat doe je voordat je met een lampje in het oog schijnt of fluoresceïne gebruikt?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K02-07-A | Het bovenste ooglid omklappen om te zoeken naar de splinter | Onjuist. Dat komt later in het onderzoek. Eerst test je het zien. |
+| MC-K02-07-C | Verdovende druppels geven, zodat het onderzoek minder pijn doet | Onjuist. Verdovende druppels gebruik je alleen op advies van de arts, en niet voordat je het zien hebt getest. |
+| MC-K02-07-B | Het zien testen, voor beide ogen apart, en vergelijken met het andere oog | Juist. Je test het zien voordat licht of druppels het beeld kunnen beïnvloeden. Zo weet je ook later of het zien verandert. |
+
+**Kennischeck MC-K02-08**
+
+Met fluoresceïne zie je geen beschadiging en geen splinter. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K02-08-A | Geruststellen en het oog niet afdekken, want er is met fluoresceïne niets te zien | Onjuist. Na slijpen kan een heel klein stukje metaal vastzitten of het oog zijn binnengedrongen, ook als je het niet ziet en er weinig pijn is. |
+| MC-K02-08-C | Het oog ruim spoelen en daarna de splinter met een wattenstaafje zoeken en wegvegen | Onjuist. Een splinter die vastzit verwijder je niet zelf. Met een wattenstaafje werk je alleen op advies van de arts en bij een splinter die los ligt. |
+| MC-K02-08-B | Denken aan een vastzittende splinter: niet verwijderen, oog afdekken, medisch advies en oogarts | Juist. Bij slijpen, hameren of boren denk je altijd aan een splinter die vastzit. De oogarts moet ernaar kijken. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K02-07 en MC-K02-08 (R146).
+
+**Verbinding met de praktijkdag**
+
+Station oogonderzoek op de praktijkdag: zien testen, ooglid omklappen en fluoresceïne op een oefenmodel.
+
+
 ## MC-L02-S06 Een splinter in het oog
 
 Leerdoelen: MC-02.01. Bronplaats: S062 dia88-89; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -447,8 +490,8 @@ Wat doe je?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K02-02-A | Het stukje metaal er voorzichtig uithalen met een wattenstaafje | Onjuist. Een voorwerp dat in de oogbal vastzit, verwijder je nooit. Dat kan het oog verder beschadigen. |
-| MC-K02-02-B | Het oog ruim spoelen totdat het stukje metaal loskomt | Onjuist. Spoelen helpt bij een losliggende splinter. Bij een splinter die in de oogbal vastzit, kan het meer schade geven. |
 | MC-K02-02-C | Niets verwijderen, beide ogen afdekken en direct de arts raadplegen | Juist. Zo beweegt het gewonde oog zo min mogelijk. De patiënt moet zo snel mogelijk naar een oogarts. |
+| MC-K02-02-B | Het oog ruim spoelen totdat het stukje metaal loskomt | Onjuist. Spoelen helpt bij een losliggende splinter. Bij een splinter die in de oogbal vastzit, kan het meer schade geven. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -598,6 +641,49 @@ TE VERIFIËREN: Een tourniquet en drukpunten zijn niet opgenomen; zie R35 en R53
 
 In MC-H4 legt de cursist een wonddrukverband aan op een bloedingstrainer, controleert de doorbloeding en herhaalt de metingen.
 
+## MC-L02-S38 Casus: het verband kleurt door
+
+Leerdoelen: MC-03.02. Bronplaats: S044 dia4-5 (wonddrukverband, tweede verband, rust, bij veel bloedverlies liggen en RMD); S025 IMGS boek p15-16 / PDF p35-36 (shock: plat, warm, zuurstof, bewaken, medisch advies); S046 p1 (metingen); de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist past de voortgezette bloedingszorg en bewaking toe.
+
+**Cursistentekst**
+
+Een matroos heeft een diepe snijwond in zijn onderbeen. Je hebt een wonddrukverband aangelegd en het been laten rusten. Om 10.00 uur was zijn pols 88 en zijn bloeddruk 130 over 80.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K02-09**
+
+Na een kwartier komt er bloed door het verband. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K02-09-B | Een tweede verband over het eerste leggen, druk houden en het been rust geven | Juist. Je laat het eerste verband zitten, legt een tweede eroverheen en houdt druk. |
+| MC-K02-09-A | Het doorgebloede verband eraf halen en een nieuw, schoon verband aanleggen | Onjuist. Als je het verband weghaalt, kan het stolsel loskomen en gaat de wond opnieuw bloeden. |
+| MC-K02-09-C | Niets doen, omdat een beetje doorbloeden in het eerste uur normaal is | Onjuist. Bloed door het verband betekent dat de bloeding niet gestopt is. Je handelt. |
+
+**Kennischeck MC-K02-10**
+
+Om 10.30 uur is zijn pols 112 en zijn bloeddruk 100 over 60. Hij is bleek en onrustig. Wat betekent dit en wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K02-10-B | Mogelijk gaat het bloedverlies door: behandelen als shock en direct medisch advies vragen | Juist. De metingen laten zien dat het bloedverlies doorgaat, ook als je het niet ziet. Behandel als shock en vraag direct medisch advies met het oog op evacuatie. |
+| MC-K02-10-A | Hij is zenuwachtig van de wond; je geeft hem koffie en meet over een uur opnieuw | Onjuist. Een stijgende pols en dalende bloeddruk met bleekheid en onrust passen bij voortgaand bloedverlies. Geef niets te drinken. |
+| MC-K02-10-C | Je vergelijkt met de normaalwaarden en belt pas als de bloeddruk onder de 90 komt | Onjuist. Het gaat om de verandering. Wacht niet op een grens; de trend is al duidelijk. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus, de oefenwaarden en de antwoorden van MC-K02-09 en MC-K02-10 (R146). De oefenwaarden zijn fictief.
+
+**Verbinding met de praktijkdag**
+
+Station bloedingszorg en metingen op de praktijkdag: verband aanleggen, opnieuw meten en de trend aan de arts melden.
+
+
 ## MC-L02-S24 Shock: wat je doet en wat je niet doet
 
 Leerdoelen: MC-03.01; MC-03.02. Bronplaats: S025 IMGS boek p15-16 / PDF p35-36 (hypovolemische shock: bloeding stoppen, plat met benen 25-35 cm omhoog, bewusteloos stabiele zijligging, zuurstof; cardiogene shock rechtop; what not to do: niet uitstellen, geen slaapmiddelen of alcohol, niets via de mond); boek p60 / PDF p80 (stijgende pols als eerste teken); S034 dia48-51. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -652,9 +738,9 @@ Wat is je conclusie en wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K02-03-A | Hij is geschrokken; je laat hem een kop thee drinken en wat rusten | Onjuist. Een stijgende pols, bleekheid en dorst na een val kunnen wijzen op inwendig bloedverlies. Geef niets te drinken. |
-| MC-K02-03-B | Mogelijk inwendig bloedverlies; laten liggen, beschermen tegen afkoelen, niets te drinken, direct de arts raadplegen en de metingen bijhouden | Juist. Je ziet de bloeding niet, maar het verloop wijst erop. De arts beslist over verdere zorg en evacuatie. |
-| MC-K02-03-C | Je wacht nog een uur en meet dan opnieuw voordat je de arts belt | Onjuist. Wacht niet. Een verandering als deze meld je direct. |
+| MC-K02-03-B | Mogelijk inwendig bloedverlies: laten liggen, warm houden, niets te drinken, direct de arts bellen | Juist. Je ziet de bloeding niet, maar het verloop wijst erop. De arts beslist over verdere zorg en evacuatie. |
+| MC-K02-03-A | Hij is vooral geschrokken; je laat hem een kop thee drinken en een tijdje rusten | Onjuist. Een stijgende pols, bleekheid en dorst na een val kunnen wijzen op inwendig bloedverlies. Geef niets te drinken. |
+| MC-K02-03-C | Je wacht nog een uur en meet dan opnieuw voordat je de arts belt, om zeker te zijn | Onjuist. Wacht niet. Een verandering als deze meld je direct. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -828,8 +914,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K02-05-A | Je legt een strak verband om de hele borstkas zodat de ribben niet meer kunnen bewegen | Onjuist. Een strak verband om de borst maakt het ademen nog moeilijker. Hij heeft zuurstof en medisch advies nodig. |
-| MC-K02-05-B | Je geeft zuurstof in een hoge stand, vraagt direct medisch advies, bereidt de evacuatie voor, geeft niets te eten of te drinken en bewaakt hem op een klaplong | Juist. Een stuk borstwand dat bij inademing naar binnen beweegt, wijst op een fladderende borstkas. Dat is levensgevaarlijk en vraagt om evacuatie. |
+| MC-K02-05-B | Zuurstof hoog, direct medisch advies, evacuatie voorbereiden, niets te eten of drinken, bewaken | Juist. Een stuk borstwand dat bij inademing naar binnen beweegt, wijst op een fladderende borstkas. Dat is levensgevaarlijk en vraagt om evacuatie. |
+| MC-K02-05-A | Je legt een strak verband om de hele borstkas, zodat de gebroken ribben niet meer bewegen | Onjuist. Een strak verband om de borst maakt het ademen nog moeilijker. Hij heeft zuurstof en medisch advies nodig. |
 | MC-K02-05-C | Je laat hem rustig in zijn hut liggen, want gebroken ribben genezen vanzelf in zes weken | Onjuist. Dit is geen eenvoudige ribbreuk. De beweging naar binnen en de blauwe lippen wijzen op een ernstig borstletsel. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -939,6 +1025,49 @@ TE VERIFIËREN: De Ships medical guide (S025, WHO, 3e druk) dateert van 2007. Ma
 TE VERIFIËREN: De Ships medical guide noemt hier geneesmiddelen, infuus of oogmedicatie met dosering. De les noemt die niet en zegt dat dit alleen op advies van de arts gebeurt.
 
 TE VERIFIËREN: De Ships medical guide raadt aan de brandwond met honing in te smeren onder het vette gaas. De les neemt dat niet over. Mathanje bepaalt of dit in MC hoort.
+
+## MC-L02-S39 Casus: stoom over de hand
+
+Leerdoelen: MC-04.01; MC-04.02. Bronplaats: S025 IMGS boek p79-83 / PDF p100-104 (diepte, grootte, wanneer niet aan boord behandelen, verzorging aan boord); S044 dia20-24; de casus en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist beoordeelt ernst en complicaties van een brandwond en kiest de zorg aan boord.
+
+**Cursistentekst**
+
+Bij het openen van een klep in de machinekamer komt stoom over de rechterhand en onderarm van een monteur. Je hebt de wond twintig minuten gekoeld. De huid van de handrug en de vingers is rood, nat en heeft blaren. Het is erg pijnlijk, ook als je erop blaast.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K02-11**
+
+Hoe beoordeel je deze brandwond?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K02-11-B | Oppervlakkig tweedegraads, aan de hand, en daarom altijd medisch advies | Juist. Een brandwond aan de hand, in het gezicht, aan voeten of geslachtsdelen of over een groot gewricht is altijd ernstig. Vraag medisch advies. |
+| MC-K02-11-A | Eerstegraads, omdat de huid rood en pijnlijk is; medisch advies is niet nodig | Onjuist. Blaren en een natte, pijnlijke wond passen bij een oppervlakkig tweedegraads brandwond. |
+| MC-K02-11-C | Derdegraads, omdat het zo pijnlijk is; je bereidt direct een evacuatie voor | Onjuist. Een derdegraads brandwond is juist meestal niet pijnlijk, omdat de zenuwen kapot zijn. |
+
+**Kennischeck MC-K02-12**
+
+De arts besluit dat hij aan boord blijft tot de haven. Wat hoort bij de verzorging?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K02-12-A | De blaren doorprikken met een steriele naald en de wond dagelijks ontsmetten met jodium | Onjuist. Prik blaren nooit door met een naald. Gebruik geen ontsmettingsmiddel; dat vertraagt de genezing. |
+| MC-K02-12-B | Laten drinken, warm houden, wassen met zeep en water, vet gaas, vingers apart, dagelijks controleren | Juist. Zo beperk je vochtverlies, afkoeling en infectie. Pijnstilling geef je op advies van de arts. |
+| MC-K02-12-C | Het verband een week laten zitten, zodat de wond rust krijgt en niet opnieuw opengaat | Onjuist. Je controleert het verband dagelijks op tekenen van infectie, zoals meer pijn, roodheid, zwelling, pus, geur of koorts. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de casus en de antwoorden van MC-K02-11 en MC-K02-12 (R146). De koelduur van twintig minuten is overgenomen uit MFA-L04; Mathanje bevestigt dat die gelijk is aan de richtlijn die DRTC gebruikt.
+
+**Verbinding met de praktijkdag**
+
+Station brandwondzorg op de praktijkdag: ernst bepalen, verbinden met vingers apart en een verbandcontrole vastleggen.
+
 
 ## MC-L02-S12 Breuk, ontwrichting of spierletsel?
 
@@ -1051,8 +1180,8 @@ Wat doe je?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K02-06-A | Je trekt met een collega stevig aan de arm om de schouder direct terug in de kom te zetten | Onjuist. Je zet een ontwrichting niet zelf terug. Dat gebeurt alleen op advies van de arts, en je kunt zenuwen of bloedvaten beschadigen. |
-| MC-K02-06-B | Je ondersteunt de arm in de houding met de minste pijn, controleert gevoel en doorbloeding van de hand en vraagt medisch advies | Juist. De platte schouder wijst op een schouder uit de kom. Je ondersteunt, controleert voorbij het letsel en laat de arts beslissen over terugzetten. |
 | MC-K02-06-C | Je laat hem de arm voorzichtig rondzwaaien om te testen of hij gebroken is | Onjuist. Beweeg een letsel nooit bewust om te testen. Ondersteun de arm en vraag medisch advies. |
+| MC-K02-06-B | Je ondersteunt de arm in de houding met de minste pijn, controleert gevoel en doorbloeding van de hand en vraagt medisch advies | Juist. De platte schouder wijst op een schouder uit de kom. Je ondersteunt, controleert voorbij het letsel en laat de arts beslissen over terugzetten. |
 
 ## MC-L02-S13 Een bekkenbreuk stabiliseren
 
@@ -1130,7 +1259,7 @@ Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
 
 ## Bouw en test
 
-Gebruik 35 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. De stappenreeks in S13 volgt de foto's van S065; gebruik die foto's alleen als DRTC de rechten bevestigt, anders eigen foto's met dezelfde stappen. Toon in S05 geen beelden van perforerend oogletsel zonder waarschuwing vooraf. MC-K02-01 tot en met MC-K02-06 zijn oefenvragen en tellen niet mee.
+Gebruik 39 Rise-secties in de weergavevolgorde die bij de lesgegevens staat. De stappenreeks in S13 volgt de foto's van S065; gebruik die foto's alleen als DRTC de rechten bevestigt, anders eigen foto's met dezelfde stappen. Toon in S05 geen beelden van perforerend oogletsel zonder waarschuwing vooraf. MC-K02-01 tot en met MC-K02-12 zijn oefenvragen en tellen niet mee.
 
 ## Open punten voor Mathanje en DRTC
 

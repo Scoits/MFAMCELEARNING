@@ -26,9 +26,9 @@ MFA-L07,MFA-L07-S04,MFA-09.02,Feiten en ontbrekende informatie,"| Gegeven | Besc
 | Nationaliteit | Nog niet op de oefenkaart vermeld |
 
 Je weet de ademfrequentie niet. Wat noteer je?
-K07-01-A: Ik vul een gebruikelijke waarde in zodat het formulier compleet lijkt
-K07-01-B: Ik noteer dat de waarde nog niet bekend is en laat ontbrekende informatie gericht aanvullen
-K07-01-C: Ik laat het vak zonder toelichting leeg",Niet van toepassing; geen voice-over geselecteerd in dit prototype,K07-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden,K07-01-B: Juist voor deze communicatieoefening. Maak zichtbaar wat bekend en nog onbekend is; laat noodzakelijke hulp niet wachten op een volledig formulier.,"K07-01-A: Onjuist. Daarmee presenteer je een aanname als gemeten feit.
+K07-01-A: Ik vul een gebruikelijke waarde in, zodat het formulier compleet lijkt
+K07-01-C: Ik laat het vak zonder toelichting leeg en ga verder met het volgende
+K07-01-B: Ik noteer dat de waarde nog niet bekend is en laat die aanvullen",Niet van toepassing; geen voice-over geselecteerd in dit prototype,K07-01: enkele keuze met directe formatieve feedback; antwoord-ID's behouden,K07-01-B: Juist voor deze communicatieoefening. Maak zichtbaar wat bekend en nog onbekend is; laat noodzakelijke hulp niet wachten op een volledig formulier.,"K07-01-A: Onjuist. Daarmee presenteer je een aanname als gemeten feit.
 K07-01-C: Onvoldoende duidelijk. De ontvanger kan niet zien of het gegeven ontbreekt of is vergeten.",S003;S031,"S003 Part C10.2, gedrukte p16 / PDF22; S031 p1-4 voor gegevensvelden; fictieve oefendata en DRTC-communicatiekeuzes",,Rise tekst tabel en kennischeck,4,medische_review_nodig,Mathanje,,0.4,
 MFA-L07,MFA-L07-S05,MFA-09.02,Orden de melding,"Maak met de oefengegevens een korte opening voor het gesprek. Gebruik de gegevens die werkelijk beschikbaar zijn. Vermeld wat er is gebeurd, wanneer dat was en welke informatie nog wordt aangevuld. Formuleer de vraag aan de arts zonder zelf een onbevestigde diagnose toe te voegen.
 
@@ -37,8 +37,8 @@ Dit is een oefenmelding van OEFENSCHIP A. Om 15.40 UTC heeft een opvarende tijde
 Dit voorbeeld is bewust onvolledig als echte hulpaanvraag en wordt alleen beoordeeld op ordening en het onderscheiden van feiten en onzekerheden. Het vervangt de officiële vragenlijst of contactprocedure niet.
 
 Welke formulering past bij de gegeven informatie?
-K07-02-A: De opvarende heeft zeker een botbreuk
-K07-02-B: De opvarende meldt pijn na het stoten van de hand",Niet van toepassing; geen voice-over geselecteerd in dit prototype,"Eigen korte oefenmelding formuleren; voorbeeldrespons ter vergelijking, geen automatisch opgeslagen competentiebewijs
+K07-02-B: De opvarende meldt pijn na het stoten van de hand
+K07-02-A: De opvarende heeft zeker een botbreuk in de hand",Niet van toepassing; geen voice-over geselecteerd in dit prototype,"Eigen korte oefenmelding formuleren; voorbeeldrespons ter vergelijking, geen automatisch opgeslagen competentiebewijs
 
 K07-02: enkele keuze met directe formatieve feedback; antwoord-ID's behouden",K07-02-B: Juist voor deze communicatieoefening. Dit geeft de beschikbare feiten weer.,K07-02-A: Onjuist. Je voegt een niet-bevestigde diagnose toe aan de beschikbare feiten.,S003;S031,"S003 Part C10.2, gedrukte p16 / PDF22; S031 p1-4; nieuwe DRTC-oefenrespons",,Rise tekst voorbeeldrespons en kennischeck,3,medische_review_nodig,Mathanje,,0.4,
 MFA-L07,MFA-L07-S06,MFA-09.03,Begrip controleren,"Een gesprek is pas bruikbaar als de betrokkenen hetzelfde begrijpen. Vat belangrijke aanwijzingen in je eigen woorden samen en laat onduidelijkheden verduidelijken. Noteer wat is afgesproken en wie de vervolgstap uitvoert. De precieze werkwijze en formulering worden tijdens de praktijkoefening beoordeeld.
@@ -77,9 +77,9 @@ Houd het afgesproken moment van terugmelden aan.
 
 Fictief oefenadvies, ontvangen om 16.05 UTC: Laat de patiënt rustig liggen. Meet om 16.20 UTC opnieuw pols en ademfrequentie. Neem om 16.30 UTC opnieuw contact op. Geef geen medicatie zonder overleg.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K07-05: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: Welke notitie legt het ontvangen oefenadvies het best vast?
-K07-05-A: 16.05 UTC advies arts RMD: patiënt rustig laten liggen; 16.20 UTC pols en ademfrequentie meten; 16.30 UTC terugmelden; geen medicatie zonder overleg. Teruggelezen en bevestigd. Uitvoering: naam hulpverlener. (juist)
-K07-05-B: Arts zegt dat het meevalt
-K07-05-C: Pols meten en terugbellen","K07-05-A: Juist. De notitie bevat tijd, adviseur, alle afspraken, de bevestiging en wie uitvoert.","K07-05-B: Onjuist. Dit is een interpretatie. De afspraken, tijden en uitvoerder ontbreken.
+K07-05-B: 16.05 UTC: de arts zegt dat het meevalt; we bellen later nog een keer terug als het nodig is
+K07-05-A: 16.05 UTC RMD: rustig laten liggen; 16.20 pols en ademfrequentie; 16.30 terugmelden; geen medicatie zonder overleg; teruggelezen (juist)
+K07-05-C: Pols meten en terugbellen; geen medicatie; de patiënt ligt rustig en de arts weet ervan","K07-05-A: Juist. De notitie bevat tijd, adviseur, alle afspraken, de bevestiging en wie uitvoert.","K07-05-B: Onjuist. Dit is een interpretatie. De afspraken, tijden en uitvoerder ontbreken.
 K07-05-C: Onvoldoende. Tijdstippen, adviseur, de afspraak over medicatie en de uitvoerder ontbreken.",S003;S032,"S003 Part C 10.3, gedrukte p16 / PDF p22; S032 gedrukte p7; het fictieve advies en de notitie zijn DRTC-ontwerp. TE VERIFIËREN: Mathanje beoordeelt of het fictieve oefenadvies medisch passend is als oefencontext zonder dat het een behandelinstructie wordt. Controleer of S032 iets voorschrijft over teruglezen of vastleggen van advies; in de eerder gelezen passage is dat niet vastgesteld.",,Rise procesblok en kennischeck,4,medische_review_nodig,Mathanje,,0.4,
 MFA-L07,MFA-L07-S11,MFA-09.03,Als de situatie verandert,"Een advies is gebaseerd op de informatie die de arts op dat moment had. Verandert de toestand van de patiënt, of zie je iets wat niet is besproken? Wacht dan niet tot het afgesproken moment. Neem opnieuw contact op en meld wat er is veranderd.
 
@@ -103,9 +103,9 @@ I07-05-H: Het valt wel mee -> T2
 Feedback bij een kaart op de verkeerde stapel: Een feit kun je zien, meten of letterlijk horen. Een oordeel is jouw uitleg ervan. Geef de arts de feiten en laat het oordeel aan de arts.",Niet van toepassing; er wordt geen antwoord gevraagd,Niet van toepassing; er wordt geen antwoord gevraagd,S003;S032,Uitwerking van MFA-L07-S04 en S05 (feiten zonder eigen diagnose; onbekende waarden als onbekend); S032 gedrukte p7; de kaarten zijn DRTC-ontwerp.,,Rise sorteeroefening,4,medische_review_nodig,Mathanje,,0.4,
 MFA-L07,MFA-L07-S15,MFA-09.02,Wat zeg je als je het niet weet?,De arts stelt vaak vragen waarop je het antwoord nog niet hebt. Dat is normaal.,Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"K07-07: enkele keuze met directe formatieve feedback; antwoord-ID's behouden
 Vraag: De arts vraagt of de patiënt allergisch is voor medicijnen. Je weet het niet. Wat zeg je?
-K07-07-A: ""Nee, dat denk ik niet.""
-K07-07-B: ""Dat weet ik niet. Ik laat het nu nagaan bij de patiënt en in zijn gegevens, en meld het zodra ik het weet."" (juist)
-K07-07-C: Je zegt niets en wacht op de volgende vraag.","K07-07-B: Juist. Je bent eerlijk, en je zorgt dat het ontbrekende gegeven zo snel mogelijk bekend wordt.","K07-07-A: Onjuist. Een gok kan de arts op een verkeerd idee brengen. Zeg dat je het niet weet en laat het nagaan.
+K07-07-A: ""Nee, dat denk ik niet. Hij heeft er in ieder geval nooit iets over gezegd.""
+K07-07-C: Je zegt niets en wacht op de volgende vraag, om het gesprek niet op te houden.
+K07-07-B: ""Dat weet ik niet. Ik laat het nu nagaan en meld het zodra ik het weet."" (juist)","K07-07-B: Juist. Je bent eerlijk, en je zorgt dat het ontbrekende gegeven zo snel mogelijk bekend wordt.","K07-07-A: Onjuist. Een gok kan de arts op een verkeerd idee brengen. Zeg dat je het niet weet en laat het nagaan.
 K07-07-C: Onjuist. Dan weet de arts niet of je de vraag hebt gehoord. Zeg dat je het niet weet en laat het nagaan.",S003;S031,Uitwerking van MFA-L07-S04 (onbekende waarden als onbekend noteren en gericht laten aanvullen); S031 vraagt naar medicijngebruik en allergieën; de vraag is DRTC-ontwerp. TE VERIFIËREN: Bevestig dat de actuele KNRM-vragenlijst (S031) een rubriek voor allergieën heeft.,,Rise kennischeck,2,medische_review_nodig,Mathanje,,0.4,
 MFA-L07,MFA-L07-S13,MFA-09.02;MFA-09.03,Casus: de brandwond in de kombuis melden,"Nog een situatie, nu in de kombuis. Jij zet de gegevens klaar en verwerkt het advies van de arts. Kies steeds wat je doet. Bij een verkeerde keuze krijg je uitleg en probeer je het opnieuw.",Niet van toepassing; geen voice-over geselecteerd in deze conceptversie,"I07-04: casus met keuzes, Rise Scenario-blok. Personages: Fatima (kok), Kees (kapitein) en Sanne (tweede stuurman met GMDSS-certificaat); fictief.
 Scène 1: Om 09.20 UTC morst Fatima hete olie over haar linkeronderarm. Een collega geeft de eerste hulp zoals in les 4. Kees wil medisch advies en vraagt jou de gegevens klaar te zetten. Wat doe je eerst?

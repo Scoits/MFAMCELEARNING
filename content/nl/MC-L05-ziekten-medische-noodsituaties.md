@@ -146,9 +146,9 @@ Wat past het best bij deze pijn?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-06-A | Een koliek, want de pijn is messcherp | Onjuist. Bij een koliek komt de pijn in aanvallen en is de patiënt onrustig. Deze matroos ligt juist doodstil. |
-| MC-K05-06-B | Pijn van het buikvlies; dit is een alarmsignaal en je neemt direct contact op met de arts | Juist. Doodstil liggen, de plek met één vinger aanwijzen en meer pijn bij hoesten passen bij prikkeling van het buikvlies. Dat is ernstig. |
-| MC-K05-06-C | Zeurende pijn uit een orgaan die vanzelf overgaat | Onjuist. Zo begon het, maar de pijn is veranderd. Hij kan de plek nu precies aanwijzen en hoesten doet pijn. Dat is een alarmsignaal. |
+| MC-K05-06-A | Een koliek, want de pijn is messcherp en komt in golven op | Onjuist. Bij een koliek komt de pijn in aanvallen en is de patiënt onrustig. Deze matroos ligt juist doodstil. |
+| MC-K05-06-C | Zeurende pijn uit een orgaan, die meestal vanzelf weer overgaat | Onjuist. Zo begon het, maar de pijn is veranderd. Hij kan de plek nu precies aanwijzen en hoesten doet pijn. Dat is een alarmsignaal. |
+| MC-K05-06-B | Pijn van het buikvlies; een alarmsignaal, dus direct de arts bellen | Juist. Doodstil liggen, de plek met één vinger aanwijzen en meer pijn bij hoesten passen bij prikkeling van het buikvlies. Dat is ernstig. |
 
 ## MC-L05-S23 De buik onderzoeken: kijken, luisteren en voelen
 
@@ -240,9 +240,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-01-A | Je geeft hem een laxeermiddel uit de scheepsapotheek | Onjuist. Je geeft niets zonder advies van de arts. Deze combinatie kan wijzen op een darmafsluiting. |
-| MC-K05-01-B | Je laat hem rusten en vraagt morgen hoe het gaat | Onjuist. Braken, geen ontlasting, een opgezette buik en een snelle pols zijn alarmsignalen. |
-| MC-K05-01-C | Je neemt direct contact op met de arts, geeft niets te eten of te drinken en bewaakt hem | Juist. De verschijnselen passen bij een darmafsluiting. Dat is ernstig en vraagt direct overleg. |
+| MC-K05-01-A | Je geeft hem een laxeermiddel uit de scheepsapotheek tegen de verstopping | Onjuist. Je geeft niets zonder advies van de arts. Deze combinatie kan wijzen op een darmafsluiting. |
+| MC-K05-01-B | Je laat hem rusten in zijn hut en vraagt morgen hoe het met hem gaat | Onjuist. Braken, geen ontlasting, een opgezette buik en een snelle pols zijn alarmsignalen. |
+| MC-K05-01-C | Je belt direct de arts, geeft niets te eten of te drinken en bewaakt hem | Juist. De verschijnselen passen bij een darmafsluiting. Dat is ernstig en vraagt direct overleg. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -370,9 +370,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-07-A | Je geeft een pijnstiller en laat hem een paar uur slapen | Onjuist. Een pijnstiller kan de klachten verbergen die de arts wil weten. Geef niets zonder advies. |
-| MC-K05-07-B | Je laat hem rustig rondlopen, want bewegen helpt tegen buikkramp | Onjuist. Het verloop past bij een blindedarmontsteking. Hij hoort in bed, en de arts moet worden ingeschakeld. |
-| MC-K05-07-C | Je legt hem in bed, onderzoekt de buik, meet temperatuur en pols, geeft niets en overlegt met de arts | Juist. Pijn die van de navel naar rechtsonder trekt, past bij een blindedarmontsteking. Overleg altijd met de arts; vaak is overbrenging naar de wal nodig. |
+| MC-K05-07-A | Je geeft een pijnstiller en laat hem een paar uur slapen in zijn hut | Onjuist. Een pijnstiller kan de klachten verbergen die de arts wil weten. Geef niets zonder advies. |
+| MC-K05-07-B | Je laat hem rustig rondlopen, want bewegen helpt meestal tegen buikkramp | Onjuist. Het verloop past bij een blindedarmontsteking. Hij hoort in bed, en de arts moet worden ingeschakeld. |
+| MC-K05-07-C | In bed, buik onderzoeken, temperatuur en pols meten, niets geven en overleggen met de arts | Juist. Pijn die van de navel naar rechtsonder trekt, past bij een blindedarmontsteking. Overleg altijd met de arts; vaak is overbrenging naar de wal nodig. |
 
 ## MC-L05-S29 Pijnaanvallen in de flank
 
@@ -394,9 +394,9 @@ Wat past het best?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-08-A | Een niersteen; je vangt de urine op, kijkt naar bloed en gruis, meet pols en temperatuur en overlegt met de arts | Juist. Kolieken van flank naar lies, onrust en geen koorts passen bij een niersteen. Veel zweten en weinig drinken maken de kans groter. |
-| MC-K05-08-B | Een buikvliesontsteking; je laat hem doodstil liggen | Onjuist. Bij een buikvliesontsteking ligt de patiënt juist stil en is de pijn constant. Deze man is onrustig en heeft pijn in aanvallen. |
-| MC-K05-08-C | Spierpijn van het werk; hij kan na een pauze verder | Onjuist. Pijnaanvallen met onrust en zweten zijn een koliek. Dat vraagt overleg met de arts. |
+| MC-K05-08-A | Een niersteen; urine opvangen en bekijken, pols en temperatuur meten en overleggen met de arts | Juist. Kolieken van flank naar lies, onrust en geen koorts passen bij een niersteen. Veel zweten en weinig drinken maken de kans groter. |
+| MC-K05-08-B | Een buikvliesontsteking; je laat hem doodstil liggen en geeft niets | Onjuist. Bij een buikvliesontsteking ligt de patiënt juist stil en is de pijn constant. Deze man is onrustig en heeft pijn in aanvallen. |
+| MC-K05-08-C | Spierpijn van het zware werk; hij kan na een pauze gewoon verder | Onjuist. Pijnaanvallen met onrust en zweten zijn een koliek. Dat vraagt overleg met de arts. |
 
 ## MC-L05-S30 Doe-opdracht: buikpijn in kaart brengen
 
@@ -431,8 +431,8 @@ Welke conclusie past bij deze bevindingen?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-09-A | Lichte buikklachten; afwachten tot morgen | Onjuist. Een harde buik, geen darmgeluiden, koorts en een snelle pols zijn allemaal alarmsignalen. |
 | MC-K05-09-B | Mogelijk een buikvliesontsteking; direct contact met de arts en rekening houden met evacuatie | Juist. Constante scherpe pijn, stil liggen, een harde buik, een stille darm, koorts en een snelle pols passen bij een buikvliesontsteking. Dat is een spoedgeval. |
+| MC-K05-09-A | Lichte buikklachten; afwachten tot morgen | Onjuist. Een harde buik, geen darmgeluiden, koorts en een snelle pols zijn allemaal alarmsignalen. |
 | MC-K05-09-C | Een koliek; de pijn gaat na de aanval vanzelf over | Onjuist. Bij een koliek komt de pijn in aanvallen en is de patiënt onrustig. Hier is de pijn constant en ligt hij stil. |
 
 **Te verifiëren door Mathanje of DRTC**
@@ -585,8 +585,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-10-A | Je laat hem zelf naar zijn hut lopen om daar te gaan liggen | Onjuist. Laat hem niet lopen; inspanning belast het hart extra. |
-| MC-K05-10-B | Je laat hem liggend vervoeren, legt de AED klaar, meet zijn vitale functies en neemt met spoed contact op met de arts | Juist. Pijn die na rust niet zakt, met zweten, grauw zien en onrust, past bij een hartinfarct. Houd rekening met een hartstilstand. |
+| MC-K05-10-B | Liggend vervoeren, AED klaarleggen, vitale functies meten en met spoed de arts bellen | Juist. Pijn die na rust niet zakt, met zweten, grauw zien en onrust, past bij een hartinfarct. Houd rekening met een hartstilstand. |
+| MC-K05-10-A | Je laat hem zelf naar zijn hut lopen om daar rustig te gaan liggen | Onjuist. Laat hem niet lopen; inspanning belast het hart extra. |
 | MC-K05-10-C | Je wacht nog tien minuten, want bij angina pectoris zakt de pijn vanzelf | Onjuist. Bij angina pectoris zakt de pijn snel in rust. Na twintig minuten rust is dat niet gebeurd. Dat wijst op een hartinfarct. |
 
 ## MC-L05-S47 Scenario: pijn op de borst tijdens de wacht
@@ -683,9 +683,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-02-A | Je laat hem in zijn hut uitrusten en kijkt over een uur | Onjuist. Dit zijn tekenen van een beroerte. Tijd is belangrijk voor de behandeling; wacht niet. |
-| MC-K05-02-B | Je doet de FAST-test, noteert hoe laat de klachten begonnen, controleert bloeddruk en pupillen en neemt direct contact op met de arts | Juist. Je herkent een mogelijke beroerte en schakelt direct de arts in. Hij moet zo mogelijk snel van boord. |
-| MC-K05-02-C | Je geeft hem een glas water met suiker | Onjuist. Bij een mogelijke beroerte geef je niets te eten of te drinken; slikken kan moeilijk zijn. Doe de FAST-test en bel de arts. |
+| MC-K05-02-A | Je laat hem in zijn hut uitrusten en kijkt over een uur of het beter gaat | Onjuist. Dit zijn tekenen van een beroerte. Tijd is belangrijk voor de behandeling; wacht niet. |
+| MC-K05-02-C | Je geeft hem een glas water met suiker, omdat het een lage suiker kan zijn | Onjuist. Bij een mogelijke beroerte geef je niets te eten of te drinken; slikken kan moeilijk zijn. Doe de FAST-test en bel de arts. |
+| MC-K05-02-B | FAST-test, tijd van begin noteren, bloeddruk en pupillen, en direct de arts bellen | Juist. Je herkent een mogelijke beroerte en schakelt direct de arts in. Hij moet zo mogelijk snel van boord. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1057,9 +1057,9 @@ Wat doe je eerst?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-03-A | De kok laat doorwerken met handschoenen, omdat er anders geen eten is | Onjuist. Een zieke kok kan de infectie via voedsel verspreiden. Hij werkt niet met voedsel. |
-| MC-K05-03-B | De kapitein en de arts informeren, de zieken afzonderen, de kok niet laten werken met voedsel en een lijst van zieken bijhouden | Juist. Je meldt, voorkomt verdere verspreiding en verzamelt de gegevens die de arts nodig heeft. |
-| MC-K05-03-C | Iedereen preventief een middel tegen diarree geven | Onjuist. Je geeft geen geneesmiddelen zonder advies van de arts, en dit middel voorkomt geen besmetting. |
+| MC-K05-03-B | Kapitein en arts informeren, zieken afzonderen, de kok niet met voedsel laten werken | Juist. Je meldt, voorkomt verdere verspreiding en verzamelt de gegevens die de arts nodig heeft. |
+| MC-K05-03-A | De kok laat je doorwerken met handschoenen aan, omdat er anders geen eten is | Onjuist. Een zieke kok kan de infectie via voedsel verspreiden. Hij werkt niet met voedsel. |
+| MC-K05-03-C | Iedereen aan boord preventief een middel tegen diarree geven en de kombuis schoonmaken | Onjuist. Je geeft geen geneesmiddelen zonder advies van de arts, en dit middel voorkomt geen besmetting. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1085,9 +1085,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-11-A | Hij kan weer werken, want hij heeft geen klachten meer | Onjuist. Iemand zonder klachten kan nog steeds drager zijn en anderen via het voedsel besmetten. |
-| MC-K05-11-B | Je overlegt met de arts en de kapitein voordat hij weer met voedsel werkt | Juist. Na een darminfectie kan iemand drager zijn. De arts bepaalt wanneer hij weer veilig met voedsel kan werken. |
-| MC-K05-11-C | Hij mag werken als hij handschoenen draagt | Onjuist. Handschoenen alleen zijn niet genoeg. Overleg eerst met de arts. |
+| MC-K05-11-A | Hij kan weer aan het werk, want hij heeft geen klachten meer | Onjuist. Iemand zonder klachten kan nog steeds drager zijn en anderen via het voedsel besmetten. |
+| MC-K05-11-C | Hij mag weer werken als hij handschoenen en een haarnetje draagt | Onjuist. Handschoenen alleen zijn niet genoeg. Overleg eerst met de arts. |
+| MC-K05-11-B | Je overlegt met de arts en de kapitein voordat hij met voedsel werkt | Juist. Na een darminfectie kan iemand drager zijn. De arts bepaalt wanneer hij weer veilig met voedsel kan werken. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1243,9 +1243,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-12-A | Je geeft hem iets tegen de hoofdpijn en kijkt morgen weer | Onjuist. Hoge koorts, hoofdpijn, braken en een stijve nek passen bij nekkramp. Dat verloopt snel en is levensgevaarlijk. |
-| MC-K05-12-B | Je zondert hem af, beschermt jezelf met handschoenen, schort en mondmasker en neemt direct contact op met de arts; je meldt ook de zieke collega | Juist. Dit past bij nekkramp. Overleg direct, zonder hem af en meld ook de collega, omdat nekkramp zich aan boord kan verspreiden. |
-| MC-K05-12-C | Je laat hem in zijn hut, want daar kan zijn collega op hem letten | Onjuist. De collega kan besmet raken en is zelf ook ziek. Zonder de patiënt af en overleg direct met de arts. |
+| MC-K05-12-B | Afzonderen, jezelf beschermen, direct de arts bellen en de zieke collega melden | Juist. Dit past bij nekkramp. Overleg direct, zonder hem af en meld ook de collega, omdat nekkramp zich aan boord kan verspreiden. |
+| MC-K05-12-A | Je geeft hem iets tegen de hoofdpijn en de koorts en kijkt morgen weer | Onjuist. Hoge koorts, hoofdpijn, braken en een stijve nek passen bij nekkramp. Dat verloopt snel en is levensgevaarlijk. |
+| MC-K05-12-C | Je laat hem in zijn hut, want daar kan zijn collega de hele tijd op hem letten | Onjuist. De collega kan besmet raken en is zelf ook ziek. Zonder de patiënt af en overleg direct met de arts. |
 
 ## MC-L05-S17 Tropische ziekten voorkomen
 
@@ -1297,13 +1297,13 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-04-A | Je geeft hem paracetamol en laat hem uitzieken in zijn hut | Onjuist. Koorts na een verblijf in West-Afrika kan malaria zijn. Malaria kan snel levensbedreigend worden. |
-| MC-K05-04-B | Je wacht af, omdat malaria pas na maanden begint | Onjuist. Malaria kan na enkele weken maar ook nog na maanden optreden. Wacht niet. |
-| MC-K05-04-C | Je denkt aan malaria, meet de vitale functies, neemt direct contact op met de arts en vertelt waar het schip is geweest | Juist. Malaria kan binnen 48 uur dodelijk zijn. De arts beslist over onderzoek, behandeling en evacuatie. |
+| MC-K05-04-A | Je geeft hem paracetamol tegen de koorts en laat hem uitzieken in zijn hut | Onjuist. Koorts na een verblijf in West-Afrika kan malaria zijn. Malaria kan snel levensbedreigend worden. |
+| MC-K05-04-C | Aan malaria denken, meten, direct de arts en vertellen waar het schip was | Juist. Malaria kan binnen 48 uur dodelijk zijn. De arts beslist over onderzoek, behandeling en evacuatie. |
+| MC-K05-04-B | Je wacht af, omdat malaria pas maanden na de reis kan beginnen | Onjuist. Malaria kan na enkele weken maar ook nog na maanden optreden. Wacht niet. |
 
 **Te verifiëren door Mathanje of DRTC**
 
-TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback. Antwoord A noemt een pijnstiller bij naam als onjuiste keuze; Mathanje beslist of die naam blijft.
+TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback. Antwoord MC-K05-04-A noemt een pijnstiller bij naam als onjuiste keuze; Mathanje beslist of die naam blijft.
 
 ## MC-L05-S49 Scenario: koorts na de haven
 
@@ -1413,9 +1413,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
+| MC-K05-13-B | Laten doorbloeden, spoelen, ontsmetten en direct contact met de arts | Juist. Bij een prikaccident neem je direct contact op met de arts. Vroege behandeling kan een besmetting soms voorkomen. |
 | MC-K05-13-A | Je doet een pleister op het wondje en gaat verder met je werk | Onjuist. Een prik met een gebruikte naald kan een besmetting met bijvoorbeeld hiv of hepatitis B geven. Dat vraagt direct overleg. |
-| MC-K05-13-B | Je laat het wondje doorbloeden, spoelt het met water, ontsmet het en neemt direct contact op met de arts | Juist. Bij een prikaccident neem je direct contact op met de arts. Vroege behandeling kan een besmetting soms voorkomen. |
-| MC-K05-13-C | Je wacht af of je klachten krijgt en meldt het dan | Onjuist. Een besmetting geeft vaak lange tijd geen klachten. Neem direct contact op. |
+| MC-K05-13-C | Je wacht af of je klachten krijgt en meldt het pas als dat gebeurt | Onjuist. Een besmetting geeft vaak lange tijd geen klachten. Neem direct contact op. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1445,9 +1445,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K05-05-A | Je vraagt hem mee te komen naar de ziekenboeg, vraagt daar door, overlegt met de arts en behandelt alleen op advies | Juist. Je respecteert de privacy, verzamelt de gegevens en laat de arts beslissen over de behandeling. |
-| MC-K05-05-B | Je geeft hem een antibioticum uit de scheepsapotheek | Onjuist. Je geeft geen antibiotica zonder advies van de arts. |
-| MC-K05-05-C | Je zegt dat hij het bij aankomst in de haven moet laten nakijken | Onvoldoende. Hij heeft nu klachten. Overleg met de arts; die bepaalt of behandeling aan boord nodig is. |
+| MC-K05-05-A | Je vraagt hem mee naar de ziekenboeg, vraagt door en overlegt met de arts | Juist. Je respecteert de privacy, verzamelt de gegevens en laat de arts beslissen over de behandeling. |
+| MC-K05-05-B | Je geeft hem een kuur antibiotica uit de scheepsapotheek, dan is het snel over | Onjuist. Je geeft geen antibiotica zonder advies van de arts. |
+| MC-K05-05-C | Je zegt dat hij het bij aankomst in de haven door een arts moet laten nakijken | Onvoldoende. Hij heeft nu klachten. Overleg met de arts; die bepaalt of behandeling aan boord nodig is. |
 
 **Te verifiëren door Mathanje of DRTC**
 

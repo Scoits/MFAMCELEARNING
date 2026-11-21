@@ -30,9 +30,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je legt ze in de kluis, telt de voorraad, vergelijkt met het register en meldt het aan de kapitein. | Scherm 2 | Goed. Middelen onder de Opiumwet liggen apart in een afgesloten kluis. Klopt er iets niet, dan meld je het direct aan de kapitein. | 1 |
-| B. Je laat ze liggen; dan zijn ze snel bij de hand in een noodgeval. | Scherm 1 opnieuw | Niet goed. Deze middelen kunnen worden misbruikt. Ze horen in de kluis, waarvan de kapitein of de aangewezen beheerder de sleutel heeft. | 0 |
-| C. Je legt ze in de kluis en zegt er verder niets over. | Scherm 1B | Bijna. Ze horen in de kluis, maar je moet ook tellen, vergelijken met het register en het aan de kapitein melden. | 0 |
+| A. Je laat ze liggen; dan zijn ze snel bij de hand in een noodgeval. | Scherm 1 opnieuw | Niet goed. Deze middelen kunnen worden misbruikt. Ze horen in de kluis, waarvan de kapitein of de aangewezen beheerder de sleutel heeft. | 0 |
+| B. In de kluis leggen, tellen, met het register vergelijken en melden. | Scherm 2 | Goed. Middelen onder de Opiumwet liggen apart in een afgesloten kluis. Klopt er iets niet, dan meld je het direct aan de kapitein. | 1 |
+| C. Je legt ze in de kluis en zegt er verder niets over tegen anderen. | Scherm 1B | Bijna. Ze horen in de kluis, maar je moet ook tellen, vergelijken met het register en het aan de kapitein melden. | 0 |
 
 ### Scherm 1B Tellen en melden (alleen bij C)
 
@@ -46,8 +46,8 @@ Vraag: wat is je conclusie?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Het klopt: 10 min 3 is 7, en er zijn er 8. | Scherm 2 opnieuw | Reken het nog eens na: volgens het register zouden er 7 moeten zijn. Er zijn er 8. Dat klopt niet. | 0 |
-| B. Er is er één te veel. Mogelijk is een toediening of een gebroken ampul niet goed geregistreerd, of zijn de ampullen in de la nooit in het register gekomen. Je meldt het direct aan de kapitein. | Scherm 3 | Goed. Klopt de telling niet, dan meld je dat direct aan de kapitein, ook als er te veel is. | 1 |
+| A. Er is er één te veel; mogelijk niet goed geregistreerd. Je meldt het direct. | Scherm 3 | Goed. Klopt de telling niet, dan meld je dat direct aan de kapitein, ook als er te veel is. | 1 |
+| B. Het klopt: 10 min 3 is 7, en er zijn er 8, dus alles is er. | Scherm 2 opnieuw | Reken het nog eens na: volgens het register zouden er 7 moeten zijn. Er zijn er 8. Dat klopt niet. | 0 |
 | C. Je past de telling in het register aan naar 8, dan klopt het weer. | Scherm 2 opnieuw | Niet goed. Je verandert niets stilzwijgend. Je meldt het verschil aan de kapitein en verbetert een fout zichtbaar. | 0 |
 
 ### Scherm 3 Wat in het register hoort
@@ -58,9 +58,9 @@ Vraag: wat schrijf je in het register?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Iedere toediening met wie hem opdroeg, wie hem gaf en wie hem kreeg; iedere dosis die verloren gaat; een lopende telling na ieder gebruik; en minstens één keer per week een telling van de kluis. | Scherm 4 | Goed. Zo is ieder middel onder de Opiumwet altijd te verantwoorden. | 1 |
-| B. Alleen de wekelijkse telling. | Scherm 3 opnieuw | Te weinig. Ook iedere toediening, iedere verloren dosis en een lopende telling horen erin. | 0 |
-| C. Alleen de toedieningen; gebroken ampullen tellen niet mee. | Scherm 3 opnieuw | Niet goed. Ook een dosis die verloren gaat, schrijf je op, met datum en tijd. | 0 |
+| A. Alleen de wekelijkse telling van de kluis, dat is genoeg voor de controle. | Scherm 3 opnieuw | Te weinig. Ook iedere toediening, iedere verloren dosis en een lopende telling horen erin. | 0 |
+| B. Alleen de toedieningen; gebroken ampullen tellen niet mee in het register. | Scherm 3 opnieuw | Niet goed. Ook een dosis die verloren gaat, schrijf je op, met datum en tijd. | 0 |
+| C. Iedere toediening en verloren dosis, een lopende telling en wekelijks de kluis tellen. | Scherm 4 | Goed. Zo is ieder middel onder de Opiumwet altijd te verantwoorden. | 1 |
 
 ### Scherm 4 Over de datum
 
@@ -70,9 +70,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je gebruikt ze nog; drie maanden is niet lang. | Scherm 4 opnieuw | Niet goed. Vervallen middelen vervang je en lever je in. | 0 |
-| B. Je zet beide apart, noteert ze, vervangt ze en levert ze in bij een apotheek in de haven, volgens de afspraak van het schip. | Scherm 5 | Goed. Een vervallen middel en een middel waarvan je niet zeker weet wat het is, gebruik je niet. Sommige landen geven een boete voor vervallen middelen aan boord. | 1 |
-| C. Je gooit beide in de afvalbak. | Scherm 4 opnieuw | Niet goed. Geneesmiddelen lever je in volgens de afspraak, bijvoorbeeld bij een apotheek in de haven. Noteer ook wat je vervangt. | 0 |
+| A. Je gebruikt ze nog; drie maanden over de datum is niet lang. | Scherm 4 opnieuw | Niet goed. Vervallen middelen vervang je en lever je in. | 0 |
+| B. Je gooit beide in de afvalbak, dan zijn ze weg. | Scherm 4 opnieuw | Niet goed. Geneesmiddelen lever je in volgens de afspraak, bijvoorbeeld bij een apotheek in de haven. Noteer ook wat je vervangt. | 0 |
+| C. Apart zetten, noteren, vervangen en inleveren bij een apotheek. | Scherm 5 | Goed. Een vervallen middel en een middel waarvan je niet zeker weet wat het is, gebruik je niet. Sommige landen geven een boete voor vervallen middelen aan boord. | 1 |
 
 ### Scherm 5 De koelkast
 
@@ -82,8 +82,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je haalt de blikjes eruit en vraagt Mark ze ergens anders te bewaren. Je controleert of de koelkast afgesloten kan worden. | Scherm 6 | Goed. Middelen die koel moeten, gaan in een afsluitbare koelkast die alleen daarvoor wordt gebruikt. | 1 |
-| B. Je laat ze staan; ze nemen weinig ruimte in. | Scherm 5 opnieuw | Niet goed. De koelkast is alleen voor geneesmiddelen, en hij moet afgesloten kunnen worden. | 0 |
+| A. Blikjes eruit, Mark ze elders laten bewaren en controleren of de koelkast op slot kan. | Scherm 6 | Goed. Middelen die koel moeten, gaan in een afsluitbare koelkast die alleen daarvoor wordt gebruikt. | 1 |
+| B. Je laat ze staan, want ze nemen weinig ruimte in en het middel blijft koel. | Scherm 5 opnieuw | Niet goed. De koelkast is alleen voor geneesmiddelen, en hij moet afgesloten kunnen worden. | 0 |
 | C. Je haalt het middel eruit en zet het in de kast; dat is overzichtelijker. | Scherm 5 opnieuw | Niet goed. Een middel dat koel moet, kan buiten de koelkast onbruikbaar worden. | 0 |
 
 ### Scherm 6 Het vlot
@@ -105,8 +105,8 @@ Vraag: wat doe je?
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
 | A. Je doet het hulsje er voorzichtig weer op en gooit hem weg. | Scherm 7 opnieuw | Niet goed. Steek een naald nooit terug in het hulsje. Daarbij prik je je makkelijk. | 0 |
-| B. Je gooit de naald direct in de naaldcontainer, zonder hulsje, en bespreekt met wie hem gebruikte dat dat direct na gebruik moet. | Scherm 8 | Goed. Scherp afval gaat direct na gebruik in de naaldcontainer. | 1 |
-| C. Je wikkelt hem in papier en gooit hem in de gewone afvalbak. | Scherm 7 opnieuw | Niet goed. Iemand kan zich eraan prikken. Naalden gaan in de naaldcontainer. | 0 |
+| B. Je wikkelt hem in papier en gooit hem in de gewone afvalbak. | Scherm 7 opnieuw | Niet goed. Iemand kan zich eraan prikken. Naalden gaan in de naaldcontainer. | 0 |
+| C. Direct in de naaldcontainer zonder hulsje, en je bespreekt het met de gebruiker. | Scherm 8 | Goed. Scherp afval gaat direct na gebruik in de naaldcontainer. | 1 |
 
 ### Scherm 8 Een regel in het logboek
 
@@ -116,9 +116,9 @@ Vraag: wat is er mis?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Niets, het is duidelijk genoeg. | Scherm 8 opnieuw | Niet goed. Er ontbreken datum, tijd, metingen, het advies van de arts, het middel en de hoeveelheid. | 0 |
-| B. Er ontbreken datum en tijd, de metingen, het advies en wie het gaf, het middel, de hoeveelheid en het tijdstip, en het effect. | Scherm 9 | Goed. Schrijf feitelijk en volledig, met datum en tijd. Vul niets achteraf in alsof het eerder was. | 1 |
-| C. Je herschrijft de regel zelf met een datum die je denkt dat klopt. | Scherm 8 opnieuw | Niet goed. Vul niets achteraf in alsof het eerder was. Bespreek het met wie de regel schreef en verbeter zichtbaar wat bekend is. | 0 |
+| A. Niets, want het is duidelijk genoeg voor wie het later leest. | Scherm 8 opnieuw | Niet goed. Er ontbreken datum, tijd, metingen, het advies van de arts, het middel en de hoeveelheid. | 0 |
+| B. Je herschrijft de regel zelf met een datum die je denkt dat klopt. | Scherm 8 opnieuw | Niet goed. Vul niets achteraf in alsof het eerder was. Bespreek het met wie de regel schreef en verbeter zichtbaar wat bekend is. | 0 |
+| C. Datum, tijd, metingen, advies en adviseur, middel, hoeveelheid en effect. | Scherm 9 | Goed. Schrijf feitelijk en volledig, met datum en tijd. Vul niets achteraf in alsof het eerder was. | 1 |
 
 ### Scherm 9 De rederij belt
 
@@ -128,9 +128,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je geeft het door; de rederij is de werkgever. | Scherm 9B | Niet goed. Medische gegevens zijn vertrouwelijk. Geef geen informatie zonder eerst de patiënt te vragen. | 0 |
-| B. Je zegt dat je eerst de patiënt vraagt of hij dat goed vindt, en belt dan terug. | Scherm 10 | Goed. Zonder toestemming van de patiënt geef je geen informatie, tenzij de wet het eist of de veiligheid van anderen het nodig maakt. | 1 |
-| C. Je zegt dat hij het de kapitein moet vragen. | Scherm 9B | Niet goed. Ook de kapitein geeft niet zomaar medische gegevens door. Vraag eerst de patiënt. | 0 |
+| A. Je geeft het door, want de rederij is de werkgever en betaalt. | Scherm 9B | Niet goed. Medische gegevens zijn vertrouwelijk. Geef geen informatie zonder eerst de patiënt te vragen. | 0 |
+| B. Je vraagt eerst de patiënt of hij dat goedvindt en belt dan terug. | Scherm 10 | Goed. Zonder toestemming van de patiënt geef je geen informatie, tenzij de wet het eist of de veiligheid van anderen het nodig maakt. | 1 |
+| C. Je zegt dat hij het de kapitein moet vragen, want die weet alles. | Scherm 9B | Niet goed. Ook de kapitein geeft niet zomaar medische gegevens door. Vraag eerst de patiënt. | 0 |
 
 ### Scherm 9B Eerst de patiënt (alleen bij A of C)
 
@@ -144,9 +144,9 @@ Vraag: wat gaat er mee?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. De medische kaart, waarvan de kapitein deel I invult met jouw verslag, het patiëntevaluatieformulier en een kopie van de relevante regels uit het logboek. | Debriefing | Goed. Zo weet de arts aan wal wat er aan boord is gebeurd. De patiënt krijgt een kopie van zijn medische gegevens mee. | 1 |
-| B. Het originele logboek, zodat de arts alles kan lezen. | Scherm 10 opnieuw | Niet goed. Het logboek blijft aan boord. Er gaat een kopie van de relevante regels mee, met de medische kaart. | 0 |
-| C. Niets; de arts onderzoekt hem zelf opnieuw. | Scherm 10 opnieuw | Niet goed. De medische kaart en jouw verslag gaan mee. Anders mist de arts het verloop aan boord. | 0 |
+| A. Het originele logboek, zodat de arts alles zelf kan nalezen. | Scherm 10 opnieuw | Niet goed. Het logboek blijft aan boord. Er gaat een kopie van de relevante regels mee, met de medische kaart. | 0 |
+| B. Niets, want de arts onderzoekt hem in de haven zelf opnieuw. | Scherm 10 opnieuw | Niet goed. De medische kaart en jouw verslag gaan mee. Anders mist de arts het verloop aan boord. | 0 |
+| C. De medische kaart, het evaluatieformulier en een kopie van de logboekregels. | Debriefing | Goed. Zo weet de arts aan wal wat er aan boord is gebeurd. De patiënt krijgt een kopie van zijn medische gegevens mee. | 1 |
 
 ### Debriefing
 

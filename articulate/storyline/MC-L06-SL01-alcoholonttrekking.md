@@ -30,9 +30,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je meet de vitale functies en de temperatuur, schrijft ze op en overlegt nu al met de arts. | Scherm 2 | Goed. Trillen, zweten, hartkloppingen en slecht slapen na het stoppen met drinken passen bij de beef. Overleg zo vroeg mogelijk, want in de eerste dagen kan de arts nog veel doen. | 1 |
+| A. Je meet vitale functies en temperatuur, noteert ze en overlegt al met de arts. | Scherm 2 | Goed. Trillen, zweten, hartkloppingen en slecht slapen na het stoppen met drinken passen bij de beef. Overleg zo vroeg mogelijk, want in de eerste dagen kan de arts nog veel doen. | 1 |
 | B. Je zegt dat het vanzelf overgaat en dat hij moet proberen te slapen. | Scherm 1B | Niet goed. Bij de eerste tekenen van onttrekking overleg je al met de arts. Een delirium tremens kan dodelijk zijn. | 0 |
-| C. Je meldt aan de kapitein dat Kevin stiekem heeft gedronken. | Scherm 1 opnieuw | Niet goed. Deze verschijnselen passen juist bij stoppen met drinken. Het gaat om zijn gezondheid, niet om een oordeel. | 0 |
+| C. Je meldt aan de kapitein dat Kevin stiekem heeft gedronken aan boord. | Scherm 1 opnieuw | Niet goed. Deze verschijnselen passen juist bij stoppen met drinken. Het gaat om zijn gezondheid, niet om een oordeel. | 0 |
 
 ### Scherm 1B Toch overleggen (alleen bij B)
 
@@ -46,9 +46,9 @@ Vraag: Kevin vraagt of hij een slaappil mag uit de medicijnkist. Wat zeg je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. "Je krijgt alleen iets als de arts dat adviseert. Ik geef je vraag door." | Scherm 3 | Goed. Middelen geef je alleen op advies van de arts. Je noteert zijn vraag en geeft die door. | 1 |
-| B. "Eén pil kan geen kwaad." | Scherm 2 opnieuw | Niet goed. Alcohol en slaapmiddelen versterken elkaar, en je geeft niets zonder advies van de arts. | 0 |
-| C. "Nee", en je noteert het niet. | Scherm 2 opnieuw | Bijna. Je geeft terecht niets, maar de arts moet de vraag weten. Noteer het en geef het door. | 0 |
+| A. "Eén pil kan geen kwaad, maar zeg het tegen niemand." | Scherm 2 opnieuw | Niet goed. Alcohol en slaapmiddelen versterken elkaar, en je geeft niets zonder advies van de arts. | 0 |
+| B. "Nee, dat krijg je niet", en je noteert zijn vraag niet. | Scherm 2 opnieuw | Bijna. Je geeft terecht niets, maar de arts moet de vraag weten. Noteer het en geef het door. | 0 |
+| C. "Alleen als de arts het adviseert. Ik geef je vraag door." | Scherm 3 | Goed. Middelen geef je alleen op advies van de arts. Je noteert zijn vraag en geeft die door. | 1 |
 
 ### Scherm 3 Dag twee
 
@@ -58,9 +58,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je noteert de waarden met de tijd, laat hem veel drinken, moedigt hem aan te eten en meldt de verandering aan de arts. | Scherm 4 | Goed. Onrust, prikkelbaarheid en geen eetlust kunnen het begin van een delirium tremens zijn. Dat meld je. | 1 |
-| B. Je laat hem met rust; hij heeft gewoon een slecht humeur. | Scherm 3 opnieuw | Niet goed. Na twee tot vier dagen kan een delirium tremens ontstaan. Het begint vaak met onrust, prikkelbaarheid en geen eetlust. | 0 |
-| C. Je zet hem aan het werk, zodat hij afleiding heeft. | Scherm 3 opnieuw | Niet goed. Hij is ziek en niet geschikt voor werk. Bewaak hem en meld de verandering aan de arts. | 0 |
+| A. Je laat hem met rust, want hij heeft gewoon een slecht humeur. | Scherm 3 opnieuw | Niet goed. Na twee tot vier dagen kan een delirium tremens ontstaan. Het begint vaak met onrust, prikkelbaarheid en geen eetlust. | 0 |
+| B. Je zet hem aan het werk, zodat hij afleiding heeft van de klachten. | Scherm 3 opnieuw | Niet goed. Hij is ziek en niet geschikt voor werk. Bewaak hem en meld de verandering aan de arts. | 0 |
+| C. Waarden noteren, veel laten drinken, eten aanmoedigen en de verandering melden. | Scherm 4 | Goed. Onrust, prikkelbaarheid en geen eetlust kunnen het begin van een delirium tremens zijn. Dat meld je. | 1 |
 
 ### Scherm 4 De beestjes
 
@@ -70,9 +70,9 @@ Vraag: wat doe je eerst?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je zegt dat er geen beestjes zijn en dat hij moet ophouden. | Scherm 4 opnieuw | Niet goed. Ga niet in discussie over wat hij ziet. Voor hem is het echt. | 0 |
-| B. Je blijft kalm, spreekt hem rustig aan en kijkt of er direct gevaar is voor hemzelf of anderen. | Scherm 5 | Goed. Eerst stel je vast of er direct gevaar is. Blijf kalm en probeer contact te houden. | 1 |
-| C. Je sluit de hut af, zodat hij niemand kan lastigvallen. | Scherm 4 opnieuw | Niet goed. Laat hem als het kan niet alleen en sluit hem niet op. | 0 |
+| A. Je zegt dat er geen beestjes zijn en dat hij daarmee moet ophouden. | Scherm 4 opnieuw | Niet goed. Ga niet in discussie over wat hij ziet. Voor hem is het echt. | 0 |
+| B. Je sluit de hut af, zodat hij niemand kan lastigvallen. | Scherm 4 opnieuw | Niet goed. Laat hem als het kan niet alleen en sluit hem niet op. | 0 |
+| C. Je blijft kalm, spreekt hem rustig aan en kijkt of er direct gevaar is. | Scherm 5 | Goed. Eerst stel je vast of er direct gevaar is. Blijf kalm en probeer contact te houden. | 1 |
 
 ### Scherm 5 Eerst lichamelijk denken
 
@@ -80,9 +80,9 @@ Vraag: Kevin is verward. Waar zoek je eerst naar?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Naar een lichamelijke oorzaak: pols en bloeddruk, de bloedsuiker als dat kan, letsel aan het hoofd, de temperatuur en huiduitslag, en of er een aanval is geweest. | Scherm 6 | Goed. Bij verwardheid zoek je altijd eerst naar een lichamelijke oorzaak, zoals shock, suiker, hoofdletsel, vergiftiging, infectie of epilepsie. | 1 |
-| B. Nergens naar; het is duidelijk een delirium. | Scherm 5 opnieuw | Niet goed. Ook als onttrekking voor de hand ligt, kan er iets anders achter zitten, zoals een infectie of hoofdletsel. | 0 |
-| C. Naar alcohol in zijn hut. | Scherm 5 opnieuw | Dat helpt niet bij de zorg. Zoek eerst naar een lichamelijke oorzaak van de verwardheid. | 0 |
+| A. Nergens naar, want het is duidelijk een delirium door de alcohol. | Scherm 5 opnieuw | Niet goed. Ook als onttrekking voor de hand ligt, kan er iets anders achter zitten, zoals een infectie of hoofdletsel. | 0 |
+| B. Naar verborgen alcohol of pillen in zijn hut en zijn spullen. | Scherm 5 opnieuw | Dat helpt niet bij de zorg. Zoek eerst naar een lichamelijke oorzaak van de verwardheid. | 0 |
+| C. Naar een lichamelijke oorzaak: pols, bloeddruk, suiker, hoofd, koorts en aanval. | Scherm 6 | Goed. Bij verwardheid zoek je altijd eerst naar een lichamelijke oorzaak, zoals shock, suiker, hoofdletsel, vergiftiging, infectie of epilepsie. | 1 |
 
 ### Scherm 6 Direct overleggen
 
@@ -92,11 +92,11 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je laat de kapitein direct contact leggen met de arts. Je geeft door wat je meet, en letterlijk wat Kevin zegt en hoe hij reageert. | Scherm 7 | Goed. Een delirium tremens kan dodelijk zijn: overleg direct. Geef letterlijk door wat hij zegt. | 1 |
-| B. Je wacht tot de volgende geplande meting. | Scherm 6B | Niet goed. Verwardheid en oplopende temperatuur meld je direct, zoals de arts heeft gevraagd. | 0 |
-| C. Je zegt tegen de arts: "Hij is gek geworden." | Scherm 6 opnieuw | Te weinig, en geen respect. Geef de metingen door en letterlijk wat hij zegt en doet. | 0 |
+| A. Je wacht tot de volgende geplande meting en belt dan de arts. | Scherm 6B | Niet goed. Verwardheid en oplopende temperatuur meld je direct, zoals de arts heeft gevraagd. | 0 |
+| B. Je zegt tegen de arts: "Hij is gek geworden, wat moet ik doen?" | Scherm 6 opnieuw | Te weinig, en geen respect. Geef de metingen door en letterlijk wat hij zegt en doet. | 0 |
+| C. Via de kapitein direct de arts, met je metingen en wat Kevin letterlijk zegt. | Scherm 7 | Goed. Een delirium tremens kan dodelijk zijn: overleg direct. Geef letterlijk door wat hij zegt. | 1 |
 
-### Scherm 6B Direct melden (alleen bij B)
+### Scherm 6B Direct melden (alleen bij A)
 
 Tekst: Je laat de kapitein alsnog direct contact leggen. Doorgaan naar scherm 7. `Omweg` plus 1.
 
@@ -108,9 +108,9 @@ Vraag: hoe richt je de zorg in?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Een rustige hut met gedimd licht, Ahmed als vaste begeleider, veel drinken, en de vitale functies en temperatuur blijven meten. | Scherm 8 | Goed. Een prikkelarme ruimte en één vaste begeleider helpen hem rustig te worden. | 1 |
-| B. In de mess, waar altijd mensen zijn die op hem letten. | Scherm 7 opnieuw | Niet goed. Daar zijn te veel prikkels. Kies een rustige hut met gedimd licht. | 0 |
-| C. Steeds een andere collega, zodat niemand te moe wordt. | Scherm 7 opnieuw | Bijna. Afwisselen kan nodig zijn, maar één vaste, vertrouwde begeleider werkt het best. | 0 |
+| A. Een rustige hut met gedimd licht, één vaste begeleider en blijven meten. | Scherm 8 | Goed. Een prikkelarme ruimte en één vaste begeleider helpen hem rustig te worden. | 1 |
+| B. In de mess, waar altijd mensen zijn die op hem kunnen letten. | Scherm 7 opnieuw | Niet goed. Daar zijn te veel prikkels. Kies een rustige hut met gedimd licht. | 0 |
+| C. Steeds een andere collega bij hem, zodat niemand te moe wordt. | Scherm 7 opnieuw | Bijna. Afwisselen kan nodig zijn, maar één vaste, vertrouwde begeleider werkt het best. | 0 |
 
 ### Scherm 8 Dreiging
 
@@ -120,8 +120,8 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je gaat alleen naar binnen om hem te kalmeren. | Scherm 8 opnieuw | Niet goed. Ga nooit alleen het gesprek aan met een dreigende persoon. | 0 |
-| B. Je haalt Ahmed weg, waarschuwt de kapitein en zorgt dat er meerdere collega's in de buurt zijn. Wat er verder moet, gebeurt volgens de afspraken van het schip en in overleg met de arts. | Scherm 9 | Goed. Let op je eigen veiligheid en die van anderen. Moet hij in bedwang worden gehouden, dan doe je dat met meerdere mensen tegelijk, in overleg met de arts. | 1 |
+| A. Ahmed weghalen, de kapitein waarschuwen en meerdere collega's in de buurt. | Scherm 9 | Goed. Let op je eigen veiligheid en die van anderen. Moet hij in bedwang worden gehouden, dan doe je dat met meerdere mensen tegelijk, in overleg met de arts. | 1 |
+| B. Je gaat alleen naar binnen om hem rustig te kalmeren. | Scherm 8 opnieuw | Niet goed. Ga nooit alleen het gesprek aan met een dreigende persoon. | 0 |
 | C. Je dreigt dat je hem opsluit als hij niet ophoudt. | Scherm 8 opnieuw | Niet goed. Blijf kalm en dreig niet. Waarschuw de kapitein en zorg voor meer mensen. | 0 |
 
 ### Scherm 9 Een vraag die je durft te stellen
@@ -132,9 +132,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je vraagt rechtstreeks of hij eraan denkt zichzelf iets aan te doen, en of hij een plan heeft. | Scherm 10 | Goed. Durf te vragen. Daarmee breng je niemand op het idee. Het antwoord bepaalt hoe groot het gevaar is. | 1 |
-| B. Je verandert van onderwerp, zodat hij er niet aan blijft denken. | Scherm 9 opnieuw | Niet goed. Neem zo'n uitspraak altijd serieus en vraag er rechtstreeks naar. | 0 |
-| C. Je zegt dat hij zich niet zo moet aanstellen. | Scherm 9 opnieuw | Niet goed. Oordeel niet en maak geen verwijten. Vraag rechtstreeks wat hij bedoelt. | 0 |
+| A. Je vraagt rechtstreeks of hij zichzelf iets wil aandoen en of hij een plan heeft. | Scherm 10 | Goed. Durf te vragen. Daarmee breng je niemand op het idee. Het antwoord bepaalt hoe groot het gevaar is. | 1 |
+| B. Je verandert van onderwerp, zodat hij er niet langer aan blijft denken. | Scherm 9 opnieuw | Niet goed. Neem zo'n uitspraak altijd serieus en vraag er rechtstreeks naar. | 0 |
+| C. Je zegt dat hij zich niet zo moet aanstellen en dat het wel overgaat. | Scherm 9 opnieuw | Niet goed. Oordeel niet en maak geen verwijten. Vraag rechtstreeks wat hij bedoelt. | 0 |
 
 ### Scherm 10 Wat je doorgeeft
 
@@ -144,9 +144,9 @@ Vraag: wat doe je?
 
 | Keuze | Gevolg | Feedback | Punten |
 | --- | --- | --- | --- |
-| A. Je geeft het letterlijk door aan de arts, zorgt dat hij niet bij gevaarlijke middelen kan, laat hem niet alleen en schrijft alles op. | Debriefing | Goed. Ook zonder plan is het risico reëel. De arts moet het weten voor de beslissing over de evacuatie. | 1 |
-| B. Je houdt het voor je, omdat hij het in vertrouwen zei. | Scherm 10 opnieuw | Niet goed. Gevaar voor zelfdoding meld je aan de arts. Leg Kevin uit dat je dat doet om hem te helpen. | 0 |
-| C. Je laat hem slapen; hij is nu rustig. | Scherm 10 opnieuw | Niet goed. Laat hem niet alleen en meld zijn uitspraak aan de arts. | 0 |
+| A. Je houdt het voor je, omdat hij het je in vertrouwen heeft gezegd. | Scherm 10 opnieuw | Niet goed. Gevaar voor zelfdoding meld je aan de arts. Leg Kevin uit dat je dat doet om hem te helpen. | 0 |
+| B. Doorgeven aan de arts, middelen weghalen, niet alleen laten en noteren. | Debriefing | Goed. Ook zonder plan is het risico reëel. De arts moet het weten voor de beslissing over de evacuatie. | 1 |
+| C. Je laat hem slapen, want hij is nu rustig en moe. | Scherm 10 opnieuw | Niet goed. Laat hem niet alleen en meld zijn uitspraak aan de arts. | 0 |
 
 ### Debriefing
 

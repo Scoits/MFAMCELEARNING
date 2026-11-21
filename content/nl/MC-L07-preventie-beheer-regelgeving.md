@@ -42,7 +42,7 @@ Bronstatus: S066 en S067 zijn als tekst gelezen; S067 bevat dezelfde tabellen al
 
 S066 beantwoordt enkele eerdere vragen gedeeltelijk (BC-37): de uitrusting bevat urineteststrips (R47), een urinekatheter Thieman nr 16 en 12 en katheterglijmiddel onder II.5.06 en II.5.07, de codes waar PH14 naar verwijst (R63), herbruikbare RVS-instrumenten (R58), en het Geneeskundig Handboek voor de Scheepvaart en, op schepen met gevaarlijke stoffen, de MFAG (R36, R40).
 
-De schermrecords staan in [MC-L07-schermreview.csv](../../reviews/MC-L07-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S18, S19, S20, S21, S22, S23, S24, S03, S04, S05, S25, S26, S27, S06, S07, S28, S08, S09, S29, S30, S31, S10, S11, S12, S32, S33, S34, S13, S14, S15.
+De schermrecords staan in [MC-L07-schermreview.csv](../../reviews/MC-L07-schermreview.csv). Wijzig master en CSV samen. De schermvolgorde in de les is S01, S02, S16, S17, S18, S19, S20, S21, S22, S23, S24, S03, S04, S05, S25, S26, S27, S06, S35, S07, S28, S37, S08, S09, S29, S30, S31, S10, S11, S38, S12, S32, S33, S34, S36, S13, S14, S15.
 
 ## MC-L07-S01 Gezond blijven aan boord
 
@@ -206,9 +206,9 @@ Wat doe je naast de zorg voor de zieken?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
+| MC-K07-05-C | Melden, verdacht voedsel laten weggooien en met de kok de hygiëne controleren | Juist. Zo stop je de bron en voorkom je nieuwe zieken. Leg vast wie wat heeft gegeten en wanneer de klachten begonnen. |
 | MC-K07-05-A | Je laat de restjes morgen nog eens goed opwarmen, dan zijn ze weer veilig | Onjuist. Sommige ziektekiemen maken gifstoffen die bij opwarmen niet verdwijnen. Verdacht voedsel gooi je weg. |
-| MC-K07-05-B | Je wacht af of er nog meer mensen ziek worden voordat je iets zegt | Onjuist. Bij meerdere zieken na dezelfde maaltijd denk je meteen aan voedselvergiftiging. Je meldt het aan de kapitein en overlegt met de arts. |
-| MC-K07-05-C | Je denkt aan voedselvergiftiging: je meldt het, laat het verdachte voedsel weggooien en controleert met de kok de kombuis, het keukengerei en de hygiëne | Juist. Zo stop je de bron en voorkom je nieuwe zieken. Leg vast wie wat heeft gegeten en wanneer de klachten begonnen. |
+| MC-K07-05-B | Je wacht af of er nog meer mensen ziek worden voordat je er iets van zegt | Onjuist. Bij meerdere zieken na dezelfde maaltijd denk je meteen aan voedselvergiftiging. Je meldt het aan de kapitein en overlegt met de arts. |
 
 ## MC-L07-S20 Goed drinkwater
 
@@ -344,9 +344,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K07-06-A | Je laat het laden stoppen, meldt het aan de officier van de wacht en overlegt of het geladen water moet worden ontsmet | Juist. Havenwater kan rioolwater bevatten. De slang moet eerst worden schoongemaakt, en water dat mogelijk besmet is, wordt volgens het voorschrift ontsmet. |
-| MC-K07-06-B | Je hangt de slang hoger en laat verder laden | Onjuist. De slang kan al besmet zijn en het water dat al is geladen ook. Stop het laden en meld het. |
+| MC-K07-06-B | Je hangt de slang hoger, zodat hij niet meer in het water hangt, en laat verder laden | Onjuist. De slang kan al besmet zijn en het water dat al is geladen ook. Stop het laden en meld het. |
 | MC-K07-06-C | Niets, want het water uit de slang stroomt naar binnen en niet naar buiten | Onjuist. Via de buitenkant en een lek kunnen ziektekiemen in het water komen. Stop het laden en meld het. |
+| MC-K07-06-A | Het laden laten stoppen, melden en overleggen of het water moet worden ontsmet | Juist. Havenwater kan rioolwater bevatten. De slang moet eerst worden schoongemaakt, en water dat mogelijk besmet is, wordt volgens het voorschrift ontsmet. |
 
 ## MC-L07-S03 Een hygiënerisico aanpakken
 
@@ -398,9 +398,9 @@ Wat doe je eerst?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K07-01-A | Niets; het water wordt vanzelf weer helder | Onjuist. Troebel water met een geur en zieke opvarenden zijn een risico voor de hele bemanning. |
-| MC-K07-01-B | De kapitein informeren, afspreken dat niemand het water drinkt tot het is behandeld, de zieken registreren en met de arts overleggen | Juist. Je neemt het risico direct weg, informeert wie verantwoordelijk is en laat de arts meekijken. |
-| MC-K07-01-C | Iedereen preventief een middel tegen diarree geven | Onjuist. Je geeft geen geneesmiddelen zonder advies van de arts, en dit neemt de oorzaak niet weg. |
+| MC-K07-01-A | Niets doen, want het water wordt na een paar uur vanzelf weer helder | Onjuist. Troebel water met een geur en zieke opvarenden zijn een risico voor de hele bemanning. |
+| MC-K07-01-C | Iedereen preventief een middel tegen diarree geven en extra laten drinken | Onjuist. Je geeft geen geneesmiddelen zonder advies van de arts, en dit neemt de oorzaak niet weg. |
+| MC-K07-01-B | Kapitein informeren, niemand het water laten drinken, zieken registreren en de arts raadplegen | Juist. Je neemt het risico direct weg, informeert wie verantwoordelijk is en laat de arts meekijken. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -517,8 +517,8 @@ Welke maatregelen horen hierbij?
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
 | MC-K07-07-A | Je laat 's avonds de gangen met insectenspray vernevelen; dan is verder niets nodig | Onjuist. Vernevelen is niet de manier om muggen te bestrijden. Voorkom beten met horren, kleding, een insectenwerend middel en zo nodig een klamboe. |
-| MC-K07-07-B | Horren dicht en heel, staand water weg, lange mouwen en een insectenwerend middel bij werk buiten, en overleg over malariapreventie | Juist. Beten voorkomen is de basis. Of er ook geneesmiddelen tegen malaria nodig zijn, bespreek je met de arts. |
-| MC-K07-07-C | Niets bijzonders, want alleen in de jungle komt malaria voor | Onjuist. Ook in en rond havens kunnen muggen malaria overbrengen. |
+| MC-K07-07-C | Niets bijzonders, want malaria komt alleen in de jungle voor en niet in de haven | Onjuist. Ook in en rond havens kunnen muggen malaria overbrengen. |
+| MC-K07-07-B | Horren dicht, staand water weg, bedekkende kleding en insectenwerend middel buiten | Juist. Beten voorkomen is de basis. Of er ook geneesmiddelen tegen malaria nodig zijn, bespreek je met de arts. |
 
 ## MC-L07-S06 Een uitbraak beperken en volgen
 
@@ -644,6 +644,55 @@ TE VERIFIËREN: GH2 dateert van 2013 en de Ships medical guide (S025, WHO, 3e dr
 
 TE VERIFIËREN: De Ships medical guide (2007) noemt voor gele koorts een herhaling om de tien jaar. De les noemt geen termijn, omdat die eis sindsdien kan zijn veranderd. De actuele vaccinatiebron voor zeevarenden is nog open (R77).
 
+## MC-L07-S37 Doe-opdracht: vaccinaties voor een reis
+
+Leerdoelen: MC-25.02; MC-25.01. Bronplaats: S025 IMGS boek p367 / PDF p388 (difterie en tetanus, herhaling om de tien jaar, hepatitis, route, bestemming en lading) en boek p417-419 / PDF p438-440 (internationaal vaccinatiebewijs, gele koorts); S062 dia27-29; de opdracht en de antwoordlogica zijn DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 6 minuten. Leerfunctie: de cursist zoekt actuele vaccinatie-informatie voor een vaargebied en legt de vervolgstap vast.
+
+**Cursistentekst**
+
+Opdracht. Kies een vaargebied waar je schip binnenkort naartoe gaat, of een gebied waar je eerder voer. Zoek in een actuele bron op welke vaccinaties daar verplicht zijn en welke worden aangeraden. Noteer of een land bij aankomst een bewijs van inenting tegen gele koorts eist, en welke andere risico's er zijn, zoals malaria. Kijk ook in je eigen internationale vaccinatiebewijs wanneer je je laatste prik tegen tetanus en difterie kreeg.
+
+Gebruik altijd een actuele bron. Eisen veranderen in de tijd, bijvoorbeeld bij een uitbraak.
+
+Daarna twee situaties uit de voorbereiding van een reis.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K07-10**
+
+Een land op de route eist bij aankomst een bewijs van inenting tegen gele koorts. Een matroos heeft dat niet. Wat doe je?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-10-A | Niets; in de haven regelt de agent het bewijs wel als het nodig is | Onjuist. Het bewijs moet er bij aankomst zijn. Regel het voor vertrek. |
+| MC-K07-10-B | Vastleggen, de kapitein informeren en voor vertrek inenting en bewijs regelen | Juist. Je legt het vast en regelt de inenting voor vertrek, met een geldig bewijs. |
+| MC-K07-10-C | Hem aan boord inenten met een vaccin uit de medische kist en dat noteren | Onjuist. Inenting tegen gele koorts gebeurt aan wal door een bevoegde instantie, met een officieel bewijs. |
+
+**Kennischeck MC-K07-11**
+
+Een kok kreeg veertien jaar geleden zijn laatste prik tegen tetanus en difterie. Wat leg je vast?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-11-A | Niets, want hij is als kind ingeënt en dat beschermt hem zijn hele leven | Onjuist. De Ships medical guide adviseert volwassenen om de tien jaar een herhalingsprik. |
+| MC-K07-11-C | Dat hij pas een prik krijgt als hij een vuile wond oploopt aan boord | Onjuist. Na een vuile wond kan een prik op advies van de arts nodig zijn, maar de herhalingsprik regel je vooraf. |
+| MC-K07-11-B | Dat een herhalingsprik nodig is en dat die aan wal wordt gegeven | Juist. Na meer dan tien jaar is een herhaling aan te raden. Leg vast wat nodig is en wanneer het geregeld wordt. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Welke actuele bron de cursist gebruikt, staat niet in het bronregister. DRTC bevestigt welke bron in de les wordt genoemd (R147).
+
+TE VERIFIËREN: De feedback bij MC-K07-10-C, dat inenting tegen gele koorts aan wal gebeurt door een bevoegde instantie, is een eigen formulering. Mathanje beoordeelt de antwoorden (R147).
+
+**Verbinding met de praktijkdag**
+
+Geen eigen praktijkstation; de cursist neemt zijn aantekeningen mee naar de praktijkdag voor de bespreking van gezondheidszorg aan boord.
+
+
 ## MC-L07-S08 Een vuile wond en onbekende tetanus
 
 Leerdoelen: MC-25.01. Bronplaats: S064 dia33 (is het slachtoffer ingeënt tegen tetanus?); S066 tabel 1, 7.6.01 en 7.6.02 (RMA); antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
@@ -664,9 +713,9 @@ Wat doe je met de tetanusvraag?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K07-02-A | Niets; tetanus komt aan boord niet voor | Onjuist. Tetanus kan ontstaan na een vuile wond, ook aan boord. |
-| MC-K07-02-B | Je meldt aan de arts dat de tetanusstatus onbekend is; de arts beslist over vaccin of antistoffen uit de uitrusting | Juist. Vaccin en antistoffen zijn aan boord en worden op advies van de arts gegeven. |
-| MC-K07-02-C | Je geeft zelf het tetanusvaccin uit de koelkast | Onjuist. Je geeft het vaccin alleen op advies van de arts. |
+| MC-K07-02-B | Je meldt de onbekende tetanusstatus aan de arts, die over vaccin beslist | Juist. Vaccin en antistoffen zijn aan boord en worden op advies van de arts gegeven. |
+| MC-K07-02-A | Niets, want tetanus komt aan boord van een schip vrijwel niet voor | Onjuist. Tetanus kan ontstaan na een vuile wond, ook aan boord. |
+| MC-K07-02-C | Je geeft zelf het tetanusvaccin uit de koelkast, voor de zekerheid | Onjuist. Je geeft het vaccin alleen op advies van de arts. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -776,8 +825,8 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K07-08-A | Je vertelt alles, want de rederij is de werkgever | Onjuist. Ook de rederij heeft geen recht op medische informatie zonder toestemming van de patiënt. |
 | MC-K07-08-B | Je vraagt eerst de patiënt wat je mag vertellen en geeft alleen die informatie | Juist. De patiënt beslist wie wat te horen krijgt. Hij is aanspreekbaar, dus je vraagt het hem. |
+| MC-K07-08-A | Je vertelt alles, want de rederij is de werkgever | Onjuist. Ook de rederij heeft geen recht op medische informatie zonder toestemming van de patiënt. |
 | MC-K07-08-C | Je zegt dat hij ziek is en stuurt het logboek door | Onjuist. Het logboek is vertrouwelijk en gaat niet zonder toestemming naar anderen. |
 
 ## MC-L07-S10 De medische kaart bij overdracht
@@ -849,6 +898,59 @@ TE VERIFIËREN: De omschrijving van de STCW-functies is een eigen samenvatting.
 **Verbinding met de praktijkdag**
 
 Opzoekopdracht: de cursist bepaalt voor een fictief schip welke kolom van de uitrustingslijst geldt.
+
+## MC-L07-S38 Welke regel, welke gids?
+
+Leerdoelen: MC-27.01; MC-27.02. Bronplaats: S001 tabel A-VI/4-1 en A-VI/4-2, PDF p199-203; S066 artikel 1 en 2, code RMA, tabel 2 II.9.10; de inhoud komt uit MC-L07-S11; antwoordlogica is DRTC-ontwerp. Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Begroting 3 minuten. Leerfunctie: de cursist vindt bij een concrete situatie de toepasselijke regel of gids.
+
+**Cursistentekst**
+
+Je bent op een Nederlands zeeschip verantwoordelijk voor de medische zorg. Bij de voorbereiding van een reis loop je drie vragen na.
+
+**Voice-over**
+
+Niet van toepassing; geen voice-over geselecteerd in deze conceptversie.
+
+**Kennischeck MC-K07-12**
+
+Waar staat welke medische uitrusting je schip verplicht aan boord moet hebben?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-12-A | In STCW-tabel A-VI/4-2, bij de eisen voor de medische zorg aan boord | Onjuist. STCW regelt wat de zorgverlener moet kunnen, niet welke uitrusting aan boord is. |
+| MC-K07-12-C | In het Geneeskundig Handboek voor de Scheepvaart, in het hoofdstuk over de uitrusting | Onjuist. Het handboek is de gids die aan boord moet zijn, niet de regeling voor de uitrusting. |
+| MC-K07-12-B | In Bijlage 5 van de Regeling veiligheid zeeschepen, in de kolom van je schip | Juist. Bijlage 5 bepaalt de verplichte uitrusting. De kolom hangt af van het soort schip en het vaargebied, en de hoeveelheden gaan omhoog bij meer dan 15 bemanningsleden. |
+
+**Kennischeck MC-K07-13**
+
+Je schip gaat gevaarlijke stoffen vervoeren. Welke gids moet dan ook aan boord zijn?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-13-B | De MFAG, naast het Geneeskundig Handboek, in de actuele editie | Juist. Op schepen met gevaarlijke stoffen hoort de MFAG aan boord. Controleer of je de actuele editie hebt. |
+| MC-K07-13-A | Alleen het Geneeskundig Handboek voor de Scheepvaart, in de laatste editie | Onjuist. Bij gevaarlijke stoffen hoort er nog een gids bij. |
+| MC-K07-13-C | Het veiligheidsinformatieblad van de rederij in plaats van een medische gids | Onjuist. Veiligheidsinformatiebladen zijn nuttig, maar vervangen de MFAG niet. |
+
+**Kennischeck MC-K07-14**
+
+Een middel in de uitrusting heeft de code RMA. Wat betekent dat voor jou?
+
+| Antwoord-ID | Keuze | Formatieve feedback |
+| --- | --- | --- |
+| MC-K07-14-A | Dat je het zelf mag geven als je de bijsluiter goed hebt gelezen | Onjuist. Een middel met code RMA geef je in beginsel alleen op advies van de Radio Medische Dienst of een arts. |
+| MC-K07-14-B | Dat je het in beginsel alleen geeft op advies van de RMD of een arts | Juist. Leg het advies en de toediening vast in het medisch logboek. |
+| MC-K07-14-C | Dat het middel alleen in de haven of bij een evacuatie mag worden gebruikt | Onjuist. De code zegt iets over wie het advies geeft, niet over waar. |
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt de antwoorden van MC-K07-12 tot en met MC-K07-14 (R147). Voor een schip onder een andere vlag gelden andere regels; dat valt buiten deze kennischeck.
+
+**Verbinding met de praktijkdag**
+
+Geen eigen praktijkstation; toepassing in de bespreking van de medische uitrusting op de praktijkdag.
+
 
 ## MC-L07-S12 De medische uitrusting beheren
 
@@ -970,9 +1072,9 @@ Wat is er aan de hand?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K07-09-A | Er is niets aan de hand; een gebroken ampul hoeft niet in het register | Onjuist. Een gebroken ampul hoort wel in het register, en dat staat er ook. Het verschil zit ergens anders. |
-| MC-K07-09-B | Volgens het register moeten er 7 ampullen zijn, maar er zijn er 6; je meldt het verschil direct aan de kapitein | Juist. Er ontbreekt één ampul die niet in het register staat. Dat meld je direct, zodat kan worden uitgezocht wat er is gebeurd. |
-| MC-K07-09-C | Volgens het register moeten er 8 ampullen zijn, want de gebroken ampul telt niet mee | Onjuist. De gebroken ampul gaat wel van de voorraad af. Volgens het register moeten er 7 zijn, en je telt er 6. |
+| MC-K07-09-A | Er is niets aan de hand, want een gebroken ampul hoeft niet in het register | Onjuist. Een gebroken ampul hoort wel in het register, en dat staat er ook. Het verschil zit ergens anders. |
+| MC-K07-09-C | Volgens het register horen er 8 te zijn, want de gebroken ampul telt niet mee | Onjuist. De gebroken ampul gaat wel van de voorraad af. Volgens het register moeten er 7 zijn, en je telt er 6. |
+| MC-K07-09-B | Volgens het register horen er 7 te zijn, er zijn er 6; je meldt het direct | Juist. Er ontbreekt één ampul die niet in het register staat. Dat meld je direct, zodat kan worden uitgezocht wat er is gebeurd. |
 
 **Verbinding met de praktijkdag**
 
@@ -1018,9 +1120,9 @@ Wat doe je?
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K07-03-A | De morfine in de kluis leggen, de vervallen tabletten apart houden en vervangen, en beide melden aan de kapitein en vastleggen | Juist. Morfine hoort in de kluis, vervallen middelen gebruik je niet, en je legt vast wat je hebt gevonden en gedaan. |
-| MC-K07-03-B | De morfine laten liggen, want de kast is op slot | Onjuist. Middelen die onder de Opiumwet vallen, horen in de kluis. |
+| MC-K07-03-B | De morfine laten liggen, want de kast is op slot en dat is voldoende | Onjuist. Middelen die onder de Opiumwet vallen, horen in de kluis. |
 | MC-K07-03-C | De vervallen tabletten nog opmaken, want ze zijn maar drie maanden over de datum | Onjuist. Je gebruikt geen middelen die over de datum zijn. Vervang ze. |
+| MC-K07-03-A | Morfine in de kluis, vervallen tabletten apart en vervangen, melden en vastleggen | Juist. Morfine hoort in de kluis, vervallen middelen gebruik je niet, en je legt vast wat je hebt gevonden en gedaan. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1080,9 +1182,9 @@ Kies de beste regel.
 
 | Antwoord-ID | Keuze | Formatieve feedback |
 | --- | --- | --- |
-| MC-K07-04-A | Patiënt had erge koorts, iets tegen gegeven, gaat wel beter | Onvoldoende. Tijd, meting, middel, hoeveelheid en het advies van de arts ontbreken. |
-| MC-K07-04-B | 20-11, 14.10 uur: temperatuur 39,2. Op advies van RMD-arts (naam) middel X, hoeveelheid Y, oraal gegeven. 15.10 uur: temperatuur 38,4, patiënt rustiger. (paraaf) | Juist. Datum, tijd, meting, advies, middel, hoeveelheid, toediening en effect zijn herleidbaar vastgelegd. |
-| MC-K07-04-C | Patiënt simuleert waarschijnlijk, toch maar iets gegeven | Onjuist. Schrijf feitelijk en zonder oordeel, met tijd, meting, middel, hoeveelheid en advies. |
+| MC-K07-04-A | Patiënt had erge koorts, op advies iets tegen gegeven, gaat inmiddels wel beter | Onvoldoende. Tijd, meting, middel, hoeveelheid en het advies van de arts ontbreken. |
+| MC-K07-04-B | 20-11, 14.10: 39,2; RMD-arts (naam): middel X, hoeveelheid Y, oraal. 15.10: 38,4. (paraaf) | Juist. Datum, tijd, meting, advies, middel, hoeveelheid, toediening en effect zijn herleidbaar vastgelegd. |
+| MC-K07-04-C | Patiënt simuleert waarschijnlijk, maar heeft voor de zekerheid toch iets gekregen | Onjuist. Schrijf feitelijk en zonder oordeel, met tijd, meting, middel, hoeveelheid en advies. |
 
 **Te verifiëren door Mathanje of DRTC**
 
@@ -1090,7 +1192,7 @@ TE VERIFIËREN: Middel X en hoeveelheid Y zijn bewust plaatshouders; de les noem
 
 ## Bouw en test
 
-Bouw de les met het Rise-bouwboek in de schermvolgorde hierboven. Toon in S10 een eigen nagebouwde, lege versie van de medische kaart met de drie delen, of het origineel als de rechten dat toelaten. Toon in S11 en S12 geen volledige geneesmiddelentabel. MC-K07-01 tot en met MC-K07-09 zijn oefenvragen en tellen niet mee.
+Bouw de les met het Rise-bouwboek in de schermvolgorde hierboven, 38 Rise-secties. Toon in S10 een eigen nagebouwde, lege versie van de medische kaart met de drie delen, of het origineel als de rechten dat toelaten. Toon in S11 en S12 geen volledige geneesmiddelentabel. MC-K07-01 tot en met MC-K07-14 zijn oefenvragen en tellen niet mee.
 
 ## Open punten voor Mathanje en DRTC
 

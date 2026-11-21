@@ -42,7 +42,7 @@ from docx.shared import Cm, Pt, RGBColor
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from maak_importversie import (PROEFMELDING, feedback_per_antwoord, lees_schermen,  # noqa: E402
-                               lestitel, splits_oude_vorm)
+                               lestitel, splits_oude_vorm, vragen_van)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MEDIA_STANDAARD = "/mnt/project-files/articulate-proef/media"
@@ -240,7 +240,8 @@ def scherm_blokken(s):
     elif "scenario-blok" in p:
         blokken.append({"type": "Scenario", "tekst": s["interaction"]})
     elif vraag:
-        blokken.append({"type": "Kennischeck", "vraag": vraag, "scherm": s})
+        for k, v in enumerate(vragen_van(s)):
+            blokken.append({"type": "Kennischeck", "vraag": v, "scherm": s, "eerste": k == 0})
     elif (s["interaction"].strip() and not s["interaction"].startswith("Niet van toepassing")
           and not any(b.get("interactie") for b in blokken)):
         blokken.append({"type": "Interactie", "tekst": s["interaction"]})
@@ -452,7 +453,7 @@ def schrijf_blok(doc, n, b, media_map, ontbreekt, importmodus=False, labels=True
         vraag_id, vraagtekst, opties = b["vraag"]
         s = b["scherm"]
         fb = feedback_per_antwoord(s["feedback_correct"], s["feedback_incorrect"])
-        aanloop = splits_oude_vorm(s)[0].strip()
+        aanloop = splits_oude_vorm(s)[0].strip() if b.get("eerste", True) else ""
         if "|" in aanloop:
             aanloop = ""
         doc.add_paragraph(f"Vraag: {aanloop} {vraagtekst}".replace("  ", " ").strip())
