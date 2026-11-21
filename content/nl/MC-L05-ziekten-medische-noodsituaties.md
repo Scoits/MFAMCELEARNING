@@ -569,6 +569,26 @@ Wat doe je?
 | MC-K05-10-B | Je laat hem liggend vervoeren, legt de AED klaar, meet zijn vitale functies en neemt met spoed contact op met de arts | Juist. Pijn die na rust niet zakt, met zweten, grauw zien en onrust, past bij een hartinfarct. Houd rekening met een hartstilstand. |
 | MC-K05-10-C | Je wacht nog tien minuten, want bij angina pectoris zakt de pijn vanzelf | Onjuist. Bij angina pectoris zakt de pijn snel in rust. Na twintig minuten rust is dat niet gebeurd. Dat wijst op een hartinfarct. |
 
+## MC-L05-S47 Scenario: pijn op de borst tijdens de wacht
+
+Leerdoelen: MC-14.01; MC-14.02. Bronplaats: zie het script [MC-L05-SL01](../../articulate/storyline/MC-L05-SL01-pijn-op-de-borst.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Het is drie uur 's nachts. Peter, de tweede machinist, heeft pijn op de borst in de controlekamer. Jij hebt aan boord de medische zorg. Je beslist wat er gebeurt, overlegt met de arts en houdt Peter in de gaten.
+
+Je kiest steeds wat je doet. Een verkeerde keuze geeft uitleg, en soms een omweg. Het scenario telt niet mee voor de toets, en je kunt het opnieuw doen.
+
+**Interactie**
+
+Scenario-pakket MC-L05-SL01 in een Rise Code Block met afrondingseis. Script: [MC-L05-SL01](../../articulate/storyline/MC-L05-SL01-pijn-op-de-borst.md), bouwlijst: [MC-L05-SL01-bouwlijst.csv](../../articulate/storyline/MC-L05-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R124).
+
 ## MC-L05-S06 Benauwdheid
 
 Leerdoelen: MC-14.01. Bronplaats: S062 dia42 (longen: astma, bronchitis, longontsteking, ingeklapte long, longembolie), dia43-44 (klaplong, longembolie, alleen titel); S046 p2 (vragen bij benauwdheid). Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.

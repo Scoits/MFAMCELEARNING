@@ -333,6 +333,14 @@ Versie 0.4 voegt na de proefimport van 21 november 2026 de casus S20 toe als Ris
 | R122 | MFA-L07 en articulate/storyline/MFA-L07-SL01 | Is trager reageren op aanspreken en ogen die dichtvallen na een val op het hoofd een passend en eenduidig teken van verslechtering voor dit oefenscenario? Klopt het fictieve oefenadvies als voorbeeld, zonder dat het op een echt protocol lijkt? Is de vraag om een infuus geschikt om de grens tussen MFA en MC te laten zien? |
 | R123 | MFA-L07-S13 | Kloppen de keuzes en de feedback in de casus over het melden van de brandwond in de kombuis (I07-04)? Lijkt het fictieve oefenadvies niet op een echt behandeladvies? Is het goed dat de cursist de grootte van de wond in gewone woorden beschrijft en geen percentage of graad noemt? |
 
+## Vertakte scenario's voor de verhouding Rise en Storyline-niveau
+
+Vanaf 21 november 2026 krijgt MC 40 procent en MFA 20 procent van de studietijd aan vertakte scenario's (afspraken, hoofdstuk 4). Per scenario een vraag over de casus, de keuzes en de feedback.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R124 | MC-L05-S47 en articulate/storyline/MC-L05-SL01-pijn-op-de-borst.md | Kloppen de casus, de keuzes en de feedback in het scenario pijn op de borst? Is het fictieve advies met zuurstof en een middel onder de tong zonder naam of dosis passend als oefening? Klopt het verloop na de schok met de DRTC-werkwijze? Moet er een versie komen met de afwijkende klachten bij vrouwen? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

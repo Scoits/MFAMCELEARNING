@@ -36,8 +36,10 @@ Bijgewerkt: 21 november 2026. Versie 2.0 verwerkt de reviews van ChatGPT, Gemini
 - Helder Nederlands, zonder icoontjes of decoratieve streepjes.
 
 ## 4. Rise, Storyline en codepakketten
-- Rise is de basis, voor ongeveer 80 tot 90 procent van de opleiding: uitleg, foto's en video, accordeon, proces, tabs, eenvoudige scenario's, kennischecks, Continue-blokken en navigatie.
-- Codepakketten (Rise Code Block) zijn er voor de 10 tot 20 procent waar standaard Rise didactisch tekortschiet: beslisscenario's, triage, interactieve waarneming en complexe casussen. Rise ondersteunt officieel een afrondingseis voor Code Blocks, zodat een Continue-blok wacht tot de activiteit echt is afgerond. Dat testen we in de proef.
+- Vaste verhouding (afspraak van Martijn uit de beginfase, bevestigd 21 november): MFA 80 procent Rise en 20 procent Storyline-niveau; MC 60 procent Rise en 40 procent Storyline-niveau. Gerekend in studietijd is dat minimaal ongeveer 96 minuten bij MFA en 192 minuten bij MC aan rijke, vertakte interactie: beslisscenario's, simulaties en complexe casussen.
+- Storyline-niveau betekent de rijkheid van de interactie. Wij bouwen die als codepakket voor Rise, of in Storyline waar dat beter werkt. MC krijgt dus veel meer scenario's dan de drie die eerst gepland waren.
+- Rise is de basis voor de rest: uitleg, foto's en video, accordeon, proces, tabs, eenvoudige scenario's, kennischecks, Continue-blokken en navigatie.
+- Codepakketten (Rise Code Block) zijn er voor het deel waar standaard Rise didactisch tekortschiet: beslisscenario's, triage, interactieve waarneming en complexe casussen. Rise ondersteunt officieel een afrondingseis voor Code Blocks, zodat een Continue-blok wacht tot de activiteit echt is afgerond. Dat testen we in de proef.
 - Storyline 360 is secundair gereedschap, voor interacties die aantoonbaar niet goed lukken in Rise of in een codepakket. We hoeven het niet te gebruiken, maar verbieden het ook niet.
 - Scenario's waarin een keuze echt een ander vervolg geeft: het RMD-gesprek (MFA les 7), een patiënt die 's nachts verslechtert (MC les 4), de helikopterevacuatie (MC les 8), en meer waar het iets oplevert.
 - Martijn wil zelf zo weinig mogelijk bouwen. Daarom programmeren wij die scenario's als kant-en-klare pakketten (HTML) die hij alleen in Rise plaatst via een Code Block. De uitgewerkte scenarioscripts zijn de inhoudelijke basis.
