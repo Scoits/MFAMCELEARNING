@@ -1305,6 +1305,24 @@ Wat doe je?
 
 TE VERIFIËREN: Mathanje beoordeelt de casus en de feedback. Antwoord A noemt een pijnstiller bij naam als onjuiste keuze; Mathanje beslist of die naam blijft.
 
+## MC-L05-S49 Scenario: koorts na de haven
+
+Leerdoelen: MC-16.01; MC-16.02; MC-17.01. Bronplaats: zie het script [MC-L05-SL03](../../articulate/storyline/MC-L05-SL03-koorts-na-de-haven.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Achttien dagen na een haven in West-Afrika krijgt een matroos koorts. Hij denkt dat het griep is. Jij zoekt uit wat er nodig is, zorgt voor hem en volgt hem een middag en een nacht.
+
+**Interactie**
+
+Scenario-pakket MC-L05-SL03 in een Rise Code Block met afrondingseis. Script: [MC-L05-SL03](../../articulate/storyline/MC-L05-SL03-koorts-na-de-haven.md), bouwlijst: [MC-L05-SL03-bouwlijst.csv](../../articulate/storyline/MC-L05-SL03-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R130).
+
 ## MC-L05-S19 Seksueel overdraagbare aandoeningen
 
 Leerdoelen: MC-15.01; MC-15.02. Bronplaats: S062 dia32 (lijst SOA's), dia33-39 (chlamydia, gonorroe, genitale wratten, herpes genitalis, syfilis, schaamluis: incubatietijd en verschijnselen), dia40 (preventie, alleen titel). Media: niet van toepassing. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.

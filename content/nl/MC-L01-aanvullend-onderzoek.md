@@ -29,7 +29,7 @@ STCW-kolommen: MC-32 is een aanvullend onderdeel uit de model course zonder eige
 
 Bronstatus: S046 pagina 2 (gericht onderzoek van de patiënt bij pijn op de borst of benauwdheid en bij buikpijn) en S062 dia41 tot en met 57 (ziektebeelden borst en buik, luisteren naar hart en longen, indeling van de buik, acute buikpijn) zijn als tekst gelezen. Dia45 tot en met 48 bestaan grotendeels uit beelden; de plaats van de stethoscoop is daarom een eigen formulering. Voor urineonderzoek met een teststrook is in het register geen DRTC-bron gevonden; PH14 (S061) gaat over de urinekatheter en is een scan zonder tekstlaag (BC-31).
 
-De schermrecords staan in [MC-L01-schermreview.csv](../../reviews/MC-L01-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S12, S13, S02, S14, S15, S16, S17, S03, S04, S05, S18, S06, S19, S20, S21, S07, S08, S22, S23, S09, S24, S25, S10, S26, S11, S27.
+De schermrecords staan in [MC-L01-schermreview.csv](../../reviews/MC-L01-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S01, S12, S13, S02, S14, S15, S16, S17, S03, S04, S05, S18, S06, S19, S20, S21, S07, S08, S22, S23, S09, S24, S25, S10, S26, S11, S28, S27.
 
 ## MC-L01-S01 Meer weten dan bij eerste hulp
 
@@ -792,6 +792,24 @@ TE VERIFIËREN: Mathanje beoordeelt de casus, de fictieve waarden en de feedback
 **Verbinding met de praktijkdag**
 
 In SC-MC-01 rapporteert de cursist zo aan de arts in het RMD-rollenspel.
+
+## MC-L01-S28 Scenario: een collega die zich niet lekker voelt
+
+Leerdoelen: MC-32.02. Bronplaats: zie het script [MC-L01-SL01](../../articulate/storyline/MC-L01-SL01-onderzoek-van-top-tot-teen.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+Een stuurman voelt zich al twee dagen niet lekker, zonder dat hij precies weet wat het is. Jij neemt het ziekteverhaal op, onderzoekt hem van top tot teen, meet, rapporteert aan de arts en volgt het verloop.
+
+**Interactie**
+
+Scenario-pakket MC-L01-SL01 in een Rise Code Block met afrondingseis. Script: [MC-L01-SL01](../../articulate/storyline/MC-L01-SL01-onderzoek-van-top-tot-teen.md), bouwlijst: [MC-L01-SL01-bouwlijst.csv](../../articulate/storyline/MC-L01-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R131).
 
 ## MC-L01-S27 Doe-opdracht: een volledig onderzoek bij een collega
 

@@ -345,6 +345,8 @@ Vanaf 21 november 2026 krijgt MC 40 procent en MFA 20 procent van de studietijd 
 | R127 | MC-L06-S33 en articulate/storyline/MC-L06-SL02-overlijden-aan-boord.md | Kloppen de casus, de keuzes en de feedback in het scenario een collega gevonden? Is de volgorde van reanimeren bij twijfel en stoppen in overleg met de arts juist? Kloppen de bewaartermijnen nog met de actuele wet? Maakt de cursist zelf de foto's of de kapitein? |
 | R128 | MC-L07-S35 en articulate/storyline/MC-L07-SL01-diarree-aan-boord.md | Kloppen de casus, de keuzes en de feedback in het scenario vijf zieken na het avondeten? Is vijf dagen zonder nieuwe zieken een passend einde, of laat het scenario dat aan de arts? Hoort controle van het drinkwater er altijd bij? Klopt de maatregel in de kombuis als voorbeeld? |
 | R129 | MC-L07-S36 en articulate/storyline/MC-L07-SL02-de-kluis-en-het-logboek.md | Kloppen de casus, de keuzes en de feedback in het scenario de controle voor de inspectie? Is één ampul te veel in het register een goed oefenvoorbeeld? Klopt de werkwijze bij inleveren van vervallen middelen met de afspraken van DRTC? |
+| R130 | MC-L05-S49 en articulate/storyline/MC-L05-SL03-koorts-na-de-haven.md | Kloppen de casus, de oefenwaarden, het fictieve advies, de keuzes en de feedback in het scenario koorts na de haven? Moet de vraag naar malariatabletten erin? Hoort een sneltest erbij (R47)? |
+| R131 | MC-L01-S28 en articulate/storyline/MC-L01-SL01-onderzoek-van-top-tot-teen.md | Kloppen de casus, de bevindingen, de oefenwaarden, de keuzes en de feedback in het scenario onderzoek van top tot teen? Is de rapportage aan de arts volledig? |
 
 ## Antwoorden van Martijn op 20 november 2026
 
