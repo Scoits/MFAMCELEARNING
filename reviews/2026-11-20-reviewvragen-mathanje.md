@@ -246,6 +246,15 @@ Versie 0.4 breidt de les uit met uitleg uit GH1 (S016) hoofdstuk 3, 4, 6, 7 en 9
 | R103 | MFA-L04-S35 en S36 | Klopt de behandeling van een onderkoeld slachtoffer zonder ademhaling: na minder dan een uur in de kou direct reanimeren, na langer dan een uur eerst voorzichtig inpakken en de RMD raadplegen? Sluit dit aan bij de actuele reanimatierichtlijn en S043? |
 | R104 | MFA-L04-S43 en S46 | Hoe vaak controleert de MFA-hulpverlener het bewustzijn in de eerste 24 uur na hoofdletsel, en met welke schaal (zie ook R18 tot en met R21)? |
 
+## Aanvulling bij MFA-L03 versie 0.5
+
+Versie 0.5 breidt de les uit met uitleg uit GH1 (S016) hoofdstuk 3, 5 en 6. GH1 dateert van 2013; voor de uitvoering van reanimatie en hulp bij verslikking volgt de les de DRTC-dia's en praktijkhandelingen. De TE VERIFIËREN-punten staan per scherm in de master.
+
+| Nr | Scherm | Vraag |
+| --- | --- | --- |
+| R105 | MFA-L03 shockschermen | GH1 zegt bij shock plat op de rug met de benen omhoog; de DRTC-dia's (S034 dia50) noemen alleen neerleggen. Gaan de benen omhoog in de les? GH1 noemt ook een bovendruk onder 90 als teken van shock; de les noemt geen grenswaarde. |
+| R106 | MFA-L03 bewusteloosheid en reanimatie | Blijft de rode huid bij koolmonoxidevergiftiging in de les als (onbetrouwbaar) teken? Bevestig dat de les bij een blokkade tijdens de reanimatie de huidige werkwijze volgt in plaats van GH1, en dat de beslissing om te stoppen bij de RMD ligt in plaats van de grens van 30 minuten uit GH1. Klopt het weglaten van termijnen bij langdurige bewusteloosheid (GH1: draaien om de drie uur)? |
+
 ## Antwoorden van Martijn op 20 november 2026
 
 | Nr | Antwoord | Verwerking |

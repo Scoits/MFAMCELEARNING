@@ -237,7 +237,7 @@ def verdeel(schermen, doel):
         huidig.append(s)
         minuten += float(s["minutes_estimate"] or 0)
     if huidig:
-        if delen and minuten < doel / 3:
+        if delen and minuten < doel / 2:
             delen[-1].extend(huidig)
         else:
             delen.append(huidig)
