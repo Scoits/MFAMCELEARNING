@@ -5,7 +5,7 @@
    Structuur zonder tekst; de tekst staat in tekst.<taal>.json. */
 window.MODULE = {
   "id": "MC-L04-SL01",
-  "version": "0.2",
+  "version": "0.3",
   "maxPoints": 6,
   "steps": 9,
   "vars": {

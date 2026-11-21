@@ -18,6 +18,26 @@
     o[parts[parts.length - 1]] = window.TEXT[p];
   });
   var app = document.getElementById("app");
+  /* Beweging: ingetogen, en helemaal uit bij de systeeminstelling Minder beweging. */
+  var REDUCED = false;
+  try { REDUCED = window.matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) {}
+  var lastClock = null;
+  function enter(into) {
+    into.classList.remove("enter");
+    void into.offsetWidth;
+    Array.prototype.forEach.call(into.children, function (c, i) { c.style.setProperty("--i", Math.min(i, 8)); });
+    into.classList.add("enter");
+  }
+  function countUp(elm, to, suffix) {
+    if (REDUCED || !window.requestAnimationFrame) { elm.textContent = to + suffix; return; }
+    var t0 = null, dur = 900;
+    (function step(t) {
+      if (t0 === null) t0 = t;
+      var k = Math.min(1, (t - t0) / dur), e = 1 - Math.pow(1 - k, 3);
+      elm.textContent = Math.round(to * e) + suffix;
+      if (k < 1) window.requestAnimationFrame(step);
+    })(performance.now());
+  }
   var state, completedSent = false;
 
   function el(tag, attrs, children) {
@@ -83,12 +103,12 @@
     var rows = vitalsRows(keys);
     var cols = M.vitals.columns;
     var wrap = el("div");
-    var table = el("table", null, [
+    var table = el("table", { class: "vitals" }, [
       el("caption", { class: "sr", text: b.caption || u("observatielijst") }),
       el("thead", null, [el("tr", null, cols.map(function (c) { return el("th", { scope: "col", text: c.label }); }))]),
       el("tbody", null, rows.map(function (r, i) {
         return el("tr", { class: (b.highlightLast && i === rows.length - 1) ? "now" : "" },
-          cols.map(function (c) { return el("td", { text: r[c.key] != null ? String(r[c.key]) : u("nietGemeten") }); }));
+          cols.map(function (c) { return el("td", { "data-label": c.label, text: r[c.key] != null ? String(r[c.key]) : u("nietGemeten") }); }));
       }))
     ]);
     wrap.appendChild(el("div", { class: "table-wrap", tabindex: "0", role: "region", "aria-label": b.caption || u("observatielijst") }, [table]));
@@ -117,9 +137,9 @@
       var pts = [];
       rows.forEach(function (r, i) { var v = num(r[s.key]); if (v != null) pts.push([x(i), y(v), v]); });
       if (!pts.length) return;
-      svg += '<polyline fill="none" stroke="' + s.color + '" stroke-width="3" ' + (s.dash ? 'stroke-dasharray="' + s.dash + '" ' : "") +
+      svg += '<polyline class="line" pathLength="1" fill="none" stroke="' + s.color + '" stroke-width="3" ' + (s.dash ? 'stroke-dasharray="' + s.dash + '" ' : "") +
         'points="' + pts.map(function (p) { return p[0] + "," + p[1]; }).join(" ") + '"/>';
-      pts.forEach(function (p) { svg += '<circle cx="' + p[0] + '" cy="' + p[1] + '" r="3.5" fill="' + s.color + '"/>'; });
+      pts.forEach(function (p, j) { svg += '<circle class="dot" style="--d:' + j + '" cx="' + p[0] + '" cy="' + p[1] + '" r="3.5" fill="' + s.color + '"/>'; });
       var last = pts[pts.length - 1];
       svg += '<text x="' + (last[0] + 8) + '" y="' + (last[1] + 4) + '" font-size="12" font-weight="600" fill="' + s.color + '">' + s.label + "</text>";
     });
@@ -182,7 +202,11 @@
 
   function header(node, into) {
     var meta = el("div", { class: "scene-meta" });
-    if (node.time) meta.appendChild(el("span", { class: "clock", text: tpl(typeof node.time === "string" ? node.time : (cond(node.time.if) ? node.time.then : node.time.else)) }));
+    if (node.time) {
+      var tm = tpl(typeof node.time === "string" ? node.time : (cond(node.time.if) ? node.time.then : node.time.else));
+      meta.appendChild(el("span", { class: "clock" + (lastClock !== null && lastClock !== tm ? " tick" : ""), text: tm }));
+      lastClock = tm;
+    }
     if (node.label) meta.appendChild(el("span", { class: "scene-title", text: node.label }));
     if (meta.childNodes.length) into.appendChild(meta);
     if (node.title) into.appendChild(el("h2", { text: tpl(node.title) }));
@@ -202,6 +226,7 @@
     var r = RENDER[node.type];
     r(node, mainEl, id);
     document.documentElement.setAttribute("data-node", id);
+    enter(mainEl);
     try { window.scrollTo(0, 0); } catch (e) {}
     var h = mainEl.querySelector("h2");
     if (h) { h.setAttribute("tabindex", "-1"); h.focus({ preventScroll: true }); }
@@ -244,7 +269,8 @@
           if (first) state.vars.Punten += o.points || 0;
           if (o.set) Object.assign(state.vars, o.set);
           state.log.push({ node: node.title, choice: o.label, q: q });
-          var fb = el("div", { class: "feedback " + q, role: "status" }, [el("div", { class: "verdict", text: o.verdict || VERDICT[q] }), el("p", { html: o.feedback })]);
+          b.classList.add("pick-" + q);
+          var fb = el("div", { class: "feedback appear " + q, role: "status" }, [el("div", { class: "verdict", text: o.verdict || VERDICT[q] }), el("p", { html: o.feedback })]);
           fbBox.appendChild(fb);
           if (o.retry) fbBox.appendChild(nextButton(u("opnieuwProberen"), function () { go(id); }));
           else fbBox.appendChild(nextButton(o.button || node.button, function () { go(resolveNext(o.next || node.next)); }));
@@ -337,9 +363,17 @@
     },
     debrief: function (node, into) {
       sendComplete();
-      if (M.maxPoints) into.appendChild(el("div", { class: "score" }, [
-        el("div", { class: "num", text: state.vars.Punten + " / " + M.maxPoints }),
-        el("div", { text: tpl(node.scoreText || u("score")) })]));
+      if (M.maxPoints) {
+        var pts = state.vars.Punten, numEl = el("div", { class: "num", "aria-hidden": "true", text: "0 / " + M.maxPoints });
+        var bar = el("span");
+        into.appendChild(el("div", { class: "score" }, [
+          el("div", { class: "num-wrap" }, [numEl, el("span", { class: "sr", text: pts + " / " + M.maxPoints }),
+            el("div", { class: "meter", "aria-hidden": "true" }, [bar])]),
+          el("div", { text: tpl(node.scoreText || u("score")) })]));
+        countUp(numEl, pts, " / " + M.maxPoints);
+        var pct = Math.round(100 * pts / M.maxPoints) + "%";
+        if (REDUCED) bar.style.width = pct; else setTimeout(function () { bar.style.width = pct; }, 60);
+      }
       if (node.extra) renderBlocks(node.extra, into);
       if (node.learn) {
         into.appendChild(el("h2", { text: node.learnTitle || u("leerpunten"), style: "font-size:18px" }));

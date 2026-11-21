@@ -12,8 +12,15 @@ Alle modules zijn concept. De medische inhoud is nog niet door Mathanje beoordee
 | MFA-L07-SL01 Het RMD-gesprek | MFA-L07-S12, vlak voor de praktijkdag | Script MFA-L07-SL01 versie 0.1 | 12 minuten, met omwegen 14 tot 15 | Bij het bereiken van de debriefing |
 | MC-L04-SL01 Verslechtering in de nacht | MC-L04-S26 | Script MC-L04-SL01 versie 0.1 | 12 minuten, met omweg ongeveer 14 | Bij het bereiken van de debriefing |
 | MC-L08-SL01 Helikopterevacuatie | MC-L08-S25 | Script MC-L08-SL01 versie 0.1 | 12 minuten, met omwegen ongeveer 14 | Bij het bereiken van de debriefing |
+| DRTC-WELKOM-MFA en DRTC-WELKOM-MC Welkomstanimatie | Eerste blok van de cursus | AFSPRAKEN-MFA-MC.md versie 2.0 | ongeveer 2 minuten, speelt vanzelf | Bij het laatste hoofdstuk of na Overslaan |
 
 De doorlooptijd volgt de strenge rekenregel uit de afspraken: 150 woorden per minuut voor de zichtbare tekst op de juiste route en 1 minuut per beslismoment. Berekend met `node test/studietijd.js`. De scripts schatten zelf 10 minuten. Alleen een meting met testcursisten telt voor de urenonderbouwing.
+
+## Beweging en welkomstanimatie
+
+Sinds 21 november (MC-L04-SL01 versie 0.3) hebben de scenario's ingetogen beweging die iets laat zien: het tijdlabel klapt om als de tijd verspringt, de grafieklijnen tekenen van links naar rechts, de nieuwste meting licht kort op, feedback schuift in met een gekleurde rand en het puntentotaal loopt op. Bij de systeeminstelling Minder beweging staat alles stil. Op een telefoon wordt de observatielijst een reeks kaarten per meting, zodat alle waarden zonder zijwaarts scrollen in beeld zijn. `test/run.js` meldt nu een fout als een tabel of grafiek zijwaarts moet scrollen.
+
+De welkomstanimatie (`shared/welkom.js`, `shared/welkom.css`) is een korte film van acht hoofdstukken met tekeningen: welkom, wat is dit, hoe werkt een les, scenario's, eigen tempo, apparaten, toets en praktijk, beginnen. Hij start pas als het blok in beeld komt en heeft Vorige, Pauze, Volgende en Overslaan. Hoofdstuk 2 en 7 noemen de cursus; de rest is algemeen. Voor een andere DRTC-cursus kopieer je een map `DRTC-WELKOM-*` en pas je die twee hoofdstukken en `praktijkdagen` aan. Test: `node test/welkom.js <buildmap> <uitvoermap>`.
 
 ## Plaatsen in Rise
 

@@ -38,13 +38,19 @@ function harness(src, height) {
         await frame.waitForSelector(".main h2");
         frame.on("pageerror", (e) => errors.push(String(e)));
         const shots = [];
+        const hiddenAt = [];
         let i = 0;
         for (const step of route.steps) {
           i++;
           await route.run(frame, step);
           await page.waitForTimeout(120);
+          // Inhoud die alleen met zijwaarts scrollen te zien is (bijvoorbeeld een tabelkolom) telt als fout.
+          const hidden = await frame.evaluate(() => [...document.querySelectorAll(".table-wrap, .chart")].filter((e) => e.scrollWidth > e.clientWidth + 1).length);
+          if (hidden) hiddenAt.push(i);
           if (route.shotsAt && route.shotsAt.includes(i)) {
             const name = `${mod}_${route.name}_${vp.name}_${String(i).padStart(2, "0")}.png`;
+            // Wacht tot de animaties (inkomen, grafieklijn) klaar zijn, zodat de schermafbeelding de eindstand toont.
+            await frame.evaluate(() => Promise.race([Promise.all(document.getAnimations().filter((a) => a.effect && a.effect.getTiming().iterations !== Infinity).map((a) => a.finished.catch(() => {}))), new Promise((r) => setTimeout(r, 3000))]));
             // Volledige inhoud van het iframe vastleggen.
             // Iframe tijdelijk even hoog maken als de inhoud en de hele module vastleggen.
             const h = await frame.evaluate(() => document.documentElement.scrollHeight);
@@ -58,7 +64,7 @@ function harness(src, height) {
         const received = await page.evaluate(() => window.received);
         const node = await frame.evaluate(() => document.documentElement.getAttribute("data-node"));
         const score = await frame.evaluate(() => window.SCENARIO && window.SCENARIO.state ? window.SCENARIO.state().vars : null);
-        const overflow = await frame.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1 || [...document.querySelectorAll(".app, .main, .deck")].some((e) => e.scrollWidth > e.clientWidth + 1));
+        const overflow = hiddenAt.length ? "tabel bij stap " + hiddenAt.join(",") : await frame.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1 || [...document.querySelectorAll(".app, .main, .deck")].some((e) => e.scrollWidth > e.clientWidth + 1));
         const ok = received.some((m) => m && m.type === "complete") && errors.length === 0 && !overflow &&
           (!route.expect || route.expect(node, score));
         results.push({ mod, route: route.name, vp: vp.name, ok, node, score, received, errors, overflow, shots });

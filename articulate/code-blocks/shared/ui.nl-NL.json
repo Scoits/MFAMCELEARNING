@@ -37,5 +37,12 @@
   "probeerHetOpnieuw": "Probeer het opnieuw",
   "volgendeOpdracht": "Volgende opdracht",
   "afronden": "Afronden",
-  "alAfgerondOnderdeel": "Je hebt dit onderdeel al afgerond. Je kunt het opnieuw doen of verdergaan met de les."
+  "alAfgerondOnderdeel": "Je hebt dit onderdeel al afgerond. Je kunt het opnieuw doen of verdergaan met de les.",
+  "welkomVorige": "Vorige",
+  "welkomVolgende": "Volgende",
+  "welkomPauze": "Pauze",
+  "welkomAfspelen": "Afspelen",
+  "welkomOverslaan": "Overslaan",
+  "welkomOpnieuw": "Opnieuw bekijken",
+  "welkomHoofdstuk": "{x} van {n}"
 }

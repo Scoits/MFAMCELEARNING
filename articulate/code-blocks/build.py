@@ -59,6 +59,9 @@ def languages(mod: pathlib.Path) -> list:
 def build_module(mod: pathlib.Path, out: pathlib.Path, lang: str) -> pathlib.Path:
     engine_name = (mod / "engine.txt").read_text().strip() if (mod / "engine.txt").exists() else "scenario.js"
     css = (SHARED / "style.css").read_text(encoding="utf-8")
+    engine_css = SHARED / engine_name.replace(".js", ".css")
+    if engine_css.exists():
+        css += "\n" + engine_css.read_text(encoding="utf-8")
     extra_css = mod / "module.css"
     if extra_css.exists():
         css += "\n" + extra_css.read_text(encoding="utf-8")

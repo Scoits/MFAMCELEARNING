@@ -1,0 +1,82 @@
+/* Welkomstanimatie. Rustig tempo, DRTC-kleuren. Alles staat stil bij Minder beweging (onderaan). */
+.welkom .main { padding-top: 0; }
+.welkom .stage { margin: 0 -22px; background: #14284a; line-height: 0; overflow: hidden; aspect-ratio: 2 / 1; }
+.welkom .stage svg { width: 100%; height: 100%; display: block; }
+.welkom .pips { display: flex; gap: 5px; margin: 14px 0 10px; }
+.welkom .pips span { flex: 1; height: 4px; border-radius: 2px; background: #d9e4ef; overflow: hidden; }
+.welkom .pips span i { display: block; height: 100%; width: 0; background: var(--blue); }
+.welkom .pips span.done i { background: var(--navy); }
+.welkom .eyebrow { font-size: 13px; color: var(--muted); font-weight: 600; letter-spacing: .04em; font-variant-numeric: tabular-nums; }
+.welkom .words { min-height: 9.5em; }
+.welkom .words.enter > * { animation: wk-rise .5s cubic-bezier(.2,.8,.2,1) both; }
+.welkom .words.enter > :nth-child(2) { animation-delay: .08s; }
+.welkom .words.enter > :nth-child(3) { animation-delay: .18s; }
+@keyframes wk-rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+.welkom .actions { align-items: center; }
+.welkom .link { font: inherit; font-size: 15px; background: none; border: 0; color: var(--navy); text-decoration: underline; cursor: pointer; padding: 10px 6px; min-height: 44px; margin-left: auto; }
+.welkom .link:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.welkom [hidden] { display: none !important; }
+
+/* Zee */
+.stage .wave { animation: wk-wave 9s linear infinite; }
+.stage .w2 { animation-duration: 7s; }
+.stage .w3 { animation-duration: 5s; }
+@keyframes wk-wave { to { transform: translateX(-160px); } }
+.stage .w2 { animation-name: wk-wave2; } @keyframes wk-wave2 { to { transform: translateX(-120px); } }
+.stage .w3 { animation-name: wk-wave3; } @keyframes wk-wave3 { to { transform: translateX(-90px); } }
+.stage .ship.sail { animation: wk-sail 3.2s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes wk-sail { from { transform: translate(-200px, 176px); } to { transform: translate(235px, 176px); } }
+.stage .bob { animation: wk-bob 3.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+@keyframes wk-bob { 50% { transform: translateY(3px) rotate(-1.2deg); } }
+.stage .sun { animation: wk-glow 4s ease-in-out infinite; }
+@keyframes wk-glow { 50% { opacity: .75; } }
+.stage .stars circle { animation: wk-twinkle 3s ease-in-out infinite; }
+.stage .stars circle:nth-child(2n) { animation-delay: 1.5s; }
+@keyframes wk-twinkle { 50% { opacity: .3; } }
+.stage .logo-card { animation: wk-card .8s 2.2s cubic-bezier(.3,1.4,.5,1) both; transform-box: fill-box; transform-origin: center; }
+.stage .logo-card.calm { animation-delay: .3s; }
+@keyframes wk-card { from { opacity: 0; transform: translateY(-14px) scale(.85); } to { opacity: 1; transform: none; } }
+
+/* Gemeenschappelijke bewegingen */
+.stage .pop { animation: wk-pop .5s cubic-bezier(.3,1.5,.5,1) both; animation-delay: calc(.15s + var(--d, 0) * .18s); transform-box: fill-box; transform-origin: center; }
+@keyframes wk-pop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: none; } }
+.stage .slide { animation: wk-slide .55s cubic-bezier(.2,.8,.2,1) both; animation-delay: calc(.2s + var(--d, 0) * .3s); }
+@keyframes wk-slide { from { opacity: 0; transform: translateX(-40px); } to { opacity: 1; transform: none; } }
+.stage .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: wk-draw 1s cubic-bezier(.4,0,.2,1) forwards; animation-delay: var(--dd, .6s); }
+.stage .dashed { stroke-dasharray: .02 .03; stroke-dashoffset: 0; animation: wk-dash 1.6s .9s linear both; }
+@keyframes wk-draw { to { stroke-dashoffset: 0; } }
+@keyframes wk-dash { from { opacity: 0; } to { opacity: 1; } }
+.stage .ln { animation: wk-grow .5s both; animation-delay: .9s; transform-box: fill-box; transform-origin: left; }
+@keyframes wk-grow { from { transform: scaleX(0); } }
+.stage .flag { animation: wk-flag 1.2s ease-in-out infinite; transform-box: fill-box; transform-origin: left center; }
+@keyframes wk-flag { 50% { transform: scaleX(.8) skewY(4deg); } }
+.stage .fill { animation: wk-fillbar 3.4s .3s cubic-bezier(.4,0,.2,1) both; transform-box: fill-box; transform-origin: left; }
+@keyframes wk-fillbar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.stage .pulse { animation: wk-pulse 1.8s 2.2s ease-in-out infinite both; transform-box: fill-box; transform-origin: center; }
+@keyframes wk-pulse { 0%, 100% { transform: none; } 50% { transform: scale(1.06); } }
+.stage .ecg { stroke-dasharray: .25 .75; animation: wk-ecg 3s linear infinite; }
+@keyframes wk-ecg { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+.stage .hand-m { animation: wk-spin 2.6s .3s cubic-bezier(.4,0,.2,1) both; transform-origin: 190px 160px; }
+.stage .hand-h { animation: wk-spin-h 2.6s .3s cubic-bezier(.4,0,.2,1) both; transform-origin: 190px 160px; }
+@keyframes wk-spin { to { transform: rotate(720deg); } }
+@keyframes wk-spin-h { to { transform: rotate(60deg); } }
+.stage .fill-a { transform-box: fill-box; transform-origin: left; animation: wk-pausebar 4s .3s cubic-bezier(.4,0,.2,1) both; }
+@keyframes wk-pausebar { 0% { transform: scaleX(0); } 35%, 60% { transform: scaleX(.45); } 100% { transform: scaleX(1); } }
+.stage .mark { animation: wk-mark 4s .3s both; }
+@keyframes wk-mark { 0%, 30% { opacity: 0; transform: translateY(-16px); } 40%, 70% { opacity: 1; transform: none; } 100% { opacity: 0; } }
+
+/* Pauze zet de doorlopende bewegingen stil (golven, schip, hartslaglijn); de opbouw van een tekening loopt wel af. */
+.stage.paused .wave, .stage.paused .bob, .stage.paused .sun, .stage.paused .stars circle, .stage.paused .flag,
+.stage.paused .pulse, .stage.paused .ecg { animation-play-state: paused !important; }
+
+@media (max-width: 560px) {
+  .welkom .stage { margin: 0 -14px; }
+  .welkom .words { min-height: 12em; }
+  .welkom .link { margin-left: 0; width: 100%; }
+  .welkom .actions .btn { width: auto; flex: 1 1 0; padding: 10px 8px; min-width: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .stage *, .welkom .words > * { animation: none !important; }
+  .stage .ship.sail { transform: translate(235px, 176px); }
+  .stage .draw { stroke-dashoffset: 0; }
+}

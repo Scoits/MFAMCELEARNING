@@ -37,5 +37,12 @@
   "probeerHetOpnieuw": "Try again",
   "volgendeOpdracht": "Next task",
   "afronden": "Finish",
-  "alAfgerondOnderdeel": "You have already completed this activity. You can do it again or continue with the lesson."
+  "alAfgerondOnderdeel": "You have already completed this activity. You can do it again or continue with the lesson.",
+  "welkomVorige": "Previous",
+  "welkomVolgende": "Next",
+  "welkomPauze": "Pause",
+  "welkomAfspelen": "Play",
+  "welkomOverslaan": "Skip",
+  "welkomOpnieuw": "Watch again",
+  "welkomHoofdstuk": "{x} of {n}"
 }

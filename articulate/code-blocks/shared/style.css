@@ -212,6 +212,84 @@ details.review li { margin-bottom: 8px; font-size: 15px; }
   th, td { padding: 6px 8px; font-size: 14px; }
   .btn { width: 100%; }
 }
-@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
 h2[tabindex="-1"]:focus { outline: none; }
+
+/* Observatielijst op een smal scherm: iedere meting als kaart, zodat alle waarden (ook de bloeddruk)
+   zonder zijwaarts scrollen in beeld staan. De eerste kolom (tijd) is de kop van de kaart. */
+@media (max-width: 560px) {
+  .table-wrap:has(table.vitals) { border: 0; overflow: visible; }
+  table.vitals, table.vitals tbody, table.vitals tr, table.vitals td { display: block; }
+  table.vitals thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  table.vitals tr { border: 1px solid var(--line); border-radius: var(--radius); margin-bottom: 8px; padding: 6px 10px 8px;
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 12px; }
+  table.vitals td { border: 0; padding: 3px 0; white-space: normal; font-size: 15px; background: none !important; }
+  table.vitals td::before { content: attr(data-label); display: block; font-size: 12px; color: var(--muted); font-weight: 600; }
+  table.vitals td:first-child { grid-column: 1 / -1; font-weight: 700; color: var(--navy); border-bottom: 1px solid var(--line); margin-bottom: 4px; }
+  table.vitals td:first-child::before { display: inline; margin-right: 6px; }
+  table.vitals tr.now { background: #fff7e8; border-color: #ecc98a; }
+}
+
+/* Beweging. Ingetogen: korte, rustige overgangen die de aandacht sturen.
+   Bij de systeeminstelling Minder beweging staat alles uit (onderaan). */
+.progress span { transition: width .6s cubic-bezier(.2,.8,.2,1); position: relative; overflow: hidden; }
+.progress span::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,.55), transparent);
+  transform: translateX(-100%); animation: sheen 1.1s .25s ease-out 1;
+}
+@keyframes sheen { to { transform: translateX(100%); } }
+
+.main.enter > * { animation: rise .45s cubic-bezier(.2,.8,.2,1) both; animation-delay: calc(var(--i, 0) * 55ms); }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+.clock.tick { animation: tick .6s cubic-bezier(.3,1.4,.5,1) .2s both; }
+@keyframes tick { 0% { transform: rotateX(90deg); background: var(--accent); color: var(--navy); } 60% { background: var(--accent); color: var(--navy); } 100% { transform: none; } }
+
+.opt { transition: border-color .15s, background .15s, transform .15s, box-shadow .15s, opacity .25s; }
+.opt:hover:not([disabled]) { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(32,54,88,.10); }
+.opt:active:not([disabled]) { transform: scale(.985); }
+.opt .key { transition: background .2s, color .2s, transform .2s; }
+.opt.chosen .key { animation: keypop .35s cubic-bezier(.3,1.6,.5,1); }
+@keyframes keypop { 50% { transform: scale(1.25); } }
+.opt.pick-bad { animation: nudge .4s ease; }
+@keyframes nudge { 20% { transform: translateX(-4px); } 40% { transform: translateX(4px); } 60% { transform: translateX(-2px); } 80% { transform: translateX(2px); } }
+.opt.pick-good { box-shadow: 0 0 0 4px rgba(29,122,70,.18); }
+
+.feedback.appear { animation: fbin .4s cubic-bezier(.2,.8,.2,1) both; position: relative; overflow: hidden; }
+.feedback.appear::before {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 5px; background: currentColor;
+  transform-origin: top; animation: bar .5s .15s cubic-bezier(.2,.8,.2,1) both;
+}
+.feedback.good.appear::before { color: var(--good); }
+.feedback.mid.appear::before { color: var(--mid); }
+.feedback.bad.appear::before { color: var(--bad); }
+.feedback.appear { padding-left: 18px; }
+@keyframes fbin { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes bar { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+
+.btn { transition: background .15s, transform .15s, box-shadow .15s; }
+.btn:hover:not([disabled]) { box-shadow: 0 4px 12px rgba(32,54,88,.18); }
+.btn:active:not([disabled]) { transform: scale(.98); }
+
+.chart .line { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.2s .2s cubic-bezier(.4,0,.2,1) forwards; }
+.chart .dot { opacity: 0; transform-box: fill-box; transform-origin: center; animation: dot .3s both; animation-delay: calc(.25s + var(--d, 0) * .15s); }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes dot { from { opacity: 0; transform: scale(0); } to { opacity: 1; transform: none; } }
+tr.now td { animation: nowrow 1.6s .3s ease both; }
+@keyframes nowrow { 0% { background: #fff; } 30% { background: #ffe2b0; } 100% { background: #fff7e8; } }
+
+.check { transition: border-color .2s, background .2s; }
+.check input { transition: transform .2s; }
+.check input:checked { animation: keypop .3s cubic-bezier(.3,1.6,.5,1); }
+
+.score .num-wrap { display: flex; flex-direction: column; gap: 6px; min-width: 96px; }
+.score .meter { height: 6px; border-radius: 3px; background: #dbe3ec; overflow: hidden; }
+.score .meter span { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--blue), var(--navy)); transition: width .9s cubic-bezier(.2,.8,.2,1); }
+.learn li { transition: border-color .2s; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .chart .line { stroke-dashoffset: 0; }
+  .chart .dot { opacity: 1; }
+}

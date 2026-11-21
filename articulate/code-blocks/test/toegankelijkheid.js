@@ -29,6 +29,8 @@ function harness(file, height) {
 const frameOf = (page) => page.frame({ url: /index\.html$/ });
 
 async function axeScan(f) {
+  // Wacht tot de inkomende animaties klaar zijn; tijdens een fade is de tekst tijdelijk lichter.
+  await f.evaluate(() => Promise.race([Promise.all(document.getAnimations().map((x) => x.finished.catch(() => {}))), new Promise((r) => setTimeout(r, 3000))]));
   await f.evaluate(AXE);
   return f.evaluate(async () => {
     const r = await window.axe.run(document, { runOnly: { type: "tag", values: ["wcag2a", "wcag2aa", "wcag21a", "wcag21aa"] } });

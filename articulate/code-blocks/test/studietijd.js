@@ -76,6 +76,7 @@ function mapTime(M) {
 const out = [];
 for (const mod of fs.readdirSync(MODS).sort()) {
   const M = load(mod);
+  if (M.chapters) { const w = M.chapters.reduce((a, c) => a + words(c.title) + words(c.text), 0); console.log(`${mod} (versie ${M.version}): welkomstfilm ${(w / 150).toFixed(1)} min leestijd, afspelen ongeveer 2 min`); continue; }
   const r = M.nodes ? paths(M) : mapTime(M);
   out.push({ module: mod, versie: M.version || "", kortste_pad_min: Math.round(r.kortst), langste_pad_min: r.langst ? Math.round(r.langst) : null });
   console.log(`${mod} (versie ${M.version || "-"}): kortste volledige pad ${r.kortst.toFixed(1)} min${r.langst ? `, langste pad ${r.langst.toFixed(1)} min` : ""}`);
