@@ -43,7 +43,7 @@ STCW-kolommen: competentie directe eerste hulp (kolom 1); kennisgebieden wervell
 
 Bronstatus: S044 (4. MFA dag 2 middag, voettekst rev.002) is op 20 november 2026 als tekstexport gelezen; dia's met alleen een titel (onder meer 23, 27, 29 en 30) bevatten beeld dat niet is beoordeeld. S043 dia7 tot en met 14 en 29 zijn de bron voor onderkoeling. S045 (1. MFA dag 1 ochtend, 105 pagina's) is daarna gelezen voor deel B; veel traumadia's bevatten alleen beeld. De praktijkhandelingen PH6 tot en met PH10 (S054 tot en met S058) zijn daarna gelezen.
 
-De schermrecords staan in [MFA-L04-schermreview.csv](../../reviews/MFA-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S12, S13, S42, S14, S15, S16, S43, S44, S17, S45, S46, S18, S39, S19, S40, S41, S20, S21, S38, S22, S01, S02, S23, S24, S25, S26, S03, S04, S27, S28, S05, S29, S30, S31, S32, S06, S33, S34, S07, S08, S35, S36, S37, S09, S10, S11.
+De schermrecords staan in [MFA-L04-schermreview.csv](../../reviews/MFA-L04-schermreview.csv). Wijzig master en CSV samen. De weergavevolgorde in de les is S12, S13, S42, S14, S15, S16, S43, S44, S17, S45, S46, S18, S39, S19, S40, S41, S20, S21, S38, S22, S01, S02, S23, S24, S25, S26, S03, S04, S27, S28, S05, S29, S30, S31, S32, S06, S47, S33, S34, S07, S08, S35, S36, S37, S09, S10, S11.
 
 ## MFA-L04-S01 Hitte en kou aan boord
 
@@ -495,6 +495,24 @@ Wat doe je eerst?
 **Te verifiëren door Mathanje of DRTC**
 
 TE VERIFIËREN: Mathanje beoordeelt de feedback bij K04-02-B (zalf) en K04-02-C (ijs); beide staan niet in S044.
+
+## MFA-L04-S47 Scenario: brand in de kombuis
+
+Leerdoelen: MFA-06.01; MFA-06.02; MFA-06.03. Bronplaats: zie het script [MFA-L04-SL01](../../articulate/storyline/MFA-L04-SL01-brand-in-de-kombuis.md); de keuzes en de feedback komen uit de schermen van deze les; de casus is DRTC-ontwerp. Media: eigen illustraties volgens het script. Reviewstatus: medische_review_nodig; Mathanjes akkoord/opmerking: nog niet vastgelegd.
+
+Leerfunctie: de cursist beslist in een doorlopende situatie, met keuzes die een ander vervolg geven.
+
+**Cursistentekst**
+
+In de kombuis vat de mouw van de kok vlam. Jij dooft, koelt, beoordeelt de brandwond, dekt af, meldt aan de arts en blijft hem controleren.
+
+**Interactie**
+
+Scenario-pakket MFA-L04-SL01 in een Rise Code Block met afrondingseis. Script: [MFA-L04-SL01](../../articulate/storyline/MFA-L04-SL01-brand-in-de-kombuis.md), bouwlijst: [MFA-L04-SL01-bouwlijst.csv](../../articulate/storyline/MFA-L04-SL01-bouwlijst.csv). Het blok is afgerond als de cursist de debriefing bereikt. De punten zijn alleen feedback en gaan niet naar Moodle.
+
+**Te verifiëren door Mathanje of DRTC**
+
+TE VERIFIËREN: Mathanje beoordeelt het script, de juiste keuzes en de feedback (R138).
 
 ## MFA-L04-S33 Hoe het lichaam zijn warmte regelt
 
@@ -1403,7 +1421,7 @@ TE VERIFIËREN: Mathanje beoordeelt de feedback bij K04-07-B en K04-07-C, in het
 
 ## Bouw en test
 
-Gebruik 46 Rise-secties in de weergavevolgorde die bij de lesgegevens staat: eerst deel B vanaf S12, daarna deel A vanaf S01; S01 wordt dan de inleiding op het tweede deel. Bouw de les bij voorkeur als twee Rise-lessen, een per deel. Beelden van brandwonden en bevriezing zijn eigen illustraties of DRTC-grimering, geen foto's van echte patiënten zonder vastgelegd gebruiksrecht; zet een waarschuwing boven de beeldvergelijking in S02. Controleer op een staand telefoonscherm dat de drie dieptes van brandwonden naast of onder elkaar goed te vergelijken zijn. K04-01 tot en met K04-13 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
+Gebruik 47 Rise-secties in de weergavevolgorde die bij de lesgegevens staat: eerst deel B vanaf S12, daarna deel A vanaf S01; S01 wordt dan de inleiding op het tweede deel. Bouw de les bij voorkeur als twee Rise-lessen, een per deel. Beelden van brandwonden en bevriezing zijn eigen illustraties of DRTC-grimering, geen foto's van echte patiënten zonder vastgelegd gebruiksrecht; zet een waarschuwing boven de beeldvergelijking in S02. Controleer op een staand telefoonscherm dat de drie dieptes van brandwonden naast of onder elkaar goed te vergelijken zijn. K04-01 tot en met K04-13 zijn oefenvragen en tellen niet mee voor de afsluitende kennistoets.
 
 ## Open punten voor Mathanje en DRTC
 

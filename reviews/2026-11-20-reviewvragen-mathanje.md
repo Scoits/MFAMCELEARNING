@@ -353,6 +353,7 @@ Vanaf 21 november 2026 krijgt MC 40 procent en MFA 20 procent van de studietijd 
 | R135 | MC-L08-S26 en articulate/storyline/MC-L08-SL02-overdracht-in-de-haven.md | Kloppen de casus, de keuzes en de feedback in het scenario overdracht in de haven? Klopt het vooraf melden via kapitein, agent en havenautoriteit (R85)? Is de brief apart van de medische kaart? |
 | R136 | MFA-L03-S33 en articulate/storyline/MFA-L03-SL01-reanimatie-in-de-machinekamer.md | Kloppen de casus, de keuzes en de feedback in het scenario reanimatie in de machinekamer? Moet de pomp eerst stil? Na de keuze van de reanimatierichtlijn (OB-03) wordt het scenario nagelopen. |
 | R137 | MFA-L03-S34 en articulate/storyline/MFA-L03-SL02-verslikking-in-de-mess.md | Kloppen de casus, de keuzes en de feedback in het scenario verslikking in de mess? Klopt het afwisselen van slagen met borststoten? Na de keuze van de richtlijn (OB-03) wordt het nagelopen. |
+| R138 | MFA-L04-S47 en articulate/storyline/MFA-L04-SL01-brand-in-de-kombuis.md | Kloppen de casus, de keuzes en de feedback in het scenario brand in de kombuis? Klopt de koeltijd (R27)? Is de schatting van 11 procent een goed oefenvoorbeeld? |
 
 ## Antwoorden van Martijn op 20 november 2026
 
