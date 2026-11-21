@@ -26,6 +26,29 @@ Werkversie 0.1, 21 november 2026. Met de herziene rekenregel uit [studietijd-rek
 
 Samen is dat ongeveer 105 minuten casus en opdracht en 70 minuten kijkopdracht. Daarnaast komen MFA-L06, MFA-L07 en MC-L03 nog op hun begroting (ongeveer 60 minuten). Dan komt het totaal volgens de herziene regel op ongeveer 1000 minuten.
 
+## Kijkopdrachten (voorlopige koppeling)
+
+De films staan in map 025, onder 4. Overig/Filmpjes, en in "MFA MC E-Learner/film materiaal" (S026). Die koppeling is gemaakt op de bestandsnaam, want de films zijn nog niet bekeken. De duur is een schatting op basis van de bestandsgrootte en moet worden nagemeten. Bij een film die van internet komt, zoals een fragment van Topdokters of een YouTube-video, moet DRTC eerst het gebruiksrecht vastleggen. Een kijkopdracht bestaat uit een opdracht vooraf ("let op ..."), de film en twee kennischecks over wat de cursist zag.
+
+| Les | Film | Geschatte duur |
+| --- | --- | --- |
+| MFA-L02 | bloedsomloop.mp4 | 2 tot 3 minuten (schatting) |
+| MFA-L03 | Eerstehulptips tijdens Topdokters - ernstige verslikking.mp4 | 2 tot 3 minuten (schatting) |
+| MFA-L03 | Jongen valt drie keer flauw in Kermisattractie.mp4 | 1 tot 2 minuten (schatting) |
+| MFA-L03 | My Tonic ClonicGrand Mal Seizure.mp4 | 1 tot 2 minuten (schatting) |
+| MFA-L04 | Hoe zwachtel je een hand en pols_.mp4 en Hoe zwachtel je een voet en enkel_.mp4 | 2 tot 4 minuten samen (schatting) |
+| MFA-L04 | het_aanleggen_van_een_traumazwachtel (720p).mp4 | 3 tot 5 minuten (schatting) |
+| MFA-L05 | Cold shock and Swimming Failure.mp4 | 3 tot 5 minuten (schatting) |
+| MFA-L05 | Bondi Beach ingekort.mp4 | 2 tot 3 minuten (schatting) |
+| MFA-L06 | virussenbacterien.mp4 | 1 tot 2 minuten (schatting) |
+| MC-L01 | lungsounds.mp4 | 1 minuut (schatting) |
+| MC-L02 | Pneumothorax What Is a Pneumothorax or Collapsed Lung.mp4 | 1 tot 2 minuten (schatting) |
+| MC-L02 | dislocation.wmv en enkel reponeren.wmv | 2 tot 3 minuten samen (schatting) |
+| MC-L06 | gyneacoloog.wmv | 4 tot 6 minuten (schatting) |
+| MC-L08 | Helicopter Downdraft Dangers.mp4 en Helicopter Icelandic air rescue team at work.mp4 | 6 tot 10 minuten samen (schatting) |
+
+Van bears.mp4, judo.wmv, oberst.mp4, snickers.mp4, minister van burg.mp4, Chris Solomon ingekort.mp4 en teekverwijderen.mp4 is het onderwerp niet uit de naam op te maken, of is de film niet duidelijk aan één les te koppelen. Martijn of een instructeur geeft aan waar ze in de klassikale les werden gebruikt. Rise zet video's als 16:9 met hoogstens 1920 x 1080. Een .wmv-bestand moet eerst naar .mp4 worden omgezet.
+
 ## Regels voor een casus
 
 - De situatie, de personen en de dialoog zijn fictief. De keuzes en de feedback komen uit de lesinhoud.
@@ -35,5 +58,5 @@ Samen is dat ongeveer 105 minuten casus en opdracht en 70 minuten kijkopdracht. 
 
 ## Nodig van DRTC
 
-- Een lijst van de films in map 025 (S026), met titel en duur. Daarmee wordt per les een kijkopdracht gekozen.
+- Bij de films: de werkelijke duur, het gebruiksrecht, en waar de films zonder duidelijke naam werden gebruikt.
 - Het besluit of de online kennistoetsen meetellen voor de 16 uur.
