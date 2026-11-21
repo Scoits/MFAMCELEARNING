@@ -397,10 +397,11 @@ def zet_importbeelden(doc, media, media_map, later):
             doc.add_paragraph(f"[Beeld {mid} volgt]")
 
 
-def schrijf_blok(doc, n, b, media_map, ontbreekt, importmodus=False):
+def schrijf_blok(doc, n, b, media_map, ontbreekt, importmodus=False, labels=True):
     t = b["type"]
     if importmodus:
-        importlabel(doc, t)
+        if labels:
+            importlabel(doc, t)
     else:
         blokkop(doc, n, t)
     if t == "Tekst":
@@ -629,12 +630,41 @@ def maak_importbestanden(les, titel, delen, uitdir, media_map):
     return paden, lijst
 
 
+def maak_bronbestand(les, titel, schermen, uitdir, media_map):
+    """Eén bronbestand per les voor AI Course Drafts: alle cursistentekst, beelden,
+    kennischecks en casussen, zonder bloklabels of bouwnotities."""
+    doc = Document()
+    doc.styles["Normal"].font.size = Pt(11)
+    doc.add_heading(f"{les} {titel}", level=1)
+    later = []
+    for s in schermen:
+        doc.add_heading(s["title"], level=2)
+        doc.add_paragraph(f"Leerdoelen: {s['learning_goal_ids'].replace(';', ', ')}")
+        for b in met_extra(scherm_blokken(s)):
+            if b["type"] == "Storyline":
+                doc.add_paragraph("Hier komt een Storyline-scenario dat DRTC apart bouwt. "
+                                  "Laat op deze plek ruimte voor een Storyline-blok.")
+            elif b["type"] == "Interactie":
+                for regel in [r.strip() for r in b["tekst"].splitlines() if r.strip()]:
+                    doc.add_paragraph(regel)
+            elif b["type"] == "Scenario":
+                doc.add_paragraph("Casus met keuzes:")
+                for regel in [r.strip() for r in b["tekst"].splitlines() if r.strip()][1:]:
+                    doc.add_paragraph(regel)
+            else:
+                schrijf_blok(doc, 0, b, media_map, later, importmodus=True, labels=False)
+    pad = os.path.join(uitdir, f"{les}-bron.docx")
+    doc.save(pad)
+    return pad
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     p.add_argument("les")
     p.add_argument("--uit", default=os.path.join(ROOT, "build", "rise"))
     p.add_argument("--media", default=MEDIA_STANDAARD)
     p.add_argument("--minuten", type=float, default=15)
+    p.add_argument("--bron", action="store_true", help="alleen het bronbestand voor AI Course Drafts maken")
     a = p.parse_args()
     schermen = lees_schermen(a.les)
     titel = lestitel(a.les)
@@ -642,6 +672,9 @@ def main():
         titel = titel.split(":", 1)[1].strip()
     os.makedirs(a.uit, exist_ok=True)
     media_map = os.path.join(a.media, a.les)
+    if a.bron:
+        print(maak_bronbestand(a.les, titel, schermen, a.uit, media_map))
+        return
     delen = verdeel(schermen, a.minuten)
     bouw = []
     pad = os.path.join(a.uit, f"{a.les}-rise-bouwboek.docx")

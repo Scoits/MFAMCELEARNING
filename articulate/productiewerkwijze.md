@@ -27,6 +27,10 @@ Fouten uit de proefimport van deel 1, verwerkt op 21 november 2026:
 - de sorteeroefening kwam niet over, dus die staat nu op de checklist na de import;
 - een zin met gemengde opsomming ("voor maag en darmen, tegen pijn, ogen") werd verkeerd gesplitst, dus die blijft nu een zin.
 
+### Derde route: AI Course Drafts zoals bij Security Awareness
+
+Martijn bouwde Security Awareness via 360 Home, Create with AI. Hij uploadde de eigen bronnen, stuurde de outline bij met correctieprompts, zette Text and interactive content aan, zette AI images en de final quiz uit, en gaf een instructie voor de kennischecks. Daarna liet hij Rise de lessen bouwen. Dat gaf het beste resultaat. Voor MFA en MC staat dezelfde route klaar in [ai-course-draft-MFA](ai-course-draft-MFA.md) en [ai-course-draft-MC](ai-course-draft-MC.md), gemaakt met `tools/maak_coursedraft_pakket.py`. De bronbestanden per les maak je met `tools/maak_rise_word.py <LES> --bron`. Die bevatten alleen de beoordeelde lestekst, de beelden, de kennischecks en de casussen. Iedere gegenereerde les wordt met de controleprompt tegen de bron gecontroleerd, en daarna beoordeelt Mathanje haar.
+
 ## 2. Beelden
 
 - Gebruik echte, gecontroleerde foto's en video's voor handelingen, uitrusting en apparatuur. Gebruik eigen schema's voor stappen, tabellen en plattegronden. AI-beelden gebruik je alleen voor sfeer of een fictieve situatie, nooit voor een handeling of een detail van apparatuur.
